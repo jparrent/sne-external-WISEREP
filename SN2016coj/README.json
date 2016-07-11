@@ -1,0 +1,28 @@
+{
+    "tns_2016coj_2016-05-28_08-12-41_FTN_FLOYDS-N_LCOGT_SN-KP.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.005", 
+        "Obs. Date": "2016-05-28", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-28", 
+        "Modified By": "upload-TNS"
+    }, 
+    "tns_2016coj_2457548.46369177_Other_Other.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.005", 
+        "Obs. Date": "2016-06-08", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Other - Other", 
+        "Observer": "A. Aret", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-09", 
+        "Modified By": "upload-TNS"
+    }
+}

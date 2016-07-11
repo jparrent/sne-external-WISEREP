@@ -1,0 +1,15 @@
+{
+    "tns_2016es_2016-01-14_11-04-15_P200_DBSP_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.17", 
+        "Obs. Date": "2016-01-14", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "N. Blagorodnova", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-28", 
+        "Modified By": "upload-TNS"
+    }
+}

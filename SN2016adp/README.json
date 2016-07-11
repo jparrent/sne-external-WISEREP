@@ -1,0 +1,15 @@
+{
+    "tns_2016adp_2457418.7665_UH88_SNIFS_ATLAS.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.018", 
+        "Obs. Date": "2016-01-31", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "Stalder, Huber", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-14", 
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "14bag_20140521_APO_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.116", 
+        "Obs. Date": "2014-05-21", 
+        "Program": "iPTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "APO 3.5m - DIS", 
+        "Observer": "Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

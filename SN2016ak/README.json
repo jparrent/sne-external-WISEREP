@@ -1,0 +1,15 @@
+{
+    "tns_2016ak_2016-01-18.8_LJT_YFOSC.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0297", 
+        "Obs. Date": "2016-01-18", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Jujia Zhang", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-29", 
+        "Modified By": "upload-TNS"
+    }
+}

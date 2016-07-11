@@ -1,0 +1,15 @@
+{
+    "LSQ14ahn_20140310_Gr13_Free_slit1.0_57003_1.dat": {
+        "Type": "SN", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2014-03-11", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "PSNJ09271379-1931599_20130311_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.016", 
+        "Obs. Date": "2013-03-12", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova,Nicholl,Hodgkin", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

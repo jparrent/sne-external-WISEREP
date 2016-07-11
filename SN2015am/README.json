@@ -1,0 +1,15 @@
+{
+    "SN2015am_2015-08-13_23:38:00_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.0167", 
+        "Obs. Date": "2015-08-13", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Berton-Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

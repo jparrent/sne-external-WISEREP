@@ -1,0 +1,67 @@
+{
+    "fLSQ12byu_20120421_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.34", 
+        "Obs. Date": "2012-04-21", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-06-21", 
+        "Modified By": "admin"
+    }, 
+    "LSQ12byu_20120420_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.34", 
+        "Obs. Date": "2012-04-21", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12byu_20120421_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.34", 
+        "Obs. Date": "2012-04-22", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12byu_20120429_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.34", 
+        "Obs. Date": "2012-04-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12byu_20120429_Gr13_Free_slit1.0_56456_2.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.34", 
+        "Obs. Date": "2012-04-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

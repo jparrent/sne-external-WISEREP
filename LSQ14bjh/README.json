@@ -1,0 +1,15 @@
+{
+    "LSQ14bjh_20140504_Gr13_Free_slit1.0_57004_1.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2014-05-05", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Polshaw,Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

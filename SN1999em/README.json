@@ -1,0 +1,15 @@
+{
+    "sn99emclean.dat": {
+        "Type": "SN IIP", 
+        "Redshift": "0.002392", 
+        "Obs. Date": "1999-11-05", 
+        "Program": "CCCP", 
+        "Contributor": "Gal-yam et al. 2008", 
+        "Bibcode": "2008ApJ...685L.117G", 
+        "Instrument": "HST - STIS", 
+        "Observer": "Baron", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-25", 
+        "Modified By": "aryehf"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2005ai_2005-02-14.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.012762", 
+        "Obs. Date": "2005-02-14", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "CA-2.2m - CAFOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

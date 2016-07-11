@@ -1,0 +1,15 @@
+{
+    "PTF09cwl_20090825_keck.dat": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.349", 
+        "Obs. Date": "2009-08-25", 
+        "Program": "PTF", 
+        "Contributor": "Quimby et al. 2011", 
+        "Bibcode": "2011Natur.474..484Q", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal, Arcavi, Mishra", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-01", 
+        "Modified By": "admin"
+    }
+}

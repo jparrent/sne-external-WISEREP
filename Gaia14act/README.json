@@ -1,0 +1,15 @@
+{
+    "Gaia14act_2014-10-30_03:44:13_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.027", 
+        "Obs. Date": "2014-10-30", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Granata", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

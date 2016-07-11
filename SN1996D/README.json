@@ -1,0 +1,15 @@
+{
+    "1996D_19960910.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.0151", 
+        "Obs. Date": "1996-09-10", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "ESO-1.5m - B&C-ESO-1.5", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

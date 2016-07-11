@@ -1,0 +1,28 @@
+{
+    "SN2008fp_17Sep2008_MWNa.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.005664", 
+        "Obs. Date": "2008-09-17", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Clay - LDSS-2", 
+        "Observer": "Nidia Morrell", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-11", 
+        "Modified By": "assaf"
+    }, 
+    "SN2008fp_17Sep2008_ObjNa.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.005664", 
+        "Obs. Date": "2008-09-17", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Clay - MIKE", 
+        "Observer": "Nidia Morrell", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-11", 
+        "Modified By": "assaf"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "13eal_20131126_P200_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.058", 
+        "Obs. Date": "2013-11-26", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Waszczak", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-12-03", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "10tel_20100826_Gemini N_v1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.035", 
+        "Obs. Date": "2010-08-26", 
+        "Program": "PTF", 
+        "Contributor": "Ofek et al. 2013", 
+        "Bibcode": "2013Natur.494...65O", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }, 
+    "10tel_20100903_Lick 3-m_v2.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.035", 
+        "Obs. Date": "2010-09-03", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "2013Natur.494...65O", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Silverman, Choi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-10", 
+        "Modified By": "ofer"
+    }, 
+    "10tel_20100910_KPNO4m_v1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.035", 
+        "Obs. Date": "2010-09-10", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "2013Natur.494...65O", 
+        "Instrument": "Mayall - RC Spec", 
+        "Observer": "Kulkarni, Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-10", 
+        "Modified By": "ofer"
+    }, 
+    "10tel_20100916_Lick 3-m_v1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.035", 
+        "Obs. Date": "2010-09-16", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "2013Natur.494...65O", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Cenko, Kandrashoff", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-10", 
+        "Modified By": "ofer"
+    }
+}

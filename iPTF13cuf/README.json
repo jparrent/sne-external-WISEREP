@@ -1,0 +1,15 @@
+{
+    "13cuf_20130910_Keck2_v1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.22", 
+        "Obs. Date": "2013-09-10", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Clubb, Kelly, Graham", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-20", 
+        "Modified By": "iair"
+    }
+}

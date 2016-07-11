@@ -1,0 +1,41 @@
+{
+    "sn16179-1323.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.137", 
+        "Obs. Date": "2006-11-17", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn16179-1469.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.137", 
+        "Obs. Date": "2006-11-24", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "ESO-NTT - EMMI", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn16179-1570.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.137", 
+        "Obs. Date": "2006-11-25", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "ESO-NTT - EMMI", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }
+}

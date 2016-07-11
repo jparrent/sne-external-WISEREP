@@ -1,0 +1,15 @@
+{
+    "15cpp_20150908_DCT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2015-09-08", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "DCT - Deveny+LMI", 
+        "Observer": "Cenko & Capone", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-09-22", 
+        "Modified By": "ofer"
+    }
+}

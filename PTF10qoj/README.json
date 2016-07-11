@@ -1,0 +1,15 @@
+{
+    "10qoj_20100808_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2010-08-08", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Arcavi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

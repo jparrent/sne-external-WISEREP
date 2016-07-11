@@ -1,0 +1,15 @@
+{
+    "tOGLE-2014-SN-071_20140915_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2014-09-16", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Morgan Fraser, Chris Ashall", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2014-09-16", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

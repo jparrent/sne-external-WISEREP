@@ -1,0 +1,15 @@
+{
+    "SN2011hn_2011-10-31_01:27:28_Asiago.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.014", 
+        "Obs. Date": "2011-10-31", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

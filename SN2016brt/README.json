@@ -1,0 +1,15 @@
+{
+    "tns_2016brt_2016-04-10_14-52-20_Keck1_LRIS_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.121", 
+        "Obs. Date": "2016-04-10", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "V. Ravi, Y. Cao, L. Yan, H. K. Vedantham, S. Kulkarni", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-18", 
+        "Modified By": "upload-TNS"
+    }
+}

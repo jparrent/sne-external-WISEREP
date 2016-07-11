@@ -1,0 +1,93 @@
+{
+    "SN2014L_2014-01-29_03:55:20_Asiago.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-01-29", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Berton-Foschini", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140131_Gr11_Free_slit1.0_57163_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-01", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "G. Leloudas, M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140131_Gr16_OG530_slit1.0_57163_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-01", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "G. Leloudas, M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140205_Gr11_Free_slit1.0_57004_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "G. Leloudas, M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140205_Gr16_OG530_slit1.0_57004_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "G. Leloudas, M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140207_Gr11_Free_slit1.0_57004_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-08", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014L_20140207_Gr16_OG530_slit1.0_57004_1.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.008029", 
+        "Obs. Date": "2014-02-08", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

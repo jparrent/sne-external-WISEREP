@@ -1,0 +1,28 @@
+{
+    "sn2012c1-20120517.241-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.0908", 
+        "Obs. Date": "2012-05-17", 
+        "Program": "", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sn2012c1-20120616.300-brb.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.0908", 
+        "Obs. Date": "2012-06-16", 
+        "Program": "", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-07", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

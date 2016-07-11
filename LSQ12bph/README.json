@@ -1,0 +1,28 @@
+{
+    "LSQ12bph_20120411_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.045", 
+        "Obs. Date": "2012-04-12", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "fLSQ12bph_20120412_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ic", 
+        "Redshift": "0.045", 
+        "Obs. Date": "2012-04-13", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "VALENTI/BENITEZ", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-06-21", 
+        "Modified By": "admin"
+    }
+}

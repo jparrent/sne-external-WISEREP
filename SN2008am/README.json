@@ -1,0 +1,93 @@
+{
+    "sn2008am_20080129_het10.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2008-01-29", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_20080130_het11.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2008-01-30", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_20080212_keck22.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2008-02-12", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_20080218_het27.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2008-02-18", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_20080225_het33.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2008-02-25", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_20090331_keck352.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2009-03-31", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn2008am_host_20100109_keck554.dat": {
+        "Type": "SLSN-II", 
+        "Redshift": "0.2338", 
+        "Obs. Date": "2010-01-09", 
+        "Program": "", 
+        "Contributor": "Chatzopoulos et al. 2011", 
+        "Bibcode": "2011ApJ...729..143C", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }
+}

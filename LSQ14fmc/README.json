@@ -1,0 +1,15 @@
+{
+    "tLSQ14fmc_20140930_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.178", 
+        "Obs. Date": "2014-10-01", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Chris Ashall and Nic Walton", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2014-10-01", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

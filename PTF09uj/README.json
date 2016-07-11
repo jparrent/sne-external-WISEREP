@@ -1,0 +1,15 @@
+{
+    "09uj_20090628_Lick 3-m.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.0657", 
+        "Obs. Date": "2009-06-28", 
+        "Program": "PTF", 
+        "Contributor": "Ofek et al. 2007", 
+        "Bibcode": "2010ApJ...724.1396O", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Cenko and Poznanski", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-02-06", 
+        "Modified By": "admin"
+    }
+}

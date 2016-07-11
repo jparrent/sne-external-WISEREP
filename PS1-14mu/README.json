@@ -1,0 +1,15 @@
+{
+    "PS1-14mu_20140222_Gr13_Free_slit1.0_57004_1.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.01", 
+        "Obs. Date": "2014-02-23", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Morgan Fraser, Heather Campbell", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "PSNJ01340066-3423404_20130829_Gr13_Free_slit1.5_56999_1.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.013", 
+        "Obs. Date": "2013-08-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Kangas,Kankare", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

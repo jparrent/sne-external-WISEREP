@@ -1,0 +1,15 @@
+{
+    "14ibo_20141126_APO_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.08", 
+        "Obs. Date": "2014-11-26", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "APO 3.5m - DIS", 
+        "Observer": "Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-11-28", 
+        "Modified By": "upload-marshalspec"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "16sw_20160316_P60_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.138", 
+        "Obs. Date": "2016-03-16", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "Walters", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-19", 
+        "Modified By": "ofer"
+    }
+}

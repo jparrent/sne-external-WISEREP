@@ -1,0 +1,15 @@
+{
+    "PS15cym_2015-12-03_20:14:29_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.046", 
+        "Obs. Date": "2015-12-03", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Pastorello Tartaglia", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

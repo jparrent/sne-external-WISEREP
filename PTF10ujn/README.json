@@ -1,0 +1,15 @@
+{
+    "10ujn_20101107_Keck1_v1.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.12", 
+        "Obs. Date": "2010-11-07", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Perley, Cenko, Cucchiara", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

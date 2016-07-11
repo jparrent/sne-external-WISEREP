@@ -1,0 +1,28 @@
+{
+    "PTF10acdh-20101213.flm": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0595", 
+        "Obs. Date": "2010-12-13", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Horesh & Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-18", 
+        "Modified By": "assaf-BunchUpload"
+    }, 
+    "PTF10acdh-20101230.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0595", 
+        "Obs. Date": "2010-12-30", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Robert Quimby", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-01-04", 
+        "Modified By": "sagi"
+    }
+}

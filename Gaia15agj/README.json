@@ -1,0 +1,15 @@
+{
+    "Gaia15agj_2015-06-11_21:08:52_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.041", 
+        "Obs. Date": "2015-06-11", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

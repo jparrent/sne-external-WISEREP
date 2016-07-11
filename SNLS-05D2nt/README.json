@@ -1,0 +1,15 @@
+{
+    "05D2nt_sn_corr_f2.asc": {
+        "Type": "SN Ia", 
+        "Redshift": "0.76", 
+        "Obs. Date": "2005-12-26", 
+        "Program": "SNLS", 
+        "Contributor": "Bronder et al. 2008", 
+        "Bibcode": "2008A&A...477..717B", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-04-24", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

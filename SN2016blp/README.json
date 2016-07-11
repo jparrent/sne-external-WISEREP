@@ -1,0 +1,15 @@
+{
+    "tns_2016blp_2016-04-13_08-53-20_FTN_FLOYDS-N_LCOGT_SN-KP.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0605", 
+        "Obs. Date": "2016-04-13", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-18", 
+        "Modified By": "upload-TNS"
+    }
+}

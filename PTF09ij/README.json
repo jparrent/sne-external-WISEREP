@@ -1,0 +1,15 @@
+{
+    "09ij_20090521_P200.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.124", 
+        "Obs. Date": "2009-05-21", 
+        "Program": "PTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

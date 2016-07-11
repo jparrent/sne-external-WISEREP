@@ -1,0 +1,80 @@
+{
+    "tOGLE-0213-SN-019_class_g13_sl1-0_20130310_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-11", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Hodgkin,Blagorodnova,Nicholl", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-11", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "OGLE-2013-SN-019_20130310_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-11", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Hodgkin,Blagorodnova,Nicholl", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "OGLE-2013-SN-019_20130311_Gr11_Free_slit1.0_56448_1.ascii": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-12", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova,Nicholl,Hodgkin", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "OGLE-2013-SN-019_20130311_Gr11_Free_slit1.0_56448_2.ascii": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-12", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova,Nicholl,Hodgkin", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "OGLE-2013-SN-019_20130317_Gr11_Free_slit1.0_56448_1.ascii": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-18", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Wyrzykowski,Blagorodnova,Nicholl", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "OGLE-2013-SN-019_20130317_Gr11_Free_slit1.0_56448_2.ascii": {
+        "Type": "SN IIn-pec", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2013-03-18", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Wyrzykowski,Blagorodnova,Nicholl", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "iptf13aaz-20130322.497-ui.flm": {
+        "Type": "SN IIP", 
+        "Redshift": "0.002692", 
+        "Obs. Date": "2013-03-22", 
+        "Program": "iPTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Fox, Kelly, Zheng", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

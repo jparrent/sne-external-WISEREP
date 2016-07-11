@@ -1,0 +1,15 @@
+{
+    "SN2013ho_2013-12-12_21:03:58_Asiago.ascii": {
+        "Type": "SN Ib/c", 
+        "Redshift": "0.03378", 
+        "Obs. Date": "2013-12-12", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Tomasella Pastorello Turatto Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

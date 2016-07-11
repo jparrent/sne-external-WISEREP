@@ -1,0 +1,93 @@
+{
+    "LSQ12fhs_20121014_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-10-15", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121014_Gr13_Free_slit1.5_56456_2.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-10-15", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121016_Gr11_Free_slit1.0_56449_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-10-17", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121020_Gr11_Free_slit1.0_56449_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-10-21", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121020_Gr11_Free_slit1.0_56449_2.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-10-21", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121106_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-11-07", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Gonzalez-Gaitan, F.Bufano, S.Marchi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ12fhs_20121106_Gr13_Free_slit1.0_56456_2.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.033145", 
+        "Obs. Date": "2012-11-07", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Gonzalez-Gaitan, F.Bufano, S.Marchi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

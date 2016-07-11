@@ -1,0 +1,15 @@
+{
+    "14gjh_20141009_FTN_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2014-10-09", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-18", 
+        "Modified By": "ofer"
+    }
+}

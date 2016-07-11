@@ -1,0 +1,15 @@
+{
+    "tSNHiTS15J_20150226_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2015-02-27", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Ayan Mitra", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2015-02-27", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

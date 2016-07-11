@@ -1,0 +1,15 @@
+{
+    "LSQ13bhl_20130802_Gr13_Free_slit1.0_56999_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.09", 
+        "Obs. Date": "2013-08-03", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Vreeswijk, De Cia, Barbarino", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

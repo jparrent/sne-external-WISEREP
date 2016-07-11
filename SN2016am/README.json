@@ -1,0 +1,15 @@
+{
+    "tns_2016am_2016-01-13.0_P60_SED-Machine_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2016-01-13", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "Neill/Blagorodnova/Walters/Barlow", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-27", 
+        "Modified By": "upload-TNS"
+    }
+}

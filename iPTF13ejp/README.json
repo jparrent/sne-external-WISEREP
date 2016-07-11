@@ -1,0 +1,15 @@
+{
+    "13ejp_20140109_APO_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.027", 
+        "Obs. Date": "2014-01-09", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "APO 3.5m - DIS", 
+        "Observer": "Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-01-14", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

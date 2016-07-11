@@ -1,0 +1,15 @@
+{
+    "16acg_20160406_DCT_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.123", 
+        "Obs. Date": "2016-04-06", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "DCT - Deveny+LMI", 
+        "Observer": "Tiara Hung", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-19", 
+        "Modified By": "ofer"
+    }
+}

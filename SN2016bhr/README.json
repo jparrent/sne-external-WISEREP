@@ -1,0 +1,15 @@
+{
+    "tns_2016bhr_2016-04-03_11-23-43_FTN_FLOYDS-N_LCOGT_SN-KP.ascii": {
+        "Type": "SN IIb", 
+        "Redshift": "0.014", 
+        "Obs. Date": "2016-04-03", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-06", 
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2004G_2004-01-21.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0053", 
+        "Obs. Date": "2004-01-21", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "CA-2.2m - CAFOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

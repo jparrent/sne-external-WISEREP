@@ -1,0 +1,28 @@
+{
+    "sn20625-2551.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1082", 
+        "Obs. Date": "2007-11-13", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "sn20625-2604.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1082", 
+        "Obs. Date": "2007-11-15", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }
+}

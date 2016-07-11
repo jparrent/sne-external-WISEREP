@@ -1,0 +1,15 @@
+{
+    "LSQ13crf_20131024_Gr13_Free_slit1.0_57001_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2013-10-25", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Turatto,Spiro", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

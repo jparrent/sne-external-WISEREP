@@ -1,0 +1,41 @@
+{
+    "SCP06F6_20060422_SUBARU_CLEAN.txt": {
+        "Type": "SLSN-I", 
+        "Redshift": "1.189", 
+        "Obs. Date": "2006-04-22", 
+        "Program": "", 
+        "Contributor": "Barbary et al. 2009", 
+        "Bibcode": "2009ApJ...690.1358B", 
+        "Instrument": "Subaru - FOCAS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-07-12", 
+        "Modified By": "ofer"
+    }, 
+    "SCP06F6_20060518_VLT_CLEAN.txt": {
+        "Type": "SLSN-I", 
+        "Redshift": "1.189", 
+        "Obs. Date": "2006-05-18", 
+        "Program": "", 
+        "Contributor": "Barbary et al. 2009", 
+        "Bibcode": "2009ApJ...690.1358B", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-07-12", 
+        "Modified By": "ofer"
+    }, 
+    "SCP06F6_20060528_KECK_CLEAN.txt": {
+        "Type": "SLSN-I", 
+        "Redshift": "1.189", 
+        "Obs. Date": "2006-05-28", 
+        "Program": "", 
+        "Contributor": "Barbary et al. 2009", 
+        "Bibcode": "2009ApJ...690.1358B", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-07-12", 
+        "Modified By": "ofer"
+    }
+}

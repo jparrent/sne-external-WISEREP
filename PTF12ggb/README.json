@@ -1,0 +1,15 @@
+{
+    "12ggb_20120705_UH88_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2012-07-05", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "chenjc", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-09-03", 
+        "Modified By": "upload-marshalspec"
+    }
+}

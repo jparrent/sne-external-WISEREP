@@ -1,0 +1,15 @@
+{
+    "09gpn_20091108_P200_v1.ascii.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2009-11-08", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ptf11kmb-20110828.518-br.flm": {
+        "Type": "SN Ib - Ca-rich", 
+        "Redshift": "0.017", 
+        "Obs. Date": "2011-08-28", 
+        "Program": "", 
+        "Contributor": "Foley 2015", 
+        "Bibcode": "2015arXiv150107607F", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Ryan Foley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-20", 
+        "Modified By": "ofer"
+    }, 
+    "ptf11kmb-20111126.374-br.flm": {
+        "Type": "SN Ib - Ca-rich", 
+        "Redshift": "0.017", 
+        "Obs. Date": "2011-11-26", 
+        "Program": "", 
+        "Contributor": "Foley 2015", 
+        "Bibcode": "2015arXiv150107607F", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Ryan Foley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-20", 
+        "Modified By": "ofer"
+    }
+}

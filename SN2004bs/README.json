@@ -1,0 +1,15 @@
+{
+    "SN2004bs_2004-05-19.dat": {
+        "Type": "SN Ib", 
+        "Redshift": "0.017225", 
+        "Obs. Date": "2004-05-19", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "CA-2.2m - CAFOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

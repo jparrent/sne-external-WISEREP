@@ -1,0 +1,15 @@
+{
+    "PTF10osn_HST+STIS_2010-07-26.asci": {
+        "Type": "SN Ic", 
+        "Redshift": "0.038", 
+        "Obs. Date": "2010-07-26", 
+        "Program": "HST-Ia", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "HST - STIS", 
+        "Observer": "Ellis", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-08-13", 
+        "Modified By": "iair-UploadSet"
+    }
+}

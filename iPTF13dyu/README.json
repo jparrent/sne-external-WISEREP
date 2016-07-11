@@ -1,0 +1,15 @@
+{
+    "13dyu_20131108_P200_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.052", 
+        "Obs. Date": "2013-11-08", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "A. Waszczak ", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-11-14", 
+        "Modified By": "upload-marshalspec"
+    }
+}

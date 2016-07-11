@@ -1,0 +1,15 @@
+{
+    "GM13_1645_53172_349.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.121085", 
+        "Obs. Date": "2004-06-16", 
+        "Program": "SDSS-SNe", 
+        "Contributor": "Graur & Maoz 2013", 
+        "Bibcode": "2013MNRAS.430.1746G", 
+        "Instrument": "Sloan - SDSS I-II Spec", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-11-20", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

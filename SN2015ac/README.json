@@ -1,0 +1,15 @@
+{
+    "SN2015ac_2015-08-05_23:47:27_Asiago.ascii": {
+        "Type": "SN Ia-91bg-like", 
+        "Redshift": "0.017", 
+        "Obs. Date": "2015-08-05", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "11hzx_20110726_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.2287", 
+        "Obs. Date": "2011-07-26", 
+        "Program": "PTF", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Levitan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11hzx_20110801_Keck2_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.2287", 
+        "Obs. Date": "2011-08-01", 
+        "Program": "PTF", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11hzx_20110806_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.2287", 
+        "Obs. Date": "2011-08-06", 
+        "Program": "PTF", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "11hzx_20110828_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.2287", 
+        "Obs. Date": "2011-08-28", 
+        "Program": "PTF", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "11hzx_20110929_Keck2_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.2287", 
+        "Obs. Date": "2011-09-29", 
+        "Program": "PTF", 
+        "Contributor": "Silverman et al. 2013", 
+        "Bibcode": "2013ApJS..207....3S", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Brani", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "2008cn_20090501_358days.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.008647", 
+        "Obs. Date": "2009-05-01", 
+        "Program": "", 
+        "Contributor": "Maguire et al. 2012", 
+        "Bibcode": "2012MNRAS.420.3451M", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "PROG ID 083.D-0131(B)", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-01", 
+        "Modified By": "ofer"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "1990aj_19910129.ascii": {
+        "Type": "SN Ib/c", 
+        "Redshift": "0.005344", 
+        "Obs. Date": "1991-01-29", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "ESO-2.2m - EFOSC-2.2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "1990aj_19910222.ascii": {
+        "Type": "SN Ib/c", 
+        "Redshift": "0.005344", 
+        "Obs. Date": "1991-02-22", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

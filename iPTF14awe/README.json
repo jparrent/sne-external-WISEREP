@@ -1,0 +1,15 @@
+{
+    "14awe_20140513_NOT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.041", 
+        "Obs. Date": "2014-05-13", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Sem\ufffdli & Anders", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-08", 
+        "Modified By": "ofer"
+    }
+}

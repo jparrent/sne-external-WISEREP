@@ -1,0 +1,15 @@
+{
+    "LSQ13l_20130104_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia-91T-like", 
+        "Redshift": "0.105", 
+        "Obs. Date": "2013-01-05", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "TADDIA,SOLLERMAN", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

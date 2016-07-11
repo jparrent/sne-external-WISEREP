@@ -1,0 +1,15 @@
+{
+    "sn2004gk-blue-20050710-mmt.flm": {
+        "Type": "SN Ic", 
+        "Redshift": "0.000407", 
+        "Obs. Date": "2005-07-10", 
+        "Program": "", 
+        "Contributor": "Modjaz et al. 2008", 
+        "Bibcode": "2008ApJ...687L...9M", 
+        "Instrument": "MMT - MMT-Blue", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-18", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

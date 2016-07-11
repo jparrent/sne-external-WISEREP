@@ -1,0 +1,15 @@
+{
+    "SSS130307-100006-341_20130310_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.01", 
+        "Obs. Date": "2013-03-11", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Hodgkin,Blagorodnova,Nicholl", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

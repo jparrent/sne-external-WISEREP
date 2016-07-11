@@ -1,0 +1,15 @@
+{
+    "snonly_03D4au_186_Balland_etal_09.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.468", 
+        "Obs. Date": "2003-07-06", 
+        "Program": "SNLS", 
+        "Contributor": "Balland et al. 2009", 
+        "Bibcode": "2009A&A...507...85B", 
+        "Instrument": "VLT-UT1 - FORS1", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-04-02", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

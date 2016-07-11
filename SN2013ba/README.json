@@ -1,0 +1,15 @@
+{
+    "SN2013ba_20130407_ALFOSC.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.08", 
+        "Obs. Date": "2013-04-07", 
+        "Program": "KISS", 
+        "Contributor": "Morokuma et al. 2014", 
+        "Bibcode": "2014arXiv1409.1308M", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Stritzinger,Taddia", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-09-16", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

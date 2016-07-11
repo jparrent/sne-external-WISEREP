@@ -1,0 +1,15 @@
+{
+    "tns_2016coo_2016-05-19_00-00-00_P60_SED-Machine.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2016-05-19", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "R. Walters", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-28", 
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "OGLE-2013-SN-147_20131223_Gr13_Free_slit1.0_57002_1.dat": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.099", 
+        "Obs. Date": "2013-12-24", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "LEGUILLOU/FLEURY/LEGET", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

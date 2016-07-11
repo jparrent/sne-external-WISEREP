@@ -1,0 +1,15 @@
+{
+    "14fva_20140922_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.088", 
+        "Obs. Date": "2014-09-22", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Perley, Hashimoto", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-05", 
+        "Modified By": "ilanm"
+    }
+}

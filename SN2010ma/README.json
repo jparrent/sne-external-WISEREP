@@ -1,0 +1,93 @@
+{
+    "SN2010ma_NIR_FirstEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2010-12-20", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_UVB_FirstEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2010-12-20", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_VIS_FirstEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2010-12-20", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_UVB_SecondEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2011-01-05", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_VIS_SecondEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2011-01-05", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_UVB_ThirdEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2011-01-25", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ma_VIS_ThirdEpoch.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.55185", 
+        "Obs. Date": "2011-01-25", 
+        "Program": "", 
+        "Contributor": "Sparre et al. 2011", 
+        "Bibcode": "2011ApJ...735L..24S", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-08", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

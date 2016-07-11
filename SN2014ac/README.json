@@ -1,0 +1,28 @@
+{
+    "SN2014ac_2014-03-10_23:39:02_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2014-03-10", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2014ac_20140310_Gr13_Free_slit1.0_57003_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2014-03-11", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

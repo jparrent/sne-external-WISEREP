@@ -1,0 +1,15 @@
+{
+    "13ats_20130509_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.16", 
+        "Obs. Date": "2013-05-09", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Tang/Perley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-13", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

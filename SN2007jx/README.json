@@ -1,0 +1,15 @@
+{
+    "sn17790-1887.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.178", 
+        "Obs. Date": "2007-09-18", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Fynbo", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }
+}

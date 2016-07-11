@@ -1,0 +1,41 @@
+{
+    "tns_2016cbx_2016-05-01_07-26-24_Plaskett_Telescope_Plaskett_DAO_OTS.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2016-05-01", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Plaskett Telescope - Plaskett", 
+        "Observer": "Balam", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-05", 
+        "Modified By": "upload-TNS"
+    }, 
+    "tns_2016cbx_2016-05-06_05-42-39_Plaskett_Telescope_Plaskett_DAO_OTS.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2016-05-06", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Plaskett Telescope - Plaskett", 
+        "Observer": "Balam", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-17", 
+        "Modified By": "upload-TNS"
+    }, 
+    "tns_2016cbx_2016-05-07_06-10-43_Plaskett_Telescope_Plaskett_DAO_OTS.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2016-05-07", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Plaskett Telescope - Plaskett", 
+        "Observer": "Balam", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-17", 
+        "Modified By": "upload-TNS"
+    }
+}

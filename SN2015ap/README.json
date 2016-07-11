@@ -1,0 +1,15 @@
+{
+    "SN2015ap_2015-09-08_20:14:24_Asiago.ascii": {
+        "Type": "SN Ib/c", 
+        "Redshift": "0.01138", 
+        "Obs. Date": "2015-09-08", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Elias de la Rosa, Cappellaro", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

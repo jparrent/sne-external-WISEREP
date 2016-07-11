@@ -1,0 +1,15 @@
+{
+    "tns_2016cvv_2016-06-21_06-28-29_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.038", 
+        "Obs. Date": "2016-06-21", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "Walters", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-21", 
+        "Modified By": "upload-TNS"
+    }
+}

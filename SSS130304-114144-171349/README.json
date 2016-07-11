@@ -1,0 +1,15 @@
+{
+    "SSS130304-114144-171_20130305_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2013-03-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "WALTON/BLAGORODNOVA/NICHOLL", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

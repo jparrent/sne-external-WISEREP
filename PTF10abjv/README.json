@@ -1,0 +1,15 @@
+{
+    "10abjv_20101130_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.076", 
+        "Obs. Date": "2010-11-30", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Assaf Horesh", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-08-12", 
+        "Modified By": "ilanm"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "13ddi_20130904_P200_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.188", 
+        "Obs. Date": "2013-09-04", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Waszczak, Johansson, O'Sullivan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-15", 
+        "Modified By": "ofer"
+    }
+}

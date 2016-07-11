@@ -1,0 +1,54 @@
+{
+    "10icb_20100602_Gemini N_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0086", 
+        "Obs. Date": "2010-06-02", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10icb_20100608_Lick 3-m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0086", 
+        "Obs. Date": "2010-06-08", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Cenko, Kleiser", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "PTF10icb_HST+STIS_2010-06-14.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0086", 
+        "Obs. Date": "2010-06-14", 
+        "Program": "HST-Ia", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "HST - STIS", 
+        "Observer": "Ellis", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-08-13", 
+        "Modified By": "iair-UploadSet"
+    }, 
+    "10icb_20100618_Lick 3-m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0086", 
+        "Obs. Date": "2010-06-18", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Griffith, Kandrashoff", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

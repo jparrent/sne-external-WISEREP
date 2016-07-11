@@ -1,0 +1,15 @@
+{
+    "15awr_20150525_Lick_3-m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2015-05-25", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Melissa Graham", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-05-28", 
+        "Modified By": "upload-marshalspec"
+    }
+}

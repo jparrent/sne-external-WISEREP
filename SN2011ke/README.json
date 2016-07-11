@@ -1,0 +1,80 @@
+{
+    "2011ke_20110515.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-05-15", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "Other - Other", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2011ke_20110522.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-05-22", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "TNG - NICS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2011ke_20110601.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-06-01", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "Other - Other", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2011ke_20110609.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-06-09", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT1 - FORS1", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2011ke_20110618.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-06-18", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "Other - Other", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2011ke_20110625.der.ascii": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.143", 
+        "Obs. Date": "2011-06-25", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

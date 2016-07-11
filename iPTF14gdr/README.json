@@ -1,0 +1,15 @@
+{
+    "14gdr_20141001_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.069", 
+        "Obs. Date": "2014-10-01", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Waszczak", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-05", 
+        "Modified By": "ilanm"
+    }
+}

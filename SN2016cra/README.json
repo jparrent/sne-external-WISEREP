@@ -1,0 +1,15 @@
+{
+    "tns_2016cra_2016-05-27_00-00-00_P200_DBSP.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.119", 
+        "Obs. Date": "2016-05-27", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "V. Ravi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-19", 
+        "Modified By": "upload-TNS"
+    }
+}

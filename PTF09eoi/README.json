@@ -1,0 +1,67 @@
+{
+    "09eoi_20090923_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2009-09-23", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal, Levitan, Bhalerao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "09eoi_20091011_WHT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2009-10-11", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "I. Hook & J. Jonsson", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "09eoi_20091016_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2009-10-16", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Bhalerao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "09eoi_20091111_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2009-11-11", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Quimby", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "09eoi_20091219_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.042", 
+        "Obs. Date": "2009-12-19", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

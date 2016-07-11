@@ -1,0 +1,15 @@
+{
+    "sn19953-2602.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.12", 
+        "Obs. Date": "2007-11-15", 
+        "Program": "NTT-NOT", 
+        "Contributor": "Ostman et al. 2011", 
+        "Bibcode": "2011A&A...526A..28O", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-22", 
+        "Modified By": "admin-UploadSet"
+    }
+}

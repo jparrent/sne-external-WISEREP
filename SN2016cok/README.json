@@ -1,0 +1,28 @@
+{
+    "tns_2016cok_2016-05-28.63_LJT_YFOSC.dat": {
+        "Type": "SN IIP", 
+        "Redshift": "0.002", 
+        "Obs. Date": "2016-05-28", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Jujia Zhang", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-31", 
+        "Modified By": "upload-TNS"
+    }, 
+    "tns_2016cok_2016-06-12_05-16-59_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.002", 
+        "Obs. Date": "2016-06-12", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "Walters", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-12", 
+        "Modified By": "upload-TNS"
+    }
+}

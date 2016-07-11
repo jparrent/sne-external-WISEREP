@@ -1,0 +1,15 @@
+{
+    "SN2013cs_20140322.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.00924", 
+        "Obs. Date": "2014-03-22", 
+        "Program": "PESSTO", 
+        "Contributor": "Childress et al. 2015", 
+        "Bibcode": "2015arXiv150702501C", 
+        "Instrument": "ANU 2,3m - WiFeS", 
+        "Observer": "Childress", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-07-16", 
+        "Modified By": "ilanm"
+    }
+}

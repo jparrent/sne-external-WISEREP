@@ -1,0 +1,28 @@
+{
+    "None_2016B_2016-01-04.7_Kanata_HOWPol.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.004293", 
+        "Obs. Date": "2016-01-04", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Kanata - HOWPol", 
+        "Observer": "R. Itoh, M. Kawabata, T. Nakaoka", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-10", 
+        "Modified By": "upload-TNS"
+    }, 
+    "None_2016B_2016-01-08.7_Kanata_HOWPol.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.004293", 
+        "Obs. Date": "2016-01-08", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Kanata - HOWPol", 
+        "Observer": "R. Itoh, K. Takata", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-10", 
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "PSN_J07111498p3110058_2015-10-22_04:00:19_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.025", 
+        "Obs. Date": "2015-10-22", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

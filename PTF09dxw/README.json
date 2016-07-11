@@ -1,0 +1,15 @@
+{
+    "09dxw_20090916_WHT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0299", 
+        "Obs. Date": "2009-09-16", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Sullivan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

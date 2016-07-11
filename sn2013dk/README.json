@@ -1,0 +1,28 @@
+{
+    "SN2013dk_2013-06-23_21:07:45_Asiago.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.005477", 
+        "Obs. Date": "2013-06-23", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "2013dk_20130702_fts.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.005477", 
+        "Obs. Date": "2013-07-02", 
+        "Program": "", 
+        "Contributor": "Elias-Rosa et al. 2013", 
+        "Bibcode": "2013MNRAS.tmpL.166E", 
+        "Instrument": "FTS - FLOYDS-S", 
+        "Observer": "Sand", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-10-20", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

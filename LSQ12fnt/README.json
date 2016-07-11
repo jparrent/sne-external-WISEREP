@@ -1,0 +1,15 @@
+{
+    "LSQ12fnt_20121020_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-10-21", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Patrick El-Hage, Assaf Sternberg", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

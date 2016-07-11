@@ -1,0 +1,15 @@
+{
+    "SN2012aq_2012-02-29_00:08:58_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2012-02-29", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Valenti", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

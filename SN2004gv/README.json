@@ -1,0 +1,15 @@
+{
+    "sn2004gv-red-20051008-ldss3-b.flm": {
+        "Type": "SN Ib", 
+        "Redshift": "0.02", 
+        "Obs. Date": "2005-10-08", 
+        "Program": "", 
+        "Contributor": "Modjaz et al. 2008", 
+        "Bibcode": "2008ApJ...687L...9M", 
+        "Instrument": "Magellan-Clay - LDSS-3", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-18", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "tns_2016bfy_2016-03-13_12-07-54_FTN_FLOYDS-N_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2016-03-13", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-21", 
+        "Modified By": "upload-TNS"
+    }
+}

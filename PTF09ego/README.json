@@ -1,0 +1,28 @@
+{
+    "09ego_20090923_Keck1_v1.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.104", 
+        "Obs. Date": "2009-09-23", 
+        "Program": "", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal, Levitan, Bhalerao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-21", 
+        "Modified By": "ofer"
+    }, 
+    "09ego_20100515_Keck1_v2.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.104", 
+        "Obs. Date": "2010-05-15", 
+        "Program": "PTF", 
+        "Contributor": "White et al. 2015", 
+        "Bibcode": "2015ApJ...799...52W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Arcavi+Ben-Ami+Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-21", 
+        "Modified By": "ofer"
+    }
+}

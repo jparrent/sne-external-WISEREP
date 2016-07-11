@@ -1,0 +1,15 @@
+{
+    "MOS1_slit11.ms.wc.ascii": {
+        "Type": "SN", 
+        "Redshift": "0.699", 
+        "Obs. Date": "2007-01-28", 
+        "Program": "", 
+        "Contributor": "Arcavi et al. 2016", 
+        "Bibcode": "2016ApJ...819...35A", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-08", 
+        "Modified By": "ilanm"
+    }
+}

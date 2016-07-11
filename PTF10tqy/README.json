@@ -1,0 +1,28 @@
+{
+    "10tqy_20100902_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2010-09-02", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Ofek", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10tqy_20100905_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2010-09-05", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Quimby, Theissen", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2012cm_20120517_HOWPol.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.028202", 
+        "Obs. Date": "2012-05-17", 
+        "Program": "KISS", 
+        "Contributor": "Morokuma et al. 2014", 
+        "Bibcode": "2014arXiv1409.1308M", 
+        "Instrument": "Kanata - HOWPol", 
+        "Observer": "Itoh,Kawabata,Takaki,Ueno,Akitaya", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-09-07", 
+        "Modified By": "admin-UploadSet"
+    }
+}

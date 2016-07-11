@@ -1,0 +1,80 @@
+{
+    "11qcj_20111105_GTC_v1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2011-11-05", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "GTC - OSIRIS", 
+        "Observer": "AS", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11qcj_20111107_WHT_v1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2011-11-07", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Isobel Hook", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11qcj_20111126_Keck1_v1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2011-11-26", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Horesh Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11qcj_20111221_WHT_v1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2011-12-21", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "M.Fraser & D.Wright", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11qcj_20111231_Keck1_v1.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2011-12-31", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Horesh, Mooley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11qcj_20120320_Keck2_v2.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.028", 
+        "Obs. Date": "2012-03-20", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2014", 
+        "Bibcode": "2014ApJ...782...42C", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Brani", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }
+}

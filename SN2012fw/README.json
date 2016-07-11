@@ -1,0 +1,80 @@
+{
+    "PSNJ21015899-4816259_20120826_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-08-27", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "INSERRA/CELLIER-HOLZEM", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2012fw_20120826_Gr13_Free_slit1.0_56456_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-08-27", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "INSERRA/CELLIER-HOLZEM", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "PSNJ21015899-4816259_20120916_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-09-17", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Arcavi,Pan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2012fw_20120916_Gr13_Free_slit1.0_56456_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-09-17", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Arcavi,Pan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "PSNJ21015899-4816259_20120923_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-09-24", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Pan, Arcavi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "SN2012fw_20120923_Gr13_Free_slit1.0_56456_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2012-09-24", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Pan, Arcavi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

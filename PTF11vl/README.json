@@ -1,0 +1,15 @@
+{
+    "11vl_20110126_Lick 3-m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.045", 
+        "Obs. Date": "2011-01-26", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Silverman", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

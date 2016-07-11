@@ -1,0 +1,15 @@
+{
+    "1997X_19970513.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.0036", 
+        "Obs. Date": "1997-05-13", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "ESO-2.2m - EFOSC-2.2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

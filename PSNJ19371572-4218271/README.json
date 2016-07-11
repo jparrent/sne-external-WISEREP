@@ -1,0 +1,15 @@
+{
+    "PSNJ19371572-4218271_20120817_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.02", 
+        "Obs. Date": "2012-08-18", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "INSERRA/CELLIER-HOLZEM", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

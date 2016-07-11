@@ -1,0 +1,28 @@
+{
+    "sw00031751001ugu_1ord_20100705.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.009211", 
+        "Obs. Date": "2010-07-05", 
+        "Program": "", 
+        "Contributor": "Smitka et al. 2016", 
+        "Bibcode": "2016PASP...128...961", 
+        "Instrument": "Swift-UVOT - UV-grism", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ev_11Jul2010_ObjNa.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.009211", 
+        "Obs. Date": "2010-07-11", 
+        "Program": "Other", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Clay - MIKE", 
+        "Observer": "Carnegie", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-11", 
+        "Modified By": "assaf"
+    }
+}

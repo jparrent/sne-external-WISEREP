@@ -1,0 +1,54 @@
+{
+    "sn2009mw_gemini_20091225.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0143", 
+        "Obs. Date": "2009-12-25", 
+        "Program": "", 
+        "Contributor": "Takats et al. 2016", 
+        "Bibcode": "arXiv:1605.03136", 
+        "Instrument": "Gemini-S - GMOS-S", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-13", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sn2009mw_gemini_20100117.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0143", 
+        "Obs. Date": "2010-01-17", 
+        "Program": "", 
+        "Contributor": "Takats et al. 2016", 
+        "Bibcode": "arXiv:1605.03136", 
+        "Instrument": "Gemini-S - GMOS-S", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-13", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sn2009mw_soar_20100310.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0143", 
+        "Obs. Date": "2010-03-12", 
+        "Program": "", 
+        "Contributor": "Takats et al. 2016", 
+        "Bibcode": "arXiv:1605.03136", 
+        "Instrument": "SOAR - Goodman", 
+        "Observer": "Folatelli", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-13", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sn2009mw_dupont_20100320.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0143", 
+        "Obs. Date": "2010-03-20", 
+        "Program": "", 
+        "Contributor": "Takats et al. 2016", 
+        "Bibcode": "arXiv:1605.03136", 
+        "Instrument": "LCO-duPont - WFCCD", 
+        "Observer": "Morrell", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-13", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

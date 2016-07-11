@@ -1,0 +1,41 @@
+{
+    "sn2005bx-20050430-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.031218", 
+        "Obs. Date": "2005-04-30", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Cenko+Sand", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005bx-20050604-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.031218", 
+        "Obs. Date": "2005-06-04", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Gal-Yam+Sand", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005bx-20050716-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.031218", 
+        "Obs. Date": "2005-07-16", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Gal-Yam+Sharon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }
+}

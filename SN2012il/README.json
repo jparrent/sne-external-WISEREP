@@ -1,0 +1,93 @@
+{
+    "2012il_20120130.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-01-30", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120303.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-03", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120303blue.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-03", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120317opt.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-17", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120317uv.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-17", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120317nir1.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-17", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }, 
+    "2012il_20120317nir2.der.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.175", 
+        "Obs. Date": "2012-03-17", 
+        "Program": "", 
+        "Contributor": "Inserra et al. 2013", 
+        "Bibcode": "2013ApJ...770..128I", 
+        "Instrument": "VLT-UT2 - X-Shooter", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-24", 
+        "Modified By": "ofer"
+    }
+}

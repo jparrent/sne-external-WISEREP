@@ -1,0 +1,15 @@
+{
+    "1999gn_20000121.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.005224", 
+        "Obs. Date": "2000-01-21", 
+        "Program": "", 
+        "Contributor": "Spiro et al. 2014", 
+        "Bibcode": "2014MNRAS.tmp..367S", 
+        "Instrument": "ESO-NTT - EMMI", 
+        "Observer": "J.Sollerman", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-03-18", 
+        "Modified By": "ilanm"
+    }
+}

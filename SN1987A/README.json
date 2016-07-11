@@ -1,0 +1,15 @@
+{
+    "Pun-87A-march9.txt": {
+        "Type": "SN II-pec", 
+        "Redshift": "0.001067", 
+        "Obs. Date": "1987-03-09", 
+        "Program": "CCCP", 
+        "Contributor": "Gal-yam et al. 2008", 
+        "Bibcode": "2008ApJ...685L.117G", 
+        "Instrument": "IUE - IUE", 
+        "Observer": "unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-28", 
+        "Modified By": "ofer"
+    }
+}

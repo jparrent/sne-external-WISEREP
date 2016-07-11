@@ -1,0 +1,15 @@
+{
+    "OGLE-2013-SN-109_20131101_Gr13_Free_slit1.5_57002_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.088", 
+        "Obs. Date": "2013-11-02", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Turatto,Spiro", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2014ee_2014-11-24_22:34:56_Asiago.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.0174", 
+        "Obs. Date": "2014-11-24", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

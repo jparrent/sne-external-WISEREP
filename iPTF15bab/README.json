@@ -1,0 +1,15 @@
+{
+    "15bab_20150613_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.109", 
+        "Obs. Date": "2015-06-13", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Perley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-18", 
+        "Modified By": "upload-marshalspec"
+    }
+}

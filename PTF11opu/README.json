@@ -1,0 +1,28 @@
+{
+    "11opu_20111016_APO_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.07", 
+        "Obs. Date": "2011-10-16", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "APO 3.5m - DIS", 
+        "Observer": "Kasliwal, Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11opu_20111022_UH88_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.07", 
+        "Obs. Date": "2011-10-22", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "birchall", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

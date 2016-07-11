@@ -1,0 +1,15 @@
+{
+    "tns_2016col_2016-05-11_00-00-00_Keck1_LRIS.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.18", 
+        "Obs. Date": "2016-05-11", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "V. Ravi, Y. Cao, N. Suzuki", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-05-28", 
+        "Modified By": "upload-TNS"
+    }
+}

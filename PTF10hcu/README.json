@@ -1,0 +1,15 @@
+{
+    "10hcu_20100515_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0925", 
+        "Obs. Date": "2010-05-15", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Arcavi+Ben-Ami+Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

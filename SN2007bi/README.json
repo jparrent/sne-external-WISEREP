@@ -1,0 +1,41 @@
+{
+    "sn2007bi-20070416.368-br-scaled+error.flm": {
+        "Type": "SLSN-R", 
+        "Redshift": "0.1279", 
+        "Obs. Date": "2007-04-16", 
+        "Program": "PTFdryrun", 
+        "Contributor": "Gal-yam et al. 09", 
+        "Bibcode": "2009Natur.462..624G", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Filippenko+Foley + Silverman+Chornock + Perley+Bloom+Kocevski", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-07-25", 
+        "Modified By": "admin"
+    }, 
+    "vlt1.dat": {
+        "Type": "SLSN-R", 
+        "Redshift": "0.1279", 
+        "Obs. Date": "2008-04-10", 
+        "Program": "PTFdryrun", 
+        "Contributor": "Gal-yam et al. 09", 
+        "Bibcode": "2009Natur.462..624G", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "VLT Service", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-07-25", 
+        "Modified By": "admin"
+    }, 
+    "SN2007bi-mark.dat": {
+        "Type": "SLSN-R", 
+        "Redshift": "0.1279", 
+        "Obs. Date": "2008-08-04", 
+        "Program": "PTFdryrun", 
+        "Contributor": "Gal-yam et al. 09", 
+        "Bibcode": "2009Natur.462..624G", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kulkarni+Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-07-25", 
+        "Modified By": "admin"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2012gj_2012-11-15_18:06:32_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.013", 
+        "Obs. Date": "2012-11-15", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Simone Zaggia", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

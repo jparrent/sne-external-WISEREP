@@ -1,0 +1,15 @@
+{
+    "10nyt_20100714_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.109", 
+        "Obs. Date": "2010-07-14", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Avishay Gal-Yam & Sagi Ben-Ami", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-08-12", 
+        "Modified By": "ilanm"
+    }
+}

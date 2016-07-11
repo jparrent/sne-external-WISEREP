@@ -1,0 +1,15 @@
+{
+    "SN2015U_2015-02-17_20:01:56_Asiago.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.01379", 
+        "Obs. Date": "2015-02-17", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

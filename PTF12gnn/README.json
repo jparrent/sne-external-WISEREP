@@ -1,0 +1,15 @@
+{
+    "12gnn_20120712_Lick_3-m_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.0308", 
+        "Obs. Date": "2012-07-12", 
+        "Program": "PTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Clubb", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

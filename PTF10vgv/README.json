@@ -1,0 +1,67 @@
+{
+    "10vgv_20100916_Lick 3-m_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2010-09-16", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2012", 
+        "Bibcode": "2012ApJ...747L...5C", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Cenko, Kandrashoff", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-02", 
+        "Modified By": "ofer"
+    }, 
+    "10vgv_20100927_HET_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2010-09-27", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2012", 
+        "Bibcode": "2012ApJ...747L...5C", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Resident Astronomer", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-02", 
+        "Modified By": "ofer"
+    }, 
+    "10vgv_20101001_Lick 3-m_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2010-10-01", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2012", 
+        "Bibcode": "2012ApJ...747L...5C", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Choi, Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-02", 
+        "Modified By": "ofer"
+    }, 
+    "10vgv_20101030_P200_v2.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2010-10-30", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2012", 
+        "Bibcode": "2012ApJ...747L...5C", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Arcavi+Xu", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-02", 
+        "Modified By": "ofer"
+    }, 
+    "10vgv_20101206_P200_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2010-12-06", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2012", 
+        "Bibcode": "2012ApJ...747L...5C", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Assaf +Brani", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-02", 
+        "Modified By": "ofer"
+    }
+}

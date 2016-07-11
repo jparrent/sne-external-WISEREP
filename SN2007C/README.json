@@ -1,0 +1,28 @@
+{
+    "2007C_20070517.ascii": {
+        "Type": "SN Ib", 
+        "Redshift": "0.005611", 
+        "Obs. Date": "2007-05-17", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2007C_20070620.ascii": {
+        "Type": "SN Ib", 
+        "Redshift": "0.005611", 
+        "Obs. Date": "2007-06-20", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

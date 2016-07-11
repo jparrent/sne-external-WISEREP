@@ -1,0 +1,15 @@
+{
+    "None_2016H_2016-01-11.9_LJT_YFOSC.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.046", 
+        "Obs. Date": "2016-01-11", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Yuxin Xin", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-13", 
+        "Modified By": "upload-TNS"
+    }
+}

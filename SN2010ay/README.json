@@ -1,0 +1,28 @@
+{
+    "SN2010ay_10ay_WHT.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0671", 
+        "Obs. Date": "2010-04-01", 
+        "Program": "", 
+        "Contributor": "Sanders et al. 2012", 
+        "Bibcode": "2012ApJ...756..184S", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-13", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SN2010ay_10ay_Gemini.txt": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0671", 
+        "Obs. Date": "2010-04-11", 
+        "Program": "", 
+        "Contributor": "Sanders et al. 2012", 
+        "Bibcode": "2012ApJ...756..184S", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-13", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

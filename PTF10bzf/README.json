@@ -1,0 +1,28 @@
+{
+    "Gemini_clean.dat": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0498", 
+        "Obs. Date": "2010-03-01", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2011", 
+        "Bibcode": "2011ApJ...741...76", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Howell", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-14", 
+        "Modified By": "ofer"
+    }, 
+    "Keck_clean.dat": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0498", 
+        "Obs. Date": "2010-03-07", 
+        "Program": "PTF", 
+        "Contributor": "Corsi et al. 2011", 
+        "Bibcode": "2011ApJ...741...76", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal, Gal-Yam, Kulkarni", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-03-14", 
+        "Modified By": "ofer"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "SN2005kl_2005-11-24.dat": {
+        "Type": "SN Ic", 
+        "Redshift": "0.003486", 
+        "Obs. Date": "2005-11-24", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "CA-2.2m - CAFOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sn2005kl-20060503-mmt-b.flm": {
+        "Type": "SN Ic", 
+        "Redshift": "0.003486", 
+        "Obs. Date": "2006-05-03", 
+        "Program": "", 
+        "Contributor": "Modjaz et al. 2008", 
+        "Bibcode": "2008ApJ...687L...9M", 
+        "Instrument": "MMT - MMT-Blue", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-03-18", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

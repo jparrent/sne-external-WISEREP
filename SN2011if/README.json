@@ -1,0 +1,15 @@
+{
+    "SN2011if_2011-11-21_02:18:07_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.052", 
+        "Obs. Date": "2011-11-21", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Valenti-Pastorello", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

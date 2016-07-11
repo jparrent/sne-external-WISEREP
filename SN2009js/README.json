@@ -1,0 +1,15 @@
+{
+    "sn09js_20091027.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.005027", 
+        "Obs. Date": "2009-10-27", 
+        "Program": "", 
+        "Contributor": "Gandhi et al. 2013", 
+        "Bibcode": "2013ApJ...767..166G", 
+        "Instrument": "Subaru - FOCAS", 
+        "Observer": "Maeda, Kawabata, Moriya", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-07", 
+        "Modified By": "ofer"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "tPS15dlq_20151217_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.19", 
+        "Obs. Date": "2015-12-18", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "LeGuillou/LeBreton", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2015-12-18", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

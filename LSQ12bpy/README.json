@@ -1,0 +1,54 @@
+{
+    "fLSQ12bpy_20120412_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2012-04-12", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Stefano Valenti, Sandra Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-06-21", 
+        "Modified By": "admin"
+    }, 
+    "LSQ12bpy_20120411_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2012-04-12", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Stefano Valenti, Sandra Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "fCSS133640m215116_20120430_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2012-04-30", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-06-21", 
+        "Modified By": "admin"
+    }, 
+    "LSQ12bpy_20120429_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2012-04-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

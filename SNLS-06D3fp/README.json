@@ -1,0 +1,15 @@
+{
+    "06D3fpfc_atm_sn_gapsf.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.268", 
+        "Obs. Date": "2006-06-18", 
+        "Program": "SNLS", 
+        "Contributor": "Walker et al. 2011", 
+        "Bibcode": "2011MNRAS.410.1262W", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-01", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

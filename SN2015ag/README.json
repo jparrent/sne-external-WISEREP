@@ -1,0 +1,15 @@
+{
+    "SN2015ag_2015-08-11_01:10:08_Asiago.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.0162", 
+        "Obs. Date": "2015-08-11", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Terreran", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

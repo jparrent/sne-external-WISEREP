@@ -1,0 +1,28 @@
+{
+    "snonly_06D4ce_1295_Balland_etal_09.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.85", 
+        "Obs. Date": "2006-07-19", 
+        "Program": "SNLS", 
+        "Contributor": "Balland et al. 2009", 
+        "Bibcode": "2009A&A...507...85B", 
+        "Instrument": "VLT-UT1 - FORS1", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-04-02", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "snonly_06D4ce_1296_Balland_etal_09.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.85", 
+        "Obs. Date": "2006-07-20", 
+        "Program": "SNLS", 
+        "Contributor": "Balland et al. 2009", 
+        "Bibcode": "2009A&A...507...85B", 
+        "Instrument": "VLT-UT1 - FORS1", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-04-02", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

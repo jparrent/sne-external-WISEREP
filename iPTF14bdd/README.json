@@ -1,0 +1,15 @@
+{
+    "14bdd_20140526_Keck2_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.15", 
+        "Obs. Date": "2014-05-26", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Yi Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-08", 
+        "Modified By": "ofer"
+    }
+}

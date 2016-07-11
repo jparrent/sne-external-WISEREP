@@ -1,0 +1,15 @@
+{
+    "tASASSN-15rq_20151021_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.025", 
+        "Obs. Date": "2015-10-22", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "LYMAN", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2015-10-22", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

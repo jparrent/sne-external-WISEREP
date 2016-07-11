@@ -1,0 +1,15 @@
+{
+    "11gjb_20110629_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.125", 
+        "Obs. Date": "2011-06-29", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Silverman, Cenko, Nugent", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

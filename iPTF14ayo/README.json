@@ -1,0 +1,15 @@
+{
+    "14ayo_20140514_Gemini_N_v3.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.0023", 
+        "Obs. Date": "2014-05-14", 
+        "Program": "iPTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

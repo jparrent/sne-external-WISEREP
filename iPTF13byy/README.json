@@ -1,0 +1,15 @@
+{
+    "13byy-20130716f.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.23", 
+        "Obs. Date": "2013-07-16", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Iair Arcavi, David Tal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-23", 
+        "Modified By": "iair"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "15bai_20150529_FTN_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.048", 
+        "Obs. Date": "2015-05-29", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTN - FLOYDS-N", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-18", 
+        "Modified By": "ofer"
+    }
+}

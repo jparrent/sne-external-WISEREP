@@ -1,0 +1,15 @@
+{
+    "13ehy_20140101_Keck2_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.13", 
+        "Obs. Date": "2014-01-01", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-01-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2012bd_2012-03-18_01:48:57_Asiago.ascii": {
+        "Type": "SN II-pec", 
+        "Redshift": "0.037", 
+        "Obs. Date": "2012-03-18", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

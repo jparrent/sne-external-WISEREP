@@ -1,0 +1,15 @@
+{
+    "tLSQ15cl_20150119_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.055", 
+        "Obs. Date": "2015-01-20", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "A. Nyholm, C. Fremling", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2015-01-20", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

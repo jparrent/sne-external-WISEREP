@@ -1,0 +1,15 @@
+{
+    "SN2014S_20140225_DOLORES.txt": {
+        "Type": "SN IIP", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2014-02-25", 
+        "Program": "KISS", 
+        "Contributor": "Morokuma et al. 2014", 
+        "Bibcode": "2014arXiv1409.1308M", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Walker,Mazzali,Pian", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-09-16", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "LSQ13sd_20130404_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.039", 
+        "Obs. Date": "2013-04-05", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Taubenberger/S.Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

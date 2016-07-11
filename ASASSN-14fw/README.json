@@ -1,0 +1,15 @@
+{
+    "tASASSN-14fw_20140824_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.019", 
+        "Obs. Date": "2014-08-25", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Tartaglia/Elias-Rosa", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2014-08-25", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

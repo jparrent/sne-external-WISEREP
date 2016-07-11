@@ -1,0 +1,15 @@
+{
+    "15dik_20151013_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.137", 
+        "Obs. Date": "2015-10-13", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "R Lunnan, N Blagorodnova, G Duggan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-11-04", 
+        "Modified By": "upload-marshalspec"
+    }
+}

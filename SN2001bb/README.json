@@ -1,0 +1,15 @@
+{
+    "SN2001bb_wise_fosc.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.015521", 
+        "Obs. Date": "2001-01-01", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Wise1m - FOSC", 
+        "Observer": "Dann, J.", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-08-10", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

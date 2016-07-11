@@ -1,0 +1,15 @@
+{
+    "LSQ14fj_20140129_Gr13_Free_slit1.0_57003_1.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.033", 
+        "Obs. Date": "2014-01-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "G. Leloudas, M. Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

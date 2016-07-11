@@ -1,0 +1,15 @@
+{
+    "tns_2016er_2016-01-16.0_DCT_Deveny+LMI_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2016-01-16", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "DCT - Deveny+LMI", 
+        "Observer": "S. B. Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-27", 
+        "Modified By": "upload-TNS"
+    }
+}

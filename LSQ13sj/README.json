@@ -1,0 +1,93 @@
+{
+    "LSQ13sj_20130402_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-03", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S. Taubenberger/S. Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130403_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-04", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Taubenberger/S.Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130403_Gr13_Free_slit1.0_56457_2.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-04", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Taubenberger/S.Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130404_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-05", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Taubenberger/S.Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130404_Gr13_Free_slit1.0_56457_2.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-05", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S.Taubenberger/S.Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130405_Gr13_Free_slit1.0_56457_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S. Taubenberger/S. Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ13sj_20130405_Gr13_Free_slit1.0_56457_2.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.085", 
+        "Obs. Date": "2013-04-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "S. Taubenberger/S. Hachinger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

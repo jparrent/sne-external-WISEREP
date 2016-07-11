@@ -1,0 +1,15 @@
+{
+    "tGaia16add_20160215_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.045", 
+        "Obs. Date": "2016-02-16", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Faran, Kromer, Taubenberger", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2016-02-16", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

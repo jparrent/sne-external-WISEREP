@@ -1,0 +1,28 @@
+{
+    "11dzm_20110530_UH88_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2011-05-30", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "copin", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11dzm_20110609_WHT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2011-06-09", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Lindsay Magill", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

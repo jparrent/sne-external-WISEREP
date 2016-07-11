@@ -1,0 +1,15 @@
+{
+    "SN2009ev_2Jun2009_MWNa.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.011838", 
+        "Obs. Date": "2009-06-02", 
+        "Program": "Other", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Clay - MIKE", 
+        "Observer": "Carnegie", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-12", 
+        "Modified By": "assaf"
+    }
+}

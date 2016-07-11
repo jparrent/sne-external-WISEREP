@@ -1,0 +1,93 @@
+{
+    "PTF10qts-20100813.flm": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-08-13", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Iair Arcavi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-01-09", 
+        "Modified By": "dong-BunchUpload"
+    }, 
+    "10qts_20100815_Lick 3-m_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-08-15", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "Lick 3m - KAST", 
+        "Observer": "Silverman, Kandrashoff", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "ptf10qts_tng_20100825.dat": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-08-17", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "TNG staff", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-05-27", 
+        "Modified By": "ofer"
+    }, 
+    "10qts_20100902_P200_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-09-02", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Ofek", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10qts_20100905_P200_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-09-05", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Sullivan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10qts_20100909_KPNO4m_v1.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2010-09-09", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "Mayall - RC Spec", 
+        "Observer": "Kulkarni, Matheson, Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10qts_20110427_Keck1_v2.ascii": {
+        "Type": "SN Ic-BL", 
+        "Redshift": "0.0907", 
+        "Obs. Date": "2011-04-27", 
+        "Program": "PTF", 
+        "Contributor": "Walker et al. 2014", 
+        "Bibcode": "2014MNRAS.442.2768W", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Polishook & Horesh", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }
+}

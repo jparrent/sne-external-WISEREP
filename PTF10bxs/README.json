@@ -1,0 +1,15 @@
+{
+    "10bxs_20100307_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.072", 
+        "Obs. Date": "2010-03-07", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Kasliwal, Gal-Yam, Kulkarni", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

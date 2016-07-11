@@ -1,0 +1,15 @@
+{
+    "Gaia14adf_2014-11-25_02:49:49_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2014-11-25", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

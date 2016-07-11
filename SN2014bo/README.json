@@ -1,0 +1,15 @@
+{
+    "SN2014bo_20140527_KOOLS.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.133", 
+        "Obs. Date": "2014-05-27", 
+        "Program": "KISS", 
+        "Contributor": "Morokuma et al. 2014", 
+        "Bibcode": "2014arXiv1409.1308M", 
+        "Instrument": "OAO-188 - KOOLS", 
+        "Observer": "Tanaka,Ukita", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-09-16", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

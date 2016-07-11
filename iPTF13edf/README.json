@@ -1,0 +1,15 @@
+{
+    "13edf_20131129_Keck2_v1.ascii": {
+        "Type": "SN Ib", 
+        "Redshift": "0.0267", 
+        "Obs. Date": "2013-11-29", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-12-03", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "LSQ14abd_20140301_Gr13_Free_slit1.0_57003_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-02", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Campbell/Blagorodnova", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14abd_20140308_Gr16_OG530_slit1.0_57003_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-09", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova/Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14abd_20140309_Gr11_Free_slit1.0_57003_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-10", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova/Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14abd_20140309_Gr11_Free_slit1.0_57003_2.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-10", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova/Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14abd_20140309_Gr16_OG530_slit1.0_57003_1.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-10", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova/Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14abd_20140309_Gr16_OG530_slit1.0_57003_2.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2014-03-10", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Blagorodnova/Walton", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "CSS120419-143825+175_20120421_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN Ia-91T-like", 
+        "Redshift": "0.171", 
+        "Obs. Date": "2012-04-22", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "BENITEZ/VALENTI", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "CSS120419-143825+175_20120429_Gr13_Free_slit1.5_56456_1.ascii": {
+        "Type": "SN Ia-91T-like", 
+        "Redshift": "0.171", 
+        "Obs. Date": "2012-04-30", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

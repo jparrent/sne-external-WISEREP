@@ -1,0 +1,15 @@
+{
+    "spec_sn2006oz.dat": {
+        "Type": "", 
+        "Redshift": "0.376", 
+        "Obs. Date": "2006-11-22", 
+        "Program": "", 
+        "Contributor": "Leloudas et al. 2012", 
+        "Bibcode": "2012A&A...541A.129L", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Max Stritzinger, Giorgos Leloudas", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ofer"
+    }
+}

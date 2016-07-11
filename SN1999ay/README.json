@@ -1,0 +1,15 @@
+{
+    "sn99ay.discovery.qred.ascii": {
+        "Type": "SN IIb", 
+        "Redshift": "0.044", 
+        "Obs. Date": "1999-03-21", 
+        "Program": "WOOTS", 
+        "Contributor": "Gal-yam et al. 2008", 
+        "Bibcode": "2008ApJ...680..550G", 
+        "Instrument": "CTIO-4m - RC-Spec-4m", 
+        "Observer": "Aldering", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-25", 
+        "Modified By": "aryehf-UploadSet"
+    }
+}

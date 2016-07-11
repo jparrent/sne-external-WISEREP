@@ -1,0 +1,15 @@
+{
+    "04D3mk_sn3_corr_f2.asc": {
+        "Type": "SN Ia", 
+        "Redshift": "0.81", 
+        "Obs. Date": "2004-06-19", 
+        "Program": "SNLS", 
+        "Contributor": "Howell et al. 2005", 
+        "Bibcode": "2005ApJ...634.1190H", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-05-01", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "10xua_20101009_KPNO4m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.09", 
+        "Obs. Date": "2010-10-09", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Mayall - RC Spec", 
+        "Observer": "Ben-Ami", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

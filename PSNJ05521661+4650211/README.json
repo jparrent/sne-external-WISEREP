@@ -1,0 +1,15 @@
+{
+    "PSN_J05521661p4650211_2015-01-30_22:30:07_Asiago.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.0224", 
+        "Obs. Date": "2015-01-30", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

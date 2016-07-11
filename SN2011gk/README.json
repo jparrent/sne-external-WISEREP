@@ -1,0 +1,15 @@
+{
+    "SN2011gk_2011-09-29_20:47:07_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.044", 
+        "Obs. Date": "2011-09-29", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Traverso L. - Rigoni L.", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

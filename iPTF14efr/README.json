@@ -1,0 +1,15 @@
+{
+    "14efr_20140829_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.05", 
+        "Obs. Date": "2014-08-29", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Waszczak", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-09-04", 
+        "Modified By": "ofer"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "j090022_20101012_gemini.flm": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.91", 
+        "Obs. Date": "2010-10-12", 
+        "Program": "PS1", 
+        "Contributor": "Chomiuk et al. 2011", 
+        "Bibcode": "2011ApJ...743..114C", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Rodney", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "j090022_20101127_hecto.flm": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.91", 
+        "Obs. Date": "2010-11-27", 
+        "Program": "PS1", 
+        "Contributor": "Chomiuk et al. 2011", 
+        "Bibcode": "2011ApJ...743..114C", 
+        "Instrument": "MMT - Hectospec", 
+        "Observer": "Chornock/Berger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }, 
+    "j090022_20101209_mmtblue.flm": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.91", 
+        "Obs. Date": "2010-12-09", 
+        "Program": "PS1", 
+        "Contributor": "Chomiuk et al. 2011", 
+        "Bibcode": "2011ApJ...743..114C", 
+        "Instrument": "MMT - MMT-Blue", 
+        "Observer": "Chornock/Berger", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-02", 
+        "Modified By": "admin-UploadSet"
+    }
+}

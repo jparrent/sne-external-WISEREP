@@ -1,0 +1,15 @@
+{
+    "15bwe_20150807_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.07", 
+        "Obs. Date": "2015-08-07", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Pavanman", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-08-31", 
+        "Modified By": "ilanm"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "2005la_10051205_Quimby.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.01856", 
+        "Obs. Date": "2005-12-07", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..131P", 
+        "Instrument": "HET - HET-LRS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2005la_20051210.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.01856", 
+        "Obs. Date": "2005-12-10", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..131P", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2005la_20051211.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.01856", 
+        "Obs. Date": "2005-12-11", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..131P", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2005la_20051223.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.01856", 
+        "Obs. Date": "2005-12-23", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..131P", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

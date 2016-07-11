@@ -1,0 +1,15 @@
+{
+    "tns_2016xb_2016-02-05_01-39-36_LT_SPRAT.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.02", 
+        "Obs. Date": "2016-02-05", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LT - SPRAT", 
+        "Observer": "Andrzej Piascik", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-05", 
+        "Modified By": "upload-TNS"
+    }
+}

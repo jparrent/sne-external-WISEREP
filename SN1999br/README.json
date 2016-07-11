@@ -1,0 +1,15 @@
+{
+    "1999br_19990720.ascii": {
+        "Type": "SN II-pec", 
+        "Redshift": "0.003406", 
+        "Obs. Date": "1999-07-20", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2004", 
+        "Bibcode": "2004MNRAS.347...74P", 
+        "Instrument": "Danish-1.54m - DFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

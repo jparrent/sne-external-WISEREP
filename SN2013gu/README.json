@@ -1,0 +1,15 @@
+{
+    "SN2013gu_2013-12-06_20:08:33_Asiago.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.017742", 
+        "Obs. Date": "2013-12-06", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tartaglia tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "sn2005cp-20050716-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2005-07-16", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Gal-Yam+Sharon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20050813-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2005-08-13", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Brad Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20050908-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2005-09-08", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Douglas Leonard", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20051024-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2005-10-24", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Avishay Gal-yam", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20051224-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2005-12-24", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Dave Sand", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20060108-br2.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2006-01-08", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Cenko+Ballmer", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }, 
+    "sn2005cp-20060120-br.flm": {
+        "Type": "SN IIn", 
+        "Redshift": "0.022115", 
+        "Obs. Date": "2006-01-20", 
+        "Program": "CCCP", 
+        "Contributor": "", 
+        "Bibcode": "2012ApJ...744...10K", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Dae-Sik Moon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2010-12-15", 
+        "Modified By": "avishay"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "2014av_20140423_Lijiang2p4_YFOSC_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-04-23", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140501_Lijiang2p4_YFOSC_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-01", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140503_TNG_LRS_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-03", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140504_Lijiang2p4_YFOSC_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-04", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140510_NOT_ALFOSC_gm4_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-10", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140519_TNG_LRS_LRR_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-19", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }, 
+    "2014av_20140527_TNG_LRS_LRB_cal.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.030154", 
+        "Obs. Date": "2014-05-27", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2016", 
+        "Bibcode": "2016MNRAS.456..853P", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-15", 
+        "Modified By": "ilanm"
+    }
+}

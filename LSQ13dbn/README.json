@@ -1,0 +1,15 @@
+{
+    "LSQ13dbn_20131123_Gr13_Free_slit1.0_57001_2.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.11", 
+        "Obs. Date": "2013-11-24", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Dennefeld/Bersier", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

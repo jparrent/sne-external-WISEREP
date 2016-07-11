@@ -1,0 +1,15 @@
+{
+    "15cqf_20150917_Keck2_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0794", 
+        "Obs. Date": "2015-09-17", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Duggan, Lunnan, Khazov", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-09-21", 
+        "Modified By": "upload-marshalspec"
+    }
+}

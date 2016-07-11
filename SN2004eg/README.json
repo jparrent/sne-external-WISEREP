@@ -1,0 +1,28 @@
+{
+    "2004eg_20040914.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.008051", 
+        "Obs. Date": "2004-09-14", 
+        "Program": "", 
+        "Contributor": "Spiro et al. 2014", 
+        "Bibcode": "2014MNRAS.tmp..367S", 
+        "Instrument": "LCO-duPont - WFCCD", 
+        "Observer": "M.Hamuy", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-03-18", 
+        "Modified By": "ilanm"
+    }, 
+    "2004eg_20041202.ascii": {
+        "Type": "SN IIP", 
+        "Redshift": "0.008051", 
+        "Obs. Date": "2004-12-02", 
+        "Program": "", 
+        "Contributor": "Spiro et al. 2014", 
+        "Bibcode": "2014MNRAS.tmp..367S", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Service", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-03-18", 
+        "Modified By": "ilanm"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "2000er_20001125.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2000-11-25", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..113P", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2000er_20001126.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2000-11-26", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..113P", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2000er_20001127_corr.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2000-11-27", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..113P", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2000er_20001129.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2000-11-29", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..113P", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "2000er_20001130.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2000-11-30", 
+        "Program": "", 
+        "Contributor": "Pastorello et al. 2008", 
+        "Bibcode": "2008MNRAS.389..113P", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-06-19", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "2008ha_20081111.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-11-11", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "Other - Other", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }, 
+    "2008ha_20081123.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-11-23", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }, 
+    "2008ha_20081127.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-11-27", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }, 
+    "2008ha_20081128.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-11-28", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ofer"
+    }, 
+    "2008ha_20081206.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-12-06", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }, 
+    "2008ha_20081221.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2008-12-21", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }, 
+    "2008ha_20090119.ascii": {
+        "Type": "SN Ia-02cx-like", 
+        "Redshift": "0.004647", 
+        "Obs. Date": "2009-01-19", 
+        "Program": "", 
+        "Contributor": "Valenti et al. 2009", 
+        "Bibcode": "2009Natur.459..674V", 
+        "Instrument": "TNG - DOLORES", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-04", 
+        "Modified By": "ilanm"
+    }
+}

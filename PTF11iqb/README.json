@@ -1,0 +1,15 @@
+{
+    "11iqb_20110724_GS_v1.ascii": {
+        "Type": "SN IIb", 
+        "Redshift": "0.0125", 
+        "Obs. Date": "2011-07-24", 
+        "Program": "PTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "Gemini-S - GMOS-S", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-29", 
+        "Modified By": "ofer"
+    }
+}

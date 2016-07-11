@@ -1,0 +1,15 @@
+{
+    "SN2013ff_2013-09-02_22:50:49_Asiago.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.004923", 
+        "Obs. Date": "2013-09-02", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "zaggia", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

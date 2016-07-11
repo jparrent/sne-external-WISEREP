@@ -1,0 +1,15 @@
+{
+    "tns_2016cwe_2016-06-07_00-00-00_Keck1_LRIS.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.15", 
+        "Obs. Date": "2016-06-07", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "N. Blagorodnova", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-19", 
+        "Modified By": "upload-TNS"
+    }
+}

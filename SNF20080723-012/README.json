@@ -1,0 +1,41 @@
+{
+    "SNF20080723-012_20090426_FORS2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0745", 
+        "Obs. Date": "2009-04-26", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2013", 
+        "Bibcode": "2013MNRAS.432.3117T", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SNF20080723-012_20090522_FORS2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0745", 
+        "Obs. Date": "2009-05-22", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2013", 
+        "Bibcode": "2013MNRAS.432.3117T", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "SNF20080723-012_20090618_FORS2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0745", 
+        "Obs. Date": "2009-06-19", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2013", 
+        "Bibcode": "2013MNRAS.432.3117T", 
+        "Instrument": "VLT-UT1 - FORS2", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm"
+    }
+}

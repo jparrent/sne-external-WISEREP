@@ -1,0 +1,15 @@
+{
+    "14jfw_20141222_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2014-12-22", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Pavan Bilgi, Shri Kulkarni", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-01-04", 
+        "Modified By": "upload-marshalspec"
+    }
+}

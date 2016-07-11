@@ -1,0 +1,15 @@
+{
+    "10uls_20100910_KPNO4m_v1.ascii": {
+        "Type": "SN IIn", 
+        "Redshift": "0.044", 
+        "Obs. Date": "2010-09-10", 
+        "Program": "PTF", 
+        "Contributor": "Khazov et al. 2015", 
+        "Bibcode": "", 
+        "Instrument": "Mayall - RC Spec", 
+        "Observer": "Kulkarni, Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-03", 
+        "Modified By": "ofer"
+    }
+}

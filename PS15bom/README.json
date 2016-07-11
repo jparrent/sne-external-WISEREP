@@ -1,0 +1,15 @@
+{
+    "PS15bom_2015-08-06_00:38:01_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.02", 
+        "Obs. Date": "2015-08-06", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Ochner", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

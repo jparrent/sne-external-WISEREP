@@ -1,0 +1,15 @@
+{
+    "tns_2016aai_2015-12-10.91_LJT_YFOSC.dat": {
+        "Type": "SN IIP", 
+        "Redshift": "0.007972", 
+        "Obs. Date": "2015-12-10", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Ju-Jia Zhang", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "upload-TNS"
+    }
+}

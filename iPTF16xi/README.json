@@ -1,0 +1,15 @@
+{
+    "16xi_20160410_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06391", 
+        "Obs. Date": "2016-04-10", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Ravi, Cao, Yan, Vedantham, Kulkarni", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-04-19", 
+        "Modified By": "ofer"
+    }
+}

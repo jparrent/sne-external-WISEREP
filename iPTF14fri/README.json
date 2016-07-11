@@ -1,0 +1,15 @@
+{
+    "14fri_20140918_FTS_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.081", 
+        "Obs. Date": "2014-09-18", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTS - FLOYDS-S", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-05", 
+        "Modified By": "ilanm"
+    }
+}

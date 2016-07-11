@@ -1,0 +1,15 @@
+{
+    "LSQ12hnj_20121222_Gr11_Free_slit1.0_56448_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.015", 
+        "Obs. Date": "2012-12-23", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "LeGuillou", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

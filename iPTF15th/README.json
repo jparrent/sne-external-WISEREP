@@ -1,0 +1,15 @@
+{
+    "15th_20150320_FTS_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.1", 
+        "Obs. Date": "2015-03-20", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTS - FLOYDS-S", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-04-03", 
+        "Modified By": "upload-marshalspec"
+    }
+}

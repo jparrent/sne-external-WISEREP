@@ -1,0 +1,15 @@
+{
+    "11ctn_20110502_WHT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.079", 
+        "Obs. Date": "2011-05-02", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "Morgan Fraser", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

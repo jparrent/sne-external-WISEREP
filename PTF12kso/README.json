@@ -1,0 +1,67 @@
+{
+    "calib_12kso_20121106_Copernico.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2012-11-06", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "calib_12kso_20121107_P200_v1.ascii.txt_noheader.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2012-11-07", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "calib_12kso_20121113_P200_v1.ascii.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2012-11-13", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "calib_12kso_20121209_Keck2_v2.ascii.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2012-12-09", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "calib_12kso_20130108_Keck2_v1.ascii.txt": {
+        "Type": "SN II", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2013-01-08", 
+        "Program": "", 
+        "Contributor": "Taddia et al. 2016", 
+        "Bibcode": "2016A&A...588A...5T", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-14", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

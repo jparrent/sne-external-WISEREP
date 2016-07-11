@@ -1,0 +1,28 @@
+{
+    "None_2016F_2016-01-10_13:40:01_BAO-2.16m_BFOSC.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.016", 
+        "Obs. Date": "2016-01-10", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "XLT - BFOSC", 
+        "Observer": "Meng Zhai", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-11", 
+        "Modified By": "upload-TNS"
+    }, 
+    "None_2016F_2016-01-15_05:08:31_Other_Other.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.016", 
+        "Obs. Date": "2016-01-15", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Other - Other", 
+        "Observer": "Balam", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-01-15", 
+        "Modified By": "upload-TNS"
+    }
+}

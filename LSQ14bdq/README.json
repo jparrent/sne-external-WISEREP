@@ -1,0 +1,41 @@
+{
+    "LSQ14bdq_20140504_Gr13_Free_slit1.0_57004_1.dat": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.35", 
+        "Obs. Date": "2014-05-04", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Polshaw,Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_2.dat": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.35", 
+        "Obs. Date": "2014-05-06", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Polshaw,Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }, 
+    "LSQ14bdq_20140506_Gr11_Free_slit1.0_57004_1.dat": {
+        "Type": "SLSN-I", 
+        "Redshift": "0.35", 
+        "Obs. Date": "2014-05-07", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Polshaw,Benitez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-10-27", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

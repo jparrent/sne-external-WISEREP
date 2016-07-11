@@ -1,0 +1,15 @@
+{
+    "tns_2016adl_2016-02-09.8_FTS_FLOYDS-S_LCOGT_SN-KP.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.007", 
+        "Obs. Date": "2016-02-09", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "FTS - FLOYDS-S", 
+        "Observer": "LCOGT", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-11", 
+        "Modified By": "upload-TNS"
+    }
+}

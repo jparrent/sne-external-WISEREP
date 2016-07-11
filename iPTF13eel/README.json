@@ -1,0 +1,15 @@
+{
+    "13eel_20131202_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.09", 
+        "Obs. Date": "2013-12-02", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Cao, Perley", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-12-30", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

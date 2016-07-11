@@ -1,0 +1,15 @@
+{
+    "14gxf_20141025_Keck2_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.135", 
+        "Obs. Date": "2014-10-25", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Cao", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-30", 
+        "Modified By": "upload-marshalspec"
+    }
+}

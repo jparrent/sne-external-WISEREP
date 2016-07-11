@@ -1,0 +1,15 @@
+{
+    "tASASSN-15tt_20151210_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.034", 
+        "Obs. Date": "2015-12-11", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "LE GUILLOU, LE BRETON", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2015-12-11", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

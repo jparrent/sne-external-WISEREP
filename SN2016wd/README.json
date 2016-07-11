@@ -1,0 +1,15 @@
+{
+    "tns_2016wd_2016-02-07_00-00-00_Keck1_LRIS_iPTF.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.064", 
+        "Obs. Date": "2016-02-07", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "R. Lunnan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-22", 
+        "Modified By": "upload-TNS"
+    }
+}

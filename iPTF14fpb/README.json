@@ -1,0 +1,15 @@
+{
+    "14fpb_20140918_NOT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2014-09-18", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "NOT - ALFOSC", 
+        "Observer": "Mattias-Ergon", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-10-05", 
+        "Modified By": "ilanm"
+    }
+}

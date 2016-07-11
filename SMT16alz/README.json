@@ -1,0 +1,15 @@
+{
+    "tSMT16alz_20160410_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia", 
+        "Redshift": "0.07", 
+        "Obs. Date": "2016-04-10", 
+        "Program": "PESSTO", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Johansson/Magee/Bar", 
+        "Reduction Status": "rapid", 
+        "Last Modified": "2016-04-11", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

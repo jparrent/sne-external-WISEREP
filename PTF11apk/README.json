@@ -1,0 +1,28 @@
+{
+    "11apk_20110215_Gemini N_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0405", 
+        "Obs. Date": "2011-02-15", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11apk_20110222_WHT_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0405", 
+        "Obs. Date": "2011-02-22", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "WHT-4.2m - ISIS", 
+        "Observer": "sullivan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

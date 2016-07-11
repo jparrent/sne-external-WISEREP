@@ -1,0 +1,15 @@
+{
+    "15bfs_20150617_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.137", 
+        "Obs. Date": "2015-06-17", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Pavan Bilgi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-06-18", 
+        "Modified By": "upload-marshalspec"
+    }
+}

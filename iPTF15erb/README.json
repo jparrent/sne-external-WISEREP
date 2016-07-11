@@ -1,0 +1,15 @@
+{
+    "15erb_20151207_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.114", 
+        "Obs. Date": "2015-12-07", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "David Cook", 
+        "Reduction Status": "final", 
+        "Last Modified": "2015-12-14", 
+        "Modified By": "ofer"
+    }
+}

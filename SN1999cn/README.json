@@ -1,0 +1,15 @@
+{
+    "1999cn_20000408.ascii": {
+        "Type": "SN Ic", 
+        "Redshift": "0.0217", 
+        "Obs. Date": "2000-04-08", 
+        "Program": "", 
+        "Contributor": "Taubenberger et al 2009", 
+        "Bibcode": "2009MNRAS.397..677T", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-07-28", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

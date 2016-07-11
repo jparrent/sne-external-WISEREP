@@ -1,0 +1,28 @@
+{
+    "tns_2016cvm_2457557.539768_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.069", 
+        "Obs. Date": "2016-06-18", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-18", 
+        "Modified By": "upload-TNS"
+    }, 
+    "tns_2016cvm_2016-06-19_07-12-07_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.069", 
+        "Obs. Date": "2016-06-19", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P60 - SED-Machine", 
+        "Observer": "Walters", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-06-19", 
+        "Modified By": "upload-TNS"
+    }
+}

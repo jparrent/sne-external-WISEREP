@@ -1,0 +1,15 @@
+{
+    "10aaiw_20101107_WHT_v2.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.06", 
+        "Obs. Date": "2010-11-07", 
+        "Program": "PTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "WHT-4.2m - ACAM", 
+        "Observer": "Kars Verbeek, Sjoert van Velzen, Madelon Bours", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

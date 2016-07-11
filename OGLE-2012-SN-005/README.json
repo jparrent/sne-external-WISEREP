@@ -1,0 +1,15 @@
+{
+    "OGLE-2012-SN-005_20121120_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.076", 
+        "Obs. Date": "2012-11-21", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "J.Anderson, C.Gutierrez", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "11rpz_20120102_APO_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.066", 
+        "Obs. Date": "2012-01-02", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "APO 3.5m - DIS", 
+        "Observer": "Mansi", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-07-05", 
+        "Modified By": "upload-marshalspec"
+    }
+}

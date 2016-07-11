@@ -1,0 +1,15 @@
+{
+    "SSS120814-221352-124_20120826_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.08", 
+        "Obs. Date": "2012-08-27", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "INSERRA/CELLIER-HOLZEM", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

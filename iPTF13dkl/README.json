@@ -1,0 +1,15 @@
+{
+    "13dkl_20130913_P200_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2013-09-13", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Johansson", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-23", 
+        "Modified By": "ofer"
+    }
+}

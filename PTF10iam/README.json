@@ -1,0 +1,41 @@
+{
+    "PTF10iam-20100608.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.109", 
+        "Obs. Date": "2010-06-08", 
+        "Program": "PTF", 
+        "Contributor": "Arcavi et al. 2016", 
+        "Bibcode": "2016ApJ...819...35A", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Robert Quimby", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-08", 
+        "Modified By": "ilanm"
+    }, 
+    "10iam_20100707_Keck1_v2.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.109", 
+        "Obs. Date": "2010-07-07", 
+        "Program": "PTF", 
+        "Contributor": "Arcavi et al. 2016", 
+        "Bibcode": "2016ApJ...819...35A", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Cenko, Perley, Cucchiara, Bloom", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-08", 
+        "Modified By": "ilanm"
+    }, 
+    "10iam_20100718_P200_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.109", 
+        "Obs. Date": "2010-07-18", 
+        "Program": "PTF", 
+        "Contributor": "Arcavi et al. 2016", 
+        "Bibcode": "2016ApJ...819...35A", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Ben-Ami", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-08", 
+        "Modified By": "ilanm"
+    }
+}

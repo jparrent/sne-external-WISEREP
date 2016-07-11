@@ -1,0 +1,15 @@
+{
+    "tns_2016aqp_2016-02-27.51_LJT_YFOSC.dat": {
+        "Type": "SN IIP", 
+        "Redshift": "0.016", 
+        "Obs. Date": "2016-02-27", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "LJT - YFOSC", 
+        "Observer": "Chuan-Jun Wang and Ju-Jia Zhang", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-28", 
+        "Modified By": "upload-TNS"
+    }
+}

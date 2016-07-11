@@ -1,0 +1,15 @@
+{
+    "SN2003hn_2003-08-26.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.0039", 
+        "Obs. Date": "2003-08-26", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "13efe_20131205_Gemini_N_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.07", 
+        "Obs. Date": "2013-12-05", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Geballe", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-12-30", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

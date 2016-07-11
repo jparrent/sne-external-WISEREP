@@ -1,0 +1,15 @@
+{
+    "SNnearNGC1082_2014-10-27_22:09:34_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.03", 
+        "Obs. Date": "2014-10-27", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "pastorello", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

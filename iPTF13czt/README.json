@@ -1,0 +1,15 @@
+{
+    "13czt_20130903_Magellan_Baade_v1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.04", 
+        "Obs. Date": "2013-09-03", 
+        "Program": "iPTF", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Baade - IMACS", 
+        "Observer": "Kasliwal", 
+        "Reduction Status": "final", 
+        "Last Modified": "2013-09-11", 
+        "Modified By": "iair"
+    }
+}

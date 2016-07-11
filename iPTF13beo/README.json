@@ -1,0 +1,41 @@
+{
+    "13beo_20130521_UH88_v1.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.091", 
+        "Obs. Date": "2013-05-21", 
+        "Program": "iPTF", 
+        "Contributor": "Gorbikov et al. 2014", 
+        "Bibcode": "2013arXiv1312.0012G", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "nchotard", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-15", 
+        "Modified By": "ofer"
+    }, 
+    "13beo_20130521_UH88_v2.ascii": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.091", 
+        "Obs. Date": "2013-05-21", 
+        "Program": "iPTF", 
+        "Contributor": "Gorbikov et al. 2014", 
+        "Bibcode": "2013arXiv1312.0012G", 
+        "Instrument": "UH88 - SNIFS", 
+        "Observer": "Chotard Nicolas", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-15", 
+        "Modified By": "ofer"
+    }, 
+    "13beo-DBSP-20130603-br.flm": {
+        "Type": "SN Ibn", 
+        "Redshift": "0.091", 
+        "Obs. Date": "2013-06-03", 
+        "Program": "iPTF", 
+        "Contributor": "Gorbikov et al. 2014", 
+        "Bibcode": "2013arXiv1312.0012G", 
+        "Instrument": "P200 - DBSP", 
+        "Observer": "Kulkarni, Cao, De Cia, Yaron", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-07", 
+        "Modified By": "ofer"
+    }
+}

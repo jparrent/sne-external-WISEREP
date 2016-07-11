@@ -1,0 +1,15 @@
+{
+    "SN2015X_2015-03-09_20:11:17_Asiago.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.01", 
+        "Obs. Date": "2015-03-09", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

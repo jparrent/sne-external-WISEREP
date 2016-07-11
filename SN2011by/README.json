@@ -1,0 +1,54 @@
+{
+    "sw00031977006ugu_1ord_20110501.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.002843", 
+        "Obs. Date": "2011-05-01", 
+        "Program": "", 
+        "Contributor": "Smitka et al. 2016", 
+        "Bibcode": "2016PASP...128...961", 
+        "Instrument": "Swift-UVOT - UV-grism", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sw00031977014ugu_1ord_20110505.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.002843", 
+        "Obs. Date": "2011-05-05", 
+        "Program": "", 
+        "Contributor": "Smitka et al. 2016", 
+        "Bibcode": "2016PASP...128...961", 
+        "Instrument": "Swift-UVOT - UV-grism", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sw00031977019ugu_1ord_20110507.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.002843", 
+        "Obs. Date": "2011-05-07", 
+        "Program": "", 
+        "Contributor": "Smitka et al. 2016", 
+        "Bibcode": "2016PASP...128...961", 
+        "Instrument": "Swift-UVOT - UV-grism", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "ilanm-UploadSet"
+    }, 
+    "sw00031977024ugu_1ord_20110510.dat": {
+        "Type": "SN Ia", 
+        "Redshift": "0.002843", 
+        "Obs. Date": "2011-05-10", 
+        "Program": "", 
+        "Contributor": "Smitka et al. 2016", 
+        "Bibcode": "2016PASP...128...961", 
+        "Instrument": "Swift-UVOT - UV-grism", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-07", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

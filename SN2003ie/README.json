@@ -1,0 +1,28 @@
+{
+    "2003ie_20030922_1d.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.002336", 
+        "Obs. Date": "2003-09-22", 
+        "Program": "Other", 
+        "Contributor": "", 
+        "Bibcode": "Harutyunyan et al. 2008", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Benetti", 
+        "Reduction Status": "final", 
+        "Last Modified": "2012-09-24", 
+        "Modified By": "iair"
+    }, 
+    "SN2003ie_2003-09-22.dat": {
+        "Type": "SN II", 
+        "Redshift": "0.002336", 
+        "Obs. Date": "2003-09-22", 
+        "Program": "", 
+        "Contributor": "Harutyunyan et al. 2008", 
+        "Bibcode": "2008A&A...488..383H", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-09", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

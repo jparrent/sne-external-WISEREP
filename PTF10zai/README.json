@@ -1,0 +1,28 @@
+{
+    "10zai_20101104_KPNO4m_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0357", 
+        "Obs. Date": "2010-11-04", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Mayall - RC Spec", 
+        "Observer": "Arcavi+Xu", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "10zai_20101107_Keck2_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0357", 
+        "Obs. Date": "2010-11-07", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Keck2 - DEIMOS", 
+        "Observer": "Silverman, Filippenko, Foley, Cenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

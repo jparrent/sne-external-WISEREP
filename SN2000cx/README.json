@@ -1,0 +1,15 @@
+{
+    "SN2000cx_20000823_wise_fosc.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.008076", 
+        "Obs. Date": "2000-08-23", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Wise1m - FOSC", 
+        "Observer": "Dann, J.", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-08-10", 
+        "Modified By": "ilanm-UploadSet"
+    }
+}

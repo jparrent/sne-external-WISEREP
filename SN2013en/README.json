@@ -1,0 +1,15 @@
+{
+    "SN2013en_2013-07-31_20:21:35_Asiago.ascii": {
+        "Type": "SN Ia-pec", 
+        "Redshift": "0.015207", 
+        "Obs. Date": "2013-07-31", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "PSNJ02452841-6207214_20120916_Gr13_Free_slit1.0_56456_1.ascii": {
+        "Type": "SN II", 
+        "Redshift": "0.026", 
+        "Obs. Date": "2012-09-17", 
+        "Program": "PESSTO-SSDR", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "Arcavi, Pan", 
+        "Reduction Status": "final", 
+        "Last Modified": "2014-07-30", 
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "tns_2016zr_2016-02-05_03-10-41_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
+        "Type": "SN II", 
+        "Redshift": "0.0536", 
+        "Obs. Date": "2016-02-05", 
+        "Program": "", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "ESO-NTT - EFOSC2-NTT", 
+        "Observer": "A. Cikota, G. Terreran, N. Elias-Rosa", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-02-05", 
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "SN2008hv_15Dec2008_MWNa.txt": {
+        "Type": "SN Ia", 
+        "Redshift": "0.012549", 
+        "Obs. Date": "2008-12-15", 
+        "Program": "Other", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Magellan-Clay - MIKE", 
+        "Observer": "Carnegie", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-08-12", 
+        "Modified By": "assaf"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "11hub_20110716_Gemini N_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0287", 
+        "Obs. Date": "2011-07-16", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11hub_20110717_Gemini N_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0287", 
+        "Obs. Date": "2011-07-17", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Gemini-N - GMOS", 
+        "Observer": "Unknown", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }, 
+    "11hub_20110801_Keck1_v1.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.0287", 
+        "Obs. Date": "2011-08-01", 
+        "Program": "PTF", 
+        "Contributor": "Maguire et al. 2014", 
+        "Bibcode": "2014arXiv1408.1430M", 
+        "Instrument": "Keck1 - LRIS", 
+        "Observer": "Silverman, Cenko, Filippenko", 
+        "Reduction Status": "final", 
+        "Last Modified": "2011-11-23", 
+        "Modified By": "upload-marshalspec"
+    }
+}

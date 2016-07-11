@@ -1,0 +1,15 @@
+{
+    "ASASSNm15cq_2015-02-10_00:27:06_Asiago.ascii": {
+        "Type": "SN Ia", 
+        "Redshift": "0.02727", 
+        "Obs. Date": "2015-02-10", 
+        "Program": "Asiago", 
+        "Contributor": "", 
+        "Bibcode": "", 
+        "Instrument": "Ekar - AFOSC", 
+        "Observer": "Benetti Tomasella", 
+        "Reduction Status": "final", 
+        "Last Modified": "2016-03-31", 
+        "Modified By": "ofer-UploadSet"
+    }
+}
