@@ -1,15 +1,16 @@
 {
     "2000ew_20010317.ascii": {
-        "Type": "SN Ic", 
-        "Redshift": "0.0035", 
-        "Obs. Date": "2001-03-17", 
-        "Program": "", 
-        "Contributor": "Taubenberger et al 2009", 
-        "Bibcode": "2009MNRAS.397..677T", 
-        "Instrument": "Danish-1.54m - DFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-07-28", 
+        "Type": "SN Ic",
+        "Redshift": "0.0035",
+        "Obs. Date": "2001-03-17",
+        "Program": "",
+        "Contributor": "Taubenberger et al 2009",
+        "Bibcode": "2009MNRAS.397..677T",
+        "Instrument": "Danish-1.54m - DFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-07-28",
         "Modified By": "ilanm-UploadSet"
     }
 }

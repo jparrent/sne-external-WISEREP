@@ -1,15 +1,16 @@
 {
     "SN2011hk_2011-11-01_00:12:44_Asiago.ascii": {
-        "Type": "SN Ia-pec", 
-        "Redshift": "0.018", 
-        "Obs. Date": "2011-11-01", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Chiomento Traverso", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2011-11-01",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Chiomento Traverso",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

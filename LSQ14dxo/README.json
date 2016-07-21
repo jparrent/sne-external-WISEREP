@@ -1,15 +1,16 @@
 {
     "tLSQ14dxo_20140819_Gr13_Free_slit1.0_56889_1_e.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2014-08-20", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "HODGKIN/FRASER", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-08-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2014-08-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "HODGKIN/FRASER",
+        "Reducer": "HODGKIN/FRASER",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-08-21",
         "Modified By": "ilanm-UploadSet"
     }
 }

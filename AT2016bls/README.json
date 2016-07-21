@@ -1,15 +1,16 @@
 {
     "tLSQ16aki_20160405_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "", 
-        "Redshift": "", 
-        "Obs. Date": "2016-04-06", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Johansson/Magee/Bar", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-04-06", 
+        "Type": "",
+        "Redshift": "",
+        "Obs. Date": "2016-04-06",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Johansson/Magee/Bar",
+        "Reducer": "Johansson/Magee/Bar",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-04-06",
         "Modified By": "ofer-UploadSet"
     }
 }

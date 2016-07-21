@@ -1,15 +1,16 @@
 {
     "13ajv_20130409_UH88_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.09", 
-        "Obs. Date": "2013-04-09", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "UH88 - SNIFS", 
-        "Observer": "birchall", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-04-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2013-04-09",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "birchall",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-21",
         "Modified By": "upload-marshalspec"
     }
 }

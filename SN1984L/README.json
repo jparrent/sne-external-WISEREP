@@ -1,15 +1,16 @@
 {
     "sn1984L-19851021.flm": {
-        "Type": "SN Ib", 
-        "Redshift": "0.01", 
-        "Obs. Date": "1985-10-21", 
-        "Program": "", 
-        "Contributor": "Modjaz et al. 2008; Schlegel & Kirshner 1989", 
-        "Bibcode": "2008ApJ...687L...9M", 
-        "Instrument": "Other - Other", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-03-18", 
+        "Type": "SN Ib",
+        "Redshift": "0.01",
+        "Obs. Date": "1985-10-21",
+        "Program": "",
+        "Contributor": "Modjaz et al. 2008; Schlegel & Kirshner 1989",
+        "Bibcode": "2008ApJ...687L...9M",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-03-18",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "tPSNJ14095513+1731556_20150214_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia-91bg-like", 
-        "Redshift": "0.016195", 
-        "Obs. Date": "2015-02-15", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Laurent Le Guillou", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-02-15", 
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.016195",
+        "Obs. Date": "2015-02-15",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Laurent Le Guillou",
+        "Reducer": "Pierre-Francoi Leget",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-02-15",
         "Modified By": "ilanm-UploadSet"
     }
 }

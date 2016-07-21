@@ -1,15 +1,16 @@
 {
     "CSS151130_014258p273410_2015-12-03_20:58:06_Asiago.ascii": {
-        "Type": "SN IIb", 
-        "Redshift": "0.04", 
-        "Obs. Date": "2015-12-03", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Pastorello Tartaglia", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN IIb",
+        "Redshift": "0.04",
+        "Obs. Date": "2015-12-03",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Pastorello Tartaglia",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

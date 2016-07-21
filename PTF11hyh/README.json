@@ -1,15 +1,16 @@
 {
     "PTF11hyh-20110806.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.06", 
-        "Obs. Date": "2011-08-06", 
-        "Program": "PTF", 
-        "Contributor": "White et al. 2015", 
-        "Bibcode": "2015ApJ...799...52W", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Assaf Horesh, Yi Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-08-08", 
+        "Type": "SN Ia",
+        "Redshift": "0.06",
+        "Obs. Date": "2011-08-06",
+        "Program": "PTF",
+        "Contributor": "White et al. 2015",
+        "Bibcode": "2015ApJ...799...52W",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Assaf Horesh, Yi Cao",
+        "Reducer": "Dong Xu",
+        "Reduction Status": "final",
+        "Last Modified": "2011-08-08",
         "Modified By": "dong-BunchUpload"
     }
 }

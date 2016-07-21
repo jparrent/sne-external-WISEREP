@@ -1,15 +1,16 @@
 {
     "09edr_20090923_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.085", 
-        "Obs. Date": "2009-09-23", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Kasliwal, Levitan, Bhalerao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.085",
+        "Obs. Date": "2009-09-23",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Kasliwal, Levitan, Bhalerao",
+        "Reducer": "Quimby",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

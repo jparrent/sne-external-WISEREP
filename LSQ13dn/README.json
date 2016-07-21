@@ -1,15 +1,16 @@
 {
     "LSQ13dn_20130112_Gr13_Free_slit1.0_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.105", 
-        "Obs. Date": "2013-01-13", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Jesper Sollerman and Francesco Taddia", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.105",
+        "Obs. Date": "2013-01-13",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Jesper Sollerman and Francesco Taddia",
+        "Reducer": "Mattias Ergon and Giorgos Leloudas",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

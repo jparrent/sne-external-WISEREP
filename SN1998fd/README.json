@@ -1,15 +1,16 @@
 {
     "1998fd.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.24", 
-        "Obs. Date": "1999-01-19", 
-        "Program": "WOOTS", 
-        "Contributor": "Gal-yam et al. 2008", 
-        "Bibcode": "2008ApJ...680..550G", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Filippenko, Leonard, & Riess", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-07-25", 
+        "Type": "SN Ia",
+        "Redshift": "0.24",
+        "Obs. Date": "1999-01-19",
+        "Program": "WOOTS",
+        "Contributor": "Gal-yam et al. 2008",
+        "Bibcode": "2008ApJ...680..550G",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Filippenko, Leonard, & Riess",
+        "Reducer": "Filippenko, Leonard, & Riess",
+        "Reduction Status": "final",
+        "Last Modified": "2012-07-25",
         "Modified By": "aryehf-UploadSet"
     }
 }

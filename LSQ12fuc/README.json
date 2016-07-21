@@ -1,15 +1,16 @@
 {
     "LSQ12fuc_20121104_Gr13_Free_slit1.0_56456_2.ascii": {
-        "Type": "SN II-pec", 
-        "Redshift": "0.042", 
-        "Obs. Date": "2012-11-05", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "F. Bufano, S. Gonzalez-Gaitan, S. Marchi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN II-pec",
+        "Redshift": "0.042",
+        "Obs. Date": "2012-11-05",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "F. Bufano, S. Gonzalez-Gaitan, S. Marchi",
+        "Reducer": "F. Forster, J. Anderson",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

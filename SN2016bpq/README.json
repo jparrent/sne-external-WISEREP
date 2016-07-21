@@ -1,15 +1,16 @@
 {
     "tns_2016bpq_2457496.92862_MDM-2.4_OSMOS.txt": {
-        "Type": "SN II", 
-        "Redshift": "", 
-        "Obs. Date": "2016-04-18", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "MDM-2.4 - OSMOS", 
-        "Observer": "D. Godoy-Rivera", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-20", 
+        "Type": "SN II",
+        "Redshift": "",
+        "Obs. Date": "2016-04-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "MDM-2.4 - OSMOS",
+        "Observer": "D. Godoy-Rivera",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-20",
         "Modified By": "upload-TNS"
     }
 }

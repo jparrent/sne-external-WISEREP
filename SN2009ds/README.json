@@ -1,15 +1,16 @@
 {
     "SN2009ds_15May2009_MWNa.txt": {
-        "Type": "SN Ia", 
-        "Redshift": "0.01926", 
-        "Obs. Date": "2008-05-15", 
-        "Program": "Other", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Magellan-Clay - MIKE", 
-        "Observer": "Ian Thompson", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-08-11", 
+        "Type": "SN Ia",
+        "Redshift": "0.01926",
+        "Obs. Date": "2008-05-15",
+        "Program": "Other",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - MIKE",
+        "Observer": "Ian Thompson",
+        "Reducer": "Josh Simon",
+        "Reduction Status": "final",
+        "Last Modified": "2011-08-11",
         "Modified By": "assaf"
     }
 }

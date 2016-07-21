@@ -1,15 +1,16 @@
 {
     "14axv_20140526_Keck2_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.09", 
-        "Obs. Date": "2014-05-26", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "Yi Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-06-08", 
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2014-05-26",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Yi Cao",
+        "Reducer": "annalisa",
+        "Reduction Status": "final",
+        "Last Modified": "2014-06-08",
         "Modified By": "ofer"
     }
 }

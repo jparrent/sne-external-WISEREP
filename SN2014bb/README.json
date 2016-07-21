@@ -1,15 +1,16 @@
 {
     "SN2014bb_2014-05-14_20:09:36_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.02694", 
-        "Obs. Date": "2014-05-14", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.02694",
+        "Obs. Date": "2014-05-14",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

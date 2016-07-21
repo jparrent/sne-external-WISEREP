@@ -1,15 +1,16 @@
 {
     "SN2013hm_2013-12-12_16:59:49_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.031989", 
-        "Obs. Date": "2013-12-12", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Tomasella Pastorello Turatto Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.031989",
+        "Obs. Date": "2013-12-12",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella Pastorello Turatto Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

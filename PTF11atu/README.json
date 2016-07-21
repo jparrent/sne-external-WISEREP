@@ -1,15 +1,16 @@
 {
     "11atu_20110221_WHT_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.084", 
-        "Obs. Date": "2011-02-21", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "WHT-4.2m - ISIS", 
-        "Observer": "Kate Maguire", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.084",
+        "Obs. Date": "2011-02-21",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "WHT-4.2m - ISIS",
+        "Observer": "Kate Maguire",
+        "Reducer": "Kate Maguire",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

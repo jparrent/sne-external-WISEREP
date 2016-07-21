@@ -1,15 +1,16 @@
 {
     "GRB130215A_SN2013ez.ascii": {
-        "Type": "SN Ic", 
-        "Redshift": "0.597", 
-        "Obs. Date": "2013-03-12", 
-        "Program": "", 
-        "Contributor": "Cano et al. 2014", 
-        "Bibcode": "2014arXiv1405.3114C", 
-        "Instrument": "GTC - OSIRIS", 
-        "Observer": "A. de Ugarte Postigo", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-05-20", 
+        "Type": "SN Ic",
+        "Redshift": "0.597",
+        "Obs. Date": "2013-03-12",
+        "Program": "",
+        "Contributor": "Cano et al. 2014",
+        "Bibcode": "2014arXiv1405.3114C",
+        "Instrument": "GTC - OSIRIS",
+        "Observer": "A. de Ugarte Postigo",
+        "Reducer": "A. de Ugarte Postigo",
+        "Reduction Status": "final",
+        "Last Modified": "2014-05-20",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "wiserep_78K.dat": {
-        "Type": "SN IIn", 
-        "Redshift": "0.001568", 
-        "Obs. Date": "2014-11-25", 
-        "Program": "", 
-        "Contributor": "Kuncarayakti et al. 2016", 
-        "Bibcode": "2016MNRAS.458.2063K", 
-        "Instrument": "VLT-UT3 - VIMOS", 
-        "Observer": "H.Kuncarayakti", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-22", 
+        "Type": "SN IIn",
+        "Redshift": "0.001568",
+        "Obs. Date": "2014-11-25",
+        "Program": "",
+        "Contributor": "Kuncarayakti et al. 2016",
+        "Bibcode": "2016MNRAS.458.2063K",
+        "Instrument": "VLT-UT3 - VIMOS",
+        "Observer": "H.Kuncarayakti",
+        "Reducer": "H.Kuncarayakti",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-22",
         "Modified By": "ilanm-UploadSet"
     }
 }

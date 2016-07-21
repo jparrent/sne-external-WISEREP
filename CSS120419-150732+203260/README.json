@@ -1,15 +1,16 @@
 {
     "fcss150732p203300_20120421_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.077", 
-        "Obs. Date": "2012-04-21", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "BENITEZ/VALENTI", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-06-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.077",
+        "Obs. Date": "2012-04-21",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "BENITEZ/VALENTI",
+        "Reducer": "BENITEZ",
+        "Reduction Status": "final",
+        "Last Modified": "2012-06-21",
         "Modified By": "admin"
     }
 }

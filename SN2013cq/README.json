@@ -1,15 +1,16 @@
 {
     "SN2013cq_GTC_scale_plot.txt": {
-        "Type": "SN Ic-BL", 
-        "Redshift": "0.3399", 
-        "Obs. Date": "2013-05-14", 
-        "Program": "", 
-        "Contributor": "Xu et al. 2013", 
-        "Bibcode": "2013ApJ...776...98X", 
-        "Instrument": "GTC - OSIRIS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-15", 
+        "Type": "SN Ic-BL",
+        "Redshift": "0.3399",
+        "Obs. Date": "2013-05-14",
+        "Program": "",
+        "Contributor": "Xu et al. 2013",
+        "Bibcode": "2013ApJ...776...98X",
+        "Instrument": "GTC - OSIRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-15",
         "Modified By": "ilanm-UploadSet"
     }
 }

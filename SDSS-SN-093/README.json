@@ -1,15 +1,16 @@
 {
     "GM13_1207_52672_512.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.040447", 
-        "Obs. Date": "2003-02-02", 
-        "Program": "SDSS-SNe", 
-        "Contributor": "Graur & Maoz 2013", 
-        "Bibcode": "2013MNRAS.430.1746G", 
-        "Instrument": "Sloan - SDSS I-II Spec", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-11-20", 
+        "Type": "SN II",
+        "Redshift": "0.040447",
+        "Obs. Date": "2003-02-02",
+        "Program": "SDSS-SNe",
+        "Contributor": "Graur & Maoz 2013",
+        "Bibcode": "2013MNRAS.430.1746G",
+        "Instrument": "Sloan - SDSS I-II Spec",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-11-20",
         "Modified By": "ofer-UploadSet"
     }
 }

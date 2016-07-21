@@ -1,15 +1,16 @@
 {
     "06D4eu_2006_08_31.dat": {
-        "Type": "SLSN-I", 
-        "Redshift": "1.588", 
-        "Obs. Date": "2006-08-31", 
-        "Program": "SNLS", 
-        "Contributor": "Howell et al. 2013", 
-        "Bibcode": "2013ApJ...779...98H", 
-        "Instrument": "VLT-UT1 - FORS1", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-06-19", 
+        "Type": "SLSN-I",
+        "Redshift": "1.588",
+        "Obs. Date": "2006-08-31",
+        "Program": "SNLS",
+        "Contributor": "Howell et al. 2013",
+        "Bibcode": "2013ApJ...779...98H",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-06-19",
         "Modified By": "admin"
     }
 }

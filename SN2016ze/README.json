@@ -1,15 +1,16 @@
 {
     "tns_2016ze_2016-02-02_13-13-35_P200_DBSP_iPTF.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.09", 
-        "Obs. Date": "2016-02-02", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "R. Lunnan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-02-04", 
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2016-02-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "R. Lunnan",
+        "Reducer": "P. Vreeswijk",
+        "Reduction Status": "final",
+        "Last Modified": "2016-02-04",
         "Modified By": "upload-TNS"
     }
 }

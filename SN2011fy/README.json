@@ -1,15 +1,16 @@
 {
     "SN2011fy_2011-09-24_19:30:42_Asiago.ascii": {
-        "Type": "SN IIP", 
-        "Redshift": "0.024", 
-        "Obs. Date": "2011-09-24", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Valenti", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN IIP",
+        "Redshift": "0.024",
+        "Obs. Date": "2011-09-24",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Valenti",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

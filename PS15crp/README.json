@@ -1,15 +1,16 @@
 {
     "tPS15crp_20151107_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.047", 
-        "Obs. Date": "2015-11-08", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Dennefeld, Harmanen", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-11-08", 
+        "Type": "SN Ia",
+        "Redshift": "0.047",
+        "Obs. Date": "2015-11-08",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Dennefeld, Harmanen",
+        "Reducer": "Kangas",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-11-08",
         "Modified By": "ilanm-UploadSet"
     }
 }

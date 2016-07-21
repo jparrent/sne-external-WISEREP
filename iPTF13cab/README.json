@@ -1,15 +1,16 @@
 {
     "13cab-DBSP-20130803-br.flm": {
-        "Type": "SN Ib/c", 
-        "Redshift": "0.03", 
-        "Obs. Date": "2013-08-03", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Waszczak", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-08-12", 
+        "Type": "SN Ib/c",
+        "Redshift": "0.03",
+        "Obs. Date": "2013-08-03",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Waszczak",
+        "Reducer": "David Tal",
+        "Reduction Status": "final",
+        "Last Modified": "2013-08-12",
         "Modified By": "iair"
     }
 }

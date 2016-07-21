@@ -1,15 +1,16 @@
 {
     "SN2013I_20130115_ALFOSC.txt": {
-        "Type": "SN IIP", 
-        "Redshift": "0.035", 
-        "Obs. Date": "2013-01-15", 
-        "Program": "KISS", 
-        "Contributor": "Morokuma et al. 2014", 
-        "Bibcode": "2014arXiv1409.1308M", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Stritzinger,Taddia,Hsiao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-09-16", 
+        "Type": "SN IIP",
+        "Redshift": "0.035",
+        "Obs. Date": "2013-01-15",
+        "Program": "KISS",
+        "Contributor": "Morokuma et al. 2014",
+        "Bibcode": "2014arXiv1409.1308M",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Stritzinger,Taddia,Hsiao",
+        "Reducer": "Stritzinger",
+        "Reduction Status": "final",
+        "Last Modified": "2014-09-16",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "13ekv_20140101_Keck2_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.11", 
-        "Obs. Date": "2014-01-01", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-01-09", 
+        "Type": "SN Ia",
+        "Redshift": "0.11",
+        "Obs. Date": "2014-01-01",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Cao",
+        "Reducer": "De Cia",
+        "Reduction Status": "final",
+        "Last Modified": "2014-01-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "tLSQ14gjn_20141220_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN II", 
-        "Redshift": "0.039117", 
-        "Obs. Date": "2014-12-21", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Leget,Chotard,Ducrot", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-12-21", 
+        "Type": "SN II",
+        "Redshift": "0.039117",
+        "Obs. Date": "2014-12-21",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Leget,Chotard,Ducrot",
+        "Reducer": "Inserra",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-12-21",
         "Modified By": "ilanm-UploadSet"
     }
 }

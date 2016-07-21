@@ -1,15 +1,16 @@
 {
     "15jg_20150213_P200_v2.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.025", 
-        "Obs. Date": "2015-02-13", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Duggan, Cao, Bilgi, Papadogiannakis", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-02-20", 
+        "Type": "SN II",
+        "Redshift": "0.025",
+        "Obs. Date": "2015-02-13",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Duggan, Cao, Bilgi, Papadogiannakis",
+        "Reducer": "Vreeswijk",
+        "Reduction Status": "final",
+        "Last Modified": "2015-02-20",
         "Modified By": "ofer"
     }
 }

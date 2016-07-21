@@ -1,15 +1,16 @@
 {
     "None_2016I_2016-01-13.93_LJT_YFOSC.dat": {
-        "Type": "SN IIP", 
-        "Redshift": "0.0149", 
-        "Obs. Date": "2016-01-13", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Yu-Xin Xin and Ju-Jia Zhang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-14", 
+        "Type": "SN IIP",
+        "Redshift": "0.0149",
+        "Obs. Date": "2016-01-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Yu-Xin Xin and Ju-Jia Zhang",
+        "Reducer": " Ju-Jia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-14",
         "Modified By": "upload-TNS"
     }
 }

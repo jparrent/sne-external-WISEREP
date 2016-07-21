@@ -1,15 +1,16 @@
 {
     "tns_2016adi_2016-02-10_21-28-38_LCO-duPont_WFCCD_0.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.015", 
-        "Obs. Date": "2016-02-10", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LCO-duPont - WFCCD", 
-        "Observer": "N. Morrell", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-02-15", 
+        "Type": "SN Ia",
+        "Redshift": "0.015",
+        "Obs. Date": "2016-02-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "N. Morrell",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-02-15",
         "Modified By": "upload-TNS"
     }
 }

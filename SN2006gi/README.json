@@ -1,15 +1,16 @@
 {
     "2006gi_20070210.ascii": {
-        "Type": "SN Ic", 
-        "Redshift": "0.0094", 
-        "Obs. Date": "2007-02-10", 
-        "Program": "", 
-        "Contributor": "Taubenberger et al 2009", 
-        "Bibcode": "2009MNRAS.397..677T", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-07-28", 
+        "Type": "SN Ic",
+        "Redshift": "0.0094",
+        "Obs. Date": "2007-02-10",
+        "Program": "",
+        "Contributor": "Taubenberger et al 2009",
+        "Bibcode": "2009MNRAS.397..677T",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-07-28",
         "Modified By": "ilanm-UploadSet"
     }
 }

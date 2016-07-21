@@ -1,15 +1,16 @@
 {
     "tns_2016blv_2457486.75846_Magellan-Clay_MagE_ASAS-SN.txt": {
-        "Type": "SN Ia", 
-        "Redshift": "0.023773", 
-        "Obs. Date": "2016-04-08", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Magellan-Baade - MagE", 
-        "Observer": "J. L. Prieto", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-10", 
+        "Type": "SN Ia",
+        "Redshift": "0.023773",
+        "Obs. Date": "2016-04-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Baade - MagE",
+        "Observer": "J. L. Prieto",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-10",
         "Modified By": "upload-TNS"
     }
 }

@@ -1,15 +1,16 @@
 {
     "10ifj_20100609_Lick 3-m_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0761", 
-        "Obs. Date": "2010-06-09", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Lick 3m - KAST", 
-        "Observer": "Silverman, Kandrashoff", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.0761",
+        "Obs. Date": "2010-06-09",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Silverman, Kandrashoff",
+        "Reducer": "Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

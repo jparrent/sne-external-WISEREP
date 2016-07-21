@@ -1,15 +1,16 @@
 {
     "SN2011gj_2011-09-27_21:06:20_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.048", 
-        "Obs. Date": "2011-09-27", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Reb+Marto", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.048",
+        "Obs. Date": "2011-09-27",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Reb+Marto",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

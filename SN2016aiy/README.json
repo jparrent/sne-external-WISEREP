@@ -1,15 +1,16 @@
 {
     "tns_2016aiy_2016-02-24_04-32-03_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
-        "Type": "SN IIn", 
-        "Redshift": "0.01", 
-        "Obs. Date": "2016-02-24", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Taubenberger, Faran, Kromer", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-02-24", 
+        "Type": "SN IIn",
+        "Redshift": "0.01",
+        "Obs. Date": "2016-02-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Taubenberger, Faran, Kromer",
+        "Reducer": "Elias-Rosa",
+        "Reduction Status": "final",
+        "Last Modified": "2016-02-24",
         "Modified By": "upload-TNS"
     }
 }

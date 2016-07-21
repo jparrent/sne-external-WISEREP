@@ -1,15 +1,16 @@
 {
     "PSN_J00275992p3045595_2015-09-07_22:28:46_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.02112", 
-        "Obs. Date": "2015-09-07", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Cappellaro Elias-Rosa", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.02112",
+        "Obs. Date": "2015-09-07",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Cappellaro Elias-Rosa",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "tPSNJ23374322-4730393_20150820_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.01", 
-        "Obs. Date": "2015-08-21", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Ashall,Prentice", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-08-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.01",
+        "Obs. Date": "2015-08-21",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Ashall,Prentice",
+        "Reducer": "Inserra",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-08-21",
         "Modified By": "ilanm-UploadSet"
     }
 }

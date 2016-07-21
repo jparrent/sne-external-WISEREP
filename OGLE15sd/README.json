@@ -1,15 +1,16 @@
 {
     "tOGLE15sd_20151204_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SLSN-I", 
-        "Redshift": "0.565", 
-        "Obs. Date": "2015-12-05", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Le Breton", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-12-05", 
+        "Type": "SLSN-I",
+        "Redshift": "0.565",
+        "Obs. Date": "2015-12-05",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Le Breton",
+        "Reducer": "Baumont",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-12-05",
         "Modified By": "ilanm-UploadSet"
     }
 }

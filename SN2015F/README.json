@@ -1,15 +1,16 @@
 {
     "sn2015f-20150322.656-hst.flm": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0049", 
-        "Obs. Date": "2015-03-22", 
-        "Program": "", 
-        "Contributor": "Foley et al. 2016", 
-        "Bibcode": "2016arXiv160401021F", 
-        "Instrument": "HST - STIS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-13", 
+        "Type": "SN Ia",
+        "Redshift": "0.0049",
+        "Obs. Date": "2015-03-22",
+        "Program": "",
+        "Contributor": "Foley et al. 2016",
+        "Bibcode": "2016arXiv160401021F",
+        "Instrument": "HST - STIS",
+        "Observer": "Unknown",
+        "Reducer": "Foley at al.",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-13",
         "Modified By": "ilanm-UploadSet"
     }
 }

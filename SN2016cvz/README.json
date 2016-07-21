@@ -1,15 +1,16 @@
 {
     "tns_2016cvz_2016-06-06_00-00-00_P60_SED-Machine.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.074", 
-        "Obs. Date": "2016-06-06", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P60 - SED-Machine", 
-        "Observer": "Walters", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-06-19", 
+        "Type": "SN Ia",
+        "Redshift": "0.074",
+        "Obs. Date": "2016-06-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters",
+        "Reducer": "D. Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2016-06-19",
         "Modified By": "upload-TNS"
     }
 }

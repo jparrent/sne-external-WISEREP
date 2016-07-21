@@ -1,15 +1,16 @@
 {
     "SN2012dg_2012-06-28_21:26:00_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.037", 
-        "Obs. Date": "2012-06-28", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.037",
+        "Obs. Date": "2012-06-28",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

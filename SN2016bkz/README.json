@@ -1,15 +1,16 @@
 {
     "tns_2016bkz_2016-03-31.63_LJT_YFOSC_PTSS.dat": {
-        "Type": "SN IIP", 
-        "Redshift": "0.0307", 
-        "Obs. Date": "2016-03-31", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Baoli Lun", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-01", 
+        "Type": "SN IIP",
+        "Redshift": "0.0307",
+        "Obs. Date": "2016-03-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Baoli Lun",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-01",
         "Modified By": "upload-TNS"
     }
 }

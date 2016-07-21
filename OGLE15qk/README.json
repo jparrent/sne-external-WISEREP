@@ -1,15 +1,16 @@
 {
     "tOGLE15qk_20151117_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.065", 
-        "Obs. Date": "2015-11-18", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Dennefeld, Harmanen", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-11-18", 
+        "Type": "SN Ia",
+        "Redshift": "0.065",
+        "Obs. Date": "2015-11-18",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Dennefeld, Harmanen",
+        "Reducer": "Mattila",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-11-18",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "09ifh_20091219_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2009-12-19", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Kasliwal", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2009-12-19",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Kasliwal",
+        "Reducer": "Kasliwal",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

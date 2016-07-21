@@ -1,15 +1,16 @@
 {
     "15biw_20150619_Keck2_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.21", 
-        "Obs. Date": "2015-06-19", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "G. Duggan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-07-02", 
+        "Type": "SN Ia",
+        "Redshift": "0.21",
+        "Obs. Date": "2015-06-19",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "G. Duggan",
+        "Reducer": "Y. Cao",
+        "Reduction Status": "final",
+        "Last Modified": "2015-07-02",
         "Modified By": "ofer"
     }
 }

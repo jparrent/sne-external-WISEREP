@@ -1,15 +1,16 @@
 {
     "tns_2016cdd_2016-05-19_13-17-07_FTS_FLOYDS-S_LCOGT_SN-KP.ascii": {
-        "Type": "SN Ib", 
-        "Redshift": "0.008731", 
-        "Obs. Date": "2016-05-19", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "FTS - FLOYDS-S", 
-        "Observer": "LCOGT", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-05-19", 
+        "Type": "SN Ib",
+        "Redshift": "0.008731",
+        "Obs. Date": "2016-05-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTS - FLOYDS-S",
+        "Observer": "LCOGT",
+        "Reducer": "Griffin Hosseinzadeh",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-19",
         "Modified By": "upload-TNS"
     }
 }

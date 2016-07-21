@@ -1,15 +1,16 @@
 {
     "13dkk_20130912_NOT_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0092", 
-        "Obs. Date": "2013-09-12", 
-        "Program": "iPTF", 
-        "Contributor": "Khazov et al. 2015", 
-        "Bibcode": "", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Taddia, Van Eylen", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-12-03", 
+        "Type": "SN II",
+        "Redshift": "0.0092",
+        "Obs. Date": "2013-09-12",
+        "Program": "iPTF",
+        "Contributor": "Khazov et al. 2015",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Taddia, Van Eylen",
+        "Reducer": "Joel",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-03",
         "Modified By": "ofer"
     }
 }

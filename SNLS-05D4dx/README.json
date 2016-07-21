@@ -1,15 +1,16 @@
 {
     "05D4dx_sn2_f2_corr.asc": {
-        "Type": "SN Ia", 
-        "Redshift": "0.79", 
-        "Obs. Date": "2005-09-06", 
-        "Program": "SNLS", 
-        "Contributor": "Bronder et al. 2008", 
-        "Bibcode": "2008A&A...477..717B", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-05-01", 
+        "Type": "SN Ia",
+        "Redshift": "0.79",
+        "Obs. Date": "2005-09-06",
+        "Program": "SNLS",
+        "Contributor": "Bronder et al. 2008",
+        "Bibcode": "2008A&A...477..717B",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-05-01",
         "Modified By": "ofer-UploadSet"
     }
 }

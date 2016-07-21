@@ -1,15 +1,16 @@
 {
-    "SN2009nr_9Jan2010_MWNa.txt": {
-        "Type": "SN Ia", 
-        "Redshift": "0.011224", 
-        "Obs. Date": "2010-01-09", 
-        "Program": "Other", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Magellan-Clay - MIKE", 
-        "Observer": "Carnegie", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-08-12", 
+    "SN2009nr_9Jan2010_ObjNa.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.011224",
+        "Obs. Date": "2010-01-09",
+        "Program": "Other",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - MIKE",
+        "Observer": "Carnegie",
+        "Reducer": "Carnegie",
+        "Reduction Status": "final",
+        "Last Modified": "2011-08-12",
         "Modified By": "assaf"
     }
 }

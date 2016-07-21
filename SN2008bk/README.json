@@ -1,15 +1,16 @@
 {
     "2008bk_20090905_547days.txt": {
-        "Type": "SN IIP", 
-        "Redshift": "0.000757", 
-        "Obs. Date": "2009-09-05", 
-        "Program": "", 
-        "Contributor": "Maguire et al. 2012", 
-        "Bibcode": "2012MNRAS.420.3451M", 
-        "Instrument": "VLT-UT1 - FORS2", 
-        "Observer": "PROG ID 083.D-0131(B)", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-07-01", 
+        "Type": "SN IIP",
+        "Redshift": "0.000757",
+        "Obs. Date": "2009-09-05",
+        "Program": "",
+        "Contributor": "Maguire et al. 2012",
+        "Bibcode": "2012MNRAS.420.3451M",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "PROG ID 083.D-0131(B)",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2012-07-01",
         "Modified By": "ofer"
     }
 }

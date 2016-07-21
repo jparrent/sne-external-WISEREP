@@ -1,15 +1,16 @@
 {
     "SNhunt263_2014-10-28_00:16:38_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0268", 
-        "Obs. Date": "2014-10-28", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "pastorello", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.0268",
+        "Obs. Date": "2014-10-28",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "pastorello",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

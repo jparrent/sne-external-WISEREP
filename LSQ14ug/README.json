@@ -1,15 +1,16 @@
 {
     "LSQ14ug_20140220_Gr13_Free_slit1.0_57004_1.dat": {
-        "Type": "SN IIP", 
-        "Redshift": "0.02", 
-        "Obs. Date": "2014-02-21", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Heather Campbell, Morgan Fraser", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN IIP",
+        "Redshift": "0.02",
+        "Obs. Date": "2014-02-21",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Heather Campbell, Morgan Fraser",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

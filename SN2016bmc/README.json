@@ -1,15 +1,16 @@
 {
     "tns_2016bmc_2457493.92559_MDM-2.4_OSMOS_ASAS-SN.txt": {
-        "Type": "SN Ia", 
-        "Redshift": "0.028016", 
-        "Obs. Date": "2016-04-15", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "MDM-2.4 - OSMOS", 
-        "Observer": "T. W.-S. Holoien, D. Godoy-Rivera", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-15", 
+        "Type": "SN Ia",
+        "Redshift": "0.028016",
+        "Obs. Date": "2016-04-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "MDM-2.4 - OSMOS",
+        "Observer": "T. W.-S. Holoien, D. Godoy-Rivera",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-15",
         "Modified By": "upload-TNS"
     }
 }

@@ -1,15 +1,16 @@
 {
     "tPS15cel_20151012_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN II", 
-        "Redshift": "0.05", 
-        "Obs. Date": "2015-10-13", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Lyman/Campbell", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-10-13", 
+        "Type": "SN II",
+        "Redshift": "0.05",
+        "Obs. Date": "2015-10-13",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Lyman/Campbell",
+        "Reducer": "Fraser",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-10-13",
         "Modified By": "ilanm-UploadSet"
     }
 }

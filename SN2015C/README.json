@@ -1,15 +1,16 @@
 {
     "SN2015C_2015-01-13_03:59:46_Asiago.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.009", 
-        "Obs. Date": "2015-01-13", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Tomasella, Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II",
+        "Redshift": "0.009",
+        "Obs. Date": "2015-01-13",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella, Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

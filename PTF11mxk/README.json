@@ -1,15 +1,16 @@
 {
     "11mxk_20110929_Keck2_v2.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.085", 
-        "Obs. Date": "2011-09-29", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "Brani", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.085",
+        "Obs. Date": "2011-09-29",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Brani",
+        "Reducer": "Sagi, David, Yi",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

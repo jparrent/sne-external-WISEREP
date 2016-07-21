@@ -1,15 +1,16 @@
 {
     "tns_2016ww_2016-01-28_00-00-00_ESO-3.6m_EFOSC2-3.6_PESSTO.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.091", 
-        "Obs. Date": "2016-01-28", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-3.6m - EFOSC2-3.6", 
-        "Observer": "Elias-Rosa,Terreran,Cikota", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-29", 
+        "Type": "SN Ia",
+        "Redshift": "0.091",
+        "Obs. Date": "2016-01-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-3.6m - EFOSC2-3.6",
+        "Observer": "Elias-Rosa,Terreran,Cikota",
+        "Reducer": "Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-29",
         "Modified By": "upload-TNS"
     }
 }

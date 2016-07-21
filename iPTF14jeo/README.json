@@ -1,15 +1,16 @@
 {
     "14jeo_20141217_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "", 
-        "Obs. Date": "2014-12-17", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Duggan, Perley", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-01-04", 
+        "Type": "SN Ia",
+        "Redshift": "",
+        "Obs. Date": "2014-12-17",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Duggan, Perley",
+        "Reducer": "Perley (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2015-01-04",
         "Modified By": "upload-marshalspec"
     }
 }

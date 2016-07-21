@@ -1,15 +1,16 @@
 {
     "tLSQ15ex_20150125_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.12", 
-        "Obs. Date": "2015-01-26", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "A. Nyholm, C. Fremling", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-01-26", 
+        "Type": "SN Ia",
+        "Redshift": "0.12",
+        "Obs. Date": "2015-01-26",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "A. Nyholm, C. Fremling",
+        "Reducer": "K. Migotto, F. Taddia, J. Sollerman",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-01-26",
         "Modified By": "ilanm-UploadSet"
     }
 }

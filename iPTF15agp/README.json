@@ -1,15 +1,16 @@
 {
     "15agp_20150411_Gemini_N_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0305", 
-        "Obs. Date": "2015-04-11", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Service", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-04-16", 
+        "Type": "SN II",
+        "Redshift": "0.0305",
+        "Obs. Date": "2015-04-11",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Service",
+        "Reducer": "C. Fremling",
+        "Reduction Status": "final",
+        "Last Modified": "2015-04-16",
         "Modified By": "ofer"
     }
 }

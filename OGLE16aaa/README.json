@@ -1,15 +1,16 @@
 {
     "tOGLE16aaa_20160116_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "", 
-        "Redshift": "", 
-        "Obs. Date": "2016-01-17", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Firth, Dimitriadis, Frohmaier", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-01-17", 
+        "Type": "",
+        "Redshift": "",
+        "Obs. Date": "2016-01-17",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Firth, Dimitriadis, Frohmaier",
+        "Reducer": "Frohmaier, Firth",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-01-17",
         "Modified By": "ilanm-UploadSet"
     }
 }

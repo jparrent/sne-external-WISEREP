@@ -1,15 +1,16 @@
 {
     "SN2013eb_2013-07-18_22:02:43_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.018616", 
-        "Obs. Date": "2013-07-18", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.018616",
+        "Obs. Date": "2013-07-18",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

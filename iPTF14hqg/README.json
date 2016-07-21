@@ -1,15 +1,16 @@
 {
     "14hqg_20141201_APO_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0561", 
-        "Obs. Date": "2014-12-01", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "APO 3.5m - DIS", 
-        "Observer": "Mansi Kasliwal", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-12-07", 
+        "Type": "SN II",
+        "Redshift": "0.0561",
+        "Obs. Date": "2014-12-01",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "Mansi Kasliwal",
+        "Reducer": "Yi Cao",
+        "Reduction Status": "final",
+        "Last Modified": "2014-12-07",
         "Modified By": "ilanm"
     }
 }

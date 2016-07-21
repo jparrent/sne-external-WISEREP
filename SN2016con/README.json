@@ -1,15 +1,16 @@
 {
     "tns_2016con_2016-05-14_00-00-00_P200_DBSP.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.04", 
-        "Obs. Date": "2016-05-14", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "D. Cook, H.Vedantham", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-05-28", 
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2016-05-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "D. Cook, H.Vedantham",
+        "Reducer": "P. Vreeswijk",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-28",
         "Modified By": "upload-TNS"
     }
 }

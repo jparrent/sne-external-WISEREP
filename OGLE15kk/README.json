@@ -1,15 +1,16 @@
 {
     "tOGLE15kk_20151003_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2015-10-04", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Campbell/Lyman", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-10-04", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2015-10-04",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Campbell/Lyman",
+        "Reducer": "Fraser",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-10-04",
         "Modified By": "ofer-UploadSet"
     }
 }

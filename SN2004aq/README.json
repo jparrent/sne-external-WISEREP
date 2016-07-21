@@ -1,15 +1,16 @@
 {
     "SN2004aq_2004-03-10.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.014", 
-        "Obs. Date": "2004-03-10", 
-        "Program": "", 
-        "Contributor": "Harutyunyan et al. 2008", 
-        "Bibcode": "2008A&A...488..383H", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-09", 
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2004-03-10",
+        "Program": "",
+        "Contributor": "Harutyunyan et al. 2008",
+        "Bibcode": "2008A&A...488..383H",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "15akt_20150423_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.192", 
-        "Obs. Date": "2015-04-23", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Perley", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-05-01", 
+        "Type": "SN Ia",
+        "Redshift": "0.192",
+        "Obs. Date": "2015-04-23",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2015-05-01",
         "Modified By": "upload-marshalspec"
     }
 }

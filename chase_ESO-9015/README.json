@@ -1,15 +1,16 @@
 {
     "chase_ESO-9015_20121107_Gr13_Free_slit1.0_56456_1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0056", 
-        "Obs. Date": "2012-11-08", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "S.Marchi, S.Gonzalez-Gaitan, F.Bufano", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN II",
+        "Redshift": "0.0056",
+        "Obs. Date": "2012-11-08",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "S.Marchi, S.Gonzalez-Gaitan, F.Bufano",
+        "Reducer": "F.Forster, J.Anderson",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "MASTER_OT_J020844d29p481923d0_2015-01-14_18:10:03_Asiago.ascii": {
-        "Type": "SN Ia-pec", 
-        "Redshift": "0.036", 
-        "Obs. Date": "2015-01-14", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia-pec",
+        "Redshift": "0.036",
+        "Obs. Date": "2015-01-14",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

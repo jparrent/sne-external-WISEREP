@@ -1,15 +1,16 @@
 {
     "12mj_20120120_APO_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.069", 
-        "Obs. Date": "2012-01-20", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "APO 3.5m - DIS", 
-        "Observer": "Yi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-07-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.069",
+        "Obs. Date": "2012-01-20",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "Yi",
+        "Reducer": "Yi",
+        "Reduction Status": "final",
+        "Last Modified": "2012-07-05",
         "Modified By": "upload-marshalspec"
     }
 }

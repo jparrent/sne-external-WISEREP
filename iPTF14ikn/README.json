@@ -1,15 +1,16 @@
 {
     "14ikn_20141129_Gemini_N_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0197", 
-        "Obs. Date": "2014-11-29", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Mansi Kasliwal", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-12-07", 
+        "Type": "SN II",
+        "Redshift": "0.0197",
+        "Obs. Date": "2014-11-29",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Mansi Kasliwal",
+        "Reducer": "Mansi Kasliwal",
+        "Reduction Status": "final",
+        "Last Modified": "2014-12-07",
         "Modified By": "ilanm"
     }
 }

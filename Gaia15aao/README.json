@@ -1,15 +1,16 @@
 {
     "Gaia15aao_2015-01-31_05:35:54_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0343", 
-        "Obs. Date": "2015-01-31", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.0343",
+        "Obs. Date": "2015-01-31",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

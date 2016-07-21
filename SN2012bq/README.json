@@ -1,15 +1,16 @@
 {
     "SN2012bq_2012-03-31_19:12:00_Asiago.ascii": {
-        "Type": "SN IIn", 
-        "Redshift": "", 
-        "Obs. Date": "2012-03-31", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella benetti", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN IIn",
+        "Redshift": "",
+        "Obs. Date": "2012-03-31",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella benetti",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

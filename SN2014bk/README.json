@@ -1,15 +1,16 @@
 {
     "KISS14z_20140608_NOT_ALFOSC.ascii": {
-        "Type": "SN Ibn", 
-        "Redshift": "0.0697", 
-        "Obs. Date": "2014-06-08", 
-        "Program": "", 
-        "Contributor": "Pastorello et al. 2016", 
-        "Bibcode": "2016MNRAS.456..853P", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-06-15", 
+        "Type": "SN Ibn",
+        "Redshift": "0.0697",
+        "Obs. Date": "2014-06-08",
+        "Program": "",
+        "Contributor": "Pastorello et al. 2016",
+        "Bibcode": "2016MNRAS.456..853P",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-06-15",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "10gmh_20100506_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.1", 
-        "Obs. Date": "2010-05-06", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Cenko, Nugent, Filippenko, Bloom, Poznanski, Miller, Silverman", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.1",
+        "Obs. Date": "2010-05-06",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Cenko, Nugent, Filippenko, Bloom, Poznanski, Miller, Silverman",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

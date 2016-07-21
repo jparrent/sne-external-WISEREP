@@ -1,15 +1,16 @@
 {
     "SN2014U_20140227_FIRE.txt": {
-        "Type": "SN II", 
-        "Redshift": "0.018", 
-        "Obs. Date": "2014-02-27", 
-        "Program": "KISS", 
-        "Contributor": "Morokuma et al. 2014", 
-        "Bibcode": "2014arXiv1409.1308M", 
-        "Instrument": "Magellan-Baade - FIRE", 
-        "Observer": "Hsiao,Phillips,Morrell,Marion,Contreras,Gall,Stritzinger,Kirshner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-09-16", 
+        "Type": "SN II",
+        "Redshift": "0.018",
+        "Obs. Date": "2014-02-27",
+        "Program": "KISS",
+        "Contributor": "Morokuma et al. 2014",
+        "Bibcode": "2014arXiv1409.1308M",
+        "Instrument": "Magellan-Baade - FIRE",
+        "Observer": "Hsiao,Phillips,Morrell,Marion,Contreras,Gall,Stritzinger,Kirshner",
+        "Reducer": "Hsiao",
+        "Reduction Status": "final",
+        "Last Modified": "2014-09-16",
         "Modified By": "ofer-UploadSet"
     }
 }

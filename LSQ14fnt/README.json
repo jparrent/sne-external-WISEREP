@@ -1,15 +1,16 @@
 {
     "tLSQ14fnt_20140929_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2014-09-30", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Nic Walton, Chris Ashall", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-09-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2014-09-30",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Nic Walton, Chris Ashall",
+        "Reducer": "Heather Campbell, Morgan Fraser",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-09-30",
         "Modified By": "ilanm-UploadSet"
     }
 }

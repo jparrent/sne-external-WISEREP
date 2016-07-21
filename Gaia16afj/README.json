@@ -1,15 +1,16 @@
 {
     "tGaia_16afj_20160223_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.055", 
-        "Obs. Date": "2016-02-24", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Taubenberger/Faran/Kromer", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-02-24", 
+        "Type": "SN Ia",
+        "Redshift": "0.055",
+        "Obs. Date": "2016-02-24",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Taubenberger/Faran/Kromer",
+        "Reducer": "Elias-Rosa",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-02-24",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "SN2013gw_2013-12-07_05:06:15_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0387", 
-        "Obs. Date": "2013-12-07", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tartaglia tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.0387",
+        "Obs. Date": "2013-12-07",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tartaglia tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

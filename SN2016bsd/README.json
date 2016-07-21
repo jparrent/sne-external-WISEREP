@@ -1,15 +1,16 @@
 {
     "tns_2016bsd_2016-04-26.7_LJT_YFOSC_TNTS.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.052", 
-        "Obs. Date": "2016-04-26", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Xiliang  Zhang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.052",
+        "Obs. Date": "2016-04-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Xiliang  Zhang",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-27",
         "Modified By": "upload-TNS"
     }
 }

@@ -1,15 +1,16 @@
 {
     "10acqp_20101230_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.17", 
-        "Obs. Date": "2010-12-30", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Robert Quimby", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-08-12", 
+        "Type": "SN Ia",
+        "Redshift": "0.17",
+        "Obs. Date": "2010-12-30",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Robert Quimby",
+        "Reducer": "Sagi Ben-ami",
+        "Reduction Status": "final",
+        "Last Modified": "2014-08-12",
         "Modified By": "ilanm"
     }
 }

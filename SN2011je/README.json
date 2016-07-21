@@ -1,15 +1,16 @@
 {
     "SN2011je_2011-12-18_21:54:34_Asiago.ascii": {
-        "Type": "SN II-pec", 
-        "Redshift": "0.017", 
-        "Obs. Date": "2011-12-18", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II-pec",
+        "Redshift": "0.017",
+        "Obs. Date": "2011-12-18",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

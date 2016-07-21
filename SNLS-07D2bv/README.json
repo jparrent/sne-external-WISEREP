@@ -1,15 +1,16 @@
 {
     "07D2bv_2007_03_16.dat": {
-        "Type": "SLSN-I", 
-        "Redshift": "1.5", 
-        "Obs. Date": "2007-03-16", 
-        "Program": "SNLS", 
-        "Contributor": "Howell et al. 2013", 
-        "Bibcode": "2013ApJ...779...98H", 
-        "Instrument": "VLT-UT1 - FORS1", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-06-19", 
+        "Type": "SLSN-I",
+        "Redshift": "1.5",
+        "Obs. Date": "2007-03-16",
+        "Program": "SNLS",
+        "Contributor": "Howell et al. 2013",
+        "Bibcode": "2013ApJ...779...98H",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-06-19",
         "Modified By": "ofer"
     }
 }

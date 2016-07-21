@@ -1,15 +1,16 @@
 {
     "sn2011iv_20111211_STIS.flm": {
-        "Type": "SN Ia", 
-        "Redshift": "0.006494", 
-        "Obs. Date": "2011-12-11", 
-        "Program": "HST-Cy19-Foley", 
-        "Contributor": "Foley et al. 2012", 
-        "Bibcode": "2012ApJ...753L...5F", 
-        "Instrument": "HST - STIS", 
-        "Observer": "Foley", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-06-06", 
+        "Type": "SN Ia",
+        "Redshift": "0.006494",
+        "Obs. Date": "2011-12-11",
+        "Program": "HST-Cy19-Foley",
+        "Contributor": "Foley et al. 2012",
+        "Bibcode": "2012ApJ...753L...5F",
+        "Instrument": "HST - STIS",
+        "Observer": "Foley",
+        "Reducer": "Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2012-06-06",
         "Modified By": "ofer"
     }
 }

@@ -1,15 +1,16 @@
 {
     "LSQ14hj_20140124_Gr13_Free_slit1.0_57003_1.dat": {
-        "Type": "SN IIb", 
-        "Redshift": "0.05", 
-        "Obs. Date": "2014-01-25", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "G. Leloudas, M. Ergon", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN IIb",
+        "Redshift": "0.05",
+        "Obs. Date": "2014-01-25",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "G. Leloudas, M. Ergon",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

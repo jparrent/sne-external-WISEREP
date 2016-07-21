@@ -1,15 +1,16 @@
 {
     "tns_2015bl_2016-01-07.0_Keck2_DEIMOS_iPTF.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.093", 
-        "Obs. Date": "2016-01-07", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "MLGraham,IShivvers", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.093",
+        "Obs. Date": "2016-01-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "MLGraham,IShivvers",
+        "Reducer": "MLGraham",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-27",
         "Modified By": "upload-TNS"
     }
 }

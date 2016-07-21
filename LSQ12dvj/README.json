@@ -1,15 +1,16 @@
 {
     "LSQ12dvj_20120809_Gr13_Free_slit1.5_56456_1.ascii": {
-        "Type": "SN Ia-pec", 
-        "Redshift": "0.13", 
-        "Obs. Date": "2012-08-10", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "SMARTT/INSERRA/CELLIER-HOLZEM", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia-pec",
+        "Redshift": "0.13",
+        "Obs. Date": "2012-08-10",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "SMARTT/INSERRA/CELLIER-HOLZEM",
+        "Reducer": "FRASER/WRIGHT",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

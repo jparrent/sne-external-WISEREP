@@ -1,15 +1,16 @@
 {
     "15cqq_20150920_P200_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.16", 
-        "Obs. Date": "2015-09-20", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Cao, Lunnan, Khazov, Andreoni, Bilgi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-09-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.16",
+        "Obs. Date": "2015-09-20",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Cao, Lunnan, Khazov, Andreoni, Bilgi",
+        "Reducer": "O. Yaron",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-21",
         "Modified By": "upload-marshalspec"
     }
 }

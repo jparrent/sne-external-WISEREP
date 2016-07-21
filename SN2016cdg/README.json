@@ -1,15 +1,16 @@
 {
     "tns_2016cdg_2016-05-19.75_LJT_YFOSC_PTSS.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.056", 
-        "Obs. Date": "2016-05-19", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Weimin Yi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-05-20", 
+        "Type": "SN Ia",
+        "Redshift": "0.056",
+        "Obs. Date": "2016-05-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Weimin Yi",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-20",
         "Modified By": "upload-TNS"
     }
 }

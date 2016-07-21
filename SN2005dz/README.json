@@ -1,15 +1,16 @@
 {
     "SN2005dz_2005-09-12.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.018999", 
-        "Obs. Date": "2005-09-12", 
-        "Program": "", 
-        "Contributor": "Harutyunyan et al. 2008", 
-        "Bibcode": "2008A&A...488..383H", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-09", 
+        "Type": "SN II",
+        "Redshift": "0.018999",
+        "Obs. Date": "2005-09-12",
+        "Program": "",
+        "Contributor": "Harutyunyan et al. 2008",
+        "Bibcode": "2008A&A...488..383H",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

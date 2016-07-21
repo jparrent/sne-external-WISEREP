@@ -1,15 +1,16 @@
 {
     "12eqx_20120522_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.1115", 
-        "Obs. Date": "2012-05-22", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Yaron, Cao, Perley, Kulkarni", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-07-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.1115",
+        "Obs. Date": "2012-05-22",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Yaron, Cao, Perley, Kulkarni",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2012-07-05",
         "Modified By": "upload-marshalspec"
     }
 }

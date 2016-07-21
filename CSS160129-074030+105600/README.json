@@ -1,15 +1,16 @@
 {
     "tCSS160129-074030+105600_20160129_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.065", 
-        "Obs. Date": "2016-01-30", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "CIKOTA,TERRERAN,ELIAS-ROSA", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-01-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.065",
+        "Obs. Date": "2016-01-30",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "CIKOTA,TERRERAN,ELIAS-ROSA",
+        "Reducer": "TOMASELLA",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-01-30",
         "Modified By": "ilanm-UploadSet"
     }
 }

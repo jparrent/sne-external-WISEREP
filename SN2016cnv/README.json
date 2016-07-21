@@ -1,15 +1,16 @@
 {
     "tns_2016cnv_2016-05-26.71_LJT_YFOSC_PTSS.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.031", 
-        "Obs. Date": "2016-05-26", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Xiangming Zheng", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-05-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.031",
+        "Obs. Date": "2016-05-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Xiangming Zheng",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-27",
         "Modified By": "upload-TNS"
     }
 }

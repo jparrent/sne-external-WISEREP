@@ -1,15 +1,16 @@
 {
     "08D3gufc_atm.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.767", 
-        "Obs. Date": "2008-05-08", 
-        "Program": "SNLS", 
-        "Contributor": "Walker et al. 2011", 
-        "Bibcode": "2011MNRAS.410.1262W", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-05-01", 
+        "Type": "SN Ia",
+        "Redshift": "0.767",
+        "Obs. Date": "2008-05-08",
+        "Program": "SNLS",
+        "Contributor": "Walker et al. 2011",
+        "Bibcode": "2011MNRAS.410.1262W",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-05-01",
         "Modified By": "ofer-UploadSet"
     }
 }

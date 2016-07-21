@@ -1,15 +1,16 @@
 {
     "PTF10cwr_20100318_P200.dat": {
-        "Type": "SLSN-I", 
-        "Redshift": "0.231", 
-        "Obs. Date": "2010-03-18", 
-        "Program": "PTF", 
-        "Contributor": "Quimby et al. 2011", 
-        "Bibcode": "2011Natur.474..484Q", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Robert Quimby", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-08-01", 
+        "Type": "SLSN-I",
+        "Redshift": "0.231",
+        "Obs. Date": "2010-03-18",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2011",
+        "Bibcode": "2011Natur.474..484Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Robert Quimby",
+        "Reducer": "Assaf Sternberg",
+        "Reduction Status": "final",
+        "Last Modified": "2011-08-01",
         "Modified By": "admin"
     }
 }

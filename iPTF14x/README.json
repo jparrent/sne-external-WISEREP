@@ -1,15 +1,16 @@
 {
     "14x_20140106_P200_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.047", 
-        "Obs. Date": "2014-01-06", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Bellm & Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-01-14", 
+        "Type": "SN II",
+        "Redshift": "0.047",
+        "Obs. Date": "2014-01-06",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Bellm & Cao",
+        "Reducer": "Cenko",
+        "Reduction Status": "final",
+        "Last Modified": "2014-01-14",
         "Modified By": "ilanm-UploadSet"
     }
 }

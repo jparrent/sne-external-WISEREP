@@ -1,15 +1,16 @@
 {
     "SN2012P_2012-01-23_03:53:49_Asiago.ascii": {
-        "Type": "SN Ib/c", 
-        "Redshift": "0.004479", 
-        "Obs. Date": "2012-01-23", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Borsato & Nascimbeni", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ib/c",
+        "Redshift": "0.004479",
+        "Obs. Date": "2012-01-23",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Borsato & Nascimbeni",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

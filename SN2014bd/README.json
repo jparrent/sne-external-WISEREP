@@ -1,15 +1,16 @@
 {
     "SN2014bd_20140506_WFCCD.txt": {
-        "Type": "SN IIP", 
-        "Redshift": "0.029", 
-        "Obs. Date": "2014-05-06", 
-        "Program": "KISS", 
-        "Contributor": "Morokuma et al. 2014", 
-        "Bibcode": "2014arXiv1409.1308M", 
-        "Instrument": "LCO-duPont - WFCCD", 
-        "Observer": "Morrell,Hsiao,Contreras,Gonzalez,Phillips", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-09-16", 
+        "Type": "SN IIP",
+        "Redshift": "0.029",
+        "Obs. Date": "2014-05-06",
+        "Program": "KISS",
+        "Contributor": "Morokuma et al. 2014",
+        "Bibcode": "2014arXiv1409.1308M",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Morrell,Hsiao,Contreras,Gonzalez,Phillips",
+        "Reducer": "Morrell",
+        "Reduction Status": "final",
+        "Last Modified": "2014-09-16",
         "Modified By": "ofer-UploadSet"
     }
 }

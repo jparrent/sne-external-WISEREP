@@ -1,15 +1,16 @@
 {
     "CSS140104-002811-041_20140109_Gr13_Free_slit1.0_57003_1.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.13", 
-        "Obs. Date": "2014-01-10", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "LeGuillou/Fleury", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.13",
+        "Obs. Date": "2014-01-10",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "LeGuillou/Fleury",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "15alb_20150422_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.12385", 
-        "Obs. Date": "2015-04-22", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "G Duggan, D Perley, C Fremling", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-05-01", 
+        "Type": "SN Ia",
+        "Redshift": "0.12385",
+        "Obs. Date": "2015-04-22",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "G Duggan, D Perley, C Fremling",
+        "Reducer": "G Duggan (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2015-05-01",
         "Modified By": "upload-marshalspec"
     }
 }

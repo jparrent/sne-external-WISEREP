@@ -1,15 +1,16 @@
 {
     "None_2015bi_2016-01-08_19:52:41_BAO-2.16m_BFOSC.txt": {
-        "Type": "SN IIb", 
-        "Redshift": "0.016", 
-        "Obs. Date": "2016-01-08", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "XLT - BFOSC", 
-        "Observer": "Xiaofeng Wang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-11", 
+        "Type": "SN IIb",
+        "Redshift": "0.016",
+        "Obs. Date": "2016-01-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "XLT - BFOSC",
+        "Observer": "Xiaofeng Wang",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-11",
         "Modified By": "upload-TNS"
     }
 }

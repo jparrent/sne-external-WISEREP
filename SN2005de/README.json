@@ -1,15 +1,16 @@
 {
     "SN2005de_2005-08-06.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.01518", 
-        "Obs. Date": "2005-08-06", 
-        "Program": "", 
-        "Contributor": "Harutyunyan et al. 2008", 
-        "Bibcode": "2008A&A...488..383H", 
-        "Instrument": "CA-2.2m - CAFOS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-09", 
+        "Type": "SN Ia",
+        "Redshift": "0.01518",
+        "Obs. Date": "2005-08-06",
+        "Program": "",
+        "Contributor": "Harutyunyan et al. 2008",
+        "Bibcode": "2008A&A...488..383H",
+        "Instrument": "CA-2.2m - CAFOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

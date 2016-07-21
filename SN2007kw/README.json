@@ -1,15 +1,16 @@
 {
     "sn18109-1940.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.068", 
-        "Obs. Date": "2007-09-20", 
-        "Program": "NTT-NOT", 
-        "Contributor": "Ostman et al. 2011", 
-        "Bibcode": "2011A&A...526A..28O", 
-        "Instrument": "ESO-NTT - EMMI", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-03-22", 
+        "Type": "SN II",
+        "Redshift": "0.068",
+        "Obs. Date": "2007-09-20",
+        "Program": "NTT-NOT",
+        "Contributor": "Ostman et al. 2011",
+        "Bibcode": "2011A&A...526A..28O",
+        "Instrument": "ESO-NTT - EMMI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2012-03-22",
         "Modified By": "admin-UploadSet"
     }
 }

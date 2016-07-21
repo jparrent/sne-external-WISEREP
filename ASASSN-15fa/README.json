@@ -1,15 +1,16 @@
 {
     "ASASSNm15fa_2015-03-19_02:59:29_Asiago.ascii": {
-        "Type": "SN Ia-91T-like", 
-        "Redshift": "0.0278", 
-        "Obs. Date": "2015-03-19", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.0278",
+        "Obs. Date": "2015-03-19",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

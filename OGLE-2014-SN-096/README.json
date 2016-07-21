@@ -1,15 +1,16 @@
 {
     "tOGLE-2014-SN-096_20141012_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN IIP", 
-        "Redshift": "0.04", 
-        "Obs. Date": "2014-10-13", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Olivares,Kuncarayakti,Zelaya", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-10-13", 
+        "Type": "SN IIP",
+        "Redshift": "0.04",
+        "Obs. Date": "2014-10-13",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Olivares,Kuncarayakti,Zelaya",
+        "Reducer": "Gonzalez,Galbany",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-10-13",
         "Modified By": "ilanm-UploadSet"
     }
 }

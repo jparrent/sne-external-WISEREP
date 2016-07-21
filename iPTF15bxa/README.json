@@ -1,15 +1,16 @@
 {
     "15bxa_20150917_Keck2_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0994", 
-        "Obs. Date": "2015-09-17", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "Duggan, Lunnan, Khazov", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-09-21", 
+        "Type": "SN II",
+        "Redshift": "0.0994",
+        "Obs. Date": "2015-09-17",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Duggan, Lunnan, Khazov",
+        "Reducer": "Cao",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-21",
         "Modified By": "ofer"
     }
 }

@@ -1,15 +1,16 @@
 {
     "SN2012hl_2012-12-06_19:10:24_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.033", 
-        "Obs. Date": "2012-12-06", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Taubenberger", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.033",
+        "Obs. Date": "2012-12-06",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Taubenberger",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

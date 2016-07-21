@@ -1,15 +1,16 @@
 {
     "SN2013hd_2013-12-07_21:18:01_Asiago.ascii": {
-        "Type": "SN Ib/c", 
-        "Redshift": "0.03368", 
-        "Obs. Date": "2013-12-07", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella tartaglia", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ib/c",
+        "Redshift": "0.03368",
+        "Obs. Date": "2013-12-07",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella tartaglia",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

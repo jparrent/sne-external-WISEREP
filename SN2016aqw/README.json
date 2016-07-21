@@ -1,15 +1,16 @@
 {
     "tns_2016aqw_2016-03-03.86_LJT_YFOSC.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.0217", 
-        "Obs. Date": "2016-03-03", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Chuanjun Wang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-04", 
+        "Type": "SN II",
+        "Redshift": "0.0217",
+        "Obs. Date": "2016-03-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Chuanjun Wang",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-04",
         "Modified By": "upload-TNS"
     }
 }

@@ -1,15 +1,16 @@
 {
     "11pfm_20111202_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0797", 
-        "Obs. Date": "2011-12-02", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Silverman, Miller, Nugent", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-07-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.0797",
+        "Obs. Date": "2011-12-02",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Silverman, Miller, Nugent",
+        "Reducer": "Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2012-07-05",
         "Modified By": "upload-marshalspec"
     }
 }

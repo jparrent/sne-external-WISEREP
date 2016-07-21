@@ -1,15 +1,16 @@
 {
     "CSS140628_233025p060302_2014-07-04_00:36:36_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.056", 
-        "Obs. Date": "2014-07-04", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.056",
+        "Obs. Date": "2014-07-04",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

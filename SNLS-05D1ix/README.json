@@ -1,15 +1,16 @@
 {
     "05D1ix_nohost.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.49", 
-        "Obs. Date": "2005-11-30", 
-        "Program": "SNLS", 
-        "Contributor": "Ellis et al. 2008", 
-        "Bibcode": "2008ApJ...674...51E", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-05-13", 
+        "Type": "SN Ia",
+        "Redshift": "0.49",
+        "Obs. Date": "2005-11-30",
+        "Program": "SNLS",
+        "Contributor": "Ellis et al. 2008",
+        "Bibcode": "2008ApJ...674...51E",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-05-13",
         "Modified By": "ofer-UploadSet"
     }
 }

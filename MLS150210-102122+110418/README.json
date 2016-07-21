@@ -1,15 +1,16 @@
 {
     "tMLS150210-102122+110418_20150212_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.14", 
-        "Obs. Date": "2015-02-13", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Ayan Mitra", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-02-13", 
+        "Type": "SN Ia",
+        "Redshift": "0.14",
+        "Obs. Date": "2015-02-13",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Ayan Mitra",
+        "Reducer": "Pierre-Francois Leget",
+        "Reduction Status": "final",
+        "Last Modified": "2015-02-13",
         "Modified By": "ilanm-UploadSet"
     }
 }

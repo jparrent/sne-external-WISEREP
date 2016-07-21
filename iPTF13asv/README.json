@@ -1,15 +1,16 @@
 {
     "13asv_20130504_UH88_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.035", 
-        "Obs. Date": "2013-05-04", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "UH88 - SNIFS", 
-        "Observer": "smadja", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-05-13", 
+        "Type": "SN Ia",
+        "Redshift": "0.035",
+        "Obs. Date": "2013-05-04",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "smadja",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-05-13",
         "Modified By": "ofer-UploadSet"
     }
 }

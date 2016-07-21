@@ -1,15 +1,16 @@
 {
     "tASASSN-15uq_20160102_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.022", 
-        "Obs. Date": "2016-01-03", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Dimitriadis, Frohmaier, Firth", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-01-03", 
+        "Type": "SN Ia",
+        "Redshift": "0.022",
+        "Obs. Date": "2016-01-03",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Dimitriadis, Frohmaier, Firth",
+        "Reducer": "Firth, Frohmaier, Dimitriadis",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-01-03",
         "Modified By": "ilanm-UploadSet"
     }
 }

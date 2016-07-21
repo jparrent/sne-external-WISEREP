@@ -1,15 +1,16 @@
 {
     "tLSQ14dvy_20140815_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.16", 
-        "Obs. Date": "2014-08-16", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Elias-Rosa/Tartaglia", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-08-16", 
+        "Type": "SN Ia",
+        "Redshift": "0.16",
+        "Obs. Date": "2014-08-16",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Elias-Rosa/Tartaglia",
+        "Reducer": "Tomasella/Morales-Garoffolo",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-08-16",
         "Modified By": "ofer-UploadSet"
     }
 }

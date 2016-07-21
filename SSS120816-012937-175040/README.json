@@ -1,15 +1,16 @@
 {
     "SSS120816-012937-175_20120909_Gr13_Free_slit1.5_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.07", 
-        "Obs. Date": "2012-09-10", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Arcavi,Pan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.07",
+        "Obs. Date": "2012-09-10",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Arcavi,Pan",
+        "Reducer": "Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

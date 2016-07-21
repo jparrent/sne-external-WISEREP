@@ -1,15 +1,16 @@
 {
     "MASTERJ093953.18+165_20130208_Gr13_Free_slit1.5_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.048", 
-        "Obs. Date": "2013-02-09", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Nancy Elias-Rosa, Antonia Morales Garoffolo", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.048",
+        "Obs. Date": "2013-02-09",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Nancy Elias-Rosa, Antonia Morales Garoffolo",
+        "Reducer": "Stefan Taubengerger, Sandra Benitez",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

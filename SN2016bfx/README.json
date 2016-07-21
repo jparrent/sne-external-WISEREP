@@ -1,15 +1,16 @@
 {
     "tns_2016bfx_2016-03-06.0_Keck1_LRIS_iPTF.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.17", 
-        "Obs. Date": "2016-03-06", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "N. Blagorodnova, V. Ravi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.17",
+        "Obs. Date": "2016-03-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "N. Blagorodnova, V. Ravi",
+        "Reducer": "R. Lunnan",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-21",
         "Modified By": "upload-TNS"
     }
 }

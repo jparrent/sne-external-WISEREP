@@ -1,15 +1,16 @@
 {
     "SN2012hw_2012-12-19_02:33:32_Asiago.ascii": {
-        "Type": "SN IIP", 
-        "Redshift": "0.038054", 
-        "Obs. Date": "2012-12-19", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Turatto", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN IIP",
+        "Redshift": "0.038054",
+        "Obs. Date": "2012-12-19",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Turatto",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

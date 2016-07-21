@@ -1,15 +1,16 @@
 {
     "MASTER_OT_J120451d50p265946d6_2014-10-29_03:33:18_Asiago.ascii": {
-        "Type": "SN Ib", 
-        "Redshift": "0.00189", 
-        "Obs. Date": "2014-10-29", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Terreran Miluzio Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ib",
+        "Redshift": "0.00189",
+        "Obs. Date": "2014-10-29",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Terreran Miluzio Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

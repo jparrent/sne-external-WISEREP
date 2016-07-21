@@ -1,15 +1,16 @@
 {
     "tns_2016atv_2457457.600833335_SALT_RSS.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.045", 
-        "Obs. Date": "2016-03-10", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "SALT - RSS", 
-        "Observer": "M. Kotze", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-10", 
+        "Type": "SN Ia",
+        "Redshift": "0.045",
+        "Obs. Date": "2016-03-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SALT - RSS",
+        "Observer": "M. Kotze",
+        "Reducer": "S. W. Jha",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-10",
         "Modified By": "upload-TNS"
     }
 }

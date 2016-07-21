@@ -1,15 +1,16 @@
 {
     "14fnn_20141001_P200_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.059", 
-        "Obs. Date": "2014-10-01", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Waszczak", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-10-05", 
+        "Type": "SN II",
+        "Redshift": "0.059",
+        "Obs. Date": "2014-10-01",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Waszczak",
+        "Reducer": "Rubin, Yaron",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-05",
         "Modified By": "ofer"
     }
 }

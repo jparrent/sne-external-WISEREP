@@ -1,15 +1,16 @@
 {
     "13daz_20130829_Gemini_N_v1.ascii": {
-        "Type": "SN IIn", 
-        "Redshift": "0.045", 
-        "Obs. Date": "2013-08-29", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Gemini Queue", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-09-11", 
+        "Type": "SN IIn",
+        "Redshift": "0.045",
+        "Obs. Date": "2013-08-29",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Gemini Queue",
+        "Reducer": "Kasliwal (GMOS pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2013-09-11",
         "Modified By": "iair"
     }
 }

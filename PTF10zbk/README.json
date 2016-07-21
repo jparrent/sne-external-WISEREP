@@ -1,15 +1,16 @@
 {
     "10zbk_20101102_KPNO4m_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.064", 
-        "Obs. Date": "2010-11-02", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Mayall - RC Spec", 
-        "Observer": "Arcavi+Xu+Matheson", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.064",
+        "Obs. Date": "2010-11-02",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Mayall - RC Spec",
+        "Observer": "Arcavi+Xu+Matheson",
+        "Reducer": "Xu+Matheson",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

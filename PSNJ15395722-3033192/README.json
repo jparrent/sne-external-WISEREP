@@ -1,15 +1,16 @@
 {
     "PSNJ15395722-3033192_20120916_Gr13_Free_slit1.0_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0182", 
-        "Obs. Date": "2012-09-16", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Arcavi,Pan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.0182",
+        "Obs. Date": "2012-09-16",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Arcavi,Pan",
+        "Reducer": "Arcavi, Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

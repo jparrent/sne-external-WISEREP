@@ -1,15 +1,16 @@
 {
     "DES13S2cmm.final.dat": {
-        "Type": "SLSN-I", 
-        "Redshift": "0.663", 
-        "Obs. Date": "2013-11-20", 
-        "Program": "", 
-        "Contributor": "Papadopoulos et al. 2015", 
-        "Bibcode": "2015MNRAS.449.1215P", 
-        "Instrument": "VLT-UT1 - FORS2", 
-        "Observer": "Unkown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-09-06", 
+        "Type": "SLSN-I",
+        "Redshift": "0.663",
+        "Obs. Date": "2013-11-20",
+        "Program": "",
+        "Contributor": "Papadopoulos et al. 2015",
+        "Bibcode": "2015MNRAS.449.1215P",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unkown",
+        "Reducer": "Mark Sullivan",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-06",
         "Modified By": "ilanm-UploadSet"
     }
 }

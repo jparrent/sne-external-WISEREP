@@ -1,15 +1,16 @@
 {
     "SN2010kg_HST+STIS_2010-12-13.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.016642", 
-        "Obs. Date": "2010-12-13", 
-        "Program": "HST-Ia", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "HST - STIS", 
-        "Observer": "Ellis", 
-        "Reduction Status": "final", 
-        "Last Modified": "2012-08-13", 
+        "Type": "SN Ia",
+        "Redshift": "0.016642",
+        "Obs. Date": "2010-12-13",
+        "Program": "HST-Ia",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "HST - STIS",
+        "Observer": "Ellis",
+        "Reducer": "Maguire",
+        "Reduction Status": "final",
+        "Last Modified": "2012-08-13",
         "Modified By": "iair-UploadSet"
     }
 }

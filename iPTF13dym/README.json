@@ -1,15 +1,16 @@
 {
     "13dym_20131107_APO_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.04213", 
-        "Obs. Date": "2013-11-07", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "APO 3.5m - DIS", 
-        "Observer": "Kasliwal", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-12-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.04213",
+        "Obs. Date": "2013-11-07",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "Kasliwal",
+        "Reducer": "Cao",
+        "Reduction Status": "final",
+        "Last Modified": "2013-12-30",
         "Modified By": "ilanm"
     }
 }

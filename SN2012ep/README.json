@@ -1,15 +1,16 @@
 {
     "SN2012ep_2012-09-11_00:11:59_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.1", 
-        "Obs. Date": "2012-09-11", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Benetti Tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.1",
+        "Obs. Date": "2012-09-11",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Benetti Tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

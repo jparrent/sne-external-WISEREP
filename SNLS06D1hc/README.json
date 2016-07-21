@@ -1,15 +1,16 @@
 {
     "MOS3_slit08.ms.wc.fc.ascii": {
-        "Type": "SN", 
-        "Redshift": "0.555", 
-        "Obs. Date": "2006-11-25", 
-        "Program": "", 
-        "Contributor": "Arcavi et al. 2016", 
-        "Bibcode": "2016ApJ...819...35A", 
-        "Instrument": "VLT-UT1 - FORS1", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-08", 
+        "Type": "SN",
+        "Redshift": "0.555",
+        "Obs. Date": "2006-11-25",
+        "Program": "",
+        "Contributor": "Arcavi et al. 2016",
+        "Bibcode": "2016ApJ...819...35A",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Chris Lidman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-08",
         "Modified By": "ilanm"
     }
 }

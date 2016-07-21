@@ -1,15 +1,16 @@
 {
     "MASTER_OT_J062509d46p283255d1_2014-12-19_21:53:00_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.029", 
-        "Obs. Date": "2014-12-19", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Pastorello Tartaglia Huang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.029",
+        "Obs. Date": "2014-12-19",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Pastorello Tartaglia Huang",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

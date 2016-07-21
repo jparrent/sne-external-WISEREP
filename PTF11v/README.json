@@ -1,15 +1,16 @@
 {
     "11v_20110113_P200_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.037016", 
-        "Obs. Date": "2011-01-13", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Assaf Horesh", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-08-12", 
+        "Type": "SN Ia",
+        "Redshift": "0.037016",
+        "Obs. Date": "2011-01-13",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Assaf Horesh",
+        "Reducer": "Yaron+Polishook",
+        "Reduction Status": "final",
+        "Last Modified": "2014-08-12",
         "Modified By": "ilanm"
     }
 }

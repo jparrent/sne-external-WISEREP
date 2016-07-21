@@ -1,15 +1,16 @@
 {
     "tOGLE-2014-SN-058_20140821_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.15", 
-        "Obs. Date": "2014-08-22", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "HODGKIN/FRASER", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-08-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.15",
+        "Obs. Date": "2014-08-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "HODGKIN/FRASER",
+        "Reducer": "HODGKIN/FRASER",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-08-23",
         "Modified By": "ilanm-UploadSet"
     }
 }

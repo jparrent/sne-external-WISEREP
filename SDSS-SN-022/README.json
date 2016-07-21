@@ -1,15 +1,16 @@
 {
     "GM13_0814_52443_249.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.112319", 
-        "Obs. Date": "2002-06-18", 
-        "Program": "SDSS-SNe", 
-        "Contributor": "Graur & Maoz 2013", 
-        "Bibcode": "2013MNRAS.430.1746G", 
-        "Instrument": "Sloan - SDSS I-II Spec", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-11-20", 
+        "Type": "SN Ia",
+        "Redshift": "0.112319",
+        "Obs. Date": "2002-06-18",
+        "Program": "SDSS-SNe",
+        "Contributor": "Graur & Maoz 2013",
+        "Bibcode": "2013MNRAS.430.1746G",
+        "Instrument": "Sloan - SDSS I-II Spec",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-11-20",
         "Modified By": "ofer-UploadSet"
     }
 }

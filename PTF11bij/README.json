@@ -1,15 +1,16 @@
 {
     "11bij_20110427_Keck1_v2.ascii": {
-        "Type": "SN Ib - Ca-rich", 
-        "Redshift": "0.035", 
-        "Obs. Date": "2011-04-27", 
-        "Program": "PTF", 
-        "Contributor": "Kasliwal et al. 2012", 
-        "Bibcode": "2012ApJ...755..161K", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Polishook & Horesh", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-01-05", 
+        "Type": "SN Ib - Ca-rich",
+        "Redshift": "0.035",
+        "Obs. Date": "2011-04-27",
+        "Program": "PTF",
+        "Contributor": "Kasliwal et al. 2012",
+        "Bibcode": "2012ApJ...755..161K",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Polishook & Horesh",
+        "Reducer": "Sternberg",
+        "Reduction Status": "final",
+        "Last Modified": "2013-01-05",
         "Modified By": "ofer"
     }
 }

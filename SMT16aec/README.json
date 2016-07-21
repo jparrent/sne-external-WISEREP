@@ -1,15 +1,16 @@
 {
     "tSMT16aec_20160410_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "SN Ic", 
-        "Redshift": "0.04", 
-        "Obs. Date": "2016-04-11", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Johansson/Magee/Bar", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2016-04-11", 
+        "Type": "SN Ic",
+        "Redshift": "0.04",
+        "Obs. Date": "2016-04-11",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Johansson/Magee/Bar",
+        "Reducer": "Johansson/Magee/Bar",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-04-11",
         "Modified By": "ofer-UploadSet"
     }
 }

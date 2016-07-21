@@ -1,15 +1,16 @@
 {
     "MASTER_OT_J211223d35p144645d1_2016-06-23_23:19:43_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.029", 
-        "Obs. Date": "2016-06-23", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella - ascenzi - yang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-06-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.029",
+        "Obs. Date": "2016-06-23",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella - ascenzi - yang",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-06-27",
         "Modified By": "ofer-UploadSet"
     }
 }

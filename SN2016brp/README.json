@@ -1,15 +1,16 @@
 {
     "tns_2016brp_2016-04-10_07-12-17_Keck1_LRIS_iPTF.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.123", 
-        "Obs. Date": "2016-04-10", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "V. Ravi, Y. Cao, L. Yan, H. K. Vedantham, S. Kulkarni", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-18", 
+        "Type": "SN Ia",
+        "Redshift": "0.123",
+        "Obs. Date": "2016-04-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "V. Ravi, Y. Cao, L. Yan, H. K. Vedantham, S. Kulkarni",
+        "Reducer": "R. Lunnan",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-18",
         "Modified By": "upload-TNS"
     }
 }

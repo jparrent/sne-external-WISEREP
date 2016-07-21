@@ -1,15 +1,16 @@
 {
     "13ebs_20131126_P200_v1.ascii": {
-        "Type": "SN IIb", 
-        "Redshift": "0.027", 
-        "Obs. Date": "2013-11-26", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Waszczak", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-12-03", 
+        "Type": "SN IIb",
+        "Redshift": "0.027",
+        "Obs. Date": "2013-11-26",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Waszczak",
+        "Reducer": "Yaron",
+        "Reduction Status": "final",
+        "Last Modified": "2013-12-03",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "10abyy_20101209_Keck1_v1.ascii": {
-        "Type": "SN IIn", 
-        "Redshift": "0.0297", 
-        "Obs. Date": "2010-12-09", 
-        "Program": "PTF", 
-        "Contributor": "Khazov et al. 2015", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Ebeling", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-12-03", 
+        "Type": "SN IIn",
+        "Redshift": "0.0297",
+        "Obs. Date": "2010-12-09",
+        "Program": "PTF",
+        "Contributor": "Khazov et al. 2015",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Ebeling",
+        "Reducer": "Cenko",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-03",
         "Modified By": "ofer"
     }
 }

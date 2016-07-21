@@ -1,15 +1,16 @@
 {
     "LCOGT_SN_Key_Project_2016D_2016-01-17.48_FTS_FLOYDS-S.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.045", 
-        "Obs. Date": "2016-01-17", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "FTS - FLOYDS-S", 
-        "Observer": "SNEx", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-19", 
+        "Type": "SN Ia",
+        "Redshift": "0.045",
+        "Obs. Date": "2016-01-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTS - FLOYDS-S",
+        "Observer": "SNEx",
+        "Reducer": "G. Hosseinzadeh",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-19",
         "Modified By": "upload-TNS"
     }
 }

@@ -1,15 +1,16 @@
 {
     "Gaia14acg_2014-10-29_04:02:37_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.031", 
-        "Obs. Date": "2014-10-29", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Terreran Miluzio Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.031",
+        "Obs. Date": "2014-10-29",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Terreran Miluzio Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

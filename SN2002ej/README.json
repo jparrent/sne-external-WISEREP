@@ -1,15 +1,16 @@
 {
     "SN2002ej_2002-08-30.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.0162", 
-        "Obs. Date": "2002-08-30", 
-        "Program": "", 
-        "Contributor": "Harutyunyan et al. 2008", 
-        "Bibcode": "2008A&A...488..383H", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-09", 
+        "Type": "SN II",
+        "Redshift": "0.0162",
+        "Obs. Date": "2002-08-30",
+        "Program": "",
+        "Contributor": "Harutyunyan et al. 2008",
+        "Bibcode": "2008A&A...488..383H",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

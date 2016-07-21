@@ -1,15 +1,16 @@
 {
     "SNhunt271_2014-12-23_21:06:27_Asiago.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.21", 
-        "Obs. Date": "2014-12-23", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Tomasella, Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II",
+        "Redshift": "0.21",
+        "Obs. Date": "2014-12-23",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella, Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

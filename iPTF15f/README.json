@@ -1,15 +1,16 @@
 {
     "15f_20150124_P200_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.087", 
-        "Obs. Date": "2015-01-24", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Pavan Bilgi, Shri Kulkarni", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-02-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.087",
+        "Obs. Date": "2015-01-24",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Pavan Bilgi, Shri Kulkarni",
+        "Reducer": "Annalisa De Cia",
+        "Reduction Status": "final",
+        "Last Modified": "2015-02-05",
         "Modified By": "ilanm"
     }
 }

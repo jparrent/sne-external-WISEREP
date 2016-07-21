@@ -1,15 +1,16 @@
 {
     "16qz_20160306_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.17", 
-        "Obs. Date": "2016-03-06", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Blagorodnova, Ravi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-04-19", 
+        "Type": "SN Ia",
+        "Redshift": "0.17",
+        "Obs. Date": "2016-03-06",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Blagorodnova, Ravi",
+        "Reducer": "Lunnan (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2016-04-19",
         "Modified By": "ofer"
     }
 }

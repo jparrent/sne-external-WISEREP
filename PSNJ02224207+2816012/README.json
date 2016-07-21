@@ -1,15 +1,16 @@
 {
     "tPSNJ02224207+2816012_20130829_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.017", 
-        "Obs. Date": "2013-08-30", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Kangas,Kankare", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2013-08-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.017",
+        "Obs. Date": "2013-08-30",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Kangas,Kankare",
+        "Reducer": "Mattila",
+        "Reduction Status": "rapid",
+        "Last Modified": "2013-08-30",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "SN2014dj_2014-09-26_21:14:17_Asiago.ascii": {
-        "Type": "SN Ic", 
-        "Redshift": "0.018", 
-        "Obs. Date": "2014-09-26", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ic",
+        "Redshift": "0.018",
+        "Obs. Date": "2014-09-26",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "15ak_20150122_Keck1_v1.ascii": {
-        "Type": "SN IIn", 
-        "Redshift": "0.11", 
-        "Obs. Date": "2015-01-22", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Duggan, Kulkarni", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-02-20", 
+        "Type": "SN IIn",
+        "Redshift": "0.11",
+        "Obs. Date": "2015-01-22",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Duggan, Kulkarni",
+        "Reducer": "Perley (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2015-02-20",
         "Modified By": "ofer"
     }
 }

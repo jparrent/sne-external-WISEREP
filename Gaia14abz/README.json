@@ -1,15 +1,16 @@
 {
     "Gaia14abz_2014-10-26_17:25:41_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.059", 
-        "Obs. Date": "2014-10-26", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Turatto", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.059",
+        "Obs. Date": "2014-10-26",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Turatto",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

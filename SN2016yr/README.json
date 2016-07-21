@@ -1,15 +1,16 @@
 {
     "tns_2016yr_2016-01-30_06-01-50_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.037", 
-        "Obs. Date": "2016-01-30", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "A. Cikota, G. Terreran, N. Elias-Rosa", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.037",
+        "Obs. Date": "2016-01-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "A. Cikota, G. Terreran, N. Elias-Rosa",
+        "Reducer": "L. Tomasella",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-30",
         "Modified By": "upload-TNS"
     }
 }

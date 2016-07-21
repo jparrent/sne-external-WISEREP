@@ -1,15 +1,16 @@
 {
     "tASASSN-15ta_20151122_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "SN Ib", 
-        "Redshift": "0.015", 
-        "Obs. Date": "2015-11-23", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Harmanen, Kuncarayakti", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-11-23", 
+        "Type": "SN Ib",
+        "Redshift": "0.015",
+        "Obs. Date": "2015-11-23",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Harmanen, Kuncarayakti",
+        "Reducer": "Kangas",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-11-23",
         "Modified By": "ilanm-UploadSet"
     }
 }

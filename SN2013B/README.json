@@ -1,15 +1,16 @@
 {
     "SN2013B_20130104_Gr13_Free_slit1.0_56456_1.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0378", 
-        "Obs. Date": "2013-01-05", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "TADDIA,SOLLERMAN", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.0378",
+        "Obs. Date": "2013-01-05",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "TADDIA,SOLLERMAN",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

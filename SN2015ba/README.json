@@ -1,15 +1,16 @@
 {
     "SN2015ba_2015-12-02_03:09:53_Asiago.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.0079", 
-        "Obs. Date": "2015-12-02", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Benetti-Milan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II",
+        "Redshift": "0.0079",
+        "Obs. Date": "2015-12-02",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Benetti-Milan",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

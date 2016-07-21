@@ -1,15 +1,16 @@
 {
     "10gva_20100506_Keck1_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.025", 
-        "Obs. Date": "2010-05-06", 
-        "Program": "PTF", 
-        "Contributor": "Khazov et al. 2015", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Cenko, Nugent, Filippenko, Bloom, Poznanski, Miller, Silverman", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-12-03", 
+        "Type": "SN II",
+        "Redshift": "0.025",
+        "Obs. Date": "2010-05-06",
+        "Program": "PTF",
+        "Contributor": "Khazov et al. 2015",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Cenko, Nugent, Filippenko, Bloom, Poznanski, Miller, Silverman",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-03",
         "Modified By": "ofer"
     }
 }

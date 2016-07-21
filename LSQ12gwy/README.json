@@ -1,15 +1,16 @@
 {
     "LSQ12gwy_20121204_Gr13_Free_slit1.0_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.018", 
-        "Obs. Date": "2012-12-05", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Laurent Le Guillou, Kate Maguire", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.018",
+        "Obs. Date": "2012-12-05",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Laurent Le Guillou, Kate Maguire",
+        "Reducer": "Yen-Chen Pan, Sylvain Baumont",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

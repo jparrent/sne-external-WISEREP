@@ -1,15 +1,16 @@
 {
     "15amt_20150516_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.11", 
-        "Obs. Date": "2015-05-16", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "G. Duggan, E. Bellm", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-05-28", 
+        "Type": "SN Ia",
+        "Redshift": "0.11",
+        "Obs. Date": "2015-05-16",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "G. Duggan, E. Bellm",
+        "Reducer": "G Duggan (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2015-05-28",
         "Modified By": "upload-marshalspec"
     }
 }

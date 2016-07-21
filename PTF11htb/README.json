@@ -1,15 +1,16 @@
 {
     "11htb_20110131_WHT_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.05", 
-        "Obs. Date": "2011-01-31", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "WHT-4.2m - ISIS", 
-        "Observer": "Kate Maguire", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2011-01-31",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "WHT-4.2m - ISIS",
+        "Observer": "Kate Maguire",
+        "Reducer": "Kate Maguire",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

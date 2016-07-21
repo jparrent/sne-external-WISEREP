@@ -1,15 +1,16 @@
 {
     "14gwp_20141024_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.22", 
-        "Obs. Date": "2014-10-24", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Graham, Zheng", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-10-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.22",
+        "Obs. Date": "2014-10-24",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Graham, Zheng",
+        "Reducer": "Graham",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-30",
         "Modified By": "upload-marshalspec"
     }
 }

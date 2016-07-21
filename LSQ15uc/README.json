@@ -1,15 +1,16 @@
 {
     "tLSQ15uc_20150319_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.1", 
-        "Obs. Date": "2015-03-20", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "H. Campbell", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-03-20", 
+        "Type": "SN Ia",
+        "Redshift": "0.1",
+        "Obs. Date": "2015-03-20",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "H. Campbell",
+        "Reducer": "R. Cartier, M. Smith",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-03-20",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "None_2016K_2016-01-15.5_LJT_YFOSC.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0307", 
-        "Obs. Date": "2016-01-15", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LJT - YFOSC", 
-        "Observer": "Jujia Zhang", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-15", 
+        "Type": "SN Ia",
+        "Redshift": "0.0307",
+        "Obs. Date": "2016-01-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Jujia Zhang",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-15",
         "Modified By": "upload-TNS"
     }
 }

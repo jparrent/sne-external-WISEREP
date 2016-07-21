@@ -1,15 +1,16 @@
 {
     "SN2012bo_2012-03-28_23:03:53_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.025", 
-        "Obs. Date": "2012-03-28", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Pastorello", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.025",
+        "Obs. Date": "2012-03-28",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Pastorello",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

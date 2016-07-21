@@ -1,15 +1,16 @@
 {
     "ASASSNm15mj_2015-07-13_21:36:36_Asiago.ascii": {
-        "Type": "", 
-        "Redshift": "0.0344", 
-        "Obs. Date": "2015-07-13", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "",
+        "Redshift": "0.0344",
+        "Obs. Date": "2015-07-13",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

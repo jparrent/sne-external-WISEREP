@@ -1,15 +1,16 @@
 {
     "tMASTERJ003918.04+035659.6_20151004_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0176", 
-        "Obs. Date": "2015-10-05", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Campbell/Lyman", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.0176",
+        "Obs. Date": "2015-10-05",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Campbell/Lyman",
+        "Reducer": "Fraser",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-05",
         "Modified By": "ilanm-UploadSet"
     }
 }

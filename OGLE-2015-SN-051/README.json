@@ -1,15 +1,16 @@
 {
     "tOGLE-2015-SN-051_20150211_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.06", 
-        "Obs. Date": "2015-02-12", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "S. Baumont", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-02-12", 
+        "Type": "SN Ia",
+        "Redshift": "0.06",
+        "Obs. Date": "2015-02-12",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "S. Baumont",
+        "Reducer": "N. Chotard",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-02-12",
         "Modified By": "ilanm-UploadSet"
     }
 }

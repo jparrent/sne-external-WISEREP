@@ -1,15 +1,16 @@
 {
     "tASASSN-15gr_20150409_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.024", 
-        "Obs. Date": "2015-04-09", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Frohmaier", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-04-10", 
+        "Type": "SN Ia",
+        "Redshift": "0.024",
+        "Obs. Date": "2015-04-09",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Frohmaier",
+        "Reducer": "Frohmaier",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-04-10",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "SN_in_Mrk_477_2015-07-22_23:26:32_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.038", 
-        "Obs. Date": "2015-07-22", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "terreran tartaglia", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.038",
+        "Obs. Date": "2015-07-22",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "terreran tartaglia",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

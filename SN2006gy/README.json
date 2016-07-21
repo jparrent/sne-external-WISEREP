@@ -1,15 +1,16 @@
 {
     "sn2006gy_20061028_DBSP.dat": {
-        "Type": "SLSN-II", 
-        "Redshift": "0.01919", 
-        "Obs. Date": "2006-10-28", 
-        "Program": "", 
-        "Contributor": "Ofek et al. 2007", 
-        "Bibcode": "2007ApJ...659L..13O", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-09-12", 
+        "Type": "SLSN-II",
+        "Redshift": "0.01919",
+        "Obs. Date": "2006-10-28",
+        "Program": "",
+        "Contributor": "Ofek et al. 2007",
+        "Bibcode": "2007ApJ...659L..13O",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Unknown",
+        "Reducer": "Ofek",
+        "Reduction Status": "final",
+        "Last Modified": "2011-09-12",
         "Modified By": "admin"
     }
 }

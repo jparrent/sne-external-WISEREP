@@ -1,15 +1,16 @@
 {
     "tPS15sv_20150327_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN Ia-91T-like", 
-        "Redshift": "0.033", 
-        "Obs. Date": "2015-03-28", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "N. Walton, H. Campbell", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-03-29", 
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.033",
+        "Obs. Date": "2015-03-28",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "N. Walton, H. Campbell",
+        "Reducer": "C. Frohmaier, S. Prajs, R. Cartier",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-03-29",
         "Modified By": "ilanm-UploadSet"
     }
 }

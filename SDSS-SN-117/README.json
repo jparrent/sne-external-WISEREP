@@ -1,15 +1,16 @@
 {
     "G15_1808_54176_107.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.117206", 
-        "Obs. Date": "2007-03-17", 
-        "Program": "SDSS-SNe", 
-        "Contributor": "Graur, Bianco, & Modjaz 2015", 
-        "Bibcode": "2015MNRAS.450..905G", 
-        "Instrument": "Sloan - SDSS I-II Spec", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-11-20", 
+        "Type": "SN Ia",
+        "Redshift": "0.117206",
+        "Obs. Date": "2007-03-17",
+        "Program": "SDSS-SNe",
+        "Contributor": "Graur, Bianco, & Modjaz 2015",
+        "Bibcode": "2015MNRAS.450..905G",
+        "Instrument": "Sloan - SDSS I-II Spec",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-11-20",
         "Modified By": "ofer-UploadSet"
     }
 }

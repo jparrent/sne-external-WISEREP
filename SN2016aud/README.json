@@ -1,15 +1,16 @@
 {
     "tns_2016aud_2016-03-10_04-38-37_LT_SPRAT.dat": {
-        "Type": "SN Ia-91T-like", 
-        "Redshift": "0.044", 
-        "Obs. Date": "2016-03-10", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "LT - SPRAT", 
-        "Observer": "A.S.Piasick", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-10", 
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.044",
+        "Obs. Date": "2016-03-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "A.S.Piasick",
+        "Reducer": "A.S.Piascik",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-10",
         "Modified By": "upload-TNS"
     }
 }

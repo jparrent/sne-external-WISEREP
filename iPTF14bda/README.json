@@ -1,15 +1,16 @@
 {
     "14bda_20140528_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.2", 
-        "Obs. Date": "2014-05-28", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Perley", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-06-08", 
+        "Type": "SN Ia",
+        "Redshift": "0.2",
+        "Obs. Date": "2014-05-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2014-06-08",
         "Modified By": "ofer"
     }
 }

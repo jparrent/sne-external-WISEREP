@@ -1,15 +1,16 @@
 {
     "LSQ13dkg_20131209_Gr13_Free_slit1.0_57002_1.dat": {
-        "Type": "SN Ib/c", 
-        "Redshift": "0.015", 
-        "Obs. Date": "2013-12-10", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Dennefeld,Bersier", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN Ib/c",
+        "Redshift": "0.015",
+        "Obs. Date": "2013-12-10",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Dennefeld,Bersier",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

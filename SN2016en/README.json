@@ -1,15 +1,16 @@
 {
     "tns_2016en_2016-01-14.0_P200_DBSP_iPTF.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.133", 
-        "Obs. Date": "2016-01-14", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Nadia Blagorodnova", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-01-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.133",
+        "Obs. Date": "2016-01-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Nadia Blagorodnova",
+        "Reducer": "Paul Vreeswijk",
+        "Reduction Status": "final",
+        "Last Modified": "2016-01-27",
         "Modified By": "upload-TNS"
     }
 }

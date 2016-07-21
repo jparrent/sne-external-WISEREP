@@ -1,15 +1,16 @@
 {
     "PSN_J19535968p4956078_2015-06-24_23:30:39_Asiago.ascii": {
-        "Type": "SN IIP", 
-        "Redshift": "0.02506", 
-        "Obs. Date": "2015-06-24", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Benetti", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN IIP",
+        "Redshift": "0.02506",
+        "Obs. Date": "2015-06-24",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Benetti",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

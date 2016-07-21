@@ -1,15 +1,16 @@
 {
     "LSQ12ezu_20120923_Gr13_Free_slit1.0_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.12", 
-        "Obs. Date": "2012-09-24", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Pan, Arcavi", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.12",
+        "Obs. Date": "2012-09-24",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Pan, Arcavi",
+        "Reducer": "Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

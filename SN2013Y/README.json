@@ -1,15 +1,16 @@
 {
     "SN2013Y_20130211_ALFOSC.txt": {
-        "Type": "SN Ia", 
-        "Redshift": "0.077", 
-        "Obs. Date": "2013-02-11", 
-        "Program": "KISS", 
-        "Contributor": "Morokuma et al. 2014", 
-        "Bibcode": "2014arXiv1409.1308M", 
-        "Instrument": "NOT - ALFOSC", 
-        "Observer": "Taddia,Stritzinger", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-09-16", 
+        "Type": "SN Ia",
+        "Redshift": "0.077",
+        "Obs. Date": "2013-02-11",
+        "Program": "KISS",
+        "Contributor": "Morokuma et al. 2014",
+        "Bibcode": "2014arXiv1409.1308M",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "Taddia,Stritzinger",
+        "Reducer": "Taddia",
+        "Reduction Status": "final",
+        "Last Modified": "2014-09-16",
         "Modified By": "ofer-UploadSet"
     }
 }

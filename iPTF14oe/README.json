@@ -1,15 +1,16 @@
 {
     "14oe_20140301_Keck2_v1.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.056", 
-        "Obs. Date": "2014-03-01", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "S.Tang, Y.Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-03-05", 
+        "Type": "SN II",
+        "Redshift": "0.056",
+        "Obs. Date": "2014-03-01",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "S.Tang, Y.Cao",
+        "Reducer": "annalisa",
+        "Reduction Status": "final",
+        "Last Modified": "2014-03-05",
         "Modified By": "ofer"
     }
 }

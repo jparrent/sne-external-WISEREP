@@ -1,15 +1,16 @@
 {
     "tPS1-15g_20150119_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN II", 
-        "Redshift": "0.014", 
-        "Obs. Date": "2015-01-20", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "A. Nyholm, C. Fremling", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-01-20", 
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2015-01-20",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "A. Nyholm, C. Fremling",
+        "Reducer": "K. Migotto, E. Karamehmetoglu, F. Taddia",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-01-20",
         "Modified By": "ilanm-UploadSet"
     }
 }

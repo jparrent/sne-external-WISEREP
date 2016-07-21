@@ -1,15 +1,16 @@
 {
     "tCSS140925-223344-062208_20140928_Gr13_Free_slit1.0_1_f.asci": {
-        "Type": "SN II", 
-        "Redshift": "0.029", 
-        "Obs. Date": "2014-09-29", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "WALTON/ASHALL", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2014-09-29", 
+        "Type": "SN II",
+        "Redshift": "0.029",
+        "Obs. Date": "2014-09-29",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "WALTON/ASHALL",
+        "Reducer": "FRASER",
+        "Reduction Status": "rapid",
+        "Last Modified": "2014-09-29",
         "Modified By": "ilanm-UploadSet"
     }
 }

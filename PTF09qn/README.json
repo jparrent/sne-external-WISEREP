@@ -1,15 +1,16 @@
 {
     "09qn_20090626_Keck1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0634", 
-        "Obs. Date": "2009-06-26", 
-        "Program": "PTF", 
-        "Contributor": "Maguire et al. 2014", 
-        "Bibcode": "2014arXiv1408.1430M", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Kasliwal, Quimby, Theissen", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.0634",
+        "Obs. Date": "2009-06-26",
+        "Program": "PTF",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Kasliwal, Quimby, Theissen",
+        "Reducer": "Quimby",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

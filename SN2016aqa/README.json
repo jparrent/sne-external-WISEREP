@@ -1,15 +1,16 @@
 {
     "tns_2016aqa_2016-02-26_06-48-54_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.052", 
-        "Obs. Date": "2016-02-26", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Taubenberger, Faran, Kromer", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-02-26", 
+        "Type": "SN Ia",
+        "Redshift": "0.052",
+        "Obs. Date": "2016-02-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Taubenberger, Faran, Kromer",
+        "Reducer": "Elias-Rosa",
+        "Reduction Status": "final",
+        "Last Modified": "2016-02-26",
         "Modified By": "upload-TNS"
     }
 }

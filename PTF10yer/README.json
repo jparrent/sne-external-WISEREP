@@ -1,15 +1,16 @@
 {
     "PTF10yer-20101017.flm": {
-        "Type": "SN Ia", 
-        "Redshift": "0.05", 
-        "Obs. Date": "2010-10-17", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Sagi Ben-Ami & Mansi Kasliwal", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-08-18", 
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2010-10-17",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Sagi Ben-Ami & Mansi Kasliwal",
+        "Reducer": "Assaf Sternberg",
+        "Reduction Status": "final",
+        "Last Modified": "2011-08-18",
         "Modified By": "assaf-BunchUpload"
     }
 }

@@ -1,15 +1,16 @@
 {
     "OGLE-2013-SN-018_20130311_Gr13_Free_slit1.0_56457_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.067", 
-        "Obs. Date": "2013-03-12", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Blagorodnova,Nicholl,Hodgkin", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.067",
+        "Obs. Date": "2013-03-12",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Blagorodnova,Nicholl,Hodgkin",
+        "Reducer": "Inserra,Polshaw,Fraser",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

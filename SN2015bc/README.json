@@ -1,15 +1,16 @@
 {
     "SN2015bc_2015-12-03_23:21:42_Asiago.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.03474", 
-        "Obs. Date": "2015-12-03", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Pastorello Tartaglia", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II",
+        "Redshift": "0.03474",
+        "Obs. Date": "2015-12-03",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Pastorello Tartaglia",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

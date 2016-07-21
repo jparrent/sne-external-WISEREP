@@ -1,15 +1,16 @@
 {
     "PSN_J10051374p2127231_2015-12-20_05:02:16_Asiago.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.018613", 
-        "Obs. Date": "2015-12-20", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN II",
+        "Redshift": "0.018613",
+        "Obs. Date": "2015-12-20",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

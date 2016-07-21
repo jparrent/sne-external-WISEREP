@@ -1,15 +1,16 @@
 {
     "tns_2016ccw_2016-05-04_08-19-59_Keck2_DEIMOS.ascii": {
-        "Type": "SN II", 
-        "Redshift": "0.043", 
-        "Obs. Date": "2016-05-04", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck2 - DEIMOS", 
-        "Observer": "N. Blagorodnova, S. Kulkarni, Y. Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-05-14", 
+        "Type": "SN II",
+        "Redshift": "0.043",
+        "Obs. Date": "2016-05-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "N. Blagorodnova, S. Kulkarni, Y. Cao",
+        "Reducer": "Y. Cao",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-14",
         "Modified By": "upload-TNS"
     }
 }

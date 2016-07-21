@@ -1,15 +1,16 @@
 {
     "PS1-14xw_20140428_Gr13_Free_slit1.0_57004_1.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.02448", 
-        "Obs. Date": "2014-04-29", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "BENITEZ,POLSHAW", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.02448",
+        "Obs. Date": "2014-04-29",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "BENITEZ,POLSHAW",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "tLSQ15aja_20150426_Gr13_Free_slit1.5_1_f.asci": {
-        "Type": "SN Ia", 
-        "Redshift": "0.068", 
-        "Obs. Date": "2015-04-27", 
-        "Program": "PESSTO", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Frohmaier, Prajs", 
-        "Reduction Status": "rapid", 
-        "Last Modified": "2015-04-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.068",
+        "Obs. Date": "2015-04-27",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Frohmaier, Prajs",
+        "Reducer": "Frohmaier, Prajs",
+        "Reduction Status": "rapid",
+        "Last Modified": "2015-04-27",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "SN2001G_20010117_wise_fosc.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0168", 
-        "Obs. Date": "2001-01-17", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Wise1m - FOSC", 
-        "Observer": "Dann, J.", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-08-10", 
+        "Type": "SN Ia",
+        "Redshift": "0.0168",
+        "Obs. Date": "2001-01-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Wise1m - FOSC",
+        "Observer": "Dann, J.",
+        "Reducer": "Shemmer, O",
+        "Reduction Status": "final",
+        "Last Modified": "2014-08-10",
         "Modified By": "ilanm-UploadSet"
     }
 }

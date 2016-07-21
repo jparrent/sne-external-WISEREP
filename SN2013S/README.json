@@ -1,15 +1,16 @@
 {
     "SN2013S_2013-02-05_19:02:12_Asiago.ascii": {
-        "Type": "SN Ia-pec", 
-        "Redshift": "0.0186", 
-        "Obs. Date": "2013-02-05", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Ochner", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia-pec",
+        "Redshift": "0.0186",
+        "Obs. Date": "2013-02-05",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Ochner",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

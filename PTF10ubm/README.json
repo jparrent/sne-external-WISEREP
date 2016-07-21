@@ -1,15 +1,16 @@
 {
     "10ubm_20100904_P200_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.07", 
-        "Obs. Date": "2010-09-04", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Sullivan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.07",
+        "Obs. Date": "2010-09-04",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Sullivan",
+        "Reducer": "Xu",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

@@ -1,15 +1,16 @@
 {
     "15go_20150202_FTN_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.03", 
-        "Obs. Date": "2015-02-02", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "FTN - FLOYDS-N", 
-        "Observer": "LCOGT", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-02-05", 
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2015-02-02",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "LCOGT",
+        "Reducer": "Griffin Hosseinzadeh",
+        "Reduction Status": "final",
+        "Last Modified": "2015-02-05",
         "Modified By": "ilanm"
     }
 }

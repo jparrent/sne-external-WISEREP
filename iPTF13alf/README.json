@@ -1,15 +1,16 @@
 {
     "13alf_20130412_Lick_3-m_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.03301", 
-        "Obs. Date": "2013-04-12", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Lick 3m - KAST", 
-        "Observer": "Zheng, Clubb", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-04-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.03301",
+        "Obs. Date": "2013-04-12",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Zheng, Clubb",
+        "Reducer": "Cenko",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-21",
         "Modified By": "upload-marshalspec"
     }
 }

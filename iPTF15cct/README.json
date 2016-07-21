@@ -1,15 +1,16 @@
 {
     "15cct_20150820_P60_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2015-08-20", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P60 - SED-Machine", 
-        "Observer": "Neill, Konidaris", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-09-06", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2015-08-20",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Neill, Konidaris",
+        "Reducer": "Konidaris",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-06",
         "Modified By": "ofer"
     }
 }

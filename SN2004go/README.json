@@ -1,15 +1,16 @@
 {
     "SN2004go_2004-12-07.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.02917", 
-        "Obs. Date": "2004-12-07", 
-        "Program": "", 
-        "Contributor": "Harutyunyan et al. 2008", 
-        "Bibcode": "2008A&A...488..383H", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-09", 
+        "Type": "SN Ia",
+        "Redshift": "0.02917",
+        "Obs. Date": "2004-12-07",
+        "Program": "",
+        "Contributor": "Harutyunyan et al. 2008",
+        "Bibcode": "2008A&A...488..383H",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-09",
         "Modified By": "ilanm-UploadSet"
     }
 }

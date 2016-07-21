@@ -1,15 +1,16 @@
 {
     "SN2012fu_20120916_Gr13_Free_slit1.0_56456_1.dat": {
-        "Type": "SN Ia", 
-        "Redshift": "0.06", 
-        "Obs. Date": "2012-09-17", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Arcavi, Pan", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN Ia",
+        "Redshift": "0.06",
+        "Obs. Date": "2012-09-17",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Arcavi, Pan",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

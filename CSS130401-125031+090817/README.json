@@ -1,15 +1,16 @@
 {
     "CSS130401-125031+090_20130402_Gr13_Free_slit1.0_56457_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.084", 
-        "Obs. Date": "2013-04-03", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "S. Taubenberger/S. Hachinger", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.084",
+        "Obs. Date": "2013-04-03",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "S. Taubenberger/S. Hachinger",
+        "Reducer": "N. Elias-Rosa/A. Morales-Garoffolo",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

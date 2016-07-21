@@ -1,15 +1,16 @@
 {
     "SN2011iz_2011-12-15_22:51:13_Asiago.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.038", 
-        "Obs. Date": "2011-12-15", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Traverso", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-03-31", 
+        "Type": "SN Ia",
+        "Redshift": "0.038",
+        "Obs. Date": "2011-12-15",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Traverso",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     }
 }

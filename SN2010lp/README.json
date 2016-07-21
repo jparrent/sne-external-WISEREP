@@ -1,15 +1,16 @@
 {
     "2010lp_20110928_fors2.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.01", 
-        "Obs. Date": "2011-09-28", 
-        "Program": "", 
-        "Contributor": "Taubenberger et al 2013", 
-        "Bibcode": "2013ApJ...775L..43T", 
-        "Instrument": "VLT-UT1 - FORS2", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-08-21", 
+        "Type": "SN Ia",
+        "Redshift": "0.01",
+        "Obs. Date": "2011-09-28",
+        "Program": "",
+        "Contributor": "Taubenberger et al 2013",
+        "Bibcode": "2013ApJ...775L..43T",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-08-21",
         "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,15 +1,16 @@
 {
     "14gmo_20141021_Keck1_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.066", 
-        "Obs. Date": "2014-10-21", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Keck1 - LRIS", 
-        "Observer": "Miller, Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-10-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.066",
+        "Obs. Date": "2014-10-21",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Miller, Cao",
+        "Reducer": "Perley (pipeline)",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-30",
         "Modified By": "upload-marshalspec"
     }
 }

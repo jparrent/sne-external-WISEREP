@@ -1,15 +1,16 @@
 {
     "10wos_20100929_VLT_v1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.08", 
-        "Obs. Date": "2010-09-29", 
-        "Program": "PTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "VLT-UT2 - X-Shooter", 
-        "Observer": "Service", 
-        "Reduction Status": "final", 
-        "Last Modified": "2011-11-23", 
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2010-09-29",
+        "Program": "PTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT2 - X-Shooter",
+        "Observer": "Service",
+        "Reducer": "Lidman",
+        "Reduction Status": "final",
+        "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
     }
 }

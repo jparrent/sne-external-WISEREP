@@ -1,15 +1,16 @@
 {
     "CSS130903-012242+181_20130908_Gr13_Free_slit1.5_56999_1.dat": {
-        "Type": "SN II", 
-        "Redshift": "0.06", 
-        "Obs. Date": "2013-09-09", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "Kankare,Kangas", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-10-27", 
+        "Type": "SN II",
+        "Redshift": "0.06",
+        "Obs. Date": "2013-09-09",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Kankare,Kangas",
+        "Reducer": "Cosimo Inserra",
+        "Reduction Status": "final",
+        "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     }
 }

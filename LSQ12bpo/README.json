@@ -1,15 +1,16 @@
 {
     "LSQ12bpo_20120412_Gr13_Free_slit1.5_56456_1.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.12", 
-        "Obs. Date": "2012-04-13", 
-        "Program": "PESSTO-SSDR", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "ESO-NTT - EFOSC2-NTT", 
-        "Observer": "VALENTI/BENITEZ", 
-        "Reduction Status": "final", 
-        "Last Modified": "2014-07-30", 
+        "Type": "SN Ia",
+        "Redshift": "0.12",
+        "Obs. Date": "2012-04-13",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "VALENTI/BENITEZ",
+        "Reducer": "VALENTI/BENITEZ",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     }
 }

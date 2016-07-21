@@ -1,15 +1,16 @@
 {
     "15acs_20150410_P200_v2.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.14", 
-        "Obs. Date": "2015-04-10", 
-        "Program": "iPTF", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "P200 - DBSP", 
-        "Observer": "Bilgi, Cao", 
-        "Reduction Status": "final", 
-        "Last Modified": "2015-04-19", 
+        "Type": "SN Ia",
+        "Redshift": "0.14",
+        "Obs. Date": "2015-04-10",
+        "Program": "iPTF",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Bilgi, Cao",
+        "Reducer": "Rubin, Yaron",
+        "Reduction Status": "final",
+        "Last Modified": "2015-04-19",
         "Modified By": "ofer"
     }
 }

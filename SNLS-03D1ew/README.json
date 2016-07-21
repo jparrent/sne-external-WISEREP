@@ -1,15 +1,16 @@
 {
     "03D1ew_sn2_corr_f2.asc": {
-        "Type": "SN Ia", 
-        "Redshift": "0.87", 
-        "Obs. Date": "2003-12-21", 
-        "Program": "SNLS", 
-        "Contributor": "Howell et al. 2005", 
-        "Bibcode": "2005ApJ...634.1190H", 
-        "Instrument": "Gemini-N - GMOS", 
-        "Observer": "Unknown", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-04-24", 
+        "Type": "SN Ia",
+        "Redshift": "0.87",
+        "Obs. Date": "2003-12-21",
+        "Program": "SNLS",
+        "Contributor": "Howell et al. 2005",
+        "Bibcode": "2005ApJ...634.1190H",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-24",
         "Modified By": "ofer-UploadSet"
     }
 }

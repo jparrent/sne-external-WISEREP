@@ -1,15 +1,16 @@
 {
     "psn06p48_t.ascii": {
-        "Type": "SN Ia", 
-        "Redshift": "0.01932", 
-        "Obs. Date": "2012-12-26", 
-        "Program": "Asiago", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Ekar - AFOSC", 
-        "Observer": "Tomasella", 
-        "Reduction Status": "final", 
-        "Last Modified": "2013-04-19", 
+        "Type": "SN Ia",
+        "Redshift": "0.01932",
+        "Obs. Date": "2012-12-26",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-19",
         "Modified By": "ofer-UploadSet"
     }
 }

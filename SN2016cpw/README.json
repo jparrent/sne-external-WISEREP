@@ -1,15 +1,16 @@
 {
     "tns_2016cpw_2016-06-08.5_Lick_3m_KAST_LOSS.flm": {
-        "Type": "SN Ia", 
-        "Redshift": "0.0604", 
-        "Obs. Date": "2016-06-08", 
-        "Program": "", 
-        "Contributor": "", 
-        "Bibcode": "", 
-        "Instrument": "Lick 3m - KAST", 
-        "Observer": "Heechan Yuk, Benjamin Stahl", 
-        "Reduction Status": "final", 
-        "Last Modified": "2016-06-09", 
+        "Type": "SN Ia",
+        "Redshift": "0.0604",
+        "Obs. Date": "2016-06-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Heechan Yuk, Benjamin Stahl",
+        "Reducer": "Heechan Yuk",
+        "Reduction Status": "final",
+        "Last Modified": "2016-06-09",
         "Modified By": "upload-TNS"
     }
 }
