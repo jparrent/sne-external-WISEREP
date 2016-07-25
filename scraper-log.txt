@@ -5238,4 +5238,4 @@ From statement 1: ASASSN-14dp has no spectra to collect
 From statement 1: ASASSN-13co has no spectra to collect
 Removing duplicate spectrum for ASASSN-13ch -- tASASSN-ch_20130829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for ASASSN-13ch
-Runtime: 451.78313656648 minutesRuntime: 0.4229916016260783 minutesRuntime: 0.15145338376363118 minutesRuntime: 0.10650560061136881 minutesRuntime: 0.14142598311106364 minutesRuntime: 0.1500416874885559 minutesRuntime: 0.15982545216878255 minutes
+Runtime: 451.78313656648 minutesRuntime: 0.4229916016260783 minutesRuntime: 0.15145338376363118 minutesRuntime: 0.10650560061136881 minutesRuntime: 0.14142598311106364 minutesRuntime: 0.1500416874885559 minutesRuntime: 0.15982545216878255 minutesRuntime: 0.1333395481109619 minutes
