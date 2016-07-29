@@ -13,7 +13,7 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
-    "LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_1.dat": {
+    "LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_2.dat": {
         "Type": "SLSN-I",
         "Redshift": "0.35",
         "Obs. Date": "2014-05-06",
@@ -40,5 +40,6 @@
         "Reduction Status": "final",
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
-    }
+    },
+    "Private Spectra": "3"
 }

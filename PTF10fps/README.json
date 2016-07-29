@@ -1,14 +1,14 @@
 {
-    "10fps_20100417_P200_v1.ascii": {
+    "10fps_20100417_P200_v2.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.022",
         "Obs. Date": "2010-04-17",
         "Program": "PTF",
-        "Contributor": "Maguire et al. 2014",
-        "Bibcode": "2014arXiv1408.1430M",
+        "Contributor": "",
+        "Bibcode": "",
         "Instrument": "P200 - DBSP",
         "Observer": "Cooke",
-        "Reducer": "Cooke",
+        "Reducer": "D. Xu",
         "Reduction Status": "final",
         "Last Modified": "2011-11-23",
         "Modified By": "upload-marshalspec"
@@ -26,5 +26,6 @@
         "Reduction Status": "final",
         "Last Modified": "2012-08-13",
         "Modified By": "iair-UploadSet"
-    }
+    },
+    "Private Spectra": "7"
 }

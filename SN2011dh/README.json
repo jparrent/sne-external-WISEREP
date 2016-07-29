@@ -783,12 +783,12 @@
         "Last Modified": "2016-01-11",
         "Modified By": "ilanm-UploadSet"
     },
-    "sn2011dh-20120429.253-b.flm": {
+    "sn2011dh-20120429.253-hi.flm": {
         "Type": "SN IIb",
         "Redshift": "0.002",
         "Obs. Date": "2012-04-29",
         "Program": "",
-        "Contributor": "Shivvers et al. 2016",
+        "Contributor": "Shivvers et al. 2017",
         "Bibcode": "10.1093/mnras/stt1839",
         "Instrument": "Keck1 - LRIS",
         "Observer": "Clubb, Silverman, Filippenko",
@@ -852,5 +852,6 @@
         "Reduction Status": "final",
         "Last Modified": "2013-10-27",
         "Modified By": "ilanm-UploadSet"
-    }
+    },
+    "Private Spectra": "9"
 }

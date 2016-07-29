@@ -13,7 +13,7 @@
         "Last Modified": "2011-10-24",
         "Modified By": "admin"
     },
-    "2005ap_20050316_2535_4373_00.dat": {
+    "2005ap_20050316_4843_7816_00.dat": {
         "Type": "SLSN-I",
         "Redshift": "0.2832",
         "Obs. Date": "2005-03-16",
@@ -26,5 +26,6 @@
         "Reduction Status": "final",
         "Last Modified": "2011-10-24",
         "Modified By": "admin"
-    }
+    },
+    "Private Spectra": "3"
 }

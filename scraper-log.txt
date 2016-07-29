@@ -19,7 +19,9 @@ Removing duplicate spectrum for SSS120807-233315-330852 -- tSSS120807.233315-330
 Presumably no other duplicate files found for SSS120807-233315-330852
 Removing duplicate spectrum for SSS120420-204522-504405 -- fSSS2045_20120422_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for SSS120416-211543-192250 -- fSSS211543m192250_20120421_Gr13_Free_slit1.5_1_f.asci
-Removing duplicate spectrum for SNLS-07D3fi -- 07D3fi_recal_atm_1.dat
+Not collecting spectra of SNLS05D2bk at this time
+Not collecting spectra of SNLS04D4ec at this time
+Removing duplicate spectrum for SNLS-07D3fi -- 07D3fi_recal_atm_2.dat
 Removing duplicate spectrum for SNLS-07D3do -- 07D3do_sn_recal_atmos.dat
 Removing duplicate spectrum for SNLS-06D4cq -- PHASE_06D4cq_1306_Balland_etal_09.dat
 Presumably no other duplicate files found for SNLS-06D4cq
@@ -341,29 +343,48 @@ Presumably no other duplicate files found for SN2016vv
 Removing duplicate spectrum for SN2016ut -- tAT2016ut_20160129_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016ut
 2 objects returned for SN2016U
-From statement 2: SN2016U has no spectra to collect
 From statement 3: SN2016U has no spectra to collect
-From statement 2: SN2016T has no spectra to collect
+From statement 4: SN2016U has no spectra to collect
 From statement 3: SN2016T has no spectra to collect
+From statement 4: SN2016T has no spectra to collect
 Removing duplicate spectrum for SN2016sr -- tPS16uh_20160128_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016sr
 Removing duplicate spectrum for SN2016sl -- tSN2016sl_20160215_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016sl
 3 objects returned for SN2016S
-From statement 2: SN2016S has no spectra to collect
 From statement 3: SN2016S has no spectra to collect
-From statement 2: SN2016R has no spectra to collect
+From statement 4: SN2016S has no spectra to collect
 From statement 3: SN2016R has no spectra to collect
-From statement 2: SN2016Q has no spectra to collect
+From statement 4: SN2016R has no spectra to collect
 From statement 3: SN2016Q has no spectra to collect
+From statement 4: SN2016Q has no spectra to collect
 Presumably no other duplicate files found for SN2016F
-10 objects returned for SN2016E
+Removing duplicate spectrum for SN2016eig -- tAT2016eig_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eig
+Removing duplicate spectrum for SN2016eif -- tAT2016eif_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eif
+Removing duplicate spectrum for SN2016eic -- tGaia16avh_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eic
+Removing duplicate spectrum for SN2016ehv -- tGaia16avq_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ehv
+Removing duplicate spectrum for SN2016eho -- tGaia16avy_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eho
+Removing duplicate spectrum for SN2016egz -- tAT2016egz_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016egz
+19 objects returned for SN2016E
+Removing duplicate spectrum for SN2016dln -- tAT2016dln_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dln
+Removing duplicate spectrum for SN2016dkf -- tAT2016dkf_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dkf
+Removing duplicate spectrum for SN2016dgj -- tAT2016dgj_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dgj
+5 objects returned for SN2016D
 Presumably no other duplicate files found for SN2016cvm
 Presumably no other duplicate files found for SN2016cor
 Presumably no other duplicate files found for SN2016cok
 Presumably no other duplicate files found for SN2016coj
-From statement 2: SN2016ccz has no spectra to collect
 From statement 3: SN2016ccz has no spectra to collect
+From statement 4: SN2016ccz has no spectra to collect
 Presumably no other duplicate files found for SN2016ccm
 Presumably no other duplicate files found for SN2016ccl
 Presumably no other duplicate files found for SN2016cbx
@@ -380,18 +401,18 @@ Presumably no other duplicate files found for SN2016blq
 From statement 1: SN2016bln has no spectra to collect
 Removing duplicate spectrum for SN2016blj -- tAT2016blj_20160403_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2016blj
-Removing duplicate spectrum for SN2016bew -- tns_2016bew_2457462.440081015_SALT_RSS_0.dat
+Presumably no other duplicate files found for SN2016bew
 Removing duplicate spectrum for SN2016bau -- tns_2016bau_2016-03-14.97_Ekar_AFOSC_Padova-Asiago.txt
 54 objects returned for SN2016B
 Presumably no other duplicate files found for SN2016B
-From statement 2: SN2016aws has no spectra to collect
 From statement 3: SN2016aws has no spectra to collect
-From statement 2: SN2016awb has no spectra to collect
+From statement 4: SN2016aws has no spectra to collect
 From statement 3: SN2016awb has no spectra to collect
-From statement 2: SN2016avh has no spectra to collect
+From statement 4: SN2016awb has no spectra to collect
 From statement 3: SN2016avh has no spectra to collect
-From statement 2: SN2016atw has no spectra to collect
+From statement 4: SN2016avh has no spectra to collect
 From statement 3: SN2016atw has no spectra to collect
+From statement 4: SN2016atw has no spectra to collect
 Presumably no other duplicate files found for SN2016ase
 Presumably no other duplicate files found for SN2016aqt
 From statement 1: SN2016aqs has no spectra to collect
@@ -441,15 +462,15 @@ Presumably no other duplicate files found for SN2016adj
 Presumably no other duplicate files found for SN2016adg
 Removing duplicate spectrum for SN2016acx -- tAT2016acx_20160222_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016acx
-From statement 2: SN2016acs has no spectra to collect
 From statement 3: SN2016acs has no spectra to collect
-From statement 2: SN2016acq has no spectra to collect
+From statement 4: SN2016acs has no spectra to collect
 From statement 3: SN2016acq has no spectra to collect
+From statement 4: SN2016acq has no spectra to collect
 4 objects returned for SN2016ac
 Removing duplicate spectrum for SN2016aak -- tPS16adq_20160205_Gr11_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016aak
-From statement 2: SN2016aaj has no spectra to collect
 From statement 3: SN2016aaj has no spectra to collect
+From statement 4: SN2016aaj has no spectra to collect
 4 objects returned for SN2016aa
 68 objects returned for SN2016A
 From statement 1: SN2015L has no spectra to collect
@@ -592,8 +613,8 @@ Removing duplicate spectrum for SN2012fu -- tPSNJ04371913-6908254_20120916_Gr13_
 Removing duplicate spectrum for SN2012fu -- PSNJ04371913-6908254_20120916_Gr13_Free_slit1.0_56456_1.ascii
 Removing duplicate spectrum for SN2012fs -- tSN_IC35_20121009_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for SN2012fs -- sn2012fs_20121009_Gr13_Free_slit1.5_56456_1.ascii
-From statement 2: SN2012fp has no spectra to collect
 From statement 3: SN2012fp has no spectra to collect
+From statement 4: SN2012fp has no spectra to collect
 Removing duplicate spectrum for SN2012ff -- tPSNJ23054871+1419564_20120826_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012ff -- PSNJ23054871+1419564_20120826_Gr13_Free_slit1.0_56456_1.ascii
 20 objects returned for SN2012F
@@ -609,23 +630,23 @@ From statement 1: SN2012dt has no spectra to collect
 2 objects returned for SN2012dp
 Presumably no other duplicate files found for SN2012dn
 From statement 1: SN2012dj has no spectra to collect
-From statement 2: SN2012cz has no spectra to collect
 From statement 3: SN2012cz has no spectra to collect
-Removing duplicate spectrum for SN2012cg -- sw00032464002ugu_1ord_20120523_2.dat
+From statement 4: SN2012cz has no spectra to collect
+Removing duplicate spectrum for SN2012cg -- sw00032464002ugu_1ord_20120523_1.dat
 Removing duplicate spectrum for SN2012ca -- fPSNJ18410706m4147374_20120429_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2012bz
 2 objects returned for SN2012bq
 2 objects returned for SN2012bp
 2 objects returned for SN2012bh
 2 objects returned for SN2012aw
-From statement 2: SN2012as has no spectra to collect
 From statement 3: SN2012as has no spectra to collect
+From statement 4: SN2012as has no spectra to collect
 Presumably no other duplicate files found for SN2012ap
 19 objects returned for SN2012A
-From statement 2: SN2011S has no spectra to collect
 From statement 3: SN2011S has no spectra to collect
-From statement 2: SN2011P has no spectra to collect
+From statement 4: SN2011S has no spectra to collect
 From statement 3: SN2011P has no spectra to collect
+From statement 4: SN2011P has no spectra to collect
 2 objects returned for SN2011L
 Presumably no other duplicate files found for SN2011kf
 Presumably no other duplicate files found for SN2011ke
@@ -640,58 +661,58 @@ Presumably no other duplicate files found for SN2011hr
 2 objects returned for SN2011he
 2 objects returned for SN2011hb
 Presumably no other duplicate files found for SN2011fu
-From statement 2: SN2011fh has no spectra to collect
 From statement 3: SN2011fh has no spectra to collect
+From statement 4: SN2011fh has no spectra to collect
 2 objects returned for SN2011fe
 Presumably no other duplicate files found for SN2011fe
-From statement 2: SN2011ey has no spectra to collect
 From statement 3: SN2011ey has no spectra to collect
-From statement 2: SN2011eu has no spectra to collect
+From statement 4: SN2011ey has no spectra to collect
 From statement 3: SN2011eu has no spectra to collect
+From statement 4: SN2011eu has no spectra to collect
 2 objects returned for SN2011ek
 Presumably no other duplicate files found for SN2011ei
 2 objects returned for SN2011dh
-Removing duplicate spectrum for SN2011dh -- sn2011dh-20120429.253-hi.flm
+Removing duplicate spectrum for SN2011dh -- sn2011dh-20120429.253-b.flm
 2 objects returned for SN2011cw
-From statement 3: SN2011cw has no spectra to collect
-From statement 2: SN2011cp has no spectra to collect
+From statement 4: SN2011cw has no spectra to collect
 From statement 3: SN2011cp has no spectra to collect
-From statement 2: SN2011cc has no spectra to collect
+From statement 4: SN2011cp has no spectra to collect
 From statement 3: SN2011cc has no spectra to collect
+From statement 4: SN2011cc has no spectra to collect
 Presumably no other duplicate files found for SN2011by
 2 objects returned for SN2011bn
 2 objects returned for SN2011bm
 Presumably no other duplicate files found for SN2011bm
-From statement 2: SN2011ap has no spectra to collect
 From statement 3: SN2011ap has no spectra to collect
-From statement 2: SN2011an has no spectra to collect
+From statement 4: SN2011ap has no spectra to collect
 From statement 3: SN2011an has no spectra to collect
-From statement 2: SN2011af has no spectra to collect
+From statement 4: SN2011an has no spectra to collect
 From statement 3: SN2011af has no spectra to collect
+From statement 4: SN2011af has no spectra to collect
 9 objects returned for SN2011A
 Presumably no other duplicate files found for SN2011A
 3 objects returned for SN2010M
-From statement 3: SN2010M has no spectra to collect
-From statement 2: SN2010lx has no spectra to collect
+From statement 4: SN2010M has no spectra to collect
 From statement 3: SN2010lx has no spectra to collect
-From statement 2: SN2010kb has no spectra to collect
+From statement 4: SN2010lx has no spectra to collect
 From statement 3: SN2010kb has no spectra to collect
-From statement 2: SN2010js has no spectra to collect
+From statement 4: SN2010kb has no spectra to collect
 From statement 3: SN2010js has no spectra to collect
+From statement 4: SN2010js has no spectra to collect
 2 objects returned for SN2010jp
 Presumably no other duplicate files found for SN2010jp
 2 objects returned for SN2010jl
 2 objects returned for SN2010jj
-From statement 3: SN2010jj has no spectra to collect
-From statement 2: SN2010hd has no spectra to collect
+From statement 4: SN2010jj has no spectra to collect
 From statement 3: SN2010hd has no spectra to collect
+From statement 4: SN2010hd has no spectra to collect
 2 objects returned for SN2010gx
 Presumably no other duplicate files found for SN2010gx
 7 objects returned for SN2010G
 Removing duplicate spectrum for SN2010ev -- SN2010ev_11Jul2010_ObjNa.txt
 2 objects returned for SN2010dm
-From statement 2: SN2010bt has no spectra to collect
 From statement 3: SN2010bt has no spectra to collect
+From statement 4: SN2010bt has no spectra to collect
 Presumably no other duplicate files found for SN2010bh
 Presumably no other duplicate files found for SN2010ay
 Presumably no other duplicate files found for SN2010aj
@@ -699,41 +720,41 @@ Presumably no other duplicate files found for SN2010aj
 Presumably no other duplicate files found for SN2010ae
 9 objects returned for SN2010A
 Removing duplicate spectrum for SN2010A -- SN2010A_8Jan2010_MWNa.txt
-From statement 2: SN2009nw has no spectra to collect
 From statement 3: SN2009nw has no spectra to collect
+From statement 4: SN2009nw has no spectra to collect
 Removing duplicate spectrum for SN2009nr -- SN2009nr_9Jan2010_MWNa.txt
 2 objects returned for SN2009nn
-From statement 2: SN2009nm has no spectra to collect
 From statement 3: SN2009nm has no spectra to collect
-From statement 2: SN2009nj has no spectra to collect
+From statement 4: SN2009nm has no spectra to collect
 From statement 3: SN2009nj has no spectra to collect
+From statement 4: SN2009nj has no spectra to collect
 10 objects returned for SN2009N
 Presumably no other duplicate files found for SN2009mw
-From statement 2: SN2009ma has no spectra to collect
 From statement 3: SN2009ma has no spectra to collect
+From statement 4: SN2009ma has no spectra to collect
 Removing duplicate spectrum for SN2009le -- SN2009le_26Nov2009_ObjNa.txt
 5 objects returned for SN2009L
-From statement 2: SN2009kr has no spectra to collect
 From statement 3: SN2009kr has no spectra to collect
-From statement 2: SN2009kn has no spectra to collect
+From statement 4: SN2009kr has no spectra to collect
 From statement 3: SN2009kn has no spectra to collect
+From statement 4: SN2009kn has no spectra to collect
 Not collecting spectra of SN2009iz at this time
 Not collecting spectra of SN2009iw at this time
-Removing duplicate spectrum for SN2009ig -- SN2009ig_16Oct2009_ObjNa.txt
+Removing duplicate spectrum for SN2009ig -- SN2009ig_16Oct2009_MWNa.txt
 Presumably no other duplicate files found for SN2009ib
-From statement 2: SN2009fs has no spectra to collect
 From statement 3: SN2009fs has no spectra to collect
+From statement 4: SN2009fs has no spectra to collect
 Removing duplicate spectrum for SN2009ev -- SN2009ev_2Jun2009_MWNa.txt
 Not collecting spectra of SN2009er at this time
-From statement 2: SN2009eo has no spectra to collect
 From statement 3: SN2009eo has no spectra to collect
+From statement 4: SN2009eo has no spectra to collect
 4 objects returned for SN2009E
 Removing duplicate spectrum for SN2009E -- 2009E_20100122to24_cal.ascii
 Removing duplicate spectrum for SN2009ds -- SN2009ds_15May2009_ObjNa.txt
 Presumably no other duplicate files found for SN2009dd
 Removing duplicate spectrum for SN2009bb -- SN09bb_b01_BAA_IM_07apr09.ascii
-From statement 2: SN2009au has no spectra to collect
 From statement 3: SN2009au has no spectra to collect
+From statement 4: SN2009au has no spectra to collect
 Not collecting spectra of SN2008Z at this time
 Not collecting spectra of SN2008Y at this time
 Not collecting spectra of SN2008R at this time
@@ -741,8 +762,8 @@ Not collecting spectra of SN2008Q at this time
 Not collecting spectra of SN2008L at this time
 2 objects returned for SN2008J
 Not collecting spectra of SN2008iy at this time
-From statement 2: SN2008ip has no spectra to collect
 From statement 3: SN2008ip has no spectra to collect
+From statement 4: SN2008ip has no spectra to collect
 Not collecting spectra of SN2008hz at this time
 Not collecting spectra of SN2008hy at this time
 Not collecting spectra of SN2008hu at this time
@@ -756,8 +777,8 @@ Not collecting spectra of SN2008gy at this time
 Not collecting spectra of SN2008gw at this time
 Not collecting spectra of SN2008gt at this time
 Not collecting spectra of SN2008gs at this time
-From statement 2: SN2008gm has no spectra to collect
 From statement 3: SN2008gm has no spectra to collect
+From statement 4: SN2008gm has no spectra to collect
 Not collecting spectra of SN2008gh at this time
 Removing duplicate spectrum for SN2008ge -- SN2008ge_4Nov2008_MWNa.txt
 Not collecting spectra of SN2008fx at this time
@@ -769,14 +790,14 @@ Not collecting spectra of SN2008fg at this time
 Not collecting spectra of SN2008ez at this time
 Not collecting spectra of SN2008ey at this time
 Not collecting spectra of SN2008er at this time
-From statement 2: SN2008en has no spectra to collect
 From statement 3: SN2008en has no spectra to collect
+From statement 4: SN2008en has no spectra to collect
 Not collecting spectra of SN2008ei at this time
 Not collecting spectra of SN2008ee at this time
 Not collecting spectra of SN2008ec at this time
 9 objects returned for SN2008E
 Not collecting spectra of SN2008E at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2008dx at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2008dx at this time
 Not collecting spectra of SN2008dt at this time
 Not collecting spectra of SN2008ds at this time
 Not collecting spectra of SN2008dr at this time
@@ -785,8 +806,8 @@ Not collecting spectra of SN2008db at this time
 7 objects returned for SN2008D
 Presumably no other duplicate files found for SN2008D
 Not collecting spectra of SN2008cw at this time
-From statement 2: SN2008cu has no spectra to collect
 From statement 3: SN2008cu has no spectra to collect
+From statement 4: SN2008cu has no spectra to collect
 Not collecting spectra of SN2008ct at this time
 Not collecting spectra of SN2008cl at this time
 Presumably no other duplicate files found for SN2008cg
@@ -801,13 +822,13 @@ Not collecting spectra of SN2008bw at this time
 Not collecting spectra of SN2008bv at this time
 Not collecting spectra of SN2008bt at this time
 Not collecting spectra of SN2008bo at this time
-From statement 2: SN2008bm has no spectra to collect
 From statement 3: SN2008bm has no spectra to collect
+From statement 4: SN2008bm has no spectra to collect
 Not collecting spectra of SN2008bf at this time
-From statement 2: SN2008be has no spectra to collect
 From statement 3: SN2008be has no spectra to collect
+From statement 4: SN2008be has no spectra to collect
 10 objects returned for SN2008B
-From statement 3: SN2008B has no spectra to collect
+From statement 4: SN2008B has no spectra to collect
 Presumably no other duplicate files found for SN2008ax
 Not collecting spectra of SN2008at at this time
 Not collecting spectra of SN2008as at this time
@@ -815,16 +836,16 @@ Not collecting spectra of SN2008ar at this time
 Not collecting spectra of SN2008aq at this time
 Not collecting spectra of SN2008an at this time
 Presumably no other duplicate files found for SN2008am
-From statement 2: SN2008aj has no spectra to collect
 From statement 3: SN2008aj has no spectra to collect
+From statement 4: SN2008aj has no spectra to collect
 Not collecting spectra of SN2008ai at this time
 Not collecting spectra of SN2008af at this time
 Not collecting spectra of SN2008ae at this time
 12 objects returned for SN2008A
 Not collecting spectra of SN2008A at this time
 Not collecting spectra of SN2007Y at this time
-From statement 2: SN2007va has no spectra to collect
 From statement 3: SN2007va has no spectra to collect
+From statement 4: SN2007va has no spectra to collect
 2 objects returned for SN2007V
 Not collecting spectra of SN2007V at this time
 Not collecting spectra of SN2007uy at this time
@@ -834,7 +855,7 @@ Not collecting spectra of SN2007su at this time
 Not collecting spectra of SN2007ss at this time
 Not collecting spectra of SN2007sr at this time
 Not collecting spectra of SN2007so at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007sd
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007sd
 Not collecting spectra of SN2007sa at this time
 16 objects returned for SN2007S
 Not collecting spectra of SN2007S at this time
@@ -843,13 +864,13 @@ Not collecting spectra of SN2007ry at this time
 Not collecting spectra of SN2007rx at this time
 Not collecting spectra of SN2007rw at this time
 Not collecting spectra of SN2007ru at this time
-Removing duplicate spectrum for SN2007rt -- 2007rt_WHT_ISIS_H2400B_20080204.ascii
+Removing duplicate spectrum for SN2007rt -- 2007rt_WHT_ISIS_R1200R_20080204.ascii
 Presumably no other duplicate files found for SN2007rs
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007rj
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007rj
 Presumably no other duplicate files found for SN2007ri
 Presumably no other duplicate files found for SN2007rh
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007rg
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007ra
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007rg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2007ra
 23 objects returned for SN2007R
 Not collecting spectra of SN2007R at this time
 Not collecting spectra of SN2007qe at this time
@@ -857,25 +878,25 @@ Not collecting spectra of SN2007qd at this time
 Presumably no other duplicate files found for SN2007qb
 Presumably no other duplicate files found for SN2007qa
 Presumably no other duplicate files found for SN2007px
-Removing duplicate spectrum for SN2007pk -- 2007pk_20080201b.ascii
+Removing duplicate spectrum for SN2007pk -- 2007pk_20080201r.ascii
 Not collecting spectra of SN2007oo at this time
 Not collecting spectra of SN2007on at this time
-From statement 2: SN2007oe has no spectra to collect
 From statement 3: SN2007oe has no spectra to collect
+From statement 4: SN2007oe has no spectra to collect
 Not collecting spectra of SN2007ob at this time
 6 objects returned for SN2007O
 Not collecting spectra of SN2007O at this time
-From statement 2: SN2007nx has no spectra to collect
 From statement 3: SN2007nx has no spectra to collect
+From statement 4: SN2007nx has no spectra to collect
 Not collecting spectra of SN2007nq at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.12 objects returned for SN2007N
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.12 objects returned for SN2007N
 Not collecting spectra of SN2007N at this time
 Presumably no other duplicate files found for SN2007ms
 Presumably no other duplicate files found for SN2007mp
 Presumably no other duplicate files found for SN2007mn
 13 objects returned for SN2007M
 Not collecting spectra of SN2007M at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2007le at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2007le at this time
 Not collecting spectra of SN2007kk at this time
 Not collecting spectra of SN2007kj at this time
 Not collecting spectra of SN2007ki at this time
@@ -883,14 +904,14 @@ Not collecting spectra of SN2007kg at this time
 Not collecting spectra of SN2007kf at this time
 Not collecting spectra of SN2007kd at this time
 11 objects returned for SN2007k
-From statement 3: SN2007k has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 2: SN2007jm has no spectra to collect
-From statement 3: SN2007jm has no spectra to collect
+From statement 4: SN2007k has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2007jm has no spectra to collect
+From statement 4: SN2007jm has no spectra to collect
 Presumably no other duplicate files found for SN2007jd
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2007is at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2007is at this time
 Not collecting spectra of SN2007ir at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2007iq at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2007if -- 2007if_20081022_FORS2.ascii
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2007iq at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2007if -- 2007if_20081022_FORS2.ascii
 10 objects returned for SN2007I
 Presumably no other duplicate files found for SN2007I
 Not collecting spectra of SN2007hu at this time
@@ -898,20 +919,20 @@ Not collecting spectra of SN2007hj at this time
 Not collecting spectra of SN2007hb at this time
 5 objects returned for SN2007H
 Not collecting spectra of SN2007H at this time
-From statement 2: SN2007gy has no spectra to collect
 From statement 3: SN2007gy has no spectra to collect
+From statement 4: SN2007gy has no spectra to collect
 Not collecting spectra of SN2007gr at this time
 Not collecting spectra of SN2007gk at this time
 Not collecting spectra of SN2007gj at this time
 Not collecting spectra of SN2007gi at this time
 Not collecting spectra of SN2007ge at this time
-From statement 2: SN2007fw has no spectra to collect
 From statement 3: SN2007fw has no spectra to collect
+From statement 4: SN2007fw has no spectra to collect
 Not collecting spectra of SN2007fs at this time
 Not collecting spectra of SN2007fr at this time
 Not collecting spectra of SN2007fq at this time
-From statement 2: SN2007fk has no spectra to collect
 From statement 3: SN2007fk has no spectra to collect
+From statement 4: SN2007fk has no spectra to collect
 Not collecting spectra of SN2007fc at this time
 Not collecting spectra of SN2007fb at this time
 9 objects returned for SN2007F
@@ -922,8 +943,8 @@ Not collecting spectra of SN2007cs at this time
 Not collecting spectra of SN2007cq at this time
 Not collecting spectra of SN2007cp at this time
 Not collecting spectra of SN2007co at this time
-From statement 2: SN2007cm has no spectra to collect
 From statement 3: SN2007cm has no spectra to collect
+From statement 4: SN2007cm has no spectra to collect
 Not collecting spectra of SN2007cl at this time
 Not collecting spectra of SN2007cj at this time
 Not collecting spectra of SN2007ci at this time
@@ -943,8 +964,8 @@ Presumably no other duplicate files found for SN2007bi
 Not collecting spectra of SN2007bg at this time
 Not collecting spectra of SN2007bd at this time
 Not collecting spectra of SN2007bc at this time
-From statement 2: SN2007bb has no spectra to collect
 From statement 3: SN2007bb has no spectra to collect
+From statement 4: SN2007bb has no spectra to collect
 Not collecting spectra of SN2007ba at this time
 11 objects returned for SN2007B
 Not collecting spectra of SN2007B at this time
@@ -954,8 +975,8 @@ Not collecting spectra of SN2007at at this time
 Not collecting spectra of SN2007ap at this time
 Not collecting spectra of SN2007ao at this time
 Not collecting spectra of SN2007al at this time
-From statement 2: SN2007ak has no spectra to collect
 From statement 3: SN2007ak has no spectra to collect
+From statement 4: SN2007ak has no spectra to collect
 Not collecting spectra of SN2007aj at this time
 Not collecting spectra of SN2007ag at this time
 Not collecting spectra of SN2007af at this time
@@ -971,21 +992,21 @@ Not collecting spectra of SN2006su at this time
 Not collecting spectra of SN2006sr at this time
 6 objects returned for SN2006S
 Not collecting spectra of SN2006S at this time
-From statement 2: SN2006rx has no spectra to collect
 From statement 3: SN2006rx has no spectra to collect
-From statement 2: SN2006rc has no spectra to collect
+From statement 4: SN2006rx has no spectra to collect
 From statement 3: SN2006rc has no spectra to collect
+From statement 4: SN2006rc has no spectra to collect
 4 objects returned for SN2006R
 Not collecting spectra of SN2006R at this time
-From statement 2: SN2006qt has no spectra to collect
 From statement 3: SN2006qt has no spectra to collect
+From statement 4: SN2006qt has no spectra to collect
 Not collecting spectra of SN2006qq at this time
 Not collecting spectra of SN2006qo at this time
 Presumably no other duplicate files found for SN2006qk
 Presumably no other duplicate files found for SN2006py
 Presumably no other duplicate files found for SN2006ps
 Presumably no other duplicate files found for SN2006pr
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2006ow at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2006ow at this time
 Not collecting spectra of SN2006ou at this time
 Not collecting spectra of SN2006ot at this time
 Not collecting spectra of SN2006os at this time
@@ -1005,16 +1026,16 @@ Not collecting spectra of SN2006N at this time
 Not collecting spectra of SN2006mp at this time
 Not collecting spectra of SN2006mo at this time
 3 objects returned for SN2006M
-From statement 3: SN2006M has no spectra to collect
+From statement 4: SN2006M has no spectra to collect
 Not collecting spectra of SN2006lv at this time
 Not collecting spectra of SN2006lf at this time
 Not collecting spectra of SN2006le at this time
 Presumably no other duplicate files found for SN2006ld
 7 objects returned for SN2006L
-From statement 3: SN2006L has no spectra to collect
+From statement 4: SN2006L has no spectra to collect
 Not collecting spectra of SN2006kf at this time
 Not collecting spectra of SN2006ke at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2006je at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2006je at this time
 Presumably no other duplicate files found for SN2006jd
 Removing duplicate spectrum for SN2006jc -- 2006jc_20061018_ISIS_short_cal.ascii
 Not collecting spectra of SN2006hn at this time
@@ -1027,13 +1048,13 @@ Not collecting spectra of SN2006gt at this time
 Not collecting spectra of SN2006gr at this time
 Presumably no other duplicate files found for SN2006gq
 Not collecting spectra of SN2006gj at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2006fz
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2006fz
 Presumably no other duplicate files found for SN2006fy
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 2: SN2006fp has no spectra to collect
-From statement 3: SN2006fp has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2006fp has no spectra to collect
+From statement 4: SN2006fp has no spectra to collect
 Presumably no other duplicate files found for SN2006fo
 Presumably no other duplicate files found for SN2006fm
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2006ev at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2006ev at this time
 Not collecting spectra of SN2006eu at this time
 Not collecting spectra of SN2006et at this time
 Not collecting spectra of SN2006es at this time
@@ -1043,8 +1064,8 @@ Not collecting spectra of SN2006en at this time
 Not collecting spectra of SN2006em at this time
 Not collecting spectra of SN2006el at this time
 Not collecting spectra of SN2006ej at this time
-From statement 2: SN2006eh has no spectra to collect
 From statement 3: SN2006eh has no spectra to collect
+From statement 4: SN2006eh has no spectra to collect
 Not collecting spectra of SN2006ef at this time
 Not collecting spectra of SN2006eb at this time
 19 objects returned for SN2006E
@@ -1057,20 +1078,20 @@ Not collecting spectra of SN2006do at this time
 Not collecting spectra of SN2006dm at this time
 Not collecting spectra of SN2006di at this time
 Not collecting spectra of SN2006dh at this time
-From statement 2: SN2006df has no spectra to collect
 From statement 3: SN2006df has no spectra to collect
-From statement 2: SN2006dc has no spectra to collect
+From statement 4: SN2006df has no spectra to collect
 From statement 3: SN2006dc has no spectra to collect
-From statement 2: SN2006db has no spectra to collect
+From statement 4: SN2006dc has no spectra to collect
 From statement 3: SN2006db has no spectra to collect
+From statement 4: SN2006db has no spectra to collect
 Not collecting spectra of SN2006da at this time
 13 objects returned for SN2006D
 Not collecting spectra of SN2006D at this time
 Not collecting spectra of SN2006cz at this time
-From statement 2: SN2006cy has no spectra to collect
 From statement 3: SN2006cy has no spectra to collect
-From statement 2: SN2006cv has no spectra to collect
+From statement 4: SN2006cy has no spectra to collect
 From statement 3: SN2006cv has no spectra to collect
+From statement 4: SN2006cv has no spectra to collect
 Not collecting spectra of SN2006cu at this time
 Not collecting spectra of SN2006ct at this time
 Not collecting spectra of SN2006cs at this time
@@ -1086,8 +1107,8 @@ Not collecting spectra of SN2006cc at this time
 Not collecting spectra of SN2006ca at this time
 Not collecting spectra of SN2006bz at this time
 Not collecting spectra of SN2006bw at this time
-From statement 2: SN2006bv has no spectra to collect
 From statement 3: SN2006bv has no spectra to collect
+From statement 4: SN2006bv has no spectra to collect
 Not collecting spectra of SN2006bu at this time
 Not collecting spectra of SN2006bt at this time
 Not collecting spectra of SN2006br at this time
@@ -1105,40 +1126,40 @@ Not collecting spectra of SN2006ay at this time
 Not collecting spectra of SN2006ax at this time
 Presumably no other duplicate files found for SN2006au
 Not collecting spectra of SN2006ap at this time
-From statement 2: SN2006am has no spectra to collect
 From statement 3: SN2006am has no spectra to collect
+From statement 4: SN2006am has no spectra to collect
 Not collecting spectra of SN2006al at this time
 Not collecting spectra of SN2006ak at this time
 Presumably no other duplicate files found for SN2006aj
-From statement 2: SN2006ag has no spectra to collect
 From statement 3: SN2006ag has no spectra to collect
+From statement 4: SN2006ag has no spectra to collect
 Not collecting spectra of SN2006ac at this time
 Not collecting spectra of SN2006aa at this time
-From statement 3: SN2005Z has no spectra to collect
+From statement 4: SN2005Z has no spectra to collect
 Not collecting spectra of SN2005X at this time
 Not collecting spectra of SN2005W at this time
 Not collecting spectra of SN2005U at this time
-From statement 2: SN2005R has no spectra to collect
 From statement 3: SN2005R has no spectra to collect
+From statement 4: SN2005R has no spectra to collect
 Not collecting spectra of SN2005P at this time
 Not collecting spectra of SN2005nb at this time
 Not collecting spectra of SN2005na at this time
 3 objects returned for SN2005N
 Not collecting spectra of SN2005mz at this time
-From statement 2: SN2005mt has no spectra to collect
 From statement 3: SN2005mt has no spectra to collect
+From statement 4: SN2005mt has no spectra to collect
 Not collecting spectra of SN2005ms at this time
-From statement 2: SN2005mj has no spectra to collect
 From statement 3: SN2005mj has no spectra to collect
+From statement 4: SN2005mj has no spectra to collect
 Not collecting spectra of SN2005mf at this time
 Not collecting spectra of SN2005mc at this time
-From statement 2: SN2005ma has no spectra to collect
 From statement 3: SN2005ma has no spectra to collect
+From statement 4: SN2005ma has no spectra to collect
 8 objects returned for SN2005M
 Not collecting spectra of SN2005M at this time
 Not collecting spectra of SN2005lz at this time
-From statement 2: SN2005ly has no spectra to collect
 From statement 3: SN2005ly has no spectra to collect
+From statement 4: SN2005ly has no spectra to collect
 Not collecting spectra of SN2005lu at this time
 Not collecting spectra of SN2005lt at this time
 Not collecting spectra of SN2005ls at this time
@@ -1148,13 +1169,13 @@ Not collecting spectra of SN2005kj at this time
 Not collecting spectra of SN2005ki at this time
 Not collecting spectra of SN2005kf at this time
 Not collecting spectra of SN2005ke at this time
-From statement 2: SN2005kd has no spectra to collect
 From statement 3: SN2005kd has no spectra to collect
+From statement 4: SN2005kd has no spectra to collect
 Not collecting spectra of SN2005kc at this time
-From statement 2: SN2005jr has no spectra to collect
 From statement 3: SN2005jr has no spectra to collect
-From statement 2: SN2005jq has no spectra to collect
+From statement 4: SN2005jr has no spectra to collect
 From statement 3: SN2005jq has no spectra to collect
+From statement 4: SN2005jq has no spectra to collect
 Not collecting spectra of SN2005iq at this time
 Presumably no other duplicate files found for SN2005ip
 4 objects returned for SN2005I
@@ -1164,8 +1185,8 @@ Not collecting spectra of SN2005hg at this time
 Not collecting spectra of SN2005hf at this time
 Not collecting spectra of SN2005hc at this time
 6 objects returned for SN2005H
-From statement 2: SN2005gn has no spectra to collect
 From statement 3: SN2005gn has no spectra to collect
+From statement 4: SN2005gn has no spectra to collect
 Presumably no other duplicate files found for SN2005gl
 Presumably no other duplicate files found for SN2005gj
 4 objects returned for SN2005G
@@ -1174,16 +1195,16 @@ Not collecting spectra of SN2005ew at this time
 Not collecting spectra of SN2005eu at this time
 Not collecting spectra of SN2005er at this time
 Not collecting spectra of SN2005eq at this time
-From statement 2: SN2005ep has no spectra to collect
 From statement 3: SN2005ep has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN2005eo at this time
+From statement 4: SN2005ep has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2005eo at this time
 Not collecting spectra of SN2005el at this time
 Presumably no other duplicate files found for SN2005ek
 Not collecting spectra of SN2005ej at this time
 Not collecting spectra of SN2005ec at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.12 objects returned for SN2005E
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.12 objects returned for SN2005E
 Presumably no other duplicate files found for SN2005E
-From statement 3: SN2005dp has no spectra to collect
+From statement 4: SN2005dp has no spectra to collect
 Not collecting spectra of SN2005do at this time
 Not collecting spectra of SN2005dm at this time
 Not collecting spectra of SN2005di at this time
@@ -1210,17 +1231,17 @@ Not collecting spectra of SN2005be at this time
 Not collecting spectra of SN2005bd at this time
 Not collecting spectra of SN2005bc at this time
 Not collecting spectra of SN2005az at this time
-From statement 2: SN2005av has no spectra to collect
 From statement 3: SN2005av has no spectra to collect
+From statement 4: SN2005av has no spectra to collect
 Not collecting spectra of SN2005as at this time
 Not collecting spectra of SN2005ar at this time
-From statement 2: SN2005aq has no spectra to collect
 From statement 3: SN2005aq has no spectra to collect
-Removing duplicate spectrum for SN2005ap -- 2005ap_20050316_4843_7816_00.dat
+From statement 4: SN2005aq has no spectra to collect
+Removing duplicate spectrum for SN2005ap -- 2005ap_20050316_2535_4373_00.dat
 Not collecting spectra of SN2005ao at this time
 Not collecting spectra of SN2005am at this time
 Not collecting spectra of SN2005ag at this time
-From statement 3: SN2005aa has no spectra to collect
+From statement 4: SN2005aa has no spectra to collect
 16 objects returned for SN2005A
 Not collecting spectra of SN2005A at this time
 Not collecting spectra of SN2004Y at this time
@@ -1238,8 +1259,8 @@ Presumably no other duplicate files found for SN2004gt
 Not collecting spectra of SN2004gs at this time
 Not collecting spectra of SN2004gl at this time
 Not collecting spectra of SN2004ge at this time
-From statement 2: SN2004gd has no spectra to collect
 From statement 3: SN2004gd has no spectra to collect
+From statement 4: SN2004gd has no spectra to collect
 Not collecting spectra of SN2004gc at this time
 14 objects returned for SN2004G
 Not collecting spectra of SN2004fz at this time
@@ -1260,8 +1281,8 @@ Presumably no other duplicate files found for SN2004em
 Presumably no other duplicate files found for SN2004ek
 Presumably no other duplicate files found for SN2004eg
 Not collecting spectra of SN2004ef at this time
-From statement 2: SN2004ec has no spectra to collect
 From statement 3: SN2004ec has no spectra to collect
+From statement 4: SN2004ec has no spectra to collect
 15 objects returned for SN2004E
 Not collecting spectra of SN2004E at this time
 Presumably no other duplicate files found for SN2004dk
@@ -1290,8 +1311,8 @@ Not collecting spectra of SN2004bc at this time
 15 objects returned for SN2004B
 Not collecting spectra of SN2004B at this time
 Not collecting spectra of SN2004az at this time
-From statement 2: SN2004ay has no spectra to collect
 From statement 3: SN2004ay has no spectra to collect
+From statement 4: SN2004ay has no spectra to collect
 Not collecting spectra of SN2004aw at this time
 Not collecting spectra of SN2004av at this time
 Not collecting spectra of SN2004at at this time
@@ -1308,30 +1329,30 @@ Not collecting spectra of SN2003V at this time
 Not collecting spectra of SN2003U at this time
 Not collecting spectra of SN2003S at this time
 Not collecting spectra of SN2003P at this time
-From statement 2: SN2003ma has no spectra to collect
 From statement 3: SN2003ma has no spectra to collect
+From statement 4: SN2003ma has no spectra to collect
 2 objects returned for SN2003M
 Not collecting spectra of SN2003M at this time
 Presumably no other duplicate files found for SN2003lw
 Not collecting spectra of SN2003ls at this time
 Not collecting spectra of SN2003lq at this time
-From statement 2: SN2003lo has no spectra to collect
 From statement 3: SN2003lo has no spectra to collect
+From statement 4: SN2003lo has no spectra to collect
 Not collecting spectra of SN2003lc at this time
 Not collecting spectra of SN2003lb at this time
 Not collecting spectra of SN2003kz at this time
 Not collecting spectra of SN2003kh at this time
 Not collecting spectra of SN2003kg at this time
 Not collecting spectra of SN2003kf at this time
-From statement 2: SN2003ke has no spectra to collect
 From statement 3: SN2003ke has no spectra to collect
+From statement 4: SN2003ke has no spectra to collect
 Not collecting spectra of SN2003kd at this time
 Not collecting spectra of SN2003kc at this time
 8 objects returned for SN2003K
 Not collecting spectra of SN2003K at this time
 Not collecting spectra of SN2003jz at this time
-From statement 2: SN2003jh has no spectra to collect
 From statement 3: SN2003jh has no spectra to collect
+From statement 4: SN2003jh has no spectra to collect
 Not collecting spectra of SN2003jd at this time
 Not collecting spectra of SN2003iz at this time
 Not collecting spectra of SN2003iv at this time
@@ -1346,8 +1367,8 @@ Presumably no other duplicate files found for SN2003ie
 Not collecting spectra of SN2003ic at this time
 Not collecting spectra of SN2003ia at this time
 Not collecting spectra of SN2003hz at this time
-From statement 2: SN2003hy has no spectra to collect
 From statement 3: SN2003hy has no spectra to collect
+From statement 4: SN2003hy has no spectra to collect
 Not collecting spectra of SN2003hx at this time
 Not collecting spectra of SN2003hw at this time
 Presumably no other duplicate files found for SN2003hv
@@ -1359,14 +1380,14 @@ Not collecting spectra of SN2003he at this time
 Not collecting spectra of SN2003gt at this time
 Not collecting spectra of SN2003gs at this time
 Not collecting spectra of SN2003gq at this time
-From statement 2: SN2003go has no spectra to collect
 From statement 3: SN2003go has no spectra to collect
+From statement 4: SN2003go has no spectra to collect
 Not collecting spectra of SN2003gn at this time
 Not collecting spectra of SN2003gj at this time
 Not collecting spectra of SN2003ge at this time
 Removing duplicate spectrum for SN2003gd -- SN2003gd_15Jun2003_ObjNa.txt
 9 objects returned for SN2003G
-From statement 3: SN2003G has no spectra to collect
+From statement 4: SN2003G has no spectra to collect
 Not collecting spectra of SN2003fd at this time
 Not collecting spectra of SN2003fa at this time
 3 objects returned for SN2003F
@@ -1374,14 +1395,14 @@ Not collecting spectra of SN2003F at this time
 Not collecting spectra of SN2003ez at this time
 Not collecting spectra of SN2003ep at this time
 Not collecting spectra of SN2003ek at this time
-From statement 2: SN2003ei has no spectra to collect
 From statement 3: SN2003ei has no spectra to collect
+From statement 4: SN2003ei has no spectra to collect
 Not collecting spectra of SN2003eh at this time
-From statement 2: SN2003ee has no spectra to collect
 From statement 3: SN2003ee has no spectra to collect
+From statement 4: SN2003ee has no spectra to collect
 Not collecting spectra of SN2003dw at this time
-From statement 2: SN2003dv has no spectra to collect
 From statement 3: SN2003dv has no spectra to collect
+From statement 4: SN2003dv has no spectra to collect
 Not collecting spectra of SN2003du at this time
 Not collecting spectra of SN2003dt at this time
 Presumably no other duplicate files found for SN2003dh
@@ -1400,8 +1421,8 @@ Not collecting spectra of SN2003ay at this time
 Not collecting spectra of SN2003ax at this time
 Not collecting spectra of SN2003av at this time
 Not collecting spectra of SN2003au at this time
-From statement 2: SN2003as has no spectra to collect
 From statement 3: SN2003as has no spectra to collect
+From statement 4: SN2003as has no spectra to collect
 Not collecting spectra of SN2003ar at this time
 Not collecting spectra of SN2003an at this time
 Not collecting spectra of SN2003ai at this time
@@ -1409,8 +1430,8 @@ Not collecting spectra of SN2003ah at this time
 Not collecting spectra of SN2003ag at this time
 Not collecting spectra of SN2003af at this time
 Not collecting spectra of SN2003ae at this time
-From statement 2: SN2002kg has no spectra to collect
 From statement 3: SN2002kg has no spectra to collect
+From statement 4: SN2002kg has no spectra to collect
 Not collecting spectra of SN2002kf at this time
 Not collecting spectra of SN2002jy at this time
 Not collecting spectra of SN2002jo at this time
@@ -1422,8 +1443,8 @@ Not collecting spectra of SN2002hw at this time
 Not collecting spectra of SN2002hv at this time
 Not collecting spectra of SN2002hu at this time
 Not collecting spectra of SN2002hl at this time
-From statement 2: SN2002hi has no spectra to collect
 From statement 3: SN2002hi has no spectra to collect
+From statement 4: SN2002hi has no spectra to collect
 Not collecting spectra of SN2002he at this time
 Not collecting spectra of SN2002hd at this time
 Not collecting spectra of SN2002ha at this time
@@ -1438,8 +1459,8 @@ Not collecting spectra of SN2002gb at this time
 7 objects returned for SN2002G
 Not collecting spectra of SN2002G at this time
 Not collecting spectra of SN2002fk at this time
-From statement 2: SN2002fj has no spectra to collect
 From statement 3: SN2002fj has no spectra to collect
+From statement 4: SN2002fj has no spectra to collect
 Not collecting spectra of SN2002fi at this time
 Not collecting spectra of SN2002fb at this time
 Not collecting spectra of SN2002ey at this time
@@ -1453,8 +1474,8 @@ Not collecting spectra of SN2002eh at this time
 Not collecting spectra of SN2002ef at this time
 Not collecting spectra of SN2002ec at this time
 Not collecting spectra of SN2002eb at this time
-From statement 2: SN2002ea has no spectra to collect
 From statement 3: SN2002ea has no spectra to collect
+From statement 4: SN2002ea has no spectra to collect
 Not collecting spectra of SN2002dx at this time
 Not collecting spectra of SN2002dr at this time
 Not collecting spectra of SN2002dp at this time
@@ -1475,12 +1496,12 @@ Not collecting spectra of SN2002ci at this time
 Not collecting spectra of SN2002cf at this time
 Not collecting spectra of SN2002cd at this time
 Not collecting spectra of SN2002cc at this time
-From statement 2: SN2002cb has no spectra to collect
 From statement 3: SN2002cb has no spectra to collect
+From statement 4: SN2002cb has no spectra to collect
 Not collecting spectra of SN2002bz at this time
 Not collecting spectra of SN2002bw at this time
-From statement 2: SN2002bv has no spectra to collect
 From statement 3: SN2002bv has no spectra to collect
+From statement 4: SN2002bv has no spectra to collect
 Not collecting spectra of SN2002bt at this time
 Not collecting spectra of SN2002bs at this time
 Not collecting spectra of SN2002br at this time
@@ -1498,14 +1519,14 @@ Not collecting spectra of SN2002ar at this time
 Presumably no other duplicate files found for SN2002ap
 Presumably no other duplicate files found for SN2002ao
 7 objects returned for SN2002A
-From statement 3: SN2002A has no spectra to collect
+From statement 4: SN2002A has no spectra to collect
 Not collecting spectra of SN2001V at this time
 Not collecting spectra of SN2001U at this time
 Not collecting spectra of SN2001P at this time
 Not collecting spectra of SN2001N at this time
 Not collecting spectra of SN2001L at this time
-From statement 2: SN2001ir has no spectra to collect
 From statement 3: SN2001ir has no spectra to collect
+From statement 4: SN2001ir has no spectra to collect
 Not collecting spectra of SN2001iq at this time
 Not collecting spectra of SN2001ig at this time
 Not collecting spectra of SN2001if at this time
@@ -1513,7 +1534,7 @@ Not collecting spectra of SN2001ie at this time
 Not collecting spectra of SN2001ic at this time
 Not collecting spectra of SN2001ib at this time
 8 objects returned for SN2001I
-From statement 3: SN2001I has no spectra to collect
+From statement 4: SN2001I has no spectra to collect
 Not collecting spectra of SN2001gd at this time
 Not collecting spectra of SN2001gc at this time
 Not collecting spectra of SN2001gb at this time
@@ -1522,12 +1543,12 @@ Not collecting spectra of SN2001fu at this time
 Not collecting spectra of SN2001fh at this time
 Not collecting spectra of SN2001fg at this time
 Not collecting spectra of SN2001fe at this time
-From statement 2: SN2001fa has no spectra to collect
 From statement 3: SN2001fa has no spectra to collect
+From statement 4: SN2001fa has no spectra to collect
 6 objects returned for SN2001F
 Not collecting spectra of SN2001F at this time
-From statement 2: SN2001ey has no spectra to collect
 From statement 3: SN2001ey has no spectra to collect
+From statement 4: SN2001ey has no spectra to collect
 Not collecting spectra of SN2001ex at this time
 Not collecting spectra of SN2001ew at this time
 Not collecting spectra of SN2001eu at this time
@@ -1556,8 +1577,8 @@ Not collecting spectra of SN2001de at this time
 Not collecting spectra of SN2001dd at this time
 Not collecting spectra of SN2001dc at this time
 Not collecting spectra of SN2001da at this time
-From statement 2: SN2001co has no spectra to collect
 From statement 3: SN2001co has no spectra to collect
+From statement 4: SN2001co has no spectra to collect
 Not collecting spectra of SN2001ck at this time
 Not collecting spectra of SN2001cj at this time
 Not collecting spectra of SN2001cg at this time
@@ -1572,13 +1593,13 @@ Not collecting spectra of SN2001az at this time
 Not collecting spectra of SN2001ay at this time
 Not collecting spectra of SN2001ai at this time
 Not collecting spectra of SN2001ah at this time
-From statement 2: SN2001ac has no spectra to collect
 From statement 3: SN2001ac has no spectra to collect
+From statement 4: SN2001ac has no spectra to collect
 6 objects returned for SN2001A
 Not collecting spectra of SN2001A at this time
 Not collecting spectra of SN2000Q at this time
-From statement 2: SN2000P has no spectra to collect
 From statement 3: SN2000P has no spectra to collect
+From statement 4: SN2000P has no spectra to collect
 Not collecting spectra of SN2000O at this time
 Not collecting spectra of SN2000K at this time
 Not collecting spectra of SN2000J at this time
@@ -1587,17 +1608,17 @@ Not collecting spectra of SN2000fo at this time
 Not collecting spectra of SN2000fd at this time
 Not collecting spectra of SN2000fa at this time
 Not collecting spectra of SN2000ey at this time
-From statement 2: SN2000ev has no spectra to collect
 From statement 3: SN2000ev has no spectra to collect
+From statement 4: SN2000ev has no spectra to collect
 Presumably no other duplicate files found for SN2000er
-From statement 2: SN2000eo has no spectra to collect
 From statement 3: SN2000eo has no spectra to collect
+From statement 4: SN2000eo has no spectra to collect
 Not collecting spectra of SN2000ej at this time
 7 objects returned for SN2000E
 Not collecting spectra of SN2000E at this time
 Not collecting spectra of SN2000dx at this time
-From statement 2: SN2000ds has no spectra to collect
 From statement 3: SN2000ds has no spectra to collect
+From statement 4: SN2000ds has no spectra to collect
 Not collecting spectra of SN2000dr at this time
 Not collecting spectra of SN2000dp at this time
 Not collecting spectra of SN2000dn at this time
@@ -1610,29 +1631,29 @@ Not collecting spectra of SN2000dd at this time
 Not collecting spectra of SN2000cw at this time
 Not collecting spectra of SN2000cv at this time
 Not collecting spectra of SN2000cu at this time
-From statement 2: SN2000ct has no spectra to collect
 From statement 3: SN2000ct has no spectra to collect
+From statement 4: SN2000ct has no spectra to collect
 Not collecting spectra of SN2000cp at this time
 Not collecting spectra of SN2000cn at this time
 Not collecting spectra of SN2000cm at this time
-From statement 2: SN2000cl has no spectra to collect
 From statement 3: SN2000cl has no spectra to collect
+From statement 4: SN2000cl has no spectra to collect
 Presumably no other duplicate files found for SN2000ch
 Not collecting spectra of SN2000cf at this time
 Not collecting spectra of SN2000ce at this time
-From statement 2: SN2000cd has no spectra to collect
 From statement 3: SN2000cd has no spectra to collect
+From statement 4: SN2000cd has no spectra to collect
 Not collecting spectra of SN2000bk at this time
 Not collecting spectra of SN2000bh at this time
-From statement 2: SN2000bg has no spectra to collect
 From statement 3: SN2000bg has no spectra to collect
+From statement 4: SN2000bg has no spectra to collect
 4 objects returned for SN2000B
 Not collecting spectra of SN2000B at this time
 Not collecting spectra of SN2000al at this time
 2 objects returned for SN2000A
 Not collecting spectra of SN2000A at this time
-From statement 2: SN1999Z has no spectra to collect
 From statement 3: SN1999Z has no spectra to collect
+From statement 4: SN1999Z has no spectra to collect
 Not collecting spectra of SN1999X at this time
 Not collecting spectra of SN1999U at this time
 Not collecting spectra of SN1999S at this time
@@ -1647,8 +1668,8 @@ Not collecting spectra of SN1999gi at this time
 Not collecting spectra of SN1999gh at this time
 Not collecting spectra of SN1999gf at this time
 Not collecting spectra of SN1999gd at this time
-From statement 2: SN1999gb has no spectra to collect
 From statement 3: SN1999gb has no spectra to collect
+From statement 4: SN1999gb has no spectra to collect
 Presumably no other duplicate files found for SN1999ga
 Not collecting spectra of SN1999fz at this time
 Not collecting spectra of SN1999fy at this time
@@ -1663,19 +1684,19 @@ Not collecting spectra of SN1999fm at this time
 Not collecting spectra of SN1999fj at this time
 Not collecting spectra of SN1999fh at this time
 Not collecting spectra of SN1999ff at this time
-From statement 2: SN1999ey has no spectra to collect
 From statement 3: SN1999ey has no spectra to collect
+From statement 4: SN1999ey has no spectra to collect
 Not collecting spectra of SN1999ex at this time
 Not collecting spectra of SN1999eu at this time
-From statement 2: SN1999el has no spectra to collect
 From statement 3: SN1999el has no spectra to collect
+From statement 4: SN1999el has no spectra to collect
 Not collecting spectra of SN1999ek at this time
 Not collecting spectra of SN1999ej at this time
 Not collecting spectra of SN1999ef at this time
 Not collecting spectra of SN1999ee at this time
 Not collecting spectra of SN1999ec at this time
-From statement 2: SN1999eb has no spectra to collect
 From statement 3: SN1999eb has no spectra to collect
+From statement 4: SN1999eb has no spectra to collect
 12 objects returned for SN1999E
 Presumably no other duplicate files found for SN1999E
 Not collecting spectra of SN1999dq at this time
@@ -1686,6 +1707,7 @@ Not collecting spectra of SN1999di at this time
 Not collecting spectra of SN1999dg at this time
 Not collecting spectra of SN1999da at this time
 Not collecting spectra of SN1999cw at this time
+Not collecting spectra of SN1999cq at this time
 Not collecting spectra of SN1999cp at this time
 Not collecting spectra of SN1999cm at this time
 Not collecting spectra of SN1999cl at this time
@@ -1693,10 +1715,10 @@ Not collecting spectra of SN1999cf at this time
 Not collecting spectra of SN1999ce at this time
 Not collecting spectra of SN1999cc at this time
 Not collecting spectra of SN1999cb at this time
-12 objects returned for SN1999C
+13 objects returned for sn1999c
 Not collecting spectra of SN1999by at this time
-From statement 2: SN1999bw has no spectra to collect
 From statement 3: SN1999bw has no spectra to collect
+From statement 4: SN1999bw has no spectra to collect
 Not collecting spectra of SN1999bv at this time
 Not collecting spectra of SN1999bt at this time
 Not collecting spectra of SN1999bh at this time
@@ -1717,7 +1739,7 @@ Not collecting spectra of SN1998ef at this time
 Not collecting spectra of SN1998ec at this time
 Not collecting spectra of SN1998eb at this time
 9 objects returned for SN1998E
-From statement 3: SN1998E has no spectra to collect
+From statement 4: SN1998E has no spectra to collect
 Not collecting spectra of SN1998dx at this time
 Not collecting spectra of SN1998dw at this time
 Not collecting spectra of SN1998dt at this time
@@ -1729,8 +1751,8 @@ Not collecting spectra of SN1998dh at this time
 Not collecting spectra of SN1998de at this time
 10 objects returned for SN1998D
 Not collecting spectra of SN1998D at this time
-From statement 2: SN1998ct has no spectra to collect
 From statement 3: SN1998ct has no spectra to collect
+From statement 4: SN1998ct has no spectra to collect
 Not collecting spectra of SN1998cs at this time
 Not collecting spectra of SN1998co at this time
 Not collecting spectra of SN1998cn at this time
@@ -1760,23 +1782,23 @@ Not collecting spectra of SN1997do at this time
 Not collecting spectra of SN1997dd at this time
 Not collecting spectra of SN1997dc at this time
 6 objects returned for SN1997D
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1997D at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1997D at this time
 Not collecting spectra of SN1997cy at this time
 Not collecting spectra of SN1997cw at this time
 Not collecting spectra of SN1997ct at this time
-From statement 2: SN1997cs has no spectra to collect
 From statement 3: SN1997cs has no spectra to collect
-From statement 2: SN1997cq has no spectra to collect
+From statement 4: SN1997cs has no spectra to collect
 From statement 3: SN1997cq has no spectra to collect
+From statement 4: SN1997cq has no spectra to collect
 Not collecting spectra of SN1997cn at this time
-From statement 2: SN1997cl has no spectra to collect
 From statement 3: SN1997cl has no spectra to collect
+From statement 4: SN1997cl has no spectra to collect
 8 objects returned for SN1997C
 Not collecting spectra of SN1997C at this time
 Not collecting spectra of SN1997bz at this time
 Not collecting spectra of SN1997by at this time
-From statement 2: SN1997bs has no spectra to collect
 From statement 3: SN1997bs has no spectra to collect
+From statement 4: SN1997bs has no spectra to collect
 Not collecting spectra of SN1997br at this time
 Not collecting spectra of SN1997bq at this time
 Not collecting spectra of SN1997bp at this time
@@ -1790,17 +1812,17 @@ Not collecting spectra of SN1996V at this time
 Not collecting spectra of SN1996P at this time
 Not collecting spectra of SN1996O at this time
 Not collecting spectra of SN1996L at this time
-From statement 2: SN1996cr has no spectra to collect
 From statement 3: SN1996cr has no spectra to collect
+From statement 4: SN1996cr has no spectra to collect
 Not collecting spectra of SN1996cb at this time
 Not collecting spectra of SN1996ca at this time
 4 objects returned for SN1996C
 Not collecting spectra of SN1996C at this time
 Not collecting spectra of SN1996by at this time
 Not collecting spectra of SN1996bv at this time
-From statement 2: SN1996bu has no spectra to collect
 From statement 3: SN1996bu has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1996bt at this time
+From statement 4: SN1996bu has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1996bt at this time
 Not collecting spectra of SN1996bo at this time
 Not collecting spectra of SN1996bl at this time
 Not collecting spectra of SN1996bk at this time
@@ -1808,14 +1830,14 @@ Not collecting spectra of SN1996bj at this time
 Presumably no other duplicate files found for SN1996aq
 Presumably no other duplicate files found for SN1996al
 Not collecting spectra of SN1996ai at this time
-From statement 2: SN1996ae has no spectra to collect
 From statement 3: SN1996ae has no spectra to collect
+From statement 4: SN1996ae has no spectra to collect
 Not collecting spectra of SN1996ac at this time
 Not collecting spectra of SN1996ab at this time
 Not collecting spectra of SN1995Y at this time
 Not collecting spectra of SN1995T at this time
-From statement 2: SN1995N has no spectra to collect
 From statement 3: SN1995N has no spectra to collect
+From statement 4: SN1995N has no spectra to collect
 Not collecting spectra of SN1995L at this time
 Not collecting spectra of SN1995G at this time
 Not collecting spectra of SN1995F at this time
@@ -1830,26 +1852,26 @@ Not collecting spectra of SN1995al at this time
 Not collecting spectra of SN1995ak at this time
 Presumably no other duplicate files found for SN1995ad
 Not collecting spectra of SN1995ac at this time
-From statement 2: SN1995aa has no spectra to collect
 From statement 3: SN1995aa has no spectra to collect
+From statement 4: SN1995aa has no spectra to collect
 8 objects returned for SN1995A
 Not collecting spectra of SN1995A at this time
-From statement 2: SN1994Y has no spectra to collect
 From statement 3: SN1994Y has no spectra to collect
+From statement 4: SN1994Y has no spectra to collect
 Not collecting spectra of SN1994X at this time
 Not collecting spectra of SN1994U at this time
 Not collecting spectra of SN1994T at this time
 Not collecting spectra of SN1994S at this time
 Not collecting spectra of SN1994Q at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1994N at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1994N at this time
 Not collecting spectra of SN1994M at this time
 Not collecting spectra of SN1994J at this time
 Not collecting spectra of SN1994I at this time
 Not collecting spectra of SN1994E at this time
 Not collecting spectra of SN1994D at this time
 Not collecting spectra of SN1994B at this time
-From statement 2: SN1994ak has no spectra to collect
 From statement 3: SN1994ak has no spectra to collect
+From statement 4: SN1994ak has no spectra to collect
 Not collecting spectra of SN1994aj at this time
 Not collecting spectra of SN1994ae at this time
 Not collecting spectra of SN1994ab at this time
@@ -1864,12 +1886,12 @@ Not collecting spectra of SN1993ac at this time
 Not collecting spectra of SN1993ab at this time
 Not collecting spectra of SN1993aa at this time
 Not collecting spectra of SN1992M at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1992H at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992H at this time
 Not collecting spectra of SN1992G at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1992C at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992C at this time
 Not collecting spectra of SN1992ap at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ah at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ac at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ah at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ac at this time
 Not collecting spectra of SN1992ab at this time
 Not collecting spectra of SN1992aa at this time
 Not collecting spectra of SN1991X at this time
@@ -1880,12 +1902,12 @@ Not collecting spectra of SN1991N at this time
 Not collecting spectra of SN1991M at this time
 Not collecting spectra of SN1991L at this time
 Not collecting spectra of SN1991K at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991J at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991J at this time
 Not collecting spectra of SN1991H at this time
 Presumably no other duplicate files found for SN1991G
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991F at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991D at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991C at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991F at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991D at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991C at this time
 Not collecting spectra of SN1991bj at this time
 Not collecting spectra of SN1991bh at this time
 Not collecting spectra of SN1991bg at this time
@@ -1894,7 +1916,7 @@ Not collecting spectra of SN1991bd at this time
 Not collecting spectra of SN1991bc at this time
 Not collecting spectra of SN1991bb at this time
 8 objects returned for SN1991B
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991B at this time
 Not collecting spectra of SN1991ay at this time
 Not collecting spectra of SN1991at at this time
 Not collecting spectra of SN1991as at this time
@@ -1902,15 +1924,15 @@ Not collecting spectra of SN1991ar at this time
 Not collecting spectra of SN1991ao at this time
 Not collecting spectra of SN1991am at this time
 Not collecting spectra of SN1991ak at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991ad at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991ad at this time
 9 objects returned for SN1991A
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1991A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1991A at this time
 Not collecting spectra of SN1990Y at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990X at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990X at this time
 Presumably no other duplicate files found for SN1990W
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990V at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990V at this time
 Presumably no other duplicate files found for SN1990U
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990R at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990R at this time
 Not collecting spectra of SN1990Q at this time
 Not collecting spectra of SN1990O at this time
 Not collecting spectra of SN1990N at this time
@@ -1918,43 +1940,43 @@ Not collecting spectra of SN1990M at this time
 Not collecting spectra of SN1990K at this time
 Not collecting spectra of SN1990I at this time
 Not collecting spectra of SN1990H at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990G at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN1990E
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990G at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN1990E
 Not collecting spectra of SN1990B at this time
 Presumably no other duplicate files found for SN1990aj
 Not collecting spectra of SN1990ag at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990ae at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1990aa at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990ae at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990aa at this time
 Not collecting spectra of SN1989M at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1989C at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1989B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1989C at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1989B at this time
 Not collecting spectra of SN1989A at this time
 Not collecting spectra of SN1988Z at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1988L at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1988H at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1988L at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1988H at this time
 Not collecting spectra of SN1988A at this time
 Not collecting spectra of SN1987K at this time
 Not collecting spectra of SN1986G at this time
 Not collecting spectra of SN1986E at this time
 Not collecting spectra of SN1983G at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1981B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1981B at this time
 Presumably no other duplicate files found for SN1972E
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1971G at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1970A at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1969L at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1968M at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1968I at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1968E at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1966J at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1966G at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1971G at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1970A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1969L at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1968M at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1968I at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1968E at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1966J at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1966G at this time
 Not collecting spectra of SN1964L at this time
 Not collecting spectra of SN1964H at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1964F at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1964E at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1964F at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1964E at this time
 Not collecting spectra of SN1963I at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1962L at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1962J at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1961V at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1962L at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1962J at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1961V at this time
 Not collecting spectra of SN1961I at this time
 Not collecting spectra of SN1961F at this time
 Not collecting spectra of SN1960R at this time
@@ -1962,16 +1984,16 @@ Not collecting spectra of SN1960H at this time
 Not collecting spectra of SN1960F at this time
 Not collecting spectra of SN1959D at this time
 Not collecting spectra of SN1959C at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1957B at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1957A at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1956A at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1954B at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1954A at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1948B at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1939A at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1937D at this time
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Not collecting spectra of SN1937C at this time
-Not collecting spectra of SN1572 at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1957B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1957A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1956A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1954B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1954A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1948B at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1939A at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1937D at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1937C at this time
+Not collecting spectra of SN1572A at this time
 From statement 1: SMTJ14323134-1339276 has no spectra to collect
 From statement 1: SMTJ134948-065817 has no spectra to collect
 From statement 1: SMTJ0545-4735 has no spectra to collect
@@ -1980,7 +2002,7 @@ Removing duplicate spectrum for SMTJ03054854-2850370 -- tSMTJ03054854-28503700_2
 Presumably no other duplicate files found for SMTJ03054854-2850370
 Removing duplicate spectrum for SMTJ00570507-3626231 -- tSMTJ0570506-362623_20131201_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SMTJ00570507-3626231
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: SMT1031-3658 has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: SMT1031-3658 has no spectra to collect
 From statement 1: Sharon (ROTSE3 J125708.9-172527) has no spectra to collect
 Presumably no other duplicate files found for SDSS-SN-091
 Presumably no other duplicate files found for SCP-06F6
@@ -2224,7 +2246,7 @@ From statement 1: PTF12ild has no spectra to collect
 From statement 1: PTF12iet has no spectra to collect
 From statement 1: PTF12hxz has no spectra to collect
 From statement 1: PTF12hvv has no spectra to collect
-From statement 2: PTF12hqm has no spectra to collect
+From statement 3: PTF12hqm has no spectra to collect
 Presumably no other duplicate files found for PTF12hnr
 From statement 1: PTF12hni has no spectra to collect
 From statement 1: PTF12hap has no spectra to collect
@@ -2267,8 +2289,8 @@ From statement 1: PTF12exc has no spectra to collect
 From statement 1: PTF12evp has no spectra to collect
 From statement 1: PTF12eur has no spectra to collect
 From statement 1: PTF12esl has no spectra to collect
-From statement 2: PTF12eph has no spectra to collect
 From statement 3: PTF12eph has no spectra to collect
+From statement 4: PTF12eph has no spectra to collect
 From statement 1: PTF12epg has no spectra to collect
 From statement 1: PTF12eog has no spectra to collect
 From statement 1: PTF12emw has no spectra to collect
@@ -2282,8 +2304,8 @@ Presumably no other duplicate files found for PTF12dxm
 Presumably no other duplicate files found for PTF12dwm
 From statement 1: PTF12dtf has no spectra to collect
 From statement 1: PTF12dnn has no spectra to collect
-From statement 2: PTF12dhk has no spectra to collect
 From statement 3: PTF12dhk has no spectra to collect
+From statement 4: PTF12dhk has no spectra to collect
 Presumably no other duplicate files found for PTF12dhb
 From statement 1: PTF12dcp has no spectra to collect
 From statement 1: PTF12cxz has no spectra to collect
@@ -2295,8 +2317,8 @@ From statement 1: PTF12cqv has no spectra to collect
 From statement 1: PTF12cod has no spectra to collect
 From statement 1: PTF12cki has no spectra to collect
 From statement 1: PTF12cjy has no spectra to collect
-From statement 2: PTF12cix has no spectra to collect
 From statement 3: PTF12cix has no spectra to collect
+From statement 4: PTF12cix has no spectra to collect
 From statement 1: PTF12cfu has no spectra to collect
 From statement 1: PTF12cfk has no spectra to collect
 From statement 1: PTF12cbo has no spectra to collect
@@ -2336,7 +2358,7 @@ From statement 1: PTF11qyg has no spectra to collect
 Presumably no other duplicate files found for PTF11qnr
 Presumably no other duplicate files found for PTF11qmo
 From statement 1: PTF11qiq has no spectra to collect
-From statement 2: PTF11qij has no spectra to collect
+From statement 3: PTF11qij has no spectra to collect
 Presumably no other duplicate files found for PTF11qcj
 From statement 1: PTF11qax has no spectra to collect
 From statement 1: PTF11pym has no spectra to collect
@@ -2348,8 +2370,8 @@ From statement 1: PTF11pne has no spectra to collect
 From statement 1: PTF11pll has no spectra to collect
 From statement 1: PTF11pga has no spectra to collect
 From statement 1: PTF11pg has no spectra to collect
-From statement 2: PTF11pdt has no spectra to collect
 From statement 3: PTF11pdt has no spectra to collect
+From statement 4: PTF11pdt has no spectra to collect
 From statement 1: PTF11pct has no spectra to collect
 From statement 1: PTF11pbr has no spectra to collect
 From statement 1: PTF11pbo has no spectra to collect
@@ -2359,8 +2381,8 @@ From statement 1: PTF11oni has no spectra to collect
 From statement 1: PTF11oiy has no spectra to collect
 From statement 1: PTF11oir has no spectra to collect
 From statement 1: PTF11nzt has no spectra to collect
-From statement 2: PTF11ner has no spectra to collect
 From statement 3: PTF11ner has no spectra to collect
+From statement 4: PTF11ner has no spectra to collect
 From statement 1: PTF11my has no spectra to collect
 From statement 1: PTF11mwk has no spectra to collect
 From statement 1: PTF11msm has no spectra to collect
@@ -2421,8 +2443,8 @@ From statement 1: PTF11hdq has no spectra to collect
 From statement 1: PTF11hde has no spectra to collect
 From statement 1: PTF11gvi has no spectra to collect
 From statement 1: PTF11gua has no spectra to collect
-From statement 2: PTF11gtr has no spectra to collect
 From statement 3: PTF11gtr has no spectra to collect
+From statement 4: PTF11gtr has no spectra to collect
 From statement 1: PTF11gog has no spectra to collect
 From statement 1: PTF11gmy has no spectra to collect
 From statement 1: PTF11glr has no spectra to collect
@@ -2440,8 +2462,8 @@ From statement 1: PTF11fzx has no spectra to collect
 From statement 1: PTF11fvn has no spectra to collect
 From statement 1: PTF11fvj has no spectra to collect
 From statement 1: PTF11fvi has no spectra to collect
-From statement 2: PTF11fss has no spectra to collect
 From statement 3: PTF11fss has no spectra to collect
+From statement 4: PTF11fss has no spectra to collect
 From statement 1: PTF11fma has no spectra to collect
 From statement 1: PTF11fjl has no spectra to collect
 From statement 1: PTF11fjc has no spectra to collect
@@ -2458,11 +2480,11 @@ From statement 1: PTF11ebj has no spectra to collect
 From statement 1: PTF11eba has no spectra to collect
 Presumably no other duplicate files found for PTF11dzm
 From statement 1: PTF11dsz has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Presumably no other duplicate files found for PTF11dsb
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for PTF11dsb
 From statement 1: PTF11dn has no spectra to collect
 From statement 1: PTF11dlk has no spectra to collect
 From statement 1: PTF11dkq has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: PTF11dhf has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: PTF11dhf has no spectra to collect
 From statement 1: PTF11dga has no spectra to collect
 From statement 1: PTF11dcq has no spectra to collect
 From statement 1: PTF11dby has no spectra to collect
@@ -2477,8 +2499,8 @@ Presumably no other duplicate files found for PTF11bui
 2 objects returned for PTF11bu
 Presumably no other duplicate files found for PTF11bu
 From statement 1: PTF11bpy has no spectra to collect
-From statement 2: PTF11bpw has no spectra to collect
 From statement 3: PTF11bpw has no spectra to collect
+From statement 4: PTF11bpw has no spectra to collect
 From statement 1: PTF11bok has no spectra to collect
 From statement 1: PTF11bnw has no spectra to collect
 From statement 1: PTF11bnb has no spectra to collect
@@ -2651,7 +2673,7 @@ From statement 1: PTF10wxp has no spectra to collect
 From statement 1: PTF10wve has no spectra to collect
 From statement 1: PTF10wrm has no spectra to collect
 From statement 1: PTF10wpx has no spectra to collect
-Removing duplicate spectrum for PTF10wof -- 10wof_20100929_Gemini N_v1.ascii
+Removing duplicate spectrum for PTF10wof -- 10wof_20100929_Gemini N_v2.ascii
 From statement 1: PTF10woa has no spectra to collect
 From statement 1: PTF10wnt has no spectra to collect
 From statement 1: PTF10wnp has no spectra to collect
@@ -2891,13 +2913,13 @@ Presumably no other duplicate files found for PTF10nlg
 From statement 1: PTF10nkt has no spectra to collect
 From statement 1: PTF10nkn has no spectra to collect
 From statement 1: PTF10nkc has no spectra to collect
-From statement 2: PTF10ngx has no spectra to collect
 From statement 3: PTF10ngx has no spectra to collect
-From statement 3: PTF10ng has no spectra to collect
+From statement 4: PTF10ngx has no spectra to collect
+From statement 4: PTF10ng has no spectra to collect
 From statement 1: PTF10net has no spectra to collect
 From statement 1: PTF10ndw has no spectra to collect
-From statement 2: PTF10ndr has no spectra to collect
 From statement 3: PTF10ndr has no spectra to collect
+From statement 4: PTF10ndr has no spectra to collect
 From statement 1: PTF10ndo has no spectra to collect
 From statement 1: PTF10ndh has no spectra to collect
 Presumably no other duplicate files found for PTF10ndc
@@ -3047,11 +3069,11 @@ From statement 1: PTF10ftb has no spectra to collect
 From statement 1: PTF10fqx has no spectra to collect
 From statement 1: PTF10fqo has no spectra to collect
 From statement 1: PTF10fqg has no spectra to collect
-Removing duplicate spectrum for PTF10fps -- 10fps_20100417_P200_v2.ascii
+Removing duplicate spectrum for PTF10fps -- 10fps_20100417_P200_v1.ascii
 From statement 1: PTF10fph has no spectra to collect
 From statement 1: PTF10fov has no spectra to collect
-From statement 2: PTF10fou has no spectra to collect
 From statement 3: PTF10fou has no spectra to collect
+From statement 4: PTF10fou has no spectra to collect
 From statement 1: PTF10for has no spectra to collect
 From statement 1: PTF10foq has no spectra to collect
 From statement 1: PTF10fny has no spectra to collect
@@ -3294,7 +3316,7 @@ From statement 1: PTF09iqd has no spectra to collect
 From statement 1: PTF09inv has no spectra to collect
 From statement 1: PTF09inp has no spectra to collect
 From statement 1: PTF09img has no spectra to collect
-Removing duplicate spectrum for PTF09ilp -- SN2009mz_8Jan2010_ObjNa.txt
+Removing duplicate spectrum for PTF09ilp -- SN2009mz_8Jan2010_MWNa.txt
 From statement 1: PTF09igz has no spectra to collect
 From statement 1: PTF09igt has no spectra to collect
 From statement 1: PTF09ige has no spectra to collect
@@ -3584,10 +3606,10 @@ Presumably no other duplicate files found for PSNJ12533306+2742517
 Removing duplicate spectrum for PSNJ11534177-5406168 -- tPSNJ11534177-5406168_20130312_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ11534177-5406168
 Removing duplicate spectrum for PSNJ11484578-2817312 -- tPSNJ11484578-2817312_20131129_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for PSNJ11484578-2817312 -- PSNJ11484578-2817312_20131220_Gr11_Free_slit1.0_57002_1.dat
+Removing duplicate spectrum for PSNJ11484578-2817312 -- PSNJ11484578-2817312_20131220_Gr16_OG530_slit1.0_57002_1.dat
 From statement 1: PSNJ114845-281731 has no spectra to collect
 Removing duplicate spectrum for PSNJ1148 -- tPSNJ11484578-2817312_20131129_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for PSNJ1148 -- PSNJ11484578-2817312_20131220_Gr11_Free_slit1.0_57002_1.dat
+Removing duplicate spectrum for PSNJ1148 -- PSNJ11484578-2817312_20131220_Gr16_OG530_slit1.0_57002_1.dat
 Removing duplicate spectrum for PSNJ11240925-1219390 -- tPSNJ11240925-1219390_20130317_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ11240925-1219390
 From statement 1: PSNJ1043 has no spectra to collect
@@ -3597,7 +3619,7 @@ Removing duplicate spectrum for PSNJ09271379-1931599 -- tPSNJ09271379-1931599_20
 Presumably no other duplicate files found for PSNJ09271379-1931599
 From statement 1: PSNJ09204691-0803340 has no spectra to collect
 From statement 1: PSNJ0920 has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: PSNJ0902 has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: PSNJ0902 has no spectra to collect
 Removing duplicate spectrum for PSNJ08175346+2328105 -- tPSN-J08175346+2328105_20130402_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ08175346+2328105
 From statement 1: PSNJ08145502+5039415 has no spectra to collect
@@ -3629,7 +3651,7 @@ Presumably no other duplicate files found for PS15cww
 Removing duplicate spectrum for PS15cwo -- tPS15cwo_20151117_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS15cwo
 From statement 1: PS15cko has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: PS15ae has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: PS15ae has no spectra to collect
 Removing duplicate spectrum for PS1-14xw -- tPS1-14xw_20140428_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS1-14xw
 Removing duplicate spectrum for PS1-14xv -- tPS1-14xv_20140428_Gr13_Free_slit1.0_1_f.asci
@@ -3685,19 +3707,20 @@ Presumably no other duplicate files found for PS1-13dom
 Removing duplicate spectrum for PS1-13dhn -- tPS1-13dhn_20131003_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS1-13dhn
 Presumably no other duplicate files found for PS1-12sk
-From statement 2: PS1-12cno has no spectra to collect
 From statement 3: PS1-12cno has no spectra to collect
+From statement 4: PS1-12cno has no spectra to collect
 From statement 1: PS1-12baa has no spectra to collect
-From statement 2: PS1-11xn has no spectra to collect
 From statement 3: PS1-11xn has no spectra to collect
+From statement 4: PS1-11xn has no spectra to collect
 Presumably no other duplicate files found for PS1-10ky
 Presumably no other duplicate files found for PS1-10awh
-From statement 2: PS1-1000789 has no spectra to collect
+Not collecting spectra of PS1-10afx at this time
 From statement 3: PS1-1000789 has no spectra to collect
+From statement 4: PS1-1000789 has no spectra to collect
 From statement 1: PNVJ01325723+3024260 has no spectra to collect
 Removing duplicate spectrum for PAMELA -- tPAMELA_20140310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PAMELA
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: OGLE-2014-SN-067 has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: OGLE-2014-SN-067 has no spectra to collect
 Removing duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_2_f.asci
 Presumably no other duplicate files found for OGLE-2014-SN-053
@@ -3944,7 +3967,7 @@ Presumably no other duplicate files found for LSQ14bef
 Removing duplicate spectrum for LSQ14bdw -- tLSQ14bdw_20140422_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14bdw
 Removing duplicate spectrum for LSQ14bdq -- tLSQ14bdq_20140504_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ14bdq -- LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_2.dat
+Removing duplicate spectrum for LSQ14bdq -- LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_1.dat
 Removing duplicate spectrum for LSQ14bdg -- tLSQ14bdg_20140422_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14bdg
 Removing duplicate spectrum for LSQ14bcr -- tLSQ14bcr_20140421_Gr13_Free_slit1.0_1_f.asci
@@ -4057,7 +4080,7 @@ Presumably no other duplicate files found for LSQ13dms
 Removing duplicate spectrum for LSQ13dlp -- tLSQ13dlp_20131221_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dlp
 Removing duplicate spectrum for LSQ13dkp -- tLSQ13dkp_20131210_Gr13_Free_slit1.0_2_f.asci
-Removing duplicate spectrum for LSQ13dkp -- LSQ13dkp_20131210_Gr13_Free_slit1.0_57002_1.dat
+Removing duplicate spectrum for LSQ13dkp -- LSQ13dkp_20131210_Gr13_Free_slit1.0_57002_2.dat
 Removing duplicate spectrum for LSQ13dkg -- tLSQ13dkg_20131209_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dkg
 Removing duplicate spectrum for LSQ13dj -- tLSQ13dj_20130112_Gr13_Free_slit1.0_1_f.asci
@@ -4080,7 +4103,7 @@ Removing duplicate spectrum for LSQ13deq -- tLSQ13deq_20131209_Gr13_Free_slit1.0
 Presumably no other duplicate files found for LSQ13deq
 Removing duplicate spectrum for LSQ13dek -- tLSQ13dek_20131220_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dek
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ13dcy -- tLSQ13dcy_20131125_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ13dcy -- tLSQ13dcy_20131125_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dcy
 Removing duplicate spectrum for LSQ13dca -- tLSQ13dca_20131202_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for LSQ13dca
@@ -4090,7 +4113,7 @@ Removing duplicate spectrum for LSQ13dbx -- tLSQ13dbx_20131123_Gr13_Free_slit1.0
 Presumably no other duplicate files found for LSQ13dbx
 Removing duplicate spectrum for LSQ13dbn -- tLSQ13dbn_20131123_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ13dbn -- tLSQ13dbn_20131123_Gr13_Free_slit1.0_2_f.asci
-Removing duplicate spectrum for LSQ13dbn -- LSQ13dbn_20131123_Gr13_Free_slit1.0_57001_2.dat
+Removing duplicate spectrum for LSQ13dbn -- LSQ13dbn_20131123_Gr13_Free_slit1.0_57001_1.dat
 Removing duplicate spectrum for LSQ13dbj -- tLSQ13dbj_20131123_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dbj
 Removing duplicate spectrum for LSQ13dbe -- tLSQ13dbe_20131122_Gr13_Free_slit1.0_1_f.asci
@@ -4176,7 +4199,7 @@ Removing duplicate spectrum for LSQ13bns -- tLSQ13bns_20130814_Gr13_Free_slit1.0
 Presumably no other duplicate files found for LSQ13bns
 Removing duplicate spectrum for LSQ13bll -- tLSQ13bll_20130814_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13bll
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ13bjh -- tLSQ13bjh_20130815_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ13bjh -- tLSQ13bjh_20130815_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13bjh
 Removing duplicate spectrum for LSQ13bir -- tLSQ13bir_20130803_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13bir
@@ -4229,18 +4252,18 @@ Removing duplicate spectrum for LSQ12hns -- tLSQ12hns_20121222_Gr13_Free_slit1.0
 Presumably no other duplicate files found for LSQ12hns
 Removing duplicate spectrum for LSQ12hnr -- tLSQ12hnr_20121222_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hnr
-Removing duplicate spectrum for LSQ12hnj -- LSQ12hnj_20121222_Gr11_Free_slit1.0_56448_1.ascii
+Removing duplicate spectrum for LSQ12hnj -- LSQ12hnj_20121222_Gr16_OG530_slit1.0_56457_1.ascii
 Removing duplicate spectrum for LSQ12hle -- tLSQ12hle_20121212_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hle
 Removing duplicate spectrum for LSQ12hjq -- tLSQ12hjq_20121212_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ12hjq -- LSQ12hjq_20121212_Gr13_Free_slit1.0_56456_1.ascii
+Removing duplicate spectrum for LSQ12hjq -- LSQ12hjq_20121212_Gr13_Free_slit1.0_56456_2.ascii
 Removing duplicate spectrum for LSQ12hja -- tLSQ12hja_20121212_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hja
 Removing duplicate spectrum for LSQ12heq -- tLSQ12heq_20121211_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12heq -- tLSQ12heq_20121213_Gr13_Free_slit1.0_1_f.asci
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hcm -- tLSQ12hcm_20121205_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hcm -- tLSQ12hcm_20121205_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12hcm -- LSQ12hcm_20121212_Gr11_Free_slit1.0_56448_1.ascii
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hbx -- LSQ12hbx_20121213_Gr13_Free_slit1.0_56456_2.ascii
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hbx -- LSQ12hbx_20121213_Gr13_Free_slit1.0_56456_1.ascii
 Removing duplicate spectrum for LSQ12hbo -- tLSQ12hbo_20121205_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hbo
 Removing duplicate spectrum for LSQ12gzm -- tLSQ12gzm_20121205_Gr13_Free_slit1.0_1_f.asci
@@ -4252,10 +4275,10 @@ Presumably no other duplicate files found for LSQ12gxj
 Removing duplicate spectrum for LSQ12gxh -- tLSQ12gxh_20121205_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12gxh
 Removing duplicate spectrum for LSQ12gxb -- tLSQ12gxb_20121203_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ12gxb -- LSQ12gxb_20121211_Gr16_OG530_slit1.0_56457_1.ascii
+Removing duplicate spectrum for LSQ12gxb -- LSQ12gxb_20121211_Gr11_Free_slit1.0_56448_1.ascii
 Removing duplicate spectrum for LSQ12gwy -- tLSQ12gwy_20121204_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12gwy
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12gpw -- tLSQ12gpw_20121205_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12gpw -- tLSQ12gpw_20121205_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12gln -- tLSQ12gln_20121121_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12gln
 Removing duplicate spectrum for LSQ12gkx -- tLSQ12gkx_20121114_Gr13_Free_slit1.0_1_f.asci
@@ -4330,11 +4353,11 @@ Removing duplicate spectrum for LSQ12ecp -- tLSQ12ecp_20120807_Gr13_Free_slit1.5
 Presumably no other duplicate files found for LSQ12ecp
 Removing duplicate spectrum for LSQ12ecd -- tLSQ12ecd_20120808_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12ecd
-From statement 2: LSQ12dzt has no spectra to collect
 From statement 3: LSQ12dzt has no spectra to collect
+From statement 4: LSQ12dzt has no spectra to collect
 Removing duplicate spectrum for LSQ12dwf -- tLSQ12dwf_20120808_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12dwf
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12dvj -- tLSQ12dvj_20120809_Gr13_Free_slit1.5_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12dvj -- tLSQ12dvj_20120809_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for LSQ12dvj
 Removing duplicate spectrum for LSQ12drz -- tLSQ12drz_20120807_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for LSQ12drz
@@ -4360,7 +4383,7 @@ Removing duplicate spectrum for LSQ12bxp -- fLSQ12bxp_20120421_Gr13_Free_slit1.5
 Removing duplicate spectrum for LSQ12bvl -- fLSQ12bvl_20120421_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12bve -- fLSQ12bve_20120421_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for LSQ12btn -- fLSQ12btn_20120412_Gr13_Free_slit1.0_1_f.asci
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12bry -- fLSQ12bry_20120412_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12bry -- fLSQ12bry_20120412_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12brx -- fLSQ12brx_20120412_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12brw -- fLSQ12brw_20120412_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12brs -- fLSQ12brs_20120412_Gr13_Free_slit1.0_1_f.asci
@@ -4397,7 +4420,7 @@ From statement 1: iPTF16ph has no spectra to collect
 From statement 1: iPTF16lb has no spectra to collect
 Removing duplicate spectrum for iPTF16in -- 16in_20160227_P200_v1.ascii
 From statement 1: iPTF16he has no spectra to collect
-Removing duplicate spectrum for iPTF16fs -- 16fs_20160227_P200_v1.ascii
+Removing duplicate spectrum for iPTF16fs -- 16fs_20160227_P200_v2.ascii
 From statement 1: iPTF16fd has no spectra to collect
 From statement 1: iPTF16fc has no spectra to collect
 From statement 1: iPTF16fb has no spectra to collect
@@ -5075,10 +5098,10 @@ Presumably no other duplicate files found for Gaia16aec
 From statement 1: Gaia15agm has no spectra to collect
 From statement 1: DES15S2nr has no spectra to collect
 Presumably no other duplicate files found for DES14X3taz
-From statement 2: DES12S2a has no spectra to collect
 From statement 3: DES12S2a has no spectra to collect
-From statement 2: DES12S1a has no spectra to collect
+From statement 4: DES12S2a has no spectra to collect
 From statement 3: DES12S1a has no spectra to collect
+From statement 4: DES12S1a has no spectra to collect
 From statement 1: DavidLevitan has no spectra to collect
 Removing duplicate spectrum for CSS141028-081814+044553 -- tCSS141028-081814+044553_20141101_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for CSS141028-081814+044553 -- tCSS141028-081814+044553_20141101_Gr13_Free_slit1.0_2_f.asci
@@ -5092,6 +5115,7 @@ Removing duplicate spectrum for CSS140426-171938-010130 -- tCSS140426-171938-010
 Presumably no other duplicate files found for CSS140426-171938-010130
 Removing duplicate spectrum for CSS140424-123226+154840 -- tCSS140424-123226+154840_20140428_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS140424-123226+154840
+Removing duplicate spectrum for CSS140421-142042+031602 -- tCSS140421-142042+031602_20140422_Gr13_Free_slit1.0_1_f.asci
 From statement 1: CSS140326-122257+282955 has no spectra to collect
 Removing duplicate spectrum for CSS140309-103126-155700 -- tCSS140309-103126-155700_20140310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS140309-103126-155700
@@ -5145,16 +5169,16 @@ Presumably no other duplicate files found for CSS130828-223849-251246
 Removing duplicate spectrum for CSS130809-222004-213922 -- tCSS130809222004-213922_20130814_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for CSS130401-125031+090817 -- tCSS130401_125031+090817_20130402_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS130401-125031+090817
-From statement 2: CSS130317-141506+270848 has no spectra to collect
 From statement 3: CSS130317-141506+270848 has no spectra to collect
+From statement 4: CSS130317-141506+270848 has no spectra to collect
 Removing duplicate spectrum for CSS130307-134411+030344 -- tCSS130307134411+030344_20130310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS130307-134411+030344
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.Removing duplicate spectrum for CSS130303-105206-133424 -- tCSS130303105206-133424_20130303_Gr13_Free_slit1.0_1_f.asci
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for CSS130303-105206-133424 -- tCSS130303105206-133424_20130303_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS130303-105206-133424
-From statement 2: CSS121113-091919+171410 has no spectra to collect
 From statement 3: CSS121113-091919+171410 has no spectra to collect
-From statement 2: CSS121009-025917-141610 has no spectra to collect
+From statement 4: CSS121113-091919+171410 has no spectra to collect
 From statement 3: CSS121009-025917-141610 has no spectra to collect
+From statement 4: CSS121009-025917-141610 has no spectra to collect
 Removing duplicate spectrum for CSS121008-014245+213928 -- tCSS121008014245213928_20121009_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for CSS121008-014245+213928 -- CSS121008-014245+213_20121104_Gr13_Free_slit1.0_56456_1.ascii
 Removing duplicate spectrum for CSS121006-015926+014412 -- tCSS121006015926014412_20121008_Gr13_Free_slit1.5_1_f.asci
@@ -5172,32 +5196,32 @@ Removing duplicate spectrum for CSS120415-170824+030104 -- fCSS170824p030104_201
 Removing duplicate spectrum for CSS120413-132702-014513 -- fCSS132702m014513_20120421_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for CSS120327-110520-015205
 From statement 1: CSS111230-143658+163057 has no spectra to collect
-From statement 2: CSS110501-094825+204333 has no spectra to collect
 From statement 3: CSS110501-094825+204333 has no spectra to collect
-From statement 2: CSS101030-230944+054156 has no spectra to collect
+From statement 4: CSS110501-094825+204333 has no spectra to collect
 From statement 3: CSS101030-230944+054156 has no spectra to collect
-From statement 2: CSS100910-001539+271250 has no spectra to collect
+From statement 4: CSS101030-230944+054156 has no spectra to collect
 From statement 3: CSS100910-001539+271250 has no spectra to collect
+From statement 4: CSS100910-001539+271250 has no spectra to collect
 From statement 1: CSS100217-102913+404220 has no spectra to collect
-From statement 2: CSS091018-091109+195945 has no spectra to collect
 From statement 3: CSS091018-091109+195945 has no spectra to collect
-From statement 2: CSS090925-001259+144121 has no spectra to collect
+From statement 4: CSS091018-091109+195945 has no spectra to collect
 From statement 3: CSS090925-001259+144121 has no spectra to collect
-From statement 2: CSS081201-103354-032125 has no spectra to collect
+From statement 4: CSS090925-001259+144121 has no spectra to collect
 From statement 3: CSS081201-103354-032125 has no spectra to collect
-From statement 2: CSS080701-234413+075224 has no spectra to collect
+From statement 4: CSS081201-103354-032125 has no spectra to collect
 From statement 3: CSS080701-234413+075224 has no spectra to collect
+From statement 4: CSS080701-234413+075224 has no spectra to collect
 Removing duplicate spectrum for chase_ESO-9015 -- tchase_ESO-9015_20121107_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for chase_ESO-9015
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: AT2016aqs has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: ASASSN-16at has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: ASASSN-15rp has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: AT2016aqs has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: ASASSN-16at has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: ASASSN-15rp has no spectra to collect
 From statement 1: ASASSN-15qc has no spectra to collect
 From statement 1: ASASSN-15pz has no spectra to collect
 From statement 1: ASASSN-15oz has no spectra to collect
 From statement 1: ASASSN-15og has no spectra to collect
 From statement 1: ASASSN-15nr has no spectra to collect
-Type not specified by WISeREP. Check the Open Supernova Catalog for type.From statement 1: ASASSN-15lv has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: ASASSN-15lv has no spectra to collect
 Presumably no other duplicate files found for ASASSN-15lh
 From statement 1: ASASSN-15ic has no spectra to collect
 From statement 1: ASASSN-15hz has no spectra to collect
@@ -5216,7 +5240,7 @@ Removing duplicate spectrum for ASASSN-15az -- tASASSN-15az_20150114_Gr13_Free_s
 Presumably no other duplicate files found for ASASSN-15az
 From statement 1: ASASSN-14lw has no spectra to collect
 From statement 1: ASASSN-14lt has no spectra to collect
-From statement 1: ASASSN-14lp has no spectra to collect
+Presumably no other duplicate files found for ASASSN-14lp
 From statement 1: ASASSN-14kp has no spectra to collect
 Removing duplicate spectrum for ASASSN-14jz -- tASASSN-14jz_20141124_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for ASASSN-14jz -- tASASSN-14jz_20141124_Gr13_Free_slit1.0_2_f.asci
@@ -5238,4 +5262,4 @@ From statement 1: ASASSN-14dp has no spectra to collect
 From statement 1: ASASSN-13co has no spectra to collect
 Removing duplicate spectrum for ASASSN-13ch -- tASASSN-ch_20130829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for ASASSN-13ch
-Runtime: 451.78313656648 minutesRuntime: 0.4229916016260783 minutesRuntime: 0.15145338376363118 minutesRuntime: 0.10650560061136881 minutesRuntime: 0.14142598311106364 minutesRuntime: 0.1500416874885559 minutesRuntime: 0.15982545216878255 minutesRuntime: 0.1333395481109619 minutes
+Runtime: 463.0618851184845 minutes
