@@ -1,0 +1,16 @@
+{
+    "tns_2016eja_2016-07-28_03-20-17_LT_SPRAT_ASAS-SN.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2016-07-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "Bersier",
+        "Reducer": "Bersier",
+        "Reduction Status": "final",
+        "Last Modified": "2016-07-28",
+        "Modified By": "upload-TNS"
+    }
+}

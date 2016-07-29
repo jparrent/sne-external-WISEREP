@@ -1176,3 +1176,6 @@ All spectra for ASASSN-14ii are still private
 ASASSN-14gm has 6 private spectra
 ASASSN-14fw has 2 private spectra
 ASASSN-14fo has 2 private spectra
+SN2016egz has 2 private spectra
+SN2016egz has 2 private spectra
+SN2016egz has 2 private spectra
