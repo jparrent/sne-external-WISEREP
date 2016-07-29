@@ -1,5 +1,5 @@
 {
-    "SN2009mz_8Jan2010_MWNa.txt": {
+    "SN2009mz_8Jan2010_ObjNa.txt": {
         "Type": "SN Ia",
         "Redshift": "0.008579",
         "Obs. Date": "2010-01-08",
@@ -12,5 +12,6 @@
         "Reduction Status": "final",
         "Last Modified": "2011-08-11",
         "Modified By": "assaf"
-    }
+    },
+    "Private Spectra": "1"
 }

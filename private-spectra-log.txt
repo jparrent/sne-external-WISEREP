@@ -6,12 +6,13 @@ All spectra for SNHunt257 are still private
 SN2016X has 4 private spectra
 SN2016P has 12 private spectra
 All spectra for SN2016O are still private
+SN2016egz has 2 private spectra
 SN2016blz has 4 private spectra
-SN2016B has 6 private spectra
+SN2016B has 7 private spectra
 SN2016ase has 1 private spectra
-SN2016aqf has 3 private spectra
+SN2016aqf has 4 private spectra
 SN2016aj has 3 private spectra
-SN2016aiy has 4 private spectra
+SN2016aiy has 8 private spectra
 SN2016adj has 10 private spectra
 All spectra for SN2016aa are still private
 All spectra for SN2016A are still private
@@ -1153,6 +1154,7 @@ Gaia16afe has 1 private spectra
 Gaia16aec has 5 private spectra
 All spectra for Dougie are still private
 CSS140925-223344-062208 has 6 private spectra
+CSS140421-142042+031602 has 14 private spectra
 CSS131031-095508+064831 has 4 private spectra
 CSS130809-222004-213922 has 9 private spectra
 CSS121015-004244+132827 has 17 private spectra
@@ -1167,6 +1169,7 @@ ASASSN-15az has 2 private spectra
 ASASSN-15as has 2 private spectra
 ASASSN-15al has 2 private spectra
 ASASSN-15aj has 6 private spectra
+ASASSN-14lp has 21 private spectra
 ASASSN-14kq has 2 private spectra
 ASASSN-14jc has 4 private spectra
 All spectra for ASASSN-14ii are still private

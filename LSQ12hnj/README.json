@@ -1,5 +1,5 @@
 {
-    "LSQ12hnj_20121222_Gr16_OG530_slit1.0_56457_1.ascii": {
+    "LSQ12hnj_20121222_Gr11_Free_slit1.0_56448_1.ascii": {
         "Type": "SN II",
         "Redshift": "0.015",
         "Obs. Date": "2012-12-23",
@@ -12,5 +12,6 @@
         "Reduction Status": "final",
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
-    }
+    },
+    "Private Spectra": "2"
 }

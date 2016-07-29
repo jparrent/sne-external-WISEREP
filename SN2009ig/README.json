@@ -83,7 +83,7 @@
         "Last Modified": "2016-02-07",
         "Modified By": "ilanm-UploadSet"
     },
-    "SN2009ig_16Oct2009_MWNa.txt": {
+    "SN2009ig_16Oct2009_ObjNa.txt": {
         "Type": "SN Ia",
         "Redshift": "0.00877",
         "Obs. Date": "2009-10-16",
@@ -96,5 +96,6 @@
         "Reduction Status": "final",
         "Last Modified": "2011-08-11",
         "Modified By": "assaf"
-    }
+    },
+    "Private Spectra": "14"
 }
