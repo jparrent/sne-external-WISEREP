@@ -1,0 +1,16 @@
+{
+    "tASASSN-16hw_20160730_Gr13_Free_slit5.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.017",
+        "Obs. Date": "2016-07-31",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Fraser,Reynolds",
+        "Reducer": "Mattila",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-07-31",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
