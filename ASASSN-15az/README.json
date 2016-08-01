@@ -13,5 +13,19 @@
         "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     },
-    "Private Spectra": "2"
+    "ASASSN-15az_20150116_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.028",
+        "Obs. Date": "2015-01-16",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Sweet",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
 }

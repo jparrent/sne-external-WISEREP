@@ -1,0 +1,17 @@
+{
+    "SN2014ct_20140612_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.048",
+        "Obs. Date": "2014-06-12",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Chris Owen",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}

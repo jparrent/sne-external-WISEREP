@@ -1,31 +1,17 @@
 {
-    "PSNJ11484578-2817312_20131129_Gr13_Free_slit1.0_57002_1.dat": {
+    "PSNJ1148_20131206_wifes_B.dat": {
         "Type": "SN Ic-BL",
         "Redshift": "0.01",
-        "Obs. Date": "2013-11-30",
-        "Program": "PESSTO-SSDR",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Dennefeld/Bersier/Lyman",
-        "Reducer": "Cosimo Inserra",
+        "Obs. Date": "2013-12-06",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
         "Reduction Status": "final",
-        "Last Modified": "2015-10-27",
-        "Modified By": "ofer-UploadSet"
-    },
-    "PSNJ11484578-2817312_20131220_Gr11_Free_slit1.0_57002_1.dat": {
-        "Type": "SN Ic-BL",
-        "Redshift": "0.01",
-        "Obs. Date": "2013-12-21",
-        "Program": "PESSTO-SSDR",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "LEGUILLOU",
-        "Reducer": "Cosimo Inserra",
-        "Reduction Status": "final",
-        "Last Modified": "2015-10-27",
-        "Modified By": "ofer-UploadSet"
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
     },
     "Private Spectra": "0"
 }

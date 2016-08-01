@@ -1,5 +1,4 @@
 {
-    "completed": [],
     "non_SN": [
         "TCPJ17344775-2409042",
         "TCPJ13535979-0755079",
@@ -255,6 +254,10 @@
         "ASASSN-14fr",
         "ASASSN-14fi",
         "ASASSN-14fh",
-        "ASASSN-14ae"
-    ]
+        "ASASSN-14ae",
+        "PSNJ2316",
+        "PSNJ1944",
+        "PSNJ00150879-3912504"
+    ],
+    "completed": []
 }

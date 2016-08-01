@@ -1,17 +1,17 @@
 {
-    "tASASSN-15as_20150114_Gr13_Free_slit1.0_1_f.asci": {
+    "ASASSN-15as_20150116_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.028",
-        "Obs. Date": "2015-01-15",
+        "Obs. Date": "2015-01-16",
         "Program": "PESSTO",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "A. Nyholm, C. Fremling",
-        "Reducer": "K. Migotto, E. Karamehmetoglu, F. Taddia, J. Sollerman",
-        "Reduction Status": "rapid",
-        "Last Modified": "2015-01-15",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Sweet",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
     },
-    "Private Spectra": "2"
+    "Private Spectra": "0"
 }

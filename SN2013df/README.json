@@ -27,6 +27,20 @@
         "Last Modified": "2016-05-03",
         "Modified By": "ilanm"
     },
+    "SN2013df_20130622_wifes_R.dat": {
+        "Type": "SN IIb",
+        "Redshift": "0.002395",
+        "Obs. Date": "2013-06-22",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
     "sn2013df-20130623.175-r.flm": {
         "Type": "SN IIb",
         "Redshift": "0.002395",
@@ -83,5 +97,5 @@
         "Last Modified": "2016-05-03",
         "Modified By": "ilanm"
     },
-    "Private Spectra": "4"
+    "Private Spectra": "2"
 }

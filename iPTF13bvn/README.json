@@ -125,6 +125,20 @@
         "Last Modified": "2013-09-11",
         "Modified By": "ofer"
     },
+    "iPTF13bvn_20130622_wifes_R.dat": {
+        "Type": "SN Ib",
+        "Redshift": "0.00449",
+        "Obs. Date": "2013-06-22",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
     "13bvn_20130624_Magellan_Baade_v1.ascii": {
         "Type": "SN Ib",
         "Redshift": "0.00449",
@@ -335,5 +349,5 @@
         "Last Modified": "2015-07-06",
         "Modified By": "ilanm-UploadSet"
     },
-    "Private Spectra": "47"
+    "Private Spectra": "45"
 }

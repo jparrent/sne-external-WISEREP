@@ -1,0 +1,31 @@
+{
+    "SN2013fj_2013-09-13_21:36:45_Asiago.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.03357",
+        "Obs. Date": "2013-09-13",
+        "Program": "Asiago",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "benetti,spiro",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-03-31",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2013fj_20130919_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03357",
+        "Obs. Date": "2013-09-19",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}

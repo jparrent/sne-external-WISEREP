@@ -1,0 +1,59 @@
+{
+    "SN2014cr_20140708_wifes_B.dat": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.02",
+        "Obs. Date": "2014-07-08",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2014cr_20140708_wifes_R.dat": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.02",
+        "Obs. Date": "2014-07-08",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2014cr_20140805_wifes_B.dat": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.02",
+        "Obs. Date": "2014-08-05",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2014cr_20140805_wifes_R.dat": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.02",
+        "Obs. Date": "2014-08-05",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}
