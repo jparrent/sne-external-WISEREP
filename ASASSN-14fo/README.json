@@ -1,17 +1,17 @@
 {
-    "tASASSN-14fo_20140816_Gr13_Free_slit1.0_1_f.asci": {
+    "ASASSN-14fo_20140910_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.024",
-        "Obs. Date": "2014-08-17",
+        "Obs. Date": "2014-09-10",
         "Program": "PESSTO",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Tartaglia/Elias-Rosa",
-        "Reducer": "Tomasella/Morales-Garoffolo",
-        "Reduction Status": "rapid",
-        "Last Modified": "2014-08-17",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
     },
-    "Private Spectra": "2"
+    "Private Spectra": "0"
 }

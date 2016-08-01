@@ -1,0 +1,17 @@
+{
+    "OGLE-2014-SN-067_20140829_wifes_B.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0187",
+        "Obs. Date": "2014-08-29",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Fogarty, Owers",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}

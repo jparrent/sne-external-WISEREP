@@ -1,3 +1,31 @@
 {
-    "Private Spectra": "3"
+    "SNhunt259_wifes_COM.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.037909",
+        "Obs. Date": "2014-10-18",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress, M.",
+        "Reducer": "Childress, M.",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-24",
+        "Modified By": "ilanm"
+    },
+    "SNhunt259_20141018_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.037909",
+        "Obs. Date": "2014-10-18",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
 }

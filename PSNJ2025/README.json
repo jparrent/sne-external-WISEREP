@@ -1,0 +1,59 @@
+{
+    "PSNJ2025_20141106_wifes_B.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.010614",
+        "Obs. Date": "2014-11-06",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PSNJ2025_20141106_wifes_R.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.010614",
+        "Obs. Date": "2014-11-06",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PSNJ2025_20141114_wifes_B.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.010614",
+        "Obs. Date": "2014-11-14",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Murphy",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PSNJ2025_20141114_wifes_R.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.010614",
+        "Obs. Date": "2014-11-14",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Murphy",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}

@@ -97,6 +97,34 @@
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     },
+    "SN2013ao_20130325_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2013-03-25",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013ao_20130325_wifes_R.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2013-03-25",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
     "SN2013ao_20130401_Gr11_Free_slit1.0_56448_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.03",
@@ -293,5 +321,5 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
-    "Private Spectra": "23"
+    "Private Spectra": "21"
 }

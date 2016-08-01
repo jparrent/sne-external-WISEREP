@@ -1,0 +1,17 @@
+{
+    "SN2013bj_20130412_wifes_R.dat": {
+        "Type": "SN II",
+        "Redshift": "0.03",
+        "Obs. Date": "2013-04-12",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}

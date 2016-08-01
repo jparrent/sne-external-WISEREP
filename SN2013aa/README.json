@@ -1,4 +1,60 @@
 {
+    "SN2013aa_20130325_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-03-25",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013aa_20130325_wifes_R.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-03-25",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013aa_20130409_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-04-09",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013aa_20130409_wifes_R.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-04-09",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
     "SN2013aa_20130710.dat": {
         "Type": "SN Ia",
         "Redshift": "0.003999",
@@ -41,6 +97,34 @@
         "Last Modified": "2015-07-16",
         "Modified By": "ilanm"
     },
+    "SN2013aa_20130913_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-09-13",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013aa_20130913_wifes_R.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2013-09-13",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
     "SN2013aa_20140131.dat": {
         "Type": "SN Ia",
         "Redshift": "0.003999",
@@ -55,5 +139,33 @@
         "Last Modified": "2015-07-16",
         "Modified By": "ilanm"
     },
-    "Private Spectra": "9"
+    "SN2013aa_20140131_wifes_B.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2014-01-31",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN2013aa_20140131_wifes_R.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.003999",
+        "Obs. Date": "2014-01-31",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "1"
 }

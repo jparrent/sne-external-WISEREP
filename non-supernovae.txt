@@ -253,3 +253,6 @@ ASASSN-14fr is a Varstar
 ASASSN-14fi is a Varstar
 ASASSN-14fh is a CV
 ASASSN-14ae is a TDE
+PSNJ2316 is a LBV
+PSNJ1944 is a Nova
+PSNJ00150879-3912504 is a LBV

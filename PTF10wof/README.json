@@ -1,11 +1,11 @@
 {
-    "10wof_20100929_Gemini N_v1.ascii": {
+    "10wof_20100929_Gemini N_v2.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0527",
         "Obs. Date": "2010-09-29",
         "Program": "PTF",
-        "Contributor": "",
-        "Bibcode": "",
+        "Contributor": "Maguire et al. 2014",
+        "Bibcode": "2014arXiv1408.1430M",
         "Instrument": "Gemini-N - GMOS",
         "Observer": "Unknown",
         "Reducer": "Howell",

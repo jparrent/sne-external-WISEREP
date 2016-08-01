@@ -13,6 +13,20 @@
         "Last Modified": "2015-05-14",
         "Modified By": "ilanm-UploadSet"
     },
+    "sn2010al-20100322.170-ui.flm": {
+        "Type": "SN Ibn",
+        "Redshift": "0.017155",
+        "Obs. Date": "2010-03-22",
+        "Program": "",
+        "Contributor": "Shivvers et al. 2016",
+        "Bibcode": "2016MNRAS.461.3057S",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Io Kleiser",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-07-28",
+        "Modified By": "ilanm-UploadSet"
+    },
     "2010al_20100324_VLT_XSHOOTER_NIR.ascii": {
         "Type": "SN Ibn",
         "Redshift": "0.017155",

@@ -1,0 +1,17 @@
+{
+    "ASASSN-15lv_20150701_wifes_R.dat": {
+        "Type": "SN IIb",
+        "Redshift": "0.011",
+        "Obs. Date": "2015-07-01",
+        "Program": "PESSTO",
+        "Contributor": "Childress et al. 2016",
+        "Bibcode": "2016arXiv160708526C",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Childress",
+        "Reducer": "Childress",
+        "Reduction Status": "final",
+        "Last Modified": "2015-09-24",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Private Spectra": "0"
+}
