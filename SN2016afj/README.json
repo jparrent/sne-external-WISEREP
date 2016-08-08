@@ -1,17 +1,16 @@
 {
-    "tns_2016afj_2016-02-16_05-11-20_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
+    "tPS16ago_20160215_Gr13_Free_slit1.0_1_f.asci": {
         "Type": "SN IIn",
         "Redshift": "0.081",
         "Obs. Date": "2016-02-16",
-        "Program": "",
+        "Program": "PESSTO",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Faran, Kromer, Taubenberger",
         "Reducer": "Taubenberger",
-        "Reduction Status": "final",
+        "Reduction Status": "rapid",
         "Last Modified": "2016-02-16",
-        "Modified By": "upload-TNS"
-    },
-    "Private Spectra": "0"
+        "Modified By": "ilanm"
+    }
 }

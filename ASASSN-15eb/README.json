@@ -1,5 +1,5 @@
 {
-    "ASASSN-15eb_20150305_wifes_R.dat": {
+    "ASASSN-15eb_20150305_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.018",
         "Obs. Date": "2015-03-05",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

@@ -27,7 +27,7 @@
         "Last Modified": "2016-05-03",
         "Modified By": "ilanm"
     },
-    "SN2013df_20130622_wifes_R.dat": {
+    "SN2013df_20130622_wifes_B.dat": {
         "Type": "SN IIb",
         "Redshift": "0.002395",
         "Obs. Date": "2013-06-22",
@@ -96,6 +96,5 @@
         "Reduction Status": "final",
         "Last Modified": "2016-05-03",
         "Modified By": "ilanm"
-    },
-    "Private Spectra": "2"
+    }
 }

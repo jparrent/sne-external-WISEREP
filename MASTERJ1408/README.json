@@ -1,5 +1,5 @@
 {
-    "MASTERJ1408_20140423_wifes_B.dat": {
+    "MASTERJ1408_20140423_wifes_R.dat": {
         "Type": "SN Ia",
         "Redshift": "0.035308",
         "Obs. Date": "2014-04-23",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

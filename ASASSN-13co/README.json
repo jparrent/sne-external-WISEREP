@@ -1,5 +1,5 @@
 {
-    "ASASSN-13co_20130919_wifes_R.dat": {
+    "ASASSN-13co_20130919_wifes_B.dat": {
         "Type": "SN IIP",
         "Redshift": "0.0226",
         "Obs. Date": "2013-09-19",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

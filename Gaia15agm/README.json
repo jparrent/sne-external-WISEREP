@@ -1,5 +1,5 @@
 {
-    "Gaia15agm_20150701_wifes_R.dat": {
+    "Gaia15agm_20150701_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.029",
         "Obs. Date": "2015-07-01",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

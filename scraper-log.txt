@@ -21,8 +21,8 @@ Removing duplicate spectrum for SSS120420-204522-504405 -- fSSS2045_20120422_Gr1
 Removing duplicate spectrum for SSS120416-211543-192250 -- fSSS211543m192250_20120421_Gr13_Free_slit1.5_1_f.asci
 Not collecting spectra of SNLS05D2bk at this time
 Not collecting spectra of SNLS04D4ec at this time
-Removing duplicate spectrum for SNLS-07D3fi -- 07D3fi_recal_atm_2.dat
-Removing duplicate spectrum for SNLS-07D3do -- 07D3do_recal_atm.dat
+Removing duplicate spectrum for SNLS-07D3fi -- 07D3fi_recal_atm_1.dat
+Removing duplicate spectrum for SNLS-07D3do -- 07D3do_sn_recal_atmos.dat
 Removing duplicate spectrum for SNLS-06D4cq -- PHASE_06D4cq_1306_Balland_etal_09.dat
 Presumably no other duplicate files found for SNLS-06D4cq
 Removing duplicate spectrum for SNLS-06D4co -- PHASE_06D4co_1306_Balland_etal_09.dat
@@ -179,7 +179,7 @@ Removing duplicate spectrum for SNLS-04D2ja -- PHASE_04D2ja_500_Balland_etal_09.
 Presumably no other duplicate files found for SNLS-04D2ja
 Removing duplicate spectrum for SNLS-04D2iu -- PHASE_04D2iu_497_Balland_etal_09.dat
 Removing duplicate spectrum for SNLS-04D2iu -- PHASE_04D2iu_498_Balland_etal_09.dat
-Removing duplicate spectrum for SNLS-04D2iu -- snonly_04D2iu_498_Balland_etal_09.dat
+Removing duplicate spectrum for SNLS-04D2iu -- snonly_04D2iu_497_Balland_etal_09.dat
 Removing duplicate spectrum for SNLS-04D2gp -- PHASE_04D2gp_475_Balland_etal_09.dat
 Presumably no other duplicate files found for SNLS-04D2gp
 Removing duplicate spectrum for SNLS-04D2gc -- PHASE_04D2gc_471_Balland_etal_09.dat
@@ -291,9 +291,11 @@ Removing duplicate spectrum for SNLS-03D1ar -- PHASE_03D1ar_270_Balland_etal_09.
 Presumably no other duplicate files found for SNLS-03D1ar
 From statement 1: SNhunt281 has no spectra to collect
 Removing duplicate spectrum for SNhunt261 -- SNhunt261_20141027_wifes_B.dat
-Removing duplicate spectrum for SNHunt259 -- SNhunt259_20141018_wifes_R.dat
+From statement 4: SNHunt260 has no spectra to collect
+Removing duplicate spectrum for SNHunt259 -- SNhunt259_20141018_wifes_B.dat
+From statement 4: SNHunt257 has no spectra to collect
 From statement 1: SNHunt248 has no spectra to collect
-Removing duplicate spectrum for SNhunt239 -- SNhunt239_20140402_wifes_R.dat
+Removing duplicate spectrum for SNhunt239 -- SNhunt239_20140402_wifes_B.dat
 Removing duplicate spectrum for SNhunt222 -- SNhunt222_20131219_wifes_B.dat
 Removing duplicate spectrum for SNHunt206 -- tSNhunt206_20130912_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SNHunt206
@@ -326,32 +328,16 @@ From statement 1: SNF20050701-003 has no spectra to collect
 From statement 1: SNF20050630-005 has no spectra to collect
 From statement 1: SNF20050625-004 has no spectra to collect
 Not collecting spectra of SNCasA at this time
-Removing duplicate spectrum for SN2016zr -- tPS16abo_20160204_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016zr
 2 objects returned for SN2016ze
 8 objects returned for SN2016Z
-Removing duplicate spectrum for SN2016ys -- tAT2016ys_20160129_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ys
-Removing duplicate spectrum for SN2016yr -- tAT2016yr_20160129_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016yr
 2 objects returned for SN2016X
 Presumably no other duplicate files found for SN2016X
-Removing duplicate spectrum for SN2016wq -- tPS16yr_20160128_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016wq
 4 objects returned for SN2016W
-Removing duplicate spectrum for SN2016vv -- tPS16xu_20160128_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016vv
-Removing duplicate spectrum for SN2016ut -- tAT2016ut_20160129_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ut
 2 objects returned for SN2016U
 From statement 3: SN2016U has no spectra to collect
 From statement 4: SN2016U has no spectra to collect
 From statement 3: SN2016T has no spectra to collect
 From statement 4: SN2016T has no spectra to collect
-Removing duplicate spectrum for SN2016sr -- tPS16uh_20160128_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016sr
-Removing duplicate spectrum for SN2016sl -- tSN2016sl_20160215_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016sl
 3 objects returned for SN2016S
 From statement 3: SN2016S has no spectra to collect
 From statement 4: SN2016S has no spectra to collect
@@ -359,34 +345,18 @@ From statement 3: SN2016R has no spectra to collect
 From statement 4: SN2016R has no spectra to collect
 From statement 3: SN2016Q has no spectra to collect
 From statement 4: SN2016Q has no spectra to collect
+From statement 4: SN2016O has no spectra to collect
 Presumably no other duplicate files found for SN2016F
-2 objects returned for SN2016ek
-Removing duplicate spectrum for SN2016eiy -- tAT2016eiy_20160726_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016eiy
-Removing duplicate spectrum for SN2016eig -- tAT2016eig_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016eig
-Removing duplicate spectrum for SN2016eif -- tAT2016eif_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016eif
-Removing duplicate spectrum for SN2016eic -- tGaia16avh_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016eic
-Removing duplicate spectrum for SN2016eia -- tGaia16avl_20160726_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016eia
-Removing duplicate spectrum for SN2016ehv -- tGaia16avq_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016ehv
-Removing duplicate spectrum for SN2016eho -- tGaia16avy_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016eho
-Removing duplicate spectrum for SN2016egz -- tAT2016egz_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016egz
-Removing duplicate spectrum for SN2016ege -- tAT2016ege_20160726_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ege
-22 objects returned for SN2016E
-Removing duplicate spectrum for SN2016dln -- tAT2016dln_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016dln
-Removing duplicate spectrum for SN2016dkf -- tAT2016dkf_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016dkf
-Removing duplicate spectrum for SN2016dgj -- tAT2016dgj_20160725_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016dgj
+2 objects returned for SN2016em
+2 objects returned for SN2016el
+4 objects returned for SN2016ek
+From statement 3: SN2016ehy has no spectra to collect
+From statement 4: SN2016ehy has no spectra to collect
+27 objects returned for SN2016E
+From statement 1: SN2016dvr has no spectra to collect
 5 objects returned for SN2016D
+From statement 3: SN2016cyw has no spectra to collect
+From statement 4: SN2016cyw has no spectra to collect
 Presumably no other duplicate files found for SN2016cvm
 Presumably no other duplicate files found for SN2016cor
 Presumably no other duplicate files found for SN2016cok
@@ -396,19 +366,9 @@ From statement 4: SN2016ccz has no spectra to collect
 Presumably no other duplicate files found for SN2016ccm
 Presumably no other duplicate files found for SN2016ccl
 Presumably no other duplicate files found for SN2016cbx
-63 objects returned for SN2016C
+64 objects returned for SN2016C
 Presumably no other duplicate files found for SN2016C
-Removing duplicate spectrum for SN2016bmi -- tAT2016bmi_20160415_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016bmi
-Removing duplicate spectrum for SN2016blz -- tAT2016blz_20160410_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016blz
-Removing duplicate spectrum for SN2016blt -- tAT2016blt_20160415_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016blt
-Removing duplicate spectrum for SN2016blq -- tLSQ16ajh_20160405_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016blq
 From statement 1: SN2016bln has no spectra to collect
-Removing duplicate spectrum for SN2016blj -- tAT2016blj_20160403_Gr13_Free_slit1.5_1_f.asci
-Presumably no other duplicate files found for SN2016blj
 Presumably no other duplicate files found for SN2016bew
 Removing duplicate spectrum for SN2016bau -- tns_2016bau_2016-03-14.97_Ekar_AFOSC_Padova-Asiago.txt
 54 objects returned for SN2016B
@@ -425,125 +385,94 @@ Presumably no other duplicate files found for SN2016ase
 Presumably no other duplicate files found for SN2016aqt
 From statement 1: SN2016aqs has no spectra to collect
 Presumably no other duplicate files found for SN2016aqf
-Removing duplicate spectrum for SN2016aqb -- tAT2016aqb_20160225_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aqb
-Removing duplicate spectrum for SN2016aqa -- tAT2016aqa_20160225_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aqa
-Removing duplicate spectrum for SN2016apz -- tLSQ16sy_20160224_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016apz
-Removing duplicate spectrum for SN2016ajw -- tLSQ16gx_20160222_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ajw
 Presumably no other duplicate files found for SN2016ajo
-Removing duplicate spectrum for SN2016ajm -- tAT2016ajm_20160223_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ajm
-Removing duplicate spectrum for SN2016aje -- tLSQ16ol_20160216_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aje
-Removing duplicate spectrum for SN2016ajb -- tLSQ16pz_20160217_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ajb
 13 objects returned for SN2016aj
-Removing duplicate spectrum for SN2016aiy -- tAT2016aiy_20160223_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aiy
-Removing duplicate spectrum for SN2016aix -- tGaia-16ady_20160217_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aix
-Removing duplicate spectrum for SN2016ahb -- tAT2016ahb_20160225_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016ahb
 2 objects returned for SN2016ah
 2 objects returned for SN2016ag
-Removing duplicate spectrum for SN2016afk -- tPS16agp_20160216_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016afk
-Removing duplicate spectrum for SN2016afj -- tPS16ago_20160215_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016afj
-Removing duplicate spectrum for SN2016afa -- tAT2016afa_20160213_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016afa
-Removing duplicate spectrum for SN2016aez -- tATLAS16aas_20160217_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aez
-Removing duplicate spectrum for SN2016aex -- tASASSN-16br_20160213_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aex
-Removing duplicate spectrum for SN2016aew -- tASASSN-16bq_20160213_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aew
 Removing duplicate spectrum for SN2016adq -- tns_2016adq_2016-02-11.11_Ekar_AFOSC_Padova-Asiago.txt
 From statement 1: SN2016ado has no spectra to collect
 Presumably no other duplicate files found for SN2016adn
-Removing duplicate spectrum for SN2016adk -- tAT2016adk_20160213_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016adk
 Presumably no other duplicate files found for SN2016adj
 Presumably no other duplicate files found for SN2016adg
-Removing duplicate spectrum for SN2016acx -- tAT2016acx_20160222_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016acx
 From statement 3: SN2016acs has no spectra to collect
 From statement 4: SN2016acs has no spectra to collect
 From statement 3: SN2016acq has no spectra to collect
 From statement 4: SN2016acq has no spectra to collect
 4 objects returned for SN2016ac
-Removing duplicate spectrum for SN2016aak -- tPS16adq_20160205_Gr11_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2016aak
 From statement 3: SN2016aaj has no spectra to collect
 From statement 4: SN2016aaj has no spectra to collect
 4 objects returned for SN2016aa
+Not collecting spectra of SN2016aa at this time
 68 objects returned for SN2016A
+Not collecting spectra of SN2016A at this time
 From statement 1: SN2015L has no spectra to collect
 From statement 1: SN2015J has no spectra to collect
+From statement 4: SN2015D has no spectra to collect
 Presumably no other duplicate files found for SN2015bn
 Removing duplicate spectrum for SN2015bm -- tPSNJ12080010+1944267_20160101_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2015bm -- tPSNJ12080010+1944267_20160102_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for SN2015bm
+Not collecting spectra of SN2015bm at this time
 10 objects returned for SN2015B
 14 objects returned for SN2015A
 Removing duplicate spectrum for SN2014Z -- tPSNJ01440799-6107074_20140308_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2014Z
-Removing duplicate spectrum for SN2014X -- SN2014X_20140304_wifes_R.dat
+Removing duplicate spectrum for SN2014X -- SN2014X_20140304_wifes_B.dat
 Removing duplicate spectrum for SN2014P -- tPSNJ10540400-4548436_20140205_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2014P
-Removing duplicate spectrum for SN2014N -- SN2014N_20140131_wifes_B.dat
-Removing duplicate spectrum for SN2014I -- SN2014I_20140118_wifes_R.dat
+Removing duplicate spectrum for SN2014N -- SN2014N_20140131_wifes_R.dat
+Removing duplicate spectrum for SN2014I -- SN2014I_20140118_wifes_B.dat
 From statement 1: SN2014eg has no spectra to collect
 6 objects returned for SN2014E
-Removing duplicate spectrum for SN2014E -- SN2014E_20140118_wifes_B.dat
+Removing duplicate spectrum for SN2014E -- SN2014E_20140118_wifes_R.dat
 2 objects returned for SN2014dr
-Removing duplicate spectrum for SN2014dr -- SN2014dr_20141018_wifes_R.dat
+Removing duplicate spectrum for SN2014dr -- SN2014dr_20141018_wifes_B.dat
 Removing duplicate spectrum for SN2014dp -- SN2014dp_20141009_wifes_R.dat
 Removing duplicate spectrum for SN2014do -- SN2014do_20141003_wifes_B.dat
-Removing duplicate spectrum for SN2014dl -- SN2014dl_20141003_wifes_R.dat
+Removing duplicate spectrum for SN2014dl -- SN2014dl_20141003_wifes_B.dat
 2 objects returned for SN2014dk
 2 objects returned for SN2014dj
 Removing duplicate spectrum for SN2014df -- SN2014df_20140604_wifes_R.dat
 Removing duplicate spectrum for SN2014dc -- SN2014dc_20140910_wifes_B.dat
+From statement 4: SN2014da has no spectra to collect
 16 objects returned for SN2014D
-Removing duplicate spectrum for SN2014cy -- SN2014cy_20140909_wifes_R.dat
+Not collecting spectra of SN2014D at this time
+Removing duplicate spectrum for SN2014cy -- SN2014cy_20140909_wifes_B.dat
 Removing duplicate spectrum for SN2014cw -- SN2014cw_20140909_wifes_R.dat
-Removing duplicate spectrum for SN2014cu -- SN2014cu_20140708_wifes_R.dat
+Removing duplicate spectrum for SN2014cu -- SN2014cu_20140708_wifes_B.dat
 Removing duplicate spectrum for SN2014ct -- SN2014ct_20140612_wifes_R.dat
-Removing duplicate spectrum for SN2014cs -- SN2014cs_20140708_wifes_B.dat
-Removing duplicate spectrum for SN2014cq -- SN2014cq_20140708_wifes_R.dat
-Removing duplicate spectrum for SN2014co -- SN2014co_20140708_wifes_R.dat
-Removing duplicate spectrum for SN2014cm -- SN2014cm_20140611_wifes_R.dat
+Removing duplicate spectrum for SN2014cs -- SN2014cs_20140708_wifes_R.dat
+Removing duplicate spectrum for SN2014cq -- SN2014cq_20140708_wifes_B.dat
+Removing duplicate spectrum for SN2014co -- SN2014co_20140708_wifes_B.dat
+Removing duplicate spectrum for SN2014cm -- SN2014cm_20140611_wifes_B.dat
 Removing duplicate spectrum for SN2014ca -- SN2014ca_20140611_wifes_B.dat
 15 objects returned for SN2014C
-Removing duplicate spectrum for SN2014bz -- SN2014bz_20140611_wifes_R.dat
+Not collecting spectra of SN2014C at this time
+Removing duplicate spectrum for SN2014bz -- SN2014bz_20140611_wifes_B.dat
 Removing duplicate spectrum for SN2014bx -- SN2014bx_20140722_wifes_B.dat
 2 objects returned for SN2014bo
 Presumably no other duplicate files found for SN2014bc
 Presumably no other duplicate files found for SN2014av
 Removing duplicate spectrum for SN2014au -- SN2014au_20140423_wifes_B.dat
-Removing duplicate spectrum for SN2014ap -- SN2014ap_20140322_wifes_R.dat
+Removing duplicate spectrum for SN2014ap -- SN2014ap_20140322_wifes_B.dat
 Removing duplicate spectrum for SN2014ah -- SN2014ah_20140402_wifes_R.dat
 Removing duplicate spectrum for SN2014ac -- SN2014ac_20140314_wifes_B.dat
 Removing duplicate spectrum for SN2014aa -- tPSNJ11450358+1958254_20140308_Gr13_Free_slit1.0_1_f.asci
 18 objects returned for SN2014A
+From statement 4: SN2013X has no spectra to collect
 Removing duplicate spectrum for SN2013L -- tPSNJ11452955-5035531_20130127_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2013L
 Removing duplicate spectrum for SN2013K -- tPSNJ17393154-8518381_20130121_Gr13_Free_slit1.0_1_f.asci
 2 objects returned for SN2013I
 Removing duplicate spectrum for SN2013hx -- tSMTJ01353283-5757506_20140219_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2013hx -- tSMTJ01353283-5757506_20140220_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for SN2013hu -- SN2013hu_20131229_wifes_B.dat
-Removing duplicate spectrum for SN2013hh -- SN2013hh_20131212_wifes_B.dat
+Removing duplicate spectrum for SN2013hu -- SN2013hu_20131229_wifes_R.dat
+Removing duplicate spectrum for SN2013hh -- SN2013hh_20131212_wifes_R.dat
 Removing duplicate spectrum for SN2013hf -- tCATA50013A_20131210_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2013hf
 Presumably no other duplicate files found for SN2013gy
 Removing duplicate spectrum for SN2013gr -- tPSNJ01462790-5840238_20131130_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2013gq -- SN2013gq_20131008_wifes_B.dat
-Removing duplicate spectrum for SN2013gi -- SN2013gi_20131114_wifes_R.dat
+Removing duplicate spectrum for SN2013gi -- SN2013gi_20131114_wifes_B.dat
 Removing duplicate spectrum for SN2013ge -- SN2013ge.20131110.blue.flm
 Removing duplicate spectrum for SN2013fz -- tPSNJ04234644-5135463_20131103_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2013fz
@@ -551,7 +480,7 @@ Removing duplicate spectrum for SN2013fy -- tPSNJ21372712-4701548_20131026_Gr13_
 Presumably no other duplicate files found for SN2013fy
 Removing duplicate spectrum for SN2013fx -- tPSNJ23032177-6911185_20131026_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2013fx
-Removing duplicate spectrum for SN2013fw -- SN2013fw_20131114_wifes_B.dat
+Removing duplicate spectrum for SN2013fw -- SN2013fw_20131114_wifes_R.dat
 Removing duplicate spectrum for SN2013ft -- SN2013ft_20131008_wifes_R.dat
 2 objects returned for SN2013fs
 Removing duplicate spectrum for SN2013fr -- tSNhunt213_20131002_Gr13_Free_slit1.0_1_f.asci
@@ -561,41 +490,64 @@ Removing duplicate spectrum for SN2013fd -- SN2013fd_20130919_wifes_R.dat
 Removing duplicate spectrum for SN2013fc -- tPSNJ02450896-5544273_20130827_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2013fc -- tPSNJ02450896-5544273_20130828_Gr13_Free_slit1.0_1_f.asci
 16 objects returned for SN2013F
-Removing duplicate spectrum for SN2013er -- SN2013er_20130731_wifes_R.dat
+Not collecting spectra of SN2013F at this time
+From statement 4: SN2013ex has no spectra to collect
+Removing duplicate spectrum for SN2013er -- SN2013er_20130731_wifes_B.dat
 Removing duplicate spectrum for SN2013ek -- tSNHunt142_20120808_Gr13_Free_slit1.0_1_f.asci
 From statement 1: SN2013ei has no spectra to collect
 Removing duplicate spectrum for SN2013ef -- SN2013ef_20130704_wifes_R.dat
+From statement 4: SN2013dz has no spectra to collect
 Presumably no other duplicate files found for SN2013dx
-Removing duplicate spectrum for SN2013du -- SN2013du_20130704_wifes_B.dat
+Removing duplicate spectrum for SN2013du -- SN2013du_20130704_wifes_R.dat
+From statement 4: SN2013dl has no spectra to collect
 Presumably no other duplicate files found for sn2013dk
-Removing duplicate spectrum for SN2013df -- SN2013df_20130622_wifes_B.dat
+From statement 4: SN2013di has no spectra to collect
+Removing duplicate spectrum for SN2013df -- SN2013df_20130622_wifes_R.dat
 Removing duplicate spectrum for SN2013cz -- SN2013cz_20130603_wifes_R.dat
 Removing duplicate spectrum for SN2013cy -- SN2013cy_20130603_wifes_R.dat
 2 objects returned for SN2013cu
-Removing duplicate spectrum for SN2013bz -- SN2013bz_20130526_wifes_B.dat
+From statement 4: SN2013ct has no spectra to collect
+From statement 4: SN2013cr has no spectra to collect
+From statement 4: SN2013cp has no spectra to collect
+From statement 4: SN2013co has no spectra to collect
+From statement 4: SN2013ca has no spectra to collect
+Removing duplicate spectrum for SN2013bz -- SN2013bz_20130526_wifes_R.dat
 2 objects returned for SN2013bx
+From statement 4: SN2013bx has no spectra to collect
+From statement 4: SN2013bv has no spectra to collect
 2 objects returned for SN2013bo
 Removing duplicate spectrum for SN2013bk -- SN2013bk_20130412_wifes_R.dat
-Removing duplicate spectrum for SN2013bj -- SN2013bj_20130412_wifes_B.dat
+Removing duplicate spectrum for SN2013bj -- SN2013bj_20130412_wifes_R.dat
 3 objects returned for SN2013bh
 Removing duplicate spectrum for SN2013bg -- tSSS130404_102043-062657_20130405_Gr13_Free_slit1.0_1_f.asci
+From statement 4: SN2013bf has no spectra to collect
 2 objects returned for SN2013be
+From statement 4: SN2013be has no spectra to collect
 Removing duplicate spectrum for SN2013bb -- tPSNJ14121396+1550315_20130405_Gr13_Free_slit1.0_1_f.asci
 27 objects returned for SN2013B
 Removing duplicate spectrum for SN2013B -- tPSNJ09040080-7203248_20130104_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2013B -- PSNJ09040080-7203248_20130104_Gr13_Free_slit1.0_56456_1.ascii
+From statement 4: SN2013au has no spectra to collect
 Removing duplicate spectrum for SN2013ap -- tPSNJ12582492+1235533_20130304_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2013ap
 Removing duplicate spectrum for SN2013ao -- tSSS130304114444-203741_20130305_Gr13_Free_slit1.0_1_f.asci
 2 objects returned for SN2013am
 Removing duplicate spectrum for SN2013aj -- tPSNJ13540068-0755438_20130303_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2013ai -- tPSNJ06161835-2122329_20130302_Gr13_Free_slit1.0_1_f.asci
+From statement 4: SN2013ah has no spectra to collect
+From statement 4: SN2013ag has no spectra to collect
+From statement 4: SN2013ab has no spectra to collect
 2 objects returned for SN2012Y
+From statement 4: SN2012X has no spectra to collect
 2 objects returned for SN2012S
+From statement 4: SN2012O has no spectra to collect
 2 objects returned for SN2012ih
 10 objects returned for SN2012I
+From statement 4: SN2012I has no spectra to collect
 Removing duplicate spectrum for SN2012hr -- tPSNJ06213846-5942506_20121220_Gr13_Free_slit1.0_1_f.asci
+From statement 4: SN2012hq has no spectra to collect
 Removing duplicate spectrum for SN2012hn -- SN2012hn_20120420_Gr11_Free_slit1.0_56449_1.ascii
+From statement 4: SN2012hg has no spectra to collect
 Removing duplicate spectrum for SN2012hf -- tCHASE_PGC32912_20121122_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012hf -- SN2012hf_20121122_Gr13_Free_slit1.0_56456_2.ascii
 Removing duplicate spectrum for SN2012he -- tLSQ12fvl_20121105_Gr13_Free_slit1.0_1_f.asci
@@ -604,8 +556,12 @@ Presumably no other duplicate files found for SN2012he
 Removing duplicate spectrum for SN2012hd -- tPSNJ01140746_20121122_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012hc -- tPSNJ02324096-391756_20121112_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for SN2012hc -- SN2012hc_20121112_Gr13_Free_slit1.5_56456_1.ascii
+From statement 4: SN2012ha has no spectra to collect
+From statement 4: SN2012gy has no spectra to collect
+From statement 4: SN2012gi has no spectra to collect
 2 objects returned for SN2012gg
 13 objects returned for SN2012G
+From statement 4: SN2012G has no spectra to collect
 Removing duplicate spectrum for SN2012fz -- tCHASEJ20032484-5557192_20120807_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012fx -- tPSNJ02554120-2725276_20120826_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012fx -- PSNJ02554120-2725276_20120826_Gr13_Free_slit1.0_56456_1.ascii
@@ -617,8 +573,10 @@ Removing duplicate spectrum for SN2012fs -- tSN_IC35_20121009_Gr13_Free_slit1.5_
 Removing duplicate spectrum for SN2012fs -- sn2012fs_20121009_Gr13_Free_slit1.5_56456_1.ascii
 From statement 3: SN2012fp has no spectra to collect
 From statement 4: SN2012fp has no spectra to collect
+From statement 4: SN2012fg has no spectra to collect
 Removing duplicate spectrum for SN2012ff -- tPSNJ23054871+1419564_20120826_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012ff -- PSNJ23054871+1419564_20120826_Gr13_Free_slit1.0_56456_1.ascii
+From statement 4: SN2012fb has no spectra to collect
 20 objects returned for SN2012F
 Removing duplicate spectrum for SN2012eu -- SN2012eu_20120907_wifes_B.dat
 Removing duplicate spectrum for SN2012eq -- SN2012eq_20120907_wifes_B.dat
@@ -626,33 +584,45 @@ Removing duplicate spectrum for SN2012ec -- tSN2012ec_20120818_Gr11_Free_slit1.0
 Removing duplicate spectrum for SN2012ec -- tSN2012ec_20120818_Gr16_OG530_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2012ec -- tSN2012ec_20120826_Gr13_Free_slit1.5_1_f.asci
 17 objects returned for SN2012E
-Removing duplicate spectrum for SN2012dt -- SN2012dt_20120922_wifes_R.dat
+Removing duplicate spectrum for SN2012dt -- SN2012dt_20120922_wifes_B.dat
 2 objects returned for SN2012ds
 2 objects returned for SN2012dq
 2 objects returned for SN2012dp
+From statement 4: SN2012db has no spectra to collect
+From statement 4: SN2012da has no spectra to collect
 From statement 3: SN2012cz has no spectra to collect
 From statement 4: SN2012cz has no spectra to collect
+From statement 4: SN2012cs has no spectra to collect
+From statement 4: SN2012ch has no spectra to collect
 Removing duplicate spectrum for SN2012cg -- sw00032464002ugu_1ord_20120523_1.dat
+From statement 4: SN2012cf has no spectra to collect
 Removing duplicate spectrum for SN2012ca -- fPSNJ18410706m4147374_20120429_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2012bz
 2 objects returned for SN2012bq
 2 objects returned for SN2012bp
+From statement 4: SN2012bj has no spectra to collect
 2 objects returned for SN2012bh
+From statement 4: SN2012bh has no spectra to collect
 2 objects returned for SN2012aw
+From statement 4: SN2012au has no spectra to collect
 From statement 3: SN2012as has no spectra to collect
 From statement 4: SN2012as has no spectra to collect
 Presumably no other duplicate files found for SN2012ap
+From statement 4: SN2012ab has no spectra to collect
 19 objects returned for SN2012A
+From statement 4: SN2012A has no spectra to collect
 From statement 3: SN2011S has no spectra to collect
 From statement 4: SN2011S has no spectra to collect
 From statement 3: SN2011P has no spectra to collect
 From statement 4: SN2011P has no spectra to collect
 2 objects returned for SN2011L
+From statement 4: SN2011L has no spectra to collect
 Presumably no other duplicate files found for SN2011kf
 Presumably no other duplicate files found for SN2011ke
 2 objects returned for SN2011jc
 Presumably no other duplicate files found for SN2011jb
 2 objects returned for SN2011im
+From statement 4: SN2011im has no spectra to collect
 Removing duplicate spectrum for SN2011hw -- 2011hw_20120117_TNG_LRS_LRB_cal.ascii
 Removing duplicate spectrum for SN2011hs -- SN2011hs_111115_LDSS3_a.ascii
 Presumably no other duplicate files found for SN2011hr
@@ -660,41 +630,60 @@ Presumably no other duplicate files found for SN2011hr
 2 objects returned for SN2011hg
 2 objects returned for SN2011he
 2 objects returned for SN2011hb
+From statement 4: SN2011hb has no spectra to collect
+From statement 4: SN2011gy has no spectra to collect
+From statement 4: SN2011go has no spectra to collect
 Presumably no other duplicate files found for SN2011fu
+From statement 4: SN2011fr has no spectra to collect
 From statement 3: SN2011fh has no spectra to collect
 From statement 4: SN2011fh has no spectra to collect
+From statement 4: SN2011fg has no spectra to collect
 2 objects returned for SN2011fe
 Presumably no other duplicate files found for SN2011fe
 From statement 3: SN2011ey has no spectra to collect
 From statement 4: SN2011ey has no spectra to collect
 From statement 3: SN2011eu has no spectra to collect
 From statement 4: SN2011eu has no spectra to collect
+From statement 4: SN2011el has no spectra to collect
 2 objects returned for SN2011ek
+From statement 4: SN2011ek has no spectra to collect
 Presumably no other duplicate files found for SN2011ei
+From statement 4: SN2011dq has no spectra to collect
+From statement 4: SN2011dm has no spectra to collect
 2 objects returned for SN2011dh
-Removing duplicate spectrum for SN2011dh -- sn2011dh-20120429.253-hi.flm
+Removing duplicate spectrum for SN2011dh -- sn2011dh-20120429.253-b.flm
 2 objects returned for SN2011cw
 From statement 4: SN2011cw has no spectra to collect
 From statement 3: SN2011cp has no spectra to collect
 From statement 4: SN2011cp has no spectra to collect
+From statement 4: SN2011ck has no spectra to collect
 From statement 3: SN2011cc has no spectra to collect
 From statement 4: SN2011cc has no spectra to collect
 Presumably no other duplicate files found for SN2011by
 2 objects returned for SN2011bn
+From statement 4: SN2011bn has no spectra to collect
 2 objects returned for SN2011bm
 Presumably no other duplicate files found for SN2011bm
+From statement 4: SN2011ba has no spectra to collect
+From statement 4: SN2011ay has no spectra to collect
 From statement 3: SN2011ap has no spectra to collect
 From statement 4: SN2011ap has no spectra to collect
+From statement 4: SN2011ao has no spectra to collect
 From statement 3: SN2011an has no spectra to collect
 From statement 4: SN2011an has no spectra to collect
 From statement 3: SN2011af has no spectra to collect
 From statement 4: SN2011af has no spectra to collect
+From statement 4: SN2011ad has no spectra to collect
 9 objects returned for SN2011A
 Presumably no other duplicate files found for SN2011A
+From statement 4: SN2010Y has no spectra to collect
 3 objects returned for SN2010M
 From statement 4: SN2010M has no spectra to collect
 From statement 3: SN2010lx has no spectra to collect
 From statement 4: SN2010lx has no spectra to collect
+From statement 4: SN2010kn has no spectra to collect
+From statement 4: SN2010ke has no spectra to collect
+From statement 4: SN2010kd has no spectra to collect
 From statement 3: SN2010kb has no spectra to collect
 From statement 4: SN2010kb has no spectra to collect
 From statement 3: SN2010js has no spectra to collect
@@ -702,28 +691,43 @@ From statement 4: SN2010js has no spectra to collect
 2 objects returned for SN2010jp
 Presumably no other duplicate files found for SN2010jp
 2 objects returned for SN2010jl
+From statement 4: SN2010jk has no spectra to collect
 2 objects returned for SN2010jj
 From statement 4: SN2010jj has no spectra to collect
+From statement 4: SN2010iw has no spectra to collect
+From statement 4: SN2010it has no spectra to collect
+From statement 4: SN2010ii has no spectra to collect
+From statement 4: SN2010hy has no spectra to collect
 From statement 3: SN2010hd has no spectra to collect
 From statement 4: SN2010hd has no spectra to collect
 2 objects returned for SN2010gx
 Presumably no other duplicate files found for SN2010gx
+From statement 4: SN2010gd has no spectra to collect
 7 objects returned for SN2010G
-Removing duplicate spectrum for SN2010ev -- SN2010ev_11Jul2010_MWNa.txt
+From statement 4: SN2010G has no spectra to collect
+From statement 4: SN2010ex has no spectra to collect
+Removing duplicate spectrum for SN2010ev -- SN2010ev_11Jul2010_ObjNa.txt
 2 objects returned for SN2010dm
+From statement 4: SN2010dm has no spectra to collect
+From statement 4: SN2010cn has no spectra to collect
 From statement 3: SN2010bt has no spectra to collect
 From statement 4: SN2010bt has no spectra to collect
 Presumably no other duplicate files found for SN2010bh
 Presumably no other duplicate files found for SN2010ay
 Presumably no other duplicate files found for SN2010aj
 2 objects returned for SN2010ai
+From statement 4: SN2010ai has no spectra to collect
 Presumably no other duplicate files found for SN2010ae
 9 objects returned for SN2010A
 Removing duplicate spectrum for SN2010A -- SN2010A_8Jan2010_MWNa.txt
 From statement 3: SN2009nw has no spectra to collect
 From statement 4: SN2009nw has no spectra to collect
 Removing duplicate spectrum for SN2009nr -- SN2009nr_9Jan2010_ObjNa.txt
+From statement 4: SN2009nq has no spectra to collect
+From statement 4: SN2009np has no spectra to collect
+From statement 4: SN2009no has no spectra to collect
 2 objects returned for SN2009nn
+From statement 4: SN2009nn has no spectra to collect
 From statement 3: SN2009nm has no spectra to collect
 From statement 4: SN2009nm has no spectra to collect
 From statement 3: SN2009nj has no spectra to collect
@@ -732,16 +736,21 @@ From statement 4: SN2009nj has no spectra to collect
 Presumably no other duplicate files found for SN2009mw
 From statement 3: SN2009ma has no spectra to collect
 From statement 4: SN2009ma has no spectra to collect
-Removing duplicate spectrum for SN2009le -- SN2009le_26Nov2009_ObjNa.txt
+From statement 4: SN2009ly has no spectra to collect
+Removing duplicate spectrum for SN2009le -- SN2009le_26Nov2009_MWNa.txt
 5 objects returned for SN2009L
+From statement 4: SN2009L has no spectra to collect
 From statement 3: SN2009kr has no spectra to collect
 From statement 4: SN2009kr has no spectra to collect
 From statement 3: SN2009kn has no spectra to collect
 From statement 4: SN2009kn has no spectra to collect
 Not collecting spectra of SN2009iz at this time
 Not collecting spectra of SN2009iw at this time
-Removing duplicate spectrum for SN2009ig -- SN2009ig_16Oct2009_MWNa.txt
+Removing duplicate spectrum for SN2009ig -- SN2009ig_16Oct2009_ObjNa.txt
 Presumably no other duplicate files found for SN2009ib
+From statement 4: SN2009ia has no spectra to collect
+From statement 4: SN2009fy has no spectra to collect
+From statement 4: SN2009fx has no spectra to collect
 From statement 3: SN2009fs has no spectra to collect
 From statement 4: SN2009fs has no spectra to collect
 Removing duplicate spectrum for SN2009ev -- SN2009ev_2Jun2009_MWNa.txt
@@ -750,11 +759,14 @@ From statement 3: SN2009eo has no spectra to collect
 From statement 4: SN2009eo has no spectra to collect
 4 objects returned for SN2009E
 Removing duplicate spectrum for SN2009E -- 2009E_20100122_cal.ascii
-Removing duplicate spectrum for SN2009ds -- SN2009ds_15May2009_MWNa.txt
+Removing duplicate spectrum for SN2009ds -- SN2009ds_15May2009_ObjNa.txt
 Presumably no other duplicate files found for SN2009dd
 Removing duplicate spectrum for SN2009bb -- SN09bb_b01_BAA_IM_07apr09.ascii
 From statement 3: SN2009au has no spectra to collect
 From statement 4: SN2009au has no spectra to collect
+From statement 4: SN2009an has no spectra to collect
+From statement 4: SN2009am has no spectra to collect
+From statement 4: SN2009ad has no spectra to collect
 Not collecting spectra of SN2008Z at this time
 Not collecting spectra of SN2008Y at this time
 Not collecting spectra of SN2008R at this time
@@ -764,6 +776,7 @@ Not collecting spectra of SN2008L at this time
 Not collecting spectra of SN2008iy at this time
 From statement 3: SN2008ip has no spectra to collect
 From statement 4: SN2008ip has no spectra to collect
+From statement 4: SN2008ia has no spectra to collect
 Not collecting spectra of SN2008hz at this time
 Not collecting spectra of SN2008hy at this time
 Not collecting spectra of SN2008hu at this time
@@ -780,7 +793,7 @@ Not collecting spectra of SN2008gs at this time
 From statement 3: SN2008gm has no spectra to collect
 From statement 4: SN2008gm has no spectra to collect
 Not collecting spectra of SN2008gh at this time
-Removing duplicate spectrum for SN2008ge -- SN2008ge_4Nov2008_ObjNa.txt
+Removing duplicate spectrum for SN2008ge -- SN2008ge_4Nov2008_MWNa.txt
 Not collecting spectra of SN2008fx at this time
 Not collecting spectra of SN2008fr at this time
 Not collecting spectra of SN2008fq at this time
@@ -900,6 +913,7 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not coll
 Not collecting spectra of SN2007kk at this time
 Not collecting spectra of SN2007kj at this time
 Not collecting spectra of SN2007ki at this time
+From statement 4: SN2007kh has no spectra to collect
 Not collecting spectra of SN2007kg at this time
 Not collecting spectra of SN2007kf at this time
 Not collecting spectra of SN2007kd at this time
@@ -908,7 +922,8 @@ From statement 4: SN2007k has no spectra to collect
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2007jm has no spectra to collect
 From statement 4: SN2007jm has no spectra to collect
 Presumably no other duplicate files found for SN2007jd
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2007is at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: SN2007iu has no spectra to collect
+Not collecting spectra of SN2007is at this time
 Not collecting spectra of SN2007ir at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2007iq at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2007if -- 2007if_20081022_FORS2.ascii
@@ -931,6 +946,7 @@ From statement 4: SN2007fw has no spectra to collect
 Not collecting spectra of SN2007fs at this time
 Not collecting spectra of SN2007fr at this time
 Not collecting spectra of SN2007fq at this time
+From statement 4: SN2007fo has no spectra to collect
 From statement 3: SN2007fk has no spectra to collect
 From statement 4: SN2007fk has no spectra to collect
 Not collecting spectra of SN2007fc at this time
@@ -946,6 +962,7 @@ Not collecting spectra of SN2007co at this time
 From statement 3: SN2007cm has no spectra to collect
 From statement 4: SN2007cm has no spectra to collect
 Not collecting spectra of SN2007cl at this time
+From statement 4: SN2007ck has no spectra to collect
 Not collecting spectra of SN2007cj at this time
 Not collecting spectra of SN2007ci at this time
 Not collecting spectra of SN2007cg at this time
@@ -985,6 +1002,7 @@ Not collecting spectra of SN2007ae at this time
 Not collecting spectra of SN2007A at this time
 Not collecting spectra of SN2006X at this time
 Presumably no other duplicate files found for SN2006V
+From statement 4: SN2006tf has no spectra to collect
 Not collecting spectra of SN2006td at this time
 4 objects returned for SN2006T
 Not collecting spectra of SN2006T at this time
@@ -1037,7 +1055,7 @@ Not collecting spectra of SN2006kf at this time
 Not collecting spectra of SN2006ke at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2006je at this time
 Presumably no other duplicate files found for SN2006jd
-Removing duplicate spectrum for SN2006jc -- 2006jc_20061018_ISIS_cal.ascii
+Removing duplicate spectrum for SN2006jc -- 2006jc_20061018_ISIS_short_cal.ascii
 Not collecting spectra of SN2006hn at this time
 Not collecting spectra of SN2006hb at this time
 Not collecting spectra of SN2006ha at this time
@@ -1101,6 +1119,7 @@ Not collecting spectra of SN2006cm at this time
 Not collecting spectra of SN2006ck at this time
 Not collecting spectra of SN2006cj at this time
 Not collecting spectra of SN2006ch at this time
+From statement 4: SN2006cg has no spectra to collect
 Not collecting spectra of SN2006cf at this time
 Not collecting spectra of SN2006ce at this time
 Not collecting spectra of SN2006cc at this time
@@ -1117,6 +1136,7 @@ Not collecting spectra of SN2006bp at this time
 Not collecting spectra of SN2006bo at this time
 Not collecting spectra of SN2006bm at this time
 Not collecting spectra of SN2006bk at this time
+From statement 4: SN2006bj has no spectra to collect
 Not collecting spectra of SN2006be at this time
 Not collecting spectra of SN2006bb at this time
 15 objects returned for SN2006B
@@ -1126,6 +1146,7 @@ Not collecting spectra of SN2006ay at this time
 Not collecting spectra of SN2006ax at this time
 Presumably no other duplicate files found for SN2006au
 Not collecting spectra of SN2006ap at this time
+From statement 4: SN2006an has no spectra to collect
 From statement 3: SN2006am has no spectra to collect
 From statement 4: SN2006am has no spectra to collect
 Not collecting spectra of SN2006al at this time
@@ -1176,6 +1197,7 @@ From statement 3: SN2005jr has no spectra to collect
 From statement 4: SN2005jr has no spectra to collect
 From statement 3: SN2005jq has no spectra to collect
 From statement 4: SN2005jq has no spectra to collect
+From statement 4: SN2005ir has no spectra to collect
 Not collecting spectra of SN2005iq at this time
 Presumably no other duplicate files found for SN2005ip
 4 objects returned for SN2005I
@@ -1202,8 +1224,10 @@ Not collecting spectra of SN2005el at this time
 Presumably no other duplicate files found for SN2005ek
 Not collecting spectra of SN2005ej at this time
 Not collecting spectra of SN2005ec at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.12 objects returned for SN2005E
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: SN2005ea has no spectra to collect
+12 objects returned for SN2005E
 Presumably no other duplicate files found for SN2005E
+From statement 4: SN2005ds has no spectra to collect
 From statement 4: SN2005dp has no spectra to collect
 Not collecting spectra of SN2005do at this time
 Not collecting spectra of SN2005dm at this time
@@ -1212,33 +1236,44 @@ Not collecting spectra of SN2005dh at this time
 Presumably no other duplicate files found for SN2005df
 Presumably no other duplicate files found for SN2005db
 Not collecting spectra of SN2005da at this time
+From statement 4: SN2005cy has no spectra to collect
+From statement 4: SN2005cx has no spectra to collect
 Presumably no other duplicate files found for SN2005cs
 Not collecting spectra of SN2005cr at this time
 Presumably no other duplicate files found for SN2005cp
 Not collecting spectra of SN2005cn at this time
 Presumably no other duplicate files found for SN2005cl
+From statement 4: SN2005ck has no spectra to collect
 Presumably no other duplicate files found for SN2005ci
 Not collecting spectra of SN2005ch at this time
 Not collecting spectra of SN2005cg at this time
 Presumably no other duplicate files found for SN2005cf
 Not collecting spectra of SN2005cc at this time
+From statement 4: SN2005by has no spectra to collect
 Presumably no other duplicate files found for SN2005bx
+From statement 4: SN2005bw has no spectra to collect
 Not collecting spectra of SN2005bv at this time
 Not collecting spectra of SN2005bu at this time
+From statement 4: SN2005bp has no spectra to collect
 Not collecting spectra of SN2005bo at this time
+From statement 4: SN2005bk has no spectra to collect
+From statement 4: SN2005bg has no spectra to collect
 Presumably no other duplicate files found for SN2005bf
 Not collecting spectra of SN2005be at this time
 Not collecting spectra of SN2005bd at this time
 Not collecting spectra of SN2005bc at this time
+From statement 4: SN2005ba has no spectra to collect
 Not collecting spectra of SN2005az at this time
 From statement 3: SN2005av has no spectra to collect
 From statement 4: SN2005av has no spectra to collect
+From statement 4: SN2005au has no spectra to collect
 Not collecting spectra of SN2005as at this time
 Not collecting spectra of SN2005ar at this time
 From statement 3: SN2005aq has no spectra to collect
 From statement 4: SN2005aq has no spectra to collect
-Removing duplicate spectrum for SN2005ap -- 2005ap_20050316_4843_7816_00.dat
+Removing duplicate spectrum for SN2005ap -- 2005ap_20050316_2535_4373_00.dat
 Not collecting spectra of SN2005ao at this time
+From statement 4: SN2005an has no spectra to collect
 Not collecting spectra of SN2005am at this time
 Not collecting spectra of SN2005ag at this time
 From statement 4: SN2005aa has no spectra to collect
@@ -1265,16 +1300,20 @@ Not collecting spectra of SN2004gc at this time
 14 objects returned for SN2004G
 Not collecting spectra of SN2004fz at this time
 Not collecting spectra of SN2004fy at this time
+From statement 4: SN2004fx has no spectra to collect
 Not collecting spectra of SN2004fw at this time
 Not collecting spectra of SN2004fu at this time
 Not collecting spectra of SN2004fg at this time
 Not collecting spectra of SN2004ff at this time
 Not collecting spectra of SN2004fd at this time
+From statement 4: SN2004fc has no spectra to collect
 Not collecting spectra of SN2004fa at this time
 Not collecting spectra of SN2004ey at this time
+From statement 4: SN2004ex has no spectra to collect
 Not collecting spectra of SN2004ev at this time
 Not collecting spectra of SN2004eu at this time
 Presumably no other duplicate files found for SN2004et
+From statement 4: SN2004er has no spectra to collect
 Not collecting spectra of SN2004eq at this time
 Not collecting spectra of SN2004eo at this time
 Presumably no other duplicate files found for SN2004em
@@ -1283,11 +1322,17 @@ Presumably no other duplicate files found for SN2004eg
 Not collecting spectra of SN2004ef at this time
 From statement 3: SN2004ec has no spectra to collect
 From statement 4: SN2004ec has no spectra to collect
+From statement 4: SN2004eb has no spectra to collect
 15 objects returned for SN2004E
 Not collecting spectra of SN2004E at this time
+From statement 4: SN2004dy has no spectra to collect
+From statement 4: SN2004dw has no spectra to collect
+From statement 4: SN2004du has no spectra to collect
+From statement 4: SN2004dr has no spectra to collect
 Presumably no other duplicate files found for SN2004dk
-Removing duplicate spectrum for SN2004dj -- 2004dj_041006.ascii
+Removing duplicate spectrum for SN2004dj -- 2004dj_041006-2.ascii
 Not collecting spectra of SN2004di at this time
+From statement 4: SN2004dh has no spectra to collect
 Not collecting spectra of SN2004db at this time
 Not collecting spectra of SN2004da at this time
 Not collecting spectra of SN2004cv at this time
@@ -1385,7 +1430,7 @@ From statement 4: SN2003go has no spectra to collect
 Not collecting spectra of SN2003gn at this time
 Not collecting spectra of SN2003gj at this time
 Not collecting spectra of SN2003ge at this time
-Removing duplicate spectrum for SN2003gd -- SN2003gd_15Jun2003_ObjNa.txt
+Removing duplicate spectrum for SN2003gd -- SN2003gd_15Jun2003_MWNa.txt
 9 objects returned for SN2003G
 From statement 4: SN2003G has no spectra to collect
 Not collecting spectra of SN2003fd at this time
@@ -1888,7 +1933,7 @@ Not collecting spectra of SN1993aa at this time
 Not collecting spectra of SN1992M at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992H at this time
 Not collecting spectra of SN1992G at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992C at this time
+Not collecting spectra of SN1992C at this time
 Not collecting spectra of SN1992ap at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ah at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1992ac at this time
@@ -1945,24 +1990,24 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumab
 Not collecting spectra of SN1990B at this time
 Presumably no other duplicate files found for SN1990aj
 Not collecting spectra of SN1990ag at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990ae at this time
+Not collecting spectra of SN1990ae at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1990aa at this time
 Not collecting spectra of SN1989M at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1989C at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1989B at this time
+Not collecting spectra of SN1989C at this time
+Not collecting spectra of SN1989B at this time
 Not collecting spectra of SN1989A at this time
 Not collecting spectra of SN1988Z at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1988L at this time
+Not collecting spectra of SN1988L at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1988H at this time
 Not collecting spectra of SN1988A at this time
 Not collecting spectra of SN1987K at this time
 Not collecting spectra of SN1986G at this time
 Not collecting spectra of SN1986E at this time
 Not collecting spectra of SN1983G at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1981B at this time
+Not collecting spectra of SN1981B at this time
 Presumably no other duplicate files found for SN1972E
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1971G at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1970A at this time
+Not collecting spectra of SN1971G at this time
+Not collecting spectra of SN1970A at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1969L at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1968M at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1968I at this time
@@ -1976,33 +2021,34 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not coll
 Not collecting spectra of SN1963I at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1962L at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1962J at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1961V at this time
+Not collecting spectra of SN1961V at this time
 Not collecting spectra of SN1961I at this time
 Not collecting spectra of SN1961F at this time
 Not collecting spectra of SN1960R at this time
+Not collecting spectra of SN1960N at this time
 Not collecting spectra of SN1960H at this time
 Not collecting spectra of SN1960F at this time
 Not collecting spectra of SN1959D at this time
 Not collecting spectra of SN1959C at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1957B at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1957A at this time
+Not collecting spectra of SN1957A at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1956A at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1954B at this time
+Not collecting spectra of SN1954B at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1954A at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1948B at this time
+Not collecting spectra of SN1948B at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1939A at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1937D at this time
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN1937C at this time
+Not collecting spectra of SN1937D at this time
+Not collecting spectra of SN1937C at this time
 Not collecting spectra of SN1572A at this time
 From statement 1: SMTJ14323134-1339276 has no spectra to collect
-Removing duplicate spectrum for SMTJ134948-065817 -- SMTJ134948-065817_20150817_wifes_R.dat
+Removing duplicate spectrum for SMTJ134948-065817 -- SMTJ134948-065817_20150817_wifes_B.dat
 Removing duplicate spectrum for SMTJ0545-4735 -- SMTJ0545-4735_20140113_wifes_R.dat
 Removing duplicate spectrum for SMTJ032533 -- SMTJ032533_20131206_wifes_R.dat
 Removing duplicate spectrum for SMTJ03054854-2850370 -- tSMTJ03054854-28503700_20131202_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SMTJ03054854-2850370
 Removing duplicate spectrum for SMTJ00570507-3626231 -- tSMTJ0570506-362623_20131201_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SMTJ00570507-3626231
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SMT1031-3658 -- SMT1031-3658_20150411_wifes_B.dat
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SMT1031-3658 -- SMT1031-3658_20150411_wifes_R.dat
 From statement 1: Sharon (ROTSE3 J125708.9-172527) has no spectra to collect
 Presumably no other duplicate files found for SDSS-SN-091
 Presumably no other duplicate files found for SCP-06F6
@@ -2010,6 +2056,7 @@ From statement 1: RTC230808 has no spectra to collect
 From statement 1: RTC225425 has no spectra to collect
 Not collecting spectra of ROTSE3 J125642.7+273041 at this time
 From statement 1: ROTSE J034450.8+683753 has no spectra to collect
+From statement 4: Quest_SN1 has no spectra to collect
 From statement 1: PTFVY_Ser has no spectra to collect
 From statement 1: PTFVX_Her has no spectra to collect
 From statement 1: PTFV445_Oph has no spectra to collect
@@ -2129,17 +2176,32 @@ From statement 1: PTFEB312 has no spectra to collect
 From statement 1: PTFEB149 has no spectra to collect
 From statement 1: PTF1j1856+3003 has no spectra to collect
 From statement 1: PTF1j1844+3129 has no spectra to collect
+From statement 4: PTF12zp has no spectra to collect
+From statement 4: PTF12zg has no spectra to collect
 From statement 1: PTF12zd has no spectra to collect
+From statement 4: PTF12yc has no spectra to collect
+From statement 4: PTF12xv has no spectra to collect
+From statement 4: PTF12vr has no spectra to collect
+From statement 4: PTF12tr has no spectra to collect
+From statement 4: PTF12th has no spectra to collect
+From statement 4: PTF12tc has no spectra to collect
 From statement 1: PTF12tb has no spectra to collect
+From statement 4: PTF12ta has no spectra to collect
+From statement 4: PTF12sz has no spectra to collect
+From statement 4: PTF12rz has no spectra to collect
 From statement 1: PTF12ou has no spectra to collect
 From statement 1: PTF12os has no spectra to collect
+From statement 4: PTF12ne has no spectra to collect
 From statement 1: PTF12mxx has no spectra to collect
 From statement 1: PTF12mue has no spectra to collect
 From statement 1: PTF12msj has no spectra to collect
+From statement 4: PTF12ms has no spectra to collect
 From statement 1: PTF12mrq has no spectra to collect
 From statement 1: PTF12mqz has no spectra to collect
 From statement 1: PTF12mpc has no spectra to collect
 From statement 1: PTF12mnc has no spectra to collect
+From statement 4: PTF12ml has no spectra to collect
+From statement 4: PTF12mkp has no spectra to collect
 From statement 1: PTF12mjh has no spectra to collect
 From statement 1: PTF12mja has no spectra to collect
 From statement 1: PTF12mhg has no spectra to collect
@@ -2164,6 +2226,7 @@ From statement 1: PTF12mbp has no spectra to collect
 From statement 1: PTF12maw has no spectra to collect
 From statement 1: PTF12mav has no spectra to collect
 From statement 1: PTF12mau has no spectra to collect
+From statement 4: PTF12lz has no spectra to collect
 From statement 1: PTF12lxp has no spectra to collect
 From statement 1: PTF12lwj has no spectra to collect
 From statement 1: PTF12lvt has no spectra to collect
@@ -2181,25 +2244,36 @@ From statement 1: PTF12ljq has no spectra to collect
 From statement 1: PTF12ljg has no spectra to collect
 From statement 1: PTF12lih has no spectra to collect
 From statement 1: PTF12lie has no spectra to collect
+From statement 4: PTF12lic has no spectra to collect
+From statement 4: PTF12lib has no spectra to collect
 From statement 1: PTF12lgq has no spectra to collect
 From statement 1: PTF12leo has no spectra to collect
+From statement 4: PTF12lel has no spectra to collect
 From statement 1: PTF12leg has no spectra to collect
 From statement 1: PTF12lee has no spectra to collect
 From statement 1: PTF12ldz has no spectra to collect
 From statement 1: PTF12ldy has no spectra to collect
 From statement 1: PTF12ldo has no spectra to collect
 From statement 1: PTF12lcs has no spectra to collect
+From statement 4: PTF12lcr has no spectra to collect
+From statement 4: PTF12lcq has no spectra to collect
 3 objects returned for PTF12lc
+From statement 4: PTF12lc has no spectra to collect
 From statement 1: PTF12lbj has no spectra to collect
 From statement 1: PTF12kyh has no spectra to collect
+From statement 4: PTF12kxv has no spectra to collect
+From statement 4: PTF12kxp has no spectra to collect
 From statement 1: PTF12kxo has no spectra to collect
+From statement 4: PTF12kwi has no spectra to collect
 From statement 1: PTF12kvp has no spectra to collect
 From statement 1: PTF12kuw has no spectra to collect
 From statement 1: PTF12ktz has no spectra to collect
 From statement 1: PTF12ktu has no spectra to collect
 From statement 1: PTF12kth has no spectra to collect
 From statement 1: PTF12kta has no spectra to collect
+From statement 4: PTF12ksy has no spectra to collect
 Presumably no other duplicate files found for PTF12kso
+From statement 4: PTF12kph has no spectra to collect
 From statement 1: PTF12kpg has no spectra to collect
 From statement 1: PTF12kpa has no spectra to collect
 From statement 1: PTF12kox has no spectra to collect
@@ -2215,124 +2289,297 @@ From statement 1: PTF12khh has no spectra to collect
 From statement 1: PTF12khf has no spectra to collect
 From statement 1: PTF12kgt has no spectra to collect
 From statement 1: PTF12keu has no spectra to collect
+From statement 4: PTF12jxq has no spectra to collect
 From statement 1: PTF12jxj has no spectra to collect
 From statement 1: PTF12jxe has no spectra to collect
 From statement 1: PTF12jxd has no spectra to collect
+From statement 4: PTF12jvy has no spectra to collect
 From statement 1: PTF12jvp has no spectra to collect
 From statement 1: PTF12jvo has no spectra to collect
 From statement 1: PTF12jvm has no spectra to collect
 From statement 1: PTF12juu has no spectra to collect
 From statement 1: PTF12jut has no spectra to collect
+From statement 4: PTF12jtw has no spectra to collect
 From statement 1: PTF12jsi has no spectra to collect
 From statement 1: PTF12js has no spectra to collect
+From statement 4: PTF12jqj has no spectra to collect
 From statement 1: PTF12jqh has no spectra to collect
 From statement 1: PTF12jmq has no spectra to collect
 From statement 1: PTF12jma has no spectra to collect
 From statement 1: PTF12jjg has no spectra to collect
+From statement 4: PTF12jje has no spectra to collect
 From statement 1: PTF12jiv has no spectra to collect
+From statement 4: PTF12jid has no spectra to collect
+From statement 4: PTF12jic has no spectra to collect
+From statement 4: PTF12jgl has no spectra to collect
 From statement 1: PTF12jgi has no spectra to collect
+From statement 4: PTF12jgg has no spectra to collect
 From statement 1: PTF12jgf has no spectra to collect
 From statement 1: PTF12jge has no spectra to collect
 From statement 1: PTF12jgd has no spectra to collect
+From statement 4: PTF12jgb has no spectra to collect
 From statement 1: PTF12jfy has no spectra to collect
 From statement 1: PTF12jfv has no spectra to collect
+From statement 4: PTF12jfp has no spectra to collect
+From statement 4: PTF12jcp has no spectra to collect
+From statement 4: PTF12jb has no spectra to collect
+From statement 4: PTF12jaz has no spectra to collect
 From statement 1: PTF12jaa has no spectra to collect
 From statement 1: PTF12izy has no spectra to collect
+From statement 4: PTF12izc has no spectra to collect
 From statement 1: PTF12iyw has no spectra to collect
+From statement 4: PTF12ixq has no spectra to collect
+From statement 4: PTF12ivi has no spectra to collect
 From statement 1: PTF12ivc has no spectra to collect
 From statement 1: PTF12iuh has no spectra to collect
+From statement 4: PTF12itq has no spectra to collect
+From statement 4: PTF12irx has no spectra to collect
 From statement 1: PTF12irf has no spectra to collect
+From statement 4: PTF12iqs has no spectra to collect
 From statement 1: PTF12ild has no spectra to collect
+From statement 4: PTF12ilb has no spectra to collect
+From statement 4: PTF12ikt has no spectra to collect
+From statement 4: PTF12iiq has no spectra to collect
+From statement 4: PTF12iif has no spectra to collect
+From statement 4: PTF12igw has no spectra to collect
+From statement 4: PTF12igp has no spectra to collect
 From statement 1: PTF12iet has no spectra to collect
+From statement 4: PTF12ie has no spectra to collect
+From statement 4: PTF12ibh has no spectra to collect
+From statement 4: PTF12ibd has no spectra to collect
 From statement 1: PTF12hxz has no spectra to collect
+From statement 4: PTF12hws has no spectra to collect
+From statement 4: PTF12hwb has no spectra to collect
 From statement 1: PTF12hvv has no spectra to collect
+From statement 4: PTF12hsx has no spectra to collect
+From statement 3: PTF12hqm has no spectra to collect
+From statement 4: PTF12hpc has no spectra to collect
+From statement 4: PTF12hod has no spectra to collect
 Presumably no other duplicate files found for PTF12hnr
+From statement 4: PTF12hno has no spectra to collect
+From statement 4: PTF12hnm has no spectra to collect
+From statement 4: PTF12hnl has no spectra to collect
 From statement 1: PTF12hni has no spectra to collect
+From statement 4: PTF12hmx has no spectra to collect
+From statement 4: PTF12hdq has no spectra to collect
+From statement 4: PTF12hdb has no spectra to collect
 From statement 1: PTF12hap has no spectra to collect
 From statement 1: PTF12gzv has no spectra to collect
+From statement 4: PTF12gzt has no spectra to collect
+From statement 4: PTF12gyr has no spectra to collect
+From statement 4: PTF12gxk has no spectra to collect
 From statement 1: PTF12gxj has no spectra to collect
+From statement 4: PTF12gxc has no spectra to collect
 From statement 1: PTF12gwu has no spectra to collect
+From statement 4: PTF12gwj has no spectra to collect
+From statement 4: PTF12gvr has no spectra to collect
+From statement 4: PTF12gvq has no spectra to collect
+From statement 4: PTF12gvd has no spectra to collect
+From statement 4: PTF12guy has no spectra to collect
 From statement 1: PTF12guq has no spectra to collect
+From statement 4: PTF12gui has no spectra to collect
 From statement 1: PTF12gty has no spectra to collect
 From statement 1: PTF12gtr has no spectra to collect
+From statement 4: PTF12gtf has no spectra to collect
+From statement 4: PTF12gsz has no spectra to collect
 From statement 1: PTF12grr has no spectra to collect
+From statement 4: PTF12grm has no spectra to collect
+From statement 4: PTF12grk has no spectra to collect
 From statement 1: PTF12grj has no spectra to collect
+From statement 4: PTF12grb has no spectra to collect
+From statement 4: PTF12gqy has no spectra to collect
+From statement 4: PTF12gqk has no spectra to collect
+From statement 4: PTF12gqh has no spectra to collect
 From statement 1: PTF12gps has no spectra to collect
+From statement 4: PTF12gpn has no spectra to collect
 From statement 1: PTF12gnt has no spectra to collect
 From statement 1: PTF12gnd has no spectra to collect
+From statement 4: PTF12gmy has no spectra to collect
 From statement 1: PTF12gmx has no spectra to collect
+From statement 4: PTF12gmv has no spectra to collect
+From statement 4: PTF12gmu has no spectra to collect
+From statement 4: PTF12gmq has no spectra to collect
+From statement 4: PTF12glz has no spectra to collect
 Presumably no other duplicate files found for PTF12giy
+From statement 4: PTF12gix has no spectra to collect
+From statement 4: PTF12ghy has no spectra to collect
+From statement 4: PTF12ggi has no spectra to collect
 From statement 1: PTF12gfx has no spectra to collect
 From statement 1: PTF12gdy has no spectra to collect
 Presumably no other duplicate files found for PTF12gcx
+From statement 4: PTF12gco has no spectra to collect
+From statement 4: PTF12gbr has no spectra to collect
+From statement 4: PTF12gba has no spectra to collect
+From statement 4: PTF12gaz has no spectra to collect
+From statement 4: PTF12gax has no spectra to collect
+From statement 4: PTF12gaw has no spectra to collect
+From statement 4: PTF12fzf has no spectra to collect
 From statement 1: PTF12fyz has no spectra to collect
+From statement 4: PTF12fxn has no spectra to collect
 From statement 1: PTF12fxj has no spectra to collect
+From statement 4: PTF12fxd has no spectra to collect
+From statement 4: PTF12fuu has no spectra to collect
 From statement 1: PTF12ftc has no spectra to collect
 From statement 1: PTF12fsu has no spectra to collect
 From statement 1: PTF12fsf has no spectra to collect
+From statement 4: PTF12frn has no spectra to collect
 From statement 1: PTF12fqk has no spectra to collect
+From statement 4: PTF12for has no spectra to collect
 2 objects returned for PTF12fo
+From statement 4: PTF12fo has no spectra to collect
+From statement 4: PTF12fls has no spectra to collect
+From statement 4: PTF12fll has no spectra to collect
 From statement 1: PTF12fkp has no spectra to collect
+From statement 4: PTF12fkk has no spectra to collect
+From statement 4: PTF12fkj has no spectra to collect
+From statement 4: PTF12fjx has no spectra to collect
+From statement 4: PTF12fir has no spectra to collect
 From statement 1: PTF12fiq has no spectra to collect
 From statement 1: PTF12fip has no spectra to collect
 From statement 1: PTF12fhz has no spectra to collect
 From statement 1: PTF12fgw has no spectra to collect
 From statement 1: PTF12ffs has no spectra to collect
+From statement 4: PTF12fes has no spectra to collect
 From statement 1: PTF12fdt has no spectra to collect
 From statement 1: PTF12fdo has no spectra to collect
 From statement 1: PTF12fdn has no spectra to collect
+From statement 4: PTF12exf has no spectra to collect
 From statement 1: PTF12exe has no spectra to collect
 From statement 1: PTF12exd has no spectra to collect
 From statement 1: PTF12exc has no spectra to collect
+From statement 4: PTF12ewk has no spectra to collect
 From statement 1: PTF12evp has no spectra to collect
+From statement 4: PTF12evo has no spectra to collect
+From statement 4: PTF12eut has no spectra to collect
 From statement 1: PTF12eur has no spectra to collect
+From statement 4: PTF12etn has no spectra to collect
+From statement 4: PTF12esv has no spectra to collect
 From statement 1: PTF12esl has no spectra to collect
 From statement 3: PTF12eph has no spectra to collect
 From statement 4: PTF12eph has no spectra to collect
 From statement 1: PTF12epg has no spectra to collect
+From statement 4: PTF12epf has no spectra to collect
 From statement 1: PTF12eog has no spectra to collect
+From statement 4: PTF12eof has no spectra to collect
+From statement 4: PTF12enh has no spectra to collect
+From statement 4: PTF12ena has no spectra to collect
 From statement 1: PTF12emw has no spectra to collect
+From statement 4: PTF12emv has no spectra to collect
+From statement 4: PTF12emp has no spectra to collect
+From statement 4: PTF12emh has no spectra to collect
+From statement 4: PTF12elj has no spectra to collect
 From statement 1: PTF12elh has no spectra to collect
+From statement 4: PTF12ekl has no spectra to collect
 From statement 1: PTF12ejs has no spectra to collect
+From statement 4: PTF12ejg has no spectra to collect
+From statement 4: PTF12ejf has no spectra to collect
+From statement 4: PTF12eje has no spectra to collect
+From statement 4: PTF12egm has no spectra to collect
+From statement 4: PTF12efn has no spectra to collect
+From statement 4: PTF12efl has no spectra to collect
 From statement 1: PTF12efk has no spectra to collect
 Presumably no other duplicate files found for PTF12efc
+From statement 4: PTF12eer has no spectra to collect
 From statement 1: PTF12eec has no spectra to collect
+From statement 4: PTF12edl has no spectra to collect
+From statement 4: PTF12ecr has no spectra to collect
+From statement 4: PTF12ecm has no spectra to collect
+From statement 4: PTF12eck has no spectra to collect
+From statement 4: PTF12ecj has no spectra to collect
+From statement 4: PTF12ebv has no spectra to collect
 From statement 1: PTF12eaw has no spectra to collect
+From statement 4: PTF12eaj has no spectra to collect
+From statement 4: PTF12eac has no spectra to collect
+From statement 4: PTF12eab has no spectra to collect
+From statement 4: PTF12dyv has no spectra to collect
+From statement 4: PTF12dyr has no spectra to collect
 Presumably no other duplicate files found for PTF12dxm
+From statement 4: PTF12dxf has no spectra to collect
 Presumably no other duplicate files found for PTF12dwm
 From statement 1: PTF12dtf has no spectra to collect
+From statement 4: PTF12dsu has no spectra to collect
 From statement 1: PTF12dnn has no spectra to collect
+From statement 4: PTF12dlz has no spectra to collect
+From statement 4: PTF12dke has no spectra to collect
+From statement 4: PTF12dja has no spectra to collect
+From statement 4: PTF12dhv has no spectra to collect
 From statement 3: PTF12dhk has no spectra to collect
 From statement 4: PTF12dhk has no spectra to collect
 Presumably no other duplicate files found for PTF12dhb
+From statement 4: PTF12dgy has no spectra to collect
+From statement 4: PTF12dem has no spectra to collect
 From statement 1: PTF12dcp has no spectra to collect
+From statement 4: PTF12dcg has no spectra to collect
+From statement 4: PTF12cyd has no spectra to collect
 From statement 1: PTF12cxz has no spectra to collect
 From statement 1: PTF12cxy has no spectra to collect
+From statement 4: PTF12cxj has no spectra to collect
 From statement 1: PTF12cwl has no spectra to collect
 From statement 1: PTF12cue has no spectra to collect
 Presumably no other duplicate files found for PTF12csy
+From statement 4: PTF12csi has no spectra to collect
 From statement 1: PTF12cqv has no spectra to collect
 From statement 1: PTF12cod has no spectra to collect
+From statement 4: PTF12cnl has no spectra to collect
+From statement 4: PTF12cli has no spectra to collect
+From statement 4: PTF12cks has no spectra to collect
 From statement 1: PTF12cki has no spectra to collect
 From statement 1: PTF12cjy has no spectra to collect
 From statement 3: PTF12cix has no spectra to collect
 From statement 4: PTF12cix has no spectra to collect
+From statement 4: PTF12cia has no spectra to collect
+From statement 4: PTF12chm has no spectra to collect
+From statement 4: PTF12cgc has no spectra to collect
+From statement 4: PTF12cgb has no spectra to collect
 From statement 1: PTF12cfu has no spectra to collect
 From statement 1: PTF12cfk has no spectra to collect
+From statement 4: PTF12cdq has no spectra to collect
+From statement 4: PTF12cde has no spectra to collect
+From statement 4: PTF12cdd has no spectra to collect
+From statement 4: PTF12cdc has no spectra to collect
+From statement 4: PTF12ccz has no spectra to collect
+From statement 4: PTF12ccy has no spectra to collect
+From statement 4: PTF12ccx has no spectra to collect
+From statement 4: PTF12ccw has no spectra to collect
 From statement 1: PTF12cbo has no spectra to collect
+From statement 4: PTF12bwq has no spectra to collect
+From statement 4: PTF12bwc has no spectra to collect
+From statement 4: PTF12bvz has no spectra to collect
+From statement 4: PTF12bvh has no spectra to collect
 From statement 1: PTF12bvf has no spectra to collect
 From statement 1: PTF12bup has no spectra to collect
+From statement 4: PTF12btr has no spectra to collect
+From statement 4: PTF12bsa has no spectra to collect
 From statement 1: PTF12bro has no spectra to collect
+From statement 4: PTF12brj has no spectra to collect
+From statement 4: PTF12bpy has no spectra to collect
 From statement 1: PTF12bpi has no spectra to collect
+From statement 4: PTF12box has no spectra to collect
+From statement 4: PTF12bok has no spectra to collect
+From statement 4: PTF12boj has no spectra to collect
+From statement 4: PTF12bod has no spectra to collect
+From statement 4: PTF12bnv has no spectra to collect
+From statement 4: PTF12bnb has no spectra to collect
+From statement 4: PTF12bmr has no spectra to collect
 From statement 1: PTF12bjg has no spectra to collect
 From statement 1: PTF12bho has no spectra to collect
+From statement 4: PTF12bdp has no spectra to collect
 From statement 1: PTF12bbm has no spectra to collect
+From statement 4: PTF12ax has no spectra to collect
+From statement 4: PTF12ast has no spectra to collect
+From statement 4: PTF12ass has no spectra to collect
 3 objects returned for PTF12as
+From statement 4: PTF12art has no spectra to collect
+From statement 4: PTF12aob has no spectra to collect
+From statement 4: PTF12alp has no spectra to collect
+From statement 4: PTF12aki has no spectra to collect
 From statement 1: PTF12ahb has no spectra to collect
 From statement 1: PTF12agy has no spectra to collect
 From statement 1: PTF12ade has no spectra to collect
+From statement 4: PTF12abl has no spectra to collect
 From statement 1: PTF11z has no spectra to collect
 From statement 1: PTF11ys has no spectra to collect
+From statement 4: PTF11ya has no spectra to collect
 From statement 1: PTF11xe has no spectra to collect
 From statement 1: PTF11wd has no spectra to collect
 From statement 1: PTF11wa has no spectra to collect
@@ -2341,101 +2588,233 @@ From statement 1: PTF11vb has no spectra to collect
 From statement 1: PTF11uk has no spectra to collect
 From statement 1: PTF11ti has no spectra to collect
 From statement 1: PTF11sd has no spectra to collect
+From statement 4: PTF11rrq has no spectra to collect
+From statement 4: PTF11rpj has no spectra to collect
+From statement 4: PTF11rpc has no spectra to collect
+From statement 4: PTF11rnq has no spectra to collect
+From statement 4: PTF11rmb has no spectra to collect
+From statement 4: PTF11rly has no spectra to collect
+From statement 4: PTF11rlv has no spectra to collect
 Presumably no other duplicate files found for PTF11rks
 From statement 1: PTF11rkm has no spectra to collect
 Presumably no other duplicate files found for PTF11rke
+From statement 4: PTF11rkd has no spectra to collect
 From statement 1: PTF11rka has no spectra to collect
 From statement 1: PTF11rj has no spectra to collect
 From statement 1: PTF11ri has no spectra to collect
+From statement 4: PTF11rfr has no spectra to collect
 From statement 1: PTF11rfo has no spectra to collect
 From statement 1: PTF11rfh has no spectra to collect
+From statement 4: PTF11rem has no spectra to collect
 From statement 1: PTF11rdv has no spectra to collect
+From statement 4: PTF11qzq has no spectra to collect
 From statement 1: PTF11qzf has no spectra to collect
 From statement 1: PTF11qyq has no spectra to collect
 From statement 1: PTF11qyg has no spectra to collect
+From statement 4: PTF11qvh has no spectra to collect
+From statement 4: PTF11qvc has no spectra to collect
+From statement 4: PTF11qux has no spectra to collect
+From statement 4: PTF11quu has no spectra to collect
+From statement 4: PTF11qtq has no spectra to collect
+From statement 4: PTF11qrv has no spectra to collect
+From statement 4: PTF11qri has no spectra to collect
+From statement 4: PTF11qqj has no spectra to collect
+From statement 4: PTF11qpg has no spectra to collect
 Presumably no other duplicate files found for PTF11qnr
+From statement 4: PTF11qnf has no spectra to collect
 Presumably no other duplicate files found for PTF11qmo
+From statement 4: PTF11qmn has no spectra to collect
+From statement 4: PTF11qko has no spectra to collect
+From statement 4: PTF11qju has no spectra to collect
 From statement 1: PTF11qiq has no spectra to collect
+From statement 3: PTF11qij has no spectra to collect
+From statement 4: PTF11qgy has no spectra to collect
+From statement 4: PTF11qgw has no spectra to collect
+From statement 4: PTF11qcm has no spectra to collect
+From statement 4: PTF11qcl has no spectra to collect
 Presumably no other duplicate files found for PTF11qcj
+From statement 4: PTF11qcc has no spectra to collect
+From statement 4: PTF11qbq has no spectra to collect
+From statement 4: PTF11qbk has no spectra to collect
 From statement 1: PTF11qax has no spectra to collect
+From statement 4: PTF11pzq has no spectra to collect
 From statement 1: PTF11pym has no spectra to collect
 From statement 1: PTF11prr has no spectra to collect
 Presumably no other duplicate files found for PTF11pra
+From statement 4: PTF11ppn has no spectra to collect
 From statement 1: PTF11po has no spectra to collect
 From statement 1: PTF11pnq has no spectra to collect
 From statement 1: PTF11pne has no spectra to collect
 From statement 1: PTF11pll has no spectra to collect
+From statement 4: PTF11phm has no spectra to collect
+From statement 4: PTF11phk has no spectra to collect
 From statement 1: PTF11pga has no spectra to collect
 From statement 1: PTF11pg has no spectra to collect
+From statement 4: PTF11pfx has no spectra to collect
+From statement 4: PTF11pfp has no spectra to collect
 From statement 3: PTF11pdt has no spectra to collect
 From statement 4: PTF11pdt has no spectra to collect
+From statement 4: PTF11pdl has no spectra to collect
+From statement 4: PTF11pdk has no spectra to collect
+From statement 4: PTF11pdj has no spectra to collect
+From statement 4: PTF11pdi has no spectra to collect
 From statement 1: PTF11pct has no spectra to collect
 From statement 1: PTF11pbr has no spectra to collect
+From statement 4: PTF11pbp has no spectra to collect
 From statement 1: PTF11pbo has no spectra to collect
+From statement 4: PTF11paw has no spectra to collect
 From statement 1: PTF11pap has no spectra to collect
+From statement 4: PTF11pab has no spectra to collect
+From statement 4: PTF11ozd has no spectra to collect
+From statement 4: PTF11oyn has no spectra to collect
+From statement 4: PTF11oxu has no spectra to collect
+From statement 4: PTF11owc has no spectra to collect
+From statement 4: PTF11oqn has no spectra to collect
 Presumably no other duplicate files found for PTF11opu
 From statement 1: PTF11oni has no spectra to collect
 From statement 1: PTF11oiy has no spectra to collect
 From statement 1: PTF11oir has no spectra to collect
+From statement 4: PTF11ogy has no spectra to collect
+From statement 4: PTF11oey has no spectra to collect
 From statement 1: PTF11nzt has no spectra to collect
+From statement 4: PTF11nvm has no spectra to collect
+From statement 4: PTF11nga has no spectra to collect
 From statement 3: PTF11ner has no spectra to collect
 From statement 4: PTF11ner has no spectra to collect
+From statement 4: PTF11ncy has no spectra to collect
+From statement 4: PTF11mzs has no spectra to collect
 From statement 1: PTF11my has no spectra to collect
 From statement 1: PTF11mwk has no spectra to collect
+From statement 4: PTF11mvg has no spectra to collect
+From statement 4: PTF11muf has no spectra to collect
+From statement 4: PTF11muc has no spectra to collect
+From statement 4: PTF11mtq has no spectra to collect
+From statement 4: PTF11mtf has no spectra to collect
 From statement 1: PTF11msm has no spectra to collect
+From statement 4: PTF11msl has no spectra to collect
+From statement 4: PTF11msk has no spectra to collect
 From statement 1: PTF11mqd has no spectra to collect
+From statement 4: PTF11mpv has no spectra to collect
+From statement 4: PTF11mpg has no spectra to collect
+From statement 4: PTF11mpa has no spectra to collect
+From statement 4: PTF11moy has no spectra to collect
 From statement 1: PTF11mnb has no spectra to collect
+From statement 4: PTF11mmk has no spectra to collect
 From statement 1: PTF11mlk has no spectra to collect
+From statement 4: PTF11mkx has no spectra to collect
+From statement 4: PTF11mke has no spectra to collect
+From statement 4: PTF11mhr has no spectra to collect
+From statement 4: PTF11mhh has no spectra to collect
+From statement 4: PTF11mfy has no spectra to collect
 From statement 1: PTF11mej has no spectra to collect
 From statement 1: PTF11me has no spectra to collect
 From statement 1: PTF11md has no spectra to collect
 From statement 1: PTF11mcx has no spectra to collect
 From statement 1: PTF11mcr has no spectra to collect
+From statement 4: PTF11lxj has no spectra to collect
+From statement 4: PTF11lpv has no spectra to collect
 From statement 1: PTF11lpf has no spectra to collect
+From statement 4: PTF11lnq has no spectra to collect
+From statement 4: PTF11lnb has no spectra to collect
 From statement 1: PTF11lmy has no spectra to collect
+From statement 4: PTF11lms has no spectra to collect
 From statement 1: PTF11lmr has no spectra to collect
 From statement 1: PTF11lmn has no spectra to collect
 2 objects returned for PTF11lm
+From statement 4: PTF11liu has no spectra to collect
+From statement 4: PTF11lev has no spectra to collect
+From statement 4: PTF11lcf has no spectra to collect
 From statement 1: PTF11lbm has no spectra to collect
+From statement 4: PTF11lbc has no spectra to collect
+From statement 4: PTF11kya has no spectra to collect
+From statement 4: PTF11ktr has no spectra to collect
 From statement 1: PTF11ksv has no spectra to collect
+From statement 4: PTF11kqv has no spectra to collect
+From statement 4: PTF11kqm has no spectra to collect
+From statement 4: PTF11kpn has no spectra to collect
 From statement 1: PTF11kpa has no spectra to collect
+From statement 4: PTF11kod has no spectra to collect
 From statement 1: PTF11kne has no spectra to collect
 From statement 1: PTF11kmq has no spectra to collect
+From statement 4: PTF11kml has no spectra to collect
 Presumably no other duplicate files found for PTF11kmb
 Presumably no other duplicate files found for PTF11kly
+From statement 4: PTF11klx has no spectra to collect
+From statement 4: PTF11klp has no spectra to collect
+From statement 4: PTF11klg has no spectra to collect
 From statement 1: PTF11klf has no spectra to collect
 From statement 1: PTF11kku has no spectra to collect
+From statement 4: PTF11kkd has no spectra to collect
+From statement 4: PTF11kju has no spectra to collect
+From statement 4: PTF11kjr has no spectra to collect
+From statement 4: PTF11kjl has no spectra to collect
+From statement 4: PTF11kjk has no spectra to collect
+From statement 4: PTF11kiu has no spectra to collect
 From statement 1: PTF11kif has no spectra to collect
 From statement 1: PTF11kie has no spectra to collect
+From statement 4: PTF11kgl has no spectra to collect
 Presumably no other duplicate files found for PTF11kfk
 From statement 1: PTF11kfb has no spectra to collect
 From statement 1: PTF11kes has no spectra to collect
+From statement 4: PTF11kdw has no spectra to collect
+From statement 4: PTF11kdk has no spectra to collect
+From statement 4: PTF11kdc has no spectra to collect
+From statement 4: PTF11kaw has no spectra to collect
+From statement 4: PTF11kaa has no spectra to collect
+From statement 4: PTF11jzd has no spectra to collect
 From statement 1: PTF11jza has no spectra to collect
 From statement 1: PTF11jx has no spectra to collect
 From statement 1: PTF11jri has no spectra to collect
+From statement 4: PTF11jpv has no spectra to collect
+From statement 4: PTF11jlf has no spectra to collect
+From statement 4: PTF11jle has no spectra to collect
 From statement 1: PTF11jka has no spectra to collect
+From statement 4: PTF11jgp has no spectra to collect
 From statement 1: PTF11jgj has no spectra to collect
+From statement 4: PTF11jfm has no spectra to collect
 From statement 1: PTF11jds has no spectra to collect
 From statement 1: PTF11jd has no spectra to collect
+From statement 4: PTF11jct has no spectra to collect
 From statement 1: PTF11jbh has no spectra to collect
+From statement 4: PTF11jba has no spectra to collect
+From statement 4: PTF11jaz has no spectra to collect
+From statement 4: PTF11jar has no spectra to collect
 From statement 1: PTF11izt has no spectra to collect
+From statement 4: PTF11izs has no spectra to collect
 From statement 1: PTF11izr has no spectra to collect
+From statement 4: PTF11izq has no spectra to collect
+From statement 4: PTF11ixp has no spectra to collect
+From statement 4: PTF11ixk has no spectra to collect
 From statement 1: PTF11iwu has no spectra to collect
+From statement 4: PTF11iwl has no spectra to collect
+From statement 4: PTF11ivb has no spectra to collect
+From statement 4: PTF11ipz has no spectra to collect
 From statement 1: PTF11ipi has no spectra to collect
 From statement 1: PTF11img has no spectra to collect
+From statement 4: PTF11imf has no spectra to collect
+From statement 4: PTF11ilr has no spectra to collect
+From statement 4: PTF11ilj has no spectra to collect
+From statement 4: PTF11ikv has no spectra to collect
+From statement 4: PTF11ijp has no spectra to collect
 From statement 1: PTF11iil has no spectra to collect
+From statement 4: PTF11iid has no spectra to collect
+From statement 4: PTF11ihr has no spectra to collect
+From statement 4: PTF11iho has no spectra to collect
 From statement 1: PTF11idd has no spectra to collect
+From statement 4: PTF11icm has no spectra to collect
 From statement 1: PTF11ich has no spectra to collect
-3 objects returned for PTF12as
-2 objects returned for PTF11lm
 Presumably no other duplicate files found for PTF11hzx
+From statement 4: PTF11hyg has no spectra to collect
 Presumably no other duplicate files found for PTF11hub
 From statement 1: PTF11htm has no spectra to collect
+From statement 4: PTF11htj has no spectra to collect
+From statement 4: PTF11hsj has no spectra to collect
 From statement 1: PTF11hrq has no spectra to collect
 From statement 1: PTF11hqs has no spectra to collect
 From statement 1: PTF11hq has no spectra to collect
 From statement 1: PTF11ho has no spectra to collect
 From statement 1: PTF11hmz has no spectra to collect
+From statement 4: PTF11hfu has no spectra to collect
 From statement 1: PTF11hfs has no spectra to collect
 From statement 1: PTF11hex has no spectra to collect
 From statement 1: PTF11hdq has no spectra to collect
@@ -2445,24 +2824,54 @@ From statement 1: PTF11gua has no spectra to collect
 From statement 3: PTF11gtr has no spectra to collect
 From statement 4: PTF11gtr has no spectra to collect
 From statement 1: PTF11gog has no spectra to collect
+From statement 4: PTF11go has no spectra to collect
+From statement 4: PTF11gnj has no spectra to collect
 From statement 1: PTF11gmy has no spectra to collect
+From statement 4: PTF11gls has no spectra to collect
 From statement 1: PTF11glr has no spectra to collect
 2 objects returned for PTF11gl
 From statement 1: PTF11gjq has no spectra to collect
+From statement 4: PTF11gjo has no spectra to collect
+From statement 4: PTF11gjn has no spectra to collect
 From statement 1: PTF11giv has no spectra to collect
 From statement 1: PTF11git has no spectra to collect
+From statement 4: PTF11ghq has no spectra to collect
 From statement 1: PTF11gga has no spectra to collect
+From statement 4: PTF11gdz has no spectra to collect
 From statement 1: PTF11gdx has no spectra to collect
 From statement 1: PTF11gdw has no spectra to collect
+From statement 4: PTF11gdm has no spectra to collect
 Presumably no other duplicate files found for PTF11gdh
 From statement 1: PTF11gcj has no spectra to collect
+From statement 4: PTF11gcd has no spectra to collect
 Presumably no other duplicate files found for PTF11gcc
+From statement 4: PTF11gcb has no spectra to collect
+From statement 4: PTF11gbd has no spectra to collect
+From statement 4: PTF11gal has no spectra to collect
+From statement 4: PTF11fzz has no spectra to collect
 From statement 1: PTF11fzx has no spectra to collect
+From statement 4: PTF11fxh has no spectra to collect
+From statement 4: PTF11fwe has no spectra to collect
+From statement 4: PTF11fvq has no spectra to collect
 From statement 1: PTF11fvn has no spectra to collect
 From statement 1: PTF11fvj has no spectra to collect
 From statement 1: PTF11fvi has no spectra to collect
+From statement 4: PTF11fve has no spectra to collect
+From statement 4: PTF11fuz has no spectra to collect
+From statement 4: PTF11fuv has no spectra to collect
+From statement 4: PTF11fuu has no spectra to collect
+From statement 4: PTF11ftz has no spectra to collect
+From statement 4: PTF11ftr has no spectra to collect
+From statement 4: PTF11ftp has no spectra to collect
+From statement 4: PTF11ftc has no spectra to collect
+From statement 4: PTF11fsv has no spectra to collect
 From statement 3: PTF11fss has no spectra to collect
 From statement 4: PTF11fss has no spectra to collect
+From statement 4: PTF11fqj has no spectra to collect
+From statement 4: PTF11fqh has no spectra to collect
+From statement 4: PTF11fqf has no spectra to collect
+From statement 4: PTF11fp has no spectra to collect
+From statement 4: PTF11foq has no spectra to collect
 From statement 1: PTF11fma has no spectra to collect
 From statement 1: PTF11fjl has no spectra to collect
 From statement 1: PTF11fjc has no spectra to collect
@@ -2471,51 +2880,126 @@ From statement 1: PTF11fik has no spectra to collect
 From statement 1: PTF11fij has no spectra to collect
 From statement 1: PTF11fbv has no spectra to collect
 From statement 1: PTF11fbr has no spectra to collect
+From statement 4: PTF11erh has no spectra to collect
+From statement 4: PTF11eql has no spectra to collect
+From statement 4: PTF11epi has no spectra to collect
 Removing duplicate spectrum for PTF11eon -- 11eon_20110612_LT_red.ascii
+From statement 4: PTF11emr has no spectra to collect
+From statement 4: PTF11emo has no spectra to collect
+From statement 4: PTF11emc has no spectra to collect
+From statement 4: PTF11elh has no spectra to collect
+From statement 4: PTF11elc has no spectra to collect
+From statement 4: PTF11ekj has no spectra to collect
 From statement 1: PTF11eji has no spectra to collect
+From statement 4: PTF11ein has no spectra to collect
+From statement 4: PTF11eie has no spectra to collect
+From statement 4: PTF11eid has no spectra to collect
+From statement 4: PTF11egs has no spectra to collect
+From statement 4: PTF11egb has no spectra to collect
+From statement 4: PTF11ecp has no spectra to collect
 Presumably no other duplicate files found for PTF11ecn
 From statement 1: PTF11eby has no spectra to collect
 From statement 1: PTF11ebj has no spectra to collect
 From statement 1: PTF11eba has no spectra to collect
 Presumably no other duplicate files found for PTF11dzm
+From statement 4: PTF11dwn has no spectra to collect
+From statement 4: PTF11dtd has no spectra to collect
 From statement 1: PTF11dsz has no spectra to collect
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for PTF11dsb
+From statement 4: PTF11dsn has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: PTF11dsf has no spectra to collect
+Presumably no other duplicate files found for PTF11dsb
+From statement 4: PTF11dsa has no spectra to collect
+From statement 4: PTF11drz has no spectra to collect
+From statement 4: PTF11drd has no spectra to collect
+From statement 4: PTF11dqr has no spectra to collect
+From statement 4: PTF11dqk has no spectra to collect
+From statement 4: PTF11dqf has no spectra to collect
 From statement 1: PTF11dn has no spectra to collect
+From statement 4: PTF11dmi has no spectra to collect
+From statement 4: PTF11dlp has no spectra to collect
+From statement 4: PTF11dll has no spectra to collect
 From statement 1: PTF11dlk has no spectra to collect
+From statement 4: PTF11dlg has no spectra to collect
 From statement 1: PTF11dkq has no spectra to collect
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: PTF11dhf has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: PTF11dij has no spectra to collect
+From statement 4: PTF11dif has no spectra to collect
+From statement 4: PTF11dhw has no spectra to collect
+From statement 1: PTF11dhf has no spectra to collect
 From statement 1: PTF11dga has no spectra to collect
+From statement 4: PTF11dfv has no spectra to collect
+From statement 4: PTF11dej has no spectra to collect
 From statement 1: PTF11dcq has no spectra to collect
 From statement 1: PTF11dby has no spectra to collect
 From statement 1: PTF11dbt has no spectra to collect
+From statement 4: PTF11daj has no spectra to collect
+From statement 4: PTF11czz has no spectra to collect
+From statement 4: PTF11czq has no spectra to collect
 From statement 1: PTF11cyw has no spectra to collect
+From statement 4: PTF11cyp has no spectra to collect
+From statement 4: PTF11cxs has no spectra to collect
+From statement 4: PTF11cwi has no spectra to collect
 From statement 1: PTF11cwb has no spectra to collect
 From statement 1: PTF11cvk has no spectra to collect
+From statement 4: PTF11cve has no spectra to collect
+From statement 4: PTF11csc has no spectra to collect
+From statement 4: PTF11crr has no spectra to collect
+From statement 4: PTF11cnx has no spectra to collect
+From statement 4: PTF11cnc has no spectra to collect
+From statement 4: PTF11cmw has no spectra to collect
+From statement 4: PTF11cmv has no spectra to collect
+From statement 4: PTF11cmp has no spectra to collect
+From statement 4: PTF11cml has no spectra to collect
 From statement 1: PTF11cmh has no spectra to collect
+From statement 4: PTF11cmg has no spectra to collect
+From statement 4: PTF11cji has no spectra to collect
 From statement 1: PTF11ciq has no spectra to collect
+From statement 4: PTF11cgx has no spectra to collect
+From statement 4: PTF11cfr has no spectra to collect
+From statement 4: PTF11cfm has no spectra to collect
+From statement 4: PTF11cey has no spectra to collect
+From statement 4: PTF11cdo has no spectra to collect
+From statement 4: PTF11cda has no spectra to collect
+From statement 4: PTF11cbq has no spectra to collect
+From statement 4: PTF11caz has no spectra to collect
+From statement 4: PTF11cag has no spectra to collect
 Presumably no other duplicate files found for PTF11byi
+From statement 4: PTF11bup has no spectra to collect
 Presumably no other duplicate files found for PTF11bui
 2 objects returned for PTF11bu
+From statement 4: PTF11bqc has no spectra to collect
 From statement 1: PTF11bpy has no spectra to collect
+From statement 4: PTF11bpx has no spectra to collect
 From statement 3: PTF11bpw has no spectra to collect
 From statement 4: PTF11bpw has no spectra to collect
+From statement 4: PTF11bov has no spectra to collect
+From statement 4: PTF11bop has no spectra to collect
 From statement 1: PTF11bok has no spectra to collect
+From statement 4: PTF11bof has no spectra to collect
 From statement 1: PTF11bnw has no spectra to collect
+From statement 4: PTF11bni has no spectra to collect
+From statement 4: PTF11bnf has no spectra to collect
 From statement 1: PTF11bnb has no spectra to collect
+From statement 4: PTF11bmo has no spectra to collect
 From statement 1: PTF11bly has no spectra to collect
+From statement 4: PTF11bli has no spectra to collect
 From statement 1: PTF11bkf has no spectra to collect
+From statement 4: PTF11bkd has no spectra to collect
 From statement 1: PTF11bjk has no spectra to collect
 From statement 1: PTF11biz has no spectra to collect
+From statement 4: PTF11biv has no spectra to collect
 From statement 1: PTF11bh has no spectra to collect
 From statement 1: PTF11bgv has no spectra to collect
+From statement 4: PTF11bgl has no spectra to collect
 From statement 1: PTF11bgj has no spectra to collect
 From statement 1: PTF11bge has no spectra to collect
 From statement 1: PTF11bgb has no spectra to collect
+From statement 4: PTF11be has no spectra to collect
 From statement 1: PTF11bcd has no spectra to collect
 Presumably no other duplicate files found for PTF11bas
 From statement 1: PTF11azt has no spectra to collect
 From statement 1: PTF11azo has no spectra to collect
 From statement 1: PTF11ayu has no spectra to collect
+From statement 4: PTF11awe has no spectra to collect
 From statement 1: PTF11avn has no spectra to collect
 From statement 1: PTF11avm has no spectra to collect
 From statement 1: PTF11auy has no spectra to collect
@@ -2539,18 +3023,30 @@ From statement 1: PTF11anu has no spectra to collect
 From statement 1: PTF11anq has no spectra to collect
 From statement 1: PTF11ams has no spectra to collect
 From statement 1: PTF11all has no spectra to collect
+From statement 4: PTF11alg has no spectra to collect
 From statement 1: PTF11akn has no spectra to collect
+From statement 4: PTF11aki has no spectra to collect
+From statement 4: PTF11ajz has no spectra to collect
+From statement 4: PTF11aik has no spectra to collect
+From statement 4: PTF11aii has no spectra to collect
 From statement 1: PTF11aih has no spectra to collect
+From statement 4: PTF11aig has no spectra to collect
+From statement 4: PTF11aif has no spectra to collect
 From statement 1: PTF11aid has no spectra to collect
+From statement 4: PTF11aib has no spectra to collect
 6 objects returned for PTF11ai
 From statement 1: PTF11agm has no spectra to collect
 From statement 1: PTF11agk has no spectra to collect
 From statement 1: PTF11agg has no spectra to collect
+From statement 4: PTF11aff has no spectra to collect
 From statement 1: PTF11aeq has no spectra to collect
 From statement 1: PTF11aen has no spectra to collect
 From statement 1: PTF11ael has no spectra to collect
 From statement 1: PTF11aed has no spectra to collect
+From statement 4: PTF11acz has no spectra to collect
+From statement 4: PTF11abm has no spectra to collect
 From statement 1: PTF11aai has no spectra to collect
+From statement 4: PTF11aad has no spectra to collect
 From statement 1: PTF11aab has no spectra to collect
 From statement 1: PTF10zkp has no spectra to collect
 From statement 1: PTF10zix has no spectra to collect
@@ -2574,9 +3070,11 @@ From statement 1: PTF10zau has no spectra to collect
 Presumably no other duplicate files found for PTF10zak
 Presumably no other duplicate files found for PTF10zai
 From statement 1: PTF10yzu has no spectra to collect
+From statement 4: PTF10yzt has no spectra to collect
 From statement 1: PTF10yzm has no spectra to collect
 From statement 1: PTF10yyz has no spectra to collect
 From statement 1: PTF10yyk has no spectra to collect
+From statement 4: PTF10yyc has no spectra to collect
 From statement 1: PTF10yxk has no spectra to collect
 From statement 1: PTF10yxj has no spectra to collect
 From statement 1: PTF10yxc has no spectra to collect
@@ -2612,6 +3110,7 @@ From statement 1: PTF10ybe has no spectra to collect
 From statement 1: PTF10yad has no spectra to collect
 From statement 1: PTF10xzz has no spectra to collect
 From statement 1: PTF10xzy has no spectra to collect
+From statement 4: PTF10xzs has no spectra to collect
 From statement 1: PTF10xyy has no spectra to collect
 Presumably no other duplicate files found for PTF10xyt
 From statement 1: PTF10xya has no spectra to collect
@@ -2644,9 +3143,11 @@ From statement 1: PTF10xjk has no spectra to collect
 From statement 1: PTF10xiw has no spectra to collect
 From statement 1: PTF10xik has no spectra to collect
 From statement 1: PTF10xij has no spectra to collect
+From statement 4: PTF10xif has no spectra to collect
 From statement 1: PTF10xhs has no spectra to collect
 From statement 1: PTF10xgx has no spectra to collect
 From statement 1: PTF10xgp has no spectra to collect
+From statement 4: PTF10xgo has no spectra to collect
 From statement 1: PTF10xgc has no spectra to collect
 From statement 1: PTF10xgb has no spectra to collect
 From statement 1: PTF10xfw has no spectra to collect
@@ -2670,13 +3171,15 @@ From statement 1: PTF10wxp has no spectra to collect
 From statement 1: PTF10wve has no spectra to collect
 From statement 1: PTF10wrm has no spectra to collect
 From statement 1: PTF10wpx has no spectra to collect
-Removing duplicate spectrum for PTF10wof -- 10wof_20100929_Gemini N_v1.ascii
+From statement 4: PTF10wop has no spectra to collect
+Removing duplicate spectrum for PTF10wof -- 10wof_20100929_Gemini N_v2.ascii
 From statement 1: PTF10woa has no spectra to collect
 From statement 1: PTF10wnt has no spectra to collect
 From statement 1: PTF10wnp has no spectra to collect
 Presumably no other duplicate files found for PTF10wnm
 From statement 1: PTF10wmm has no spectra to collect
 From statement 1: PTF10wml has no spectra to collect
+From statement 4: PTF10wmk has no spectra to collect
 From statement 1: PTF10wmf has no spectra to collect
 From statement 1: PTF10wlw has no spectra to collect
 From statement 1: PTF10wld has no spectra to collect
@@ -2685,6 +3188,7 @@ From statement 1: PTF10wix has no spectra to collect
 From statement 1: PTF10whg has no spectra to collect
 From statement 1: PTF10wgk has no spectra to collect
 From statement 1: PTF10wg has no spectra to collect
+From statement 4: PTF10weh has no spectra to collect
 From statement 1: PTF10wcy has no spectra to collect
 From statement 1: PTF10wbb has no spectra to collect
 From statement 1: PTF10wal has no spectra to collect
@@ -2705,13 +3209,23 @@ From statement 1: PTF10vqv has no spectra to collect
 From statement 1: PTF10vnv has no spectra to collect
 From statement 1: PTF10vns has no spectra to collect
 From statement 1: PTF10vnj has no spectra to collect
+From statement 4: PTF10viv has no spectra to collect
 2 objects returned for PTF10vi
 From statement 1: PTF10vhz has no spectra to collect
+3 objects returned for PTF12as
+2 objects returned for PTF11lm
+2 objects returned for PTF11gl
+2 objects returned for PTF11bu
+2 objects returned for PTF11ap
+2 objects returned for PTF10xy
+10 objects returned for PTF10w
+2 objects returned for PTF10vi
 From statement 1: PTF10vh has no spectra to collect
 Presumably no other duplicate files found for PTF10vgv
 From statement 1: PTF10vfg has no spectra to collect
 Presumably no other duplicate files found for PTF10vdl
 From statement 1: PTF10vb has no spectra to collect
+From statement 4: PTF10vag has no spectra to collect
 From statement 1: PTF10uzi has no spectra to collect
 From statement 1: PTF10uwd has no spectra to collect
 From statement 1: PTF10urj has no spectra to collect
@@ -2722,6 +3236,8 @@ From statement 1: PTF10umw has no spectra to collect
 From statement 1: PTF10ums has no spectra to collect
 From statement 1: PTF10ulk has no spectra to collect
 From statement 1: PTF10ujl has no spectra to collect
+From statement 4: PTF10ujc has no spectra to collect
+From statement 4: PTF10uiz has no spectra to collect
 From statement 1: PTF10uiy has no spectra to collect
 From statement 1: PTF10uhn has no spectra to collect
 From statement 1: PTF10uhf has no spectra to collect
@@ -2743,7 +3259,9 @@ From statement 1: PTF10uca has no spectra to collect
 From statement 1: PTF10ubn has no spectra to collect
 From statement 1: PTF10ubc has no spectra to collect
 12 objects returned for PTF10u
+From statement 4: PTF10u has no spectra to collect
 From statement 1: PTF10tzh has no spectra to collect
+From statement 4: PTF10tyd has no spectra to collect
 From statement 1: PTF10txl has no spectra to collect
 From statement 1: PTF10tum has no spectra to collect
 From statement 1: PTF10tuj has no spectra to collect
@@ -2751,10 +3269,12 @@ From statement 1: PTF10tui has no spectra to collect
 From statement 1: PTF10tue has no spectra to collect
 From statement 1: PTF10tud has no spectra to collect
 From statement 1: PTF10ttz has no spectra to collect
+From statement 4: PTF10ttp has no spectra to collect
 From statement 1: PTF10ttm has no spectra to collect
 From statement 1: PTF10ttj has no spectra to collect
 From statement 1: PTF10tte has no spectra to collect
 From statement 1: PTF10ttd has no spectra to collect
+From statement 4: PTF10ts has no spectra to collect
 From statement 1: PTF10tru has no spectra to collect
 From statement 1: PTF10trt has no spectra to collect
 Presumably no other duplicate files found for PTF10trs
@@ -2764,6 +3284,7 @@ Presumably no other duplicate files found for PTF10tqy
 From statement 1: PTF10tqv has no spectra to collect
 From statement 1: PTF10tqi has no spectra to collect
 From statement 1: PTF10tqd has no spectra to collect
+From statement 4: PTF10tpz has no spectra to collect
 From statement 1: PTF10tpw has no spectra to collect
 From statement 1: PTF10tps has no spectra to collect
 From statement 1: PTF10tpa has no spectra to collect
@@ -2771,6 +3292,7 @@ From statement 1: PTF10toc has no spectra to collect
 From statement 1: PTF10tly has no spectra to collect
 From statement 1: PTF10tky has no spectra to collect
 From statement 1: PTF10tkh has no spectra to collect
+From statement 4: PTF10tjr has no spectra to collect
 From statement 1: PTF10tfs has no spectra to collect
 From statement 1: PTF10tff has no spectra to collect
 Presumably no other duplicate files found for PTF10tel
@@ -2785,6 +3307,7 @@ From statement 1: PTF10stg has no spectra to collect
 From statement 1: PTF10sm has no spectra to collect
 From statement 1: PTF10slu has no spectra to collect
 From statement 1: PTF10sck has no spectra to collect
+From statement 4: PTF10scc has no spectra to collect
 From statement 1: PTF10rsc has no spectra to collect
 From statement 1: PTF10rpt has no spectra to collect
 From statement 1: PTF10rpg has no spectra to collect
@@ -2811,6 +3334,7 @@ From statement 1: PTF10qyr has no spectra to collect
 From statement 1: PTF10qyn has no spectra to collect
 From statement 1: PTF10qxo has no spectra to collect
 From statement 1: PTF10qwz has no spectra to collect
+From statement 4: PTF10qwu has no spectra to collect
 From statement 1: PTF10qwm has no spectra to collect
 Presumably no other duplicate files found for PTF10qwg
 From statement 1: PTF10qux has no spectra to collect
@@ -2847,6 +3371,7 @@ From statement 1: PTF10qil has no spectra to collect
 From statement 1: PTF10qif has no spectra to collect
 From statement 1: PTF10qht has no spectra to collect
 Presumably no other duplicate files found for PTF10qfo
+From statement 4: PTF10qaf has no spectra to collect
 From statement 1: PTF10pzp has no spectra to collect
 From statement 1: PTF10pxj has no spectra to collect
 From statement 1: PTF10pvg has no spectra to collect
@@ -2873,6 +3398,7 @@ From statement 1: PTF10ozy has no spectra to collect
 From statement 1: PTF10oyo has no spectra to collect
 From statement 1: PTF10oxd has no spectra to collect
 From statement 1: PTF10oun has no spectra to collect
+From statement 4: PTF10oug has no spectra to collect
 From statement 1: PTF10oto has no spectra to collect
 From statement 1: PTF10osr has no spectra to collect
 From statement 1: PTF10orz has no spectra to collect
@@ -2969,6 +3495,7 @@ From statement 1: PTF10jtj has no spectra to collect
 From statement 1: PTF10jsb has no spectra to collect
 From statement 1: PTF10jrs has no spectra to collect
 From statement 1: PTF10jpv has no spectra to collect
+From statement 4: PTF10jop has no spectra to collect
 From statement 1: PTF10jnk has no spectra to collect
 From statement 1: PTF10jng has no spectra to collect
 From statement 1: PTF10jkx has no spectra to collect
@@ -3004,6 +3531,7 @@ From statement 1: PTF10hyq has no spectra to collect
 From statement 1: PTF10hvz has no spectra to collect
 From statement 1: PTF10hv has no spectra to collect
 Presumably no other duplicate files found for PTF10htz
+From statement 4: PTF10hsn has no spectra to collect
 From statement 1: PTF10hpy has no spectra to collect
 From statement 1: PTF10hpp has no spectra to collect
 From statement 1: PTF10hpa has no spectra to collect
@@ -3018,6 +3546,7 @@ From statement 1: PTF10hmg has no spectra to collect
 From statement 1: PTF10hmd has no spectra to collect
 From statement 1: PTF10hls has no spectra to collect
 From statement 1: PTF10hlc has no spectra to collect
+From statement 4: PTF10hif has no spectra to collect
 From statement 1: PTF10hie has no spectra to collect
 Presumably no other duplicate files found for PTF10hgi
 From statement 1: PTF10hfe has no spectra to collect
@@ -3029,6 +3558,8 @@ From statement 1: PTF10heh has no spectra to collect
 Presumably no other duplicate files found for PTF10hdv
 From statement 1: PTF10hdq has no spectra to collect
 From statement 1: PTF10hcw has no spectra to collect
+From statement 4: PTF10hcr has no spectra to collect
+From statement 4: PTF10hbf has no spectra to collect
 From statement 1: PTF10gym has no spectra to collect
 From statement 1: PTF10gxz has no spectra to collect
 From statement 1: PTF10gxt has no spectra to collect
@@ -3036,6 +3567,7 @@ From statement 1: PTF10gxi has no spectra to collect
 From statement 1: PTF10gwp has no spectra to collect
 From statement 1: PTF10gwe has no spectra to collect
 From statement 1: PTF10gwc has no spectra to collect
+From statement 4: PTF10gvd has no spectra to collect
 From statement 1: PTF10gvb has no spectra to collect
 From statement 1: PTF10guz has no spectra to collect
 From statement 1: PTF10gtq has no spectra to collect
@@ -3064,7 +3596,7 @@ From statement 1: PTF10ftb has no spectra to collect
 From statement 1: PTF10fqx has no spectra to collect
 From statement 1: PTF10fqo has no spectra to collect
 From statement 1: PTF10fqg has no spectra to collect
-Removing duplicate spectrum for PTF10fps -- 10fps_20100417_P200_v1.ascii
+Removing duplicate spectrum for PTF10fps -- 10fps_20100417_P200_v2.ascii
 From statement 1: PTF10fph has no spectra to collect
 From statement 1: PTF10fov has no spectra to collect
 From statement 3: PTF10fou has no spectra to collect
@@ -3075,10 +3607,12 @@ From statement 1: PTF10fny has no spectra to collect
 From statement 1: PTF10fnq has no spectra to collect
 From statement 1: PTF10fmx has no spectra to collect
 From statement 1: PTF10fmr has no spectra to collect
+From statement 4: PTF10flx has no spectra to collect
 From statement 1: PTF10fln has no spectra to collect
 From statement 1: PTF10fkk has no spectra to collect
 From statement 1: PTF10fk has no spectra to collect
 From statement 1: PTF10fjq has no spectra to collect
+From statement 4: PTF10fjh has no spectra to collect
 From statement 1: PTF10fjg has no spectra to collect
 2 objects returned for PTF10fj
 From statement 1: PTF10fia has no spectra to collect
@@ -3089,9 +3623,12 @@ From statement 1: PTF10fgz has no spectra to collect
 From statement 1: PTF10ffx has no spectra to collect
 From statement 1: PTF10fet has no spectra to collect
 From statement 1: PTF10feq has no spectra to collect
+From statement 4: PTF10fel has no spectra to collect
+From statement 4: PTF10fei has no spectra to collect
 From statement 1: PTF10fee has no spectra to collect
 4 objects returned for PTF10fe
 From statement 1: PTF10fbv has no spectra to collect
+From statement 4: PTF10ewc has no spectra to collect
 From statement 1: PTF10esx has no spectra to collect
 From statement 1: PTF10eqz has no spectra to collect
 From statement 1: PTF10eqi has no spectra to collect
@@ -3107,6 +3644,7 @@ From statement 1: PTF10ef has no spectra to collect
 From statement 1: PTF10dvb has no spectra to collect
 From statement 1: PTF10dna has no spectra to collect
 From statement 1: PTF10dmw has no spectra to collect
+From statement 4: PTF10dk has no spectra to collect
 From statement 1: PTF10djf has no spectra to collect
 From statement 1: PTF10ddv has no spectra to collect
 From statement 1: PTF10dal has no spectra to collect
@@ -3118,8 +3656,10 @@ From statement 1: PTF10cxx has no spectra to collect
 From statement 1: PTF10cxq has no spectra to collect
 From statement 1: PTF10cwz has no spectra to collect
 From statement 1: PTF10cwy has no spectra to collect
+From statement 4: PTF10cwx has no spectra to collect
 From statement 1: PTF10cwp has no spectra to collect
 From statement 1: PTF10cwn has no spectra to collect
+From statement 4: PTF10cwl has no spectra to collect
 From statement 1: PTF10cwk has no spectra to collect
 From statement 1: PTF10cua has no spectra to collect
 From statement 1: PTF10cu has no spectra to collect
@@ -3154,18 +3694,6 @@ From statement 1: PTF10bix has no spectra to collect
 From statement 1: PTF10bip has no spectra to collect
 From statement 1: PTF10bin has no spectra to collect
 From statement 1: PTF10bhy has no spectra to collect
-3 objects returned for PTF12as
-2 objects returned for PTF11lm
-2 objects returned for PTF11gl
-2 objects returned for PTF11bu
-2 objects returned for PTF11ap
-2 objects returned for PTF10xy
-10 objects returned for PTF10w
-2 objects returned for PTF10vi
-2 objects returned for PTF10pv
-3 objects returned for PTF10nc
-2 objects returned for PTF10iu
-4 objects returned for PTF10fe
 From statement 1: PTF10bhu has no spectra to collect
 Presumably no other duplicate files found for PTF10bhp
 From statement 1: PTF10bhm has no spectra to collect
@@ -3188,6 +3716,7 @@ From statement 1: PTF10ael has no spectra to collect
 From statement 1: PTF10ad has no spectra to collect
 From statement 1: PTF10acub has no spectra to collect
 From statement 1: PTF10acts has no spectra to collect
+From statement 4: PTF10acsq has no spectra to collect
 From statement 1: PTF10acsb has no spectra to collect
 From statement 1: PTF10acrx has no spectra to collect
 From statement 1: PTF10acrt has no spectra to collect
@@ -3201,11 +3730,13 @@ From statement 1: PTF10acqu has no spectra to collect
 From statement 1: PTF10acqt has no spectra to collect
 From statement 1: PTF10acoh has no spectra to collect
 From statement 1: PTF10acoa has no spectra to collect
+From statement 4: PTF10achk has no spectra to collect
 From statement 1: PTF10acgv has no spectra to collect
 From statement 1: PTF10acgq has no spectra to collect
 From statement 1: PTF10acgk has no spectra to collect
 From statement 1: PTF10acfh has no spectra to collect
 From statement 1: PTF10acff has no spectra to collect
+From statement 4: PTF10acfd has no spectra to collect
 From statement 1: PTF10acem has no spectra to collect
 From statement 1: PTF10acej has no spectra to collect
 From statement 1: PTF10ace has no spectra to collect
@@ -3224,6 +3755,7 @@ From statement 1: PTF10abxa has no spectra to collect
 From statement 1: PTF10abwz has no spectra to collect
 From statement 1: PTF10abwj has no spectra to collect
 From statement 1: PTF10abuq has no spectra to collect
+From statement 4: PTF10abui has no spectra to collect
 From statement 1: PTF10abtr has no spectra to collect
 From statement 1: PTF10abtp has no spectra to collect
 From statement 1: PTF10abte has no spectra to collect
@@ -3250,6 +3782,7 @@ From statement 1: PTF10abhm has no spectra to collect
 From statement 1: PTF10abdr has no spectra to collect
 From statement 1: PTF10abcy has no spectra to collect
 From statement 1: PTF10abcq has no spectra to collect
+From statement 4: PTF10abcl has no spectra to collect
 From statement 1: PTF10abck has no spectra to collect
 From statement 1: PTF10abcc has no spectra to collect
 From statement 1: PTF10abca has no spectra to collect
@@ -3257,9 +3790,11 @@ From statement 1: PTF10abby has no spectra to collect
 From statement 1: PTF10abbl has no spectra to collect
 From statement 1: PTF10abbi has no spectra to collect
 From statement 1: PTF10abav has no spectra to collect
+From statement 4: PTF10aazn has no spectra to collect
 From statement 1: PTF10aayx has no spectra to collect
 From statement 1: PTF10aayn has no spectra to collect
 Presumably no other duplicate files found for PTF10aaxi
+From statement 4: PTF10aaxf has no spectra to collect
 From statement 1: PTF10aawn has no spectra to collect
 From statement 1: PTF10aawe has no spectra to collect
 From statement 1: PTF10aavz has no spectra to collect
@@ -3281,6 +3816,7 @@ From statement 1: PTF10aagd has no spectra to collect
 From statement 1: PTF10aagc has no spectra to collect
 From statement 1: PTF10aafc has no spectra to collect
 From statement 1: PTF10aaey has no spectra to collect
+From statement 4: PTF10aaes has no spectra to collect
 From statement 1: PTF10aaea has no spectra to collect
 From statement 1: PTF10aadb has no spectra to collect
 From statement 1: PTF09zm has no spectra to collect
@@ -3293,6 +3829,7 @@ From statement 1: PTF09vx has no spectra to collect
 From statement 1: PTF09vv has no spectra to collect
 From statement 1: PTF09vm has no spectra to collect
 From statement 1: PTF09vf has no spectra to collect
+From statement 4: PTF09uy has no spectra to collect
 From statement 1: PTF09uv has no spectra to collect
 From statement 1: PTF09uu has no spectra to collect
 From statement 1: PTF09ut has no spectra to collect
@@ -3300,6 +3837,7 @@ From statement 1: PTF09up has no spectra to collect
 2 objects returned for PTF09u
 From statement 1: PTF09ty has no spectra to collect
 From statement 1: PTF09tt has no spectra to collect
+From statement 4: PTF09tm has no spectra to collect
 From statement 1: PTF09sk has no spectra to collect
 From statement 1: PTF09sj has no spectra to collect
 From statement 1: PTF09si has no spectra to collect
@@ -3323,7 +3861,7 @@ From statement 1: PTF09iqd has no spectra to collect
 From statement 1: PTF09inv has no spectra to collect
 From statement 1: PTF09inp has no spectra to collect
 From statement 1: PTF09img has no spectra to collect
-Removing duplicate spectrum for PTF09ilp -- SN2009mz_8Jan2010_ObjNa.txt
+Removing duplicate spectrum for PTF09ilp -- SN2009mz_8Jan2010_MWNa.txt
 From statement 1: PTF09igz has no spectra to collect
 From statement 1: PTF09igt has no spectra to collect
 From statement 1: PTF09ige has no spectra to collect
@@ -3350,6 +3888,7 @@ From statement 1: PTF09hdp has no spectra to collect
 From statement 1: PTF09hdo has no spectra to collect
 From statement 1: PTF09har has no spectra to collect
 5 objects returned for PTF09h
+Not collecting spectra of PTF09h at this time
 From statement 1: PTF09gzj has no spectra to collect
 From statement 1: PTF09gyp has no spectra to collect
 From statement 1: PTF09gxq has no spectra to collect
@@ -3456,6 +3995,7 @@ From statement 1: PTF09dsz has no spectra to collect
 From statement 1: PTF09dsw has no spectra to collect
 From statement 1: PTF09dsr has no spectra to collect
 From statement 1: PTF09dsj has no spectra to collect
+From statement 4: PTF09drs has no spectra to collect
 From statement 1: PTF09drf has no spectra to collect
 From statement 1: PTF09dra has no spectra to collect
 From statement 1: PTF09dpy has no spectra to collect
@@ -3500,6 +4040,7 @@ From statement 1: PTF09cbu has no spectra to collect
 2 objects returned for PTF09c
 From statement 1: PTF09byr has no spectra to collect
 From statement 1: PTF09by has no spectra to collect
+From statement 4: PTF09bw has no spectra to collect
 From statement 1: PTF09bsb has no spectra to collect
 From statement 1: PTF09bro has no spectra to collect
 From statement 1: PTF09bnd has no spectra to collect
@@ -3514,6 +4055,7 @@ From statement 1: PTF09bgf has no spectra to collect
 From statement 1: PTF09be has no spectra to collect
 From statement 1: PTF09bdb has no spectra to collect
 From statement 1: PTF09bd has no spectra to collect
+From statement 4: PTF09bcl has no spectra to collect
 From statement 1: PTF09bck has no spectra to collect
 From statement 1: PTF09bce has no spectra to collect
 From statement 1: PTF09bbs has no spectra to collect
@@ -3562,9 +4104,10 @@ From statement 1: PTF09ab has no spectra to collect
 From statement 1: PTF09aa has no spectra to collect
 4 objects returned for PTF09a
 From statement 1: PSRJ1816 has no spectra to collect
+From statement 4: psn_pgc1375631 has no spectra to collect
 Removing duplicate spectrum for PSNJ23274086+2335214 -- tPSNJ23274086_20140819_Gr13_Free_slit1.0_56889_1_e.asci
 Removing duplicate spectrum for PSNJ23274086+2335214 -- tPSNJ23274086_20140819_Gr13_Free_slit1.0_56889_2_e.asci
-Presumably no other duplicate files found for PSNJ23274086+2335214
+Not collecting spectra of PSNJ23274086+2335214 at this time
 From statement 1: PSNJ23002463+0137368 has no spectra to collect
 Removing duplicate spectrum for PSNJ223202 -- PSNJ223202_20120907_wifes_R.dat
 Removing duplicate spectrum for PSNJ22154081-4551086 -- tPSNJ22154081-4551086_20130316_Gr13_Free_slit1.0_1_f.asci
@@ -3576,10 +4119,12 @@ Removing duplicate spectrum for PSNJ20522510-0546156 -- fPSNJ20522510m0546156_20
 Presumably no other duplicate files found for PSNJ20522510-0546156
 Removing duplicate spectrum for PSNJ20313345-4409173 -- tPSNJ20313345-4409173_20121009_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for PSNJ20313345-4409173
+From statement 4: psnj2006 has no spectra to collect
+From statement 4: psnj2002 has no spectra to collect
 From statement 1: PSNJ19590795-5555466 has no spectra to collect
 Removing duplicate spectrum for PSNJ19371572-4218271 -- tPSNJ19371572-4218271_20120817_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for PSNJ19371572-4218271
-Removing duplicate spectrum for PSNJ192512-533602 -- PSNJ192512-533602_20150817_wifes_B.dat
+Removing duplicate spectrum for PSNJ192512-533602 -- PSNJ192512-533602_20150817_wifes_R.dat
 Removing duplicate spectrum for PSNJ18120245-5858271 -- tPSNJ18120245-5858271_20130310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ18120245-5858271
 Removing duplicate spectrum for PSNJ17285509-6609103 -- tPSNJ17285509-6609103_20130828_Gr13_Free_slit1.0_1_f.asci
@@ -3594,7 +4139,7 @@ From statement 1: PSNJ15053007+0138024 has no spectra to collect
 Removing duplicate spectrum for PSNJ14504990-1331037 -- tPSNJ14504990-1331037_20140818_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for PSNJ14504990-1331037 -- tPSNJ14504990-1231037_20140819_Gr13_Free_slit1.0_56889_1_e.asci
 Removing duplicate spectrum for PSNJ14504990-1331037 -- tPSNJ14504990-1231037_20140819_Gr13_Free_slit1.0_56889_2_e.asci
-Presumably no other duplicate files found for PSNJ14504990-1331037
+Not collecting spectra of PSNJ14504990-1331037 at this time
 Removing duplicate spectrum for PSNJ14192892-0537361 -- tSNHunt241_20140422_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ14192892-0537361
 Removing duplicate spectrum for PSNJ13480599+0723164 -- tPSJ13480599+0723164_20140309_Gr13_Free_slit1.0_1_f.asci
@@ -3612,7 +4157,7 @@ From statement 1: PSNJ114845-281731 has no spectra to collect
 Removing duplicate spectrum for PSNJ1148 -- PSNJ1148_20131206_wifes_R.dat
 Removing duplicate spectrum for PSNJ11240925-1219390 -- tPSNJ11240925-1219390_20130317_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ11240925-1219390
-Removing duplicate spectrum for PSNJ1043 -- PSNJ1043_20150215_wifes_R.dat
+Removing duplicate spectrum for PSNJ1043 -- PSNJ1043_20150215_wifes_B.dat
 Removing duplicate spectrum for PSNJ09351166-1624178 -- tPSNJ09351166-1624178_20121220_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ09351166-1624178
 Removing duplicate spectrum for PSNJ09271379-1931599 -- tPSNJ09271379-1931599_20130311_Gr13_Free_slit1.0_1_f.asci
@@ -3624,13 +4169,13 @@ Removing duplicate spectrum for PSNJ08175346+2328105 -- tPSN-J08175346+2328105_2
 Presumably no other duplicate files found for PSNJ08175346+2328105
 From statement 1: PSNJ08145502+5039415 has no spectra to collect
 Presumably no other duplicate files found for PSNJ07285387+3349106
-Removing duplicate spectrum for PSNJ0503 -- PSNJ0503_20141106_wifes_R.dat
+Removing duplicate spectrum for PSNJ0503 -- PSNJ0503_20141106_wifes_B.dat
 From statement 1: PSNJ05001372 has no spectra to collect
 From statement 1: PSNJ03442399-4440081 has no spectra to collect
 Removing duplicate spectrum for PSNJ02452841-6207214 -- tPSNJ02452841-6207214_20120916_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PSNJ02452841-6207214
 2 objects returned for PSNJ0245
-Removing duplicate spectrum for PSNJ0245 -- PSNJ0245_20141027_wifes_B.dat
+Removing duplicate spectrum for PSNJ0245 -- PSNJ0245_20141027_wifes_R.dat
 Presumably no other duplicate files found for PSNJ02263653+1208555
 From statement 1: PSNJ02051332+0606084 has no spectra to collect
 Removing duplicate spectrum for PSNJ01584182-6420485 -- tPSNJ01584182-6420485_20130317_Gr13_Free_slit1.0_1_f.asci
@@ -3642,11 +4187,11 @@ From statement 1: PS15oz has no spectra to collect
 From statement 1: PS15dpn has no spectra to collect
 Removing duplicate spectrum for PS15cyn -- tPS15cyn_20151203_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for PS15cyn -- tPS15cyn_20151203_Gr13_Free_slit1.0_Host_f.asci
-Presumably no other duplicate files found for PS15cyn
+Not collecting spectra of PS15cyn at this time
 From statement 1: PS15cwx has no spectra to collect
 Removing duplicate spectrum for PS15cww -- tPS15cww_20151122_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for PS15cww -- tPS15cww_20151122_Gr13_Free_slit1.5_2_f.asci
-Presumably no other duplicate files found for PS15cww
+Not collecting spectra of PS15cww at this time
 Removing duplicate spectrum for PS15cwo -- tPS15cwo_20151117_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS15cwo
 From statement 1: PS15cko has no spectra to collect
@@ -3658,7 +4203,7 @@ Presumably no other duplicate files found for PS1-14xw
 Removing duplicate spectrum for PS1-14xv -- tPS1-14xv_20140428_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS1-14xv
 Removing duplicate spectrum for PS1-14wl -- PS1-14wl_20140402_wifes_B.dat
-Removing duplicate spectrum for PS1-14vx -- PS1-14vx_20140402_wifes_R.dat
+Removing duplicate spectrum for PS1-14vx -- PS1-14vx_20140402_wifes_B.dat
 Removing duplicate spectrum for PS1-14vw -- PS1-14vw_20140402_wifes_R.dat
 Removing duplicate spectrum for PS1-14rx -- tPS1-14rx_20140310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PS1-14rx
@@ -3721,10 +4266,27 @@ From statement 4: PS1-1000789 has no spectra to collect
 From statement 1: PNVJ01325723+3024260 has no spectra to collect
 Removing duplicate spectrum for PAMELA -- tPAMELA_20140310_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for PAMELA
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for OGLE-2014-SN-067 -- OGLE-2014-SN-067_20140829_wifes_R.dat
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.3 objects returned for PTF12as
+2 objects returned for PTF11lm
+2 objects returned for PTF11gl
+2 objects returned for PTF11bu
+2 objects returned for PTF11ap
+2 objects returned for PTF10xy
+10 objects returned for PTF10w
+2 objects returned for PTF10vi
+2 objects returned for PTF10pv
+3 objects returned for PTF10nc
+2 objects returned for PTF10iu
+4 objects returned for PTF10fe
+2 objects returned for PTF09u
+6 objects returned for PTF09g
+2 objects returned for PTF09f
+13 objects returned for PTF09d
+2 objects returned for PTF09c
+Removing duplicate spectrum for OGLE-2014-SN-067 -- OGLE-2014-SN-067_20140829_wifes_R.dat
 Removing duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_2_f.asci
-Presumably no other duplicate files found for OGLE-2014-SN-053
+Not collecting spectra of OGLE-2014-SN-053 at this time
 Removing duplicate spectrum for OGLE-2014-SN-024 -- tOGLE-2014-SN-024_20140301_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for OGLE-2014-SN-024
 Removing duplicate spectrum for OGLE-2014-SN-023 -- tOGLE-2014-SN-023_20140227_Gr13_Free_slit1.0_1_f.asci
@@ -3799,7 +4361,7 @@ Removing duplicate spectrum for OGLE-2013-SN-075 -- tOGLE-2013-SN-075_20131002_G
 Presumably no other duplicate files found for OGLE-2013-SN-075
 Removing duplicate spectrum for OGLE-2013-SN-073 -- tOGLE-2013-SN-073_20131002_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for OGLE-2013-SN-073
-Removing duplicate spectrum for OGLE-2013-SN-070 -- OGLE-2013-SN-070_20131008_wifes_R.dat
+Removing duplicate spectrum for OGLE-2013-SN-070 -- OGLE-2013-SN-070_20131008_wifes_B.dat
 Removing duplicate spectrum for OGLE-2013-SN-057 -- tOGLE-2013-SN-057_20130829_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for OGLE-2013-SN-057
 Removing duplicate spectrum for OGLE-2013-SN-051 -- tOGLE-2013-SN-051_20130827_Gr13_Free_slit1.0_1_f.asci
@@ -3851,23 +4413,6 @@ Removing duplicate spectrum for MOTJ0746 -- MOTJ0746_20150429_wifes_R.dat
 Removing duplicate spectrum for MLS140310-111158+053913 -- tmls140310-111158+053913_20140310_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for MLS140209-104850+102820 -- tMLS140209-104850+102820_20140219_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for MLS140121-071559+214845 -- tMLS140121-071559+214845_20140129_Gr13_Free_slit1.0_1_f.asci
-3 objects returned for PTF12as
-2 objects returned for PTF11lm
-2 objects returned for PTF11gl
-2 objects returned for PTF11bu
-2 objects returned for PTF11ap
-2 objects returned for PTF10xy
-10 objects returned for PTF10w
-2 objects returned for PTF10vi
-2 objects returned for PTF10pv
-3 objects returned for PTF10nc
-2 objects returned for PTF10iu
-4 objects returned for PTF10fe
-2 objects returned for PTF09u
-6 objects returned for PTF09g
-2 objects returned for PTF09f
-13 objects returned for PTF09d
-2 objects returned for PTF09c
 Removing duplicate spectrum for MLS140102-120307-010132 -- tMLS140102-120307-010132_20140103_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for MLS140102-120307-010132
 Removing duplicate spectrum for MLS131211-095947+132212 -- tMLS131211-095947+132212_20131225_Gr13_Free_slit1.0_1_f.asci
@@ -3880,7 +4425,7 @@ Removing duplicate spectrum for MLS120429-134155-143539 -- fMLS134155m143539_201
 Removing duplicate spectrum for MLS120429-133606-113718 -- fMLS133606m113718_20120430_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for MASTERJ160432.41+122840.7 -- tMASTERJ160432.41+122840.7_20140219_Gr13_Free_slit1.0_1_f.asci
 From statement 1: MASTERJ14102342-4318437 has no spectra to collect
-Removing duplicate spectrum for MASTERJ1408 -- MASTERJ1408_20140423_wifes_R.dat
+Removing duplicate spectrum for MASTERJ1408 -- MASTERJ1408_20140423_wifes_B.dat
 Removing duplicate spectrum for MASTERJ134201.21-023856.2 -- fMASTER134201m023856_20120430_Gr13_Free_slit1.5_1_f.asci
 From statement 1: MASTERJ133253.32+355733.3 has no spectra to collect
 Removing duplicate spectrum for MASTERJ110457.10+300122.0 -- tMASTEROTJ110457.10+300122.0_20140123_Gr13_Free_slit1.0_1_f.asci
@@ -3917,6 +4462,7 @@ Removing duplicate spectrum for LSQ14q -- tLSQ14q_20140102_Gr13_Free_slit1.0_1_f
 Presumably no other duplicate files found for LSQ14q
 Removing duplicate spectrum for LSQ14pt -- tLSQ14pt_20140206_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ14nr -- tLSQ14nr_20140206_Gr13_Free_slit1.0_1_f.asci
+2 objects returned for LSQ14n
 Removing duplicate spectrum for LSQ14mo -- tLSQ14mo_20140130_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ14mc -- tLSQ14mc_20140131_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14mc
@@ -3952,17 +4498,17 @@ Removing duplicate spectrum for LSQ14fj -- tLSQ14fj_20140129_Gr13_Free_slit1.0_1
 Presumably no other duplicate files found for LSQ14fj
 Removing duplicate spectrum for LSQ14edl -- tLSQ14edl_20140819_Gr13_Free_slit1.0_56889_1_e.asci
 Removing duplicate spectrum for LSQ14edl -- tLSQ14edl_20140819_Gr13_Free_slit1.0_56889_2_e.asci
-Presumably no other duplicate files found for LSQ14edl
+Not collecting spectra of LSQ14edl at this time
 Removing duplicate spectrum for LSQ14dtp -- tLSQ14dtp_20140819_Gr13_Free_slit1.0_56889_1_e.asci
 Removing duplicate spectrum for LSQ14dtp -- tLSQ14dtp_20140819_Gr13_Free_slit1.0_56889_2_e.asci
-Presumably no other duplicate files found for LSQ14dtp
+Not collecting spectra of LSQ14dtp at this time
 From statement 1: LSQ14dsu has no spectra to collect
 4 objects returned for LSQ14ds
 Removing duplicate spectrum for LSQ14ds -- tLSQ14ds_20140109_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14ds
 Removing duplicate spectrum for LSQ14dlu -- tLSQ14dlu_20140820_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ14dlu -- tLSQ14dlu_20140820_Gr13_Free_slit1.0_2_f.asci
-Presumably no other duplicate files found for LSQ14dlu
+Not collecting spectra of LSQ14dlu at this time
 Removing duplicate spectrum for LSQ14by -- tLSQ14by_20140124_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14by
 Removing duplicate spectrum for LSQ14bx -- tLSQ14bx_20140107_Gr13_Free_slit1.0_1_f.asci
@@ -3982,7 +4528,7 @@ Presumably no other duplicate files found for LSQ14bef
 Removing duplicate spectrum for LSQ14bdw -- tLSQ14bdw_20140422_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14bdw
 Removing duplicate spectrum for LSQ14bdq -- tLSQ14bdq_20140504_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ14bdq -- LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_1.dat
+Removing duplicate spectrum for LSQ14bdq -- LSQ14bdq_20140505_Gr13_Free_slit1.0_57004_2.dat
 Removing duplicate spectrum for LSQ14bdg -- tLSQ14bdg_20140422_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ14bdg
 Removing duplicate spectrum for LSQ14bcr -- tLSQ14bcr_20140421_Gr13_Free_slit1.0_1_f.asci
@@ -4094,7 +4640,7 @@ Presumably no other duplicate files found for LSQ13dms
 Removing duplicate spectrum for LSQ13dlp -- tLSQ13dlp_20131221_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dlp
 Removing duplicate spectrum for LSQ13dkp -- tLSQ13dkp_20131210_Gr13_Free_slit1.0_2_f.asci
-Removing duplicate spectrum for LSQ13dkp -- LSQ13dkp_20131210_Gr13_Free_slit1.0_57002_1.dat
+Removing duplicate spectrum for LSQ13dkp -- LSQ13dkp_20131210_Gr13_Free_slit1.0_57002_2.dat
 Removing duplicate spectrum for LSQ13dkg -- tLSQ13dkg_20131209_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ13dkg
 Removing duplicate spectrum for LSQ13dj -- tLSQ13dj_20130112_Gr13_Free_slit1.0_1_f.asci
@@ -4266,17 +4812,17 @@ Removing duplicate spectrum for LSQ12hns -- tLSQ12hns_20121222_Gr13_Free_slit1.0
 Presumably no other duplicate files found for LSQ12hns
 Removing duplicate spectrum for LSQ12hnr -- tLSQ12hnr_20121222_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hnr
-Removing duplicate spectrum for LSQ12hnj -- LSQ12hnj_20121222_Gr16_OG530_slit1.0_56457_1.ascii
+Removing duplicate spectrum for LSQ12hnj -- LSQ12hnj_20121222_Gr11_Free_slit1.0_56448_1.ascii
 Removing duplicate spectrum for LSQ12hle -- tLSQ12hle_20121212_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hle
 Removing duplicate spectrum for LSQ12hjq -- tLSQ12hjq_20121212_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ12hjq -- LSQ12hjq_20121212_Gr13_Free_slit1.0_56456_1.ascii
+Removing duplicate spectrum for LSQ12hjq -- LSQ12hjq_20121212_Gr13_Free_slit1.0_56456_2.ascii
 Removing duplicate spectrum for LSQ12hja -- tLSQ12hja_20121212_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hja
 Removing duplicate spectrum for LSQ12heq -- tLSQ12heq_20121211_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for LSQ12heq -- tLSQ12heq_20121213_Gr13_Free_slit1.0_1_f.asci
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hcm -- tLSQ12hcm_20121205_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ12hcm -- LSQ12hcm_20121212_Gr16_OG530_slit1.0_56457_1.ascii
+Removing duplicate spectrum for LSQ12hcm -- LSQ12hcm_20121212_Gr11_Free_slit1.0_56448_1.ascii
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12hbx -- LSQ12hbx_20121213_Gr13_Free_slit1.0_56456_1.ascii
 Removing duplicate spectrum for LSQ12hbo -- tLSQ12hbo_20121205_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12hbo
@@ -4289,7 +4835,7 @@ Presumably no other duplicate files found for LSQ12gxj
 Removing duplicate spectrum for LSQ12gxh -- tLSQ12gxh_20121205_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12gxh
 Removing duplicate spectrum for LSQ12gxb -- tLSQ12gxb_20121203_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for LSQ12gxb -- LSQ12gxb_20121211_Gr16_OG530_slit1.0_56457_1.ascii
+Removing duplicate spectrum for LSQ12gxb -- LSQ12gxb_20121211_Gr11_Free_slit1.0_56448_1.ascii
 Removing duplicate spectrum for LSQ12gwy -- tLSQ12gwy_20121204_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for LSQ12gwy
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for LSQ12gpw -- tLSQ12gpw_20121205_Gr13_Free_slit1.0_1_f.asci
@@ -4341,7 +4887,7 @@ Removing duplicate spectrum for LSQ12evm -- tLSQ12evm_20120916_Gr13_Free_slit1.5
 Presumably no other duplicate files found for LSQ12evm
 Removing duplicate spectrum for LSQ12evl -- tLSQ12evl_20120916_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for LSQ12evl
-Removing duplicate spectrum for LSQ12eve -- LSQ12eve_20120906_wifes_R.dat
+Removing duplicate spectrum for LSQ12eve -- LSQ12eve_20120906_wifes_B.dat
 Removing duplicate spectrum for LSQ12euu -- LSQ12euu_20120906_wifes_R.dat
 Removing duplicate spectrum for LSQ12ers -- LSQ12ers_20120906_wifes_B.dat
 Removing duplicate spectrum for LSQ12eor -- tLSQ12eor_20120907_Gr13_Free_slit1.5_1_f.asci
@@ -4424,37 +4970,26 @@ From statement 1: iPTF16wf has no spectra to collect
 From statement 1: iPTF16vz has no spectra to collect
 From statement 1: iPTF16tu has no spectra to collect
 2 objects returned for iPTF16t
+From statement 4: iPTF16t has no spectra to collect
 From statement 1: iPTF16rk has no spectra to collect
 From statement 1: iPTF16qw has no spectra to collect
 From statement 1: iPTF16pq has no spectra to collect
 From statement 1: iPTF16pl has no spectra to collect
 From statement 1: iPTF16ph has no spectra to collect
 From statement 1: iPTF16lb has no spectra to collect
-Removing duplicate spectrum for iPTF16in -- 16in_20160227_P200_v2.ascii
+From statement 4: iPTF16jl has no spectra to collect
+Removing duplicate spectrum for iPTF16in -- 16in_20160227_P200_v1.ascii
+From statement 4: iPTF16ig has no spectra to collect
 From statement 1: iPTF16he has no spectra to collect
-Removing duplicate spectrum for iPTF16fs -- 16fs_20160227_P200_v2.ascii
+From statement 4: iPTF16fu has no spectra to collect
+Removing duplicate spectrum for iPTF16fs -- 16fs_20160227_P200_v1.ascii
 From statement 1: iPTF16fd has no spectra to collect
 From statement 1: iPTF16fc has no spectra to collect
-3 objects returned for PTF12as
-2 objects returned for PTF11lm
-2 objects returned for PTF11gl
-2 objects returned for PTF11bu
-2 objects returned for PTF11ap
-2 objects returned for PTF10xy
-10 objects returned for PTF10w
-2 objects returned for PTF10vi
-2 objects returned for PTF10pv
-3 objects returned for PTF10nc
-2 objects returned for PTF10iu
-4 objects returned for PTF10fe
-2 objects returned for PTF09u
-6 objects returned for PTF09g
-2 objects returned for PTF09f
-13 objects returned for PTF09d
-2 objects returned for PTF09c
 From statement 1: iPTF16fb has no spectra to collect
 From statement 1: iPTF16ex has no spectra to collect
+From statement 4: iPTF16eu has no spectra to collect
 From statement 1: iPTF16eh has no spectra to collect
+From statement 4: iPTF16ea has no spectra to collect
 3 objects returned for iPTF16e
 From statement 1: iPTF16dp has no spectra to collect
 From statement 1: iPTF16dm has no spectra to collect
@@ -4546,15 +5081,28 @@ From statement 1: iPTF15km has no spectra to collect
 From statement 1: iPTF15il has no spectra to collect
 From statement 1: iPTF15ii has no spectra to collect
 From statement 1: iPTF15gc has no spectra to collect
+From statement 4: iPTF15fnt has no spectra to collect
 From statement 1: iPTF15fnk has no spectra to collect
+From statement 4: iPTF15fmw has no spectra to collect
 From statement 1: iPTF15fmr has no spectra to collect
 From statement 1: iPTF15fmk has no spectra to collect
+From statement 4: iPTF15fls has no spectra to collect
+From statement 4: iPTF15flr has no spectra to collect
+From statement 4: iPTF15fll has no spectra to collect
 From statement 1: iPTF15fli has no spectra to collect
 From statement 1: iPTF15fld has no spectra to collect
 From statement 1: iPTF15flc has no spectra to collect
+From statement 4: iPTF15fkw has no spectra to collect
+From statement 4: iPTF15fku has no spectra to collect
+From statement 4: iPTF15fks has no spectra to collect
+From statement 4: iPTF15fkq has no spectra to collect
+From statement 4: iPTF15fke has no spectra to collect
+From statement 4: iPTF15fkd has no spectra to collect
 From statement 1: iPTF15fkc has no spectra to collect
 From statement 1: iPTF15fjj has no spectra to collect
+From statement 4: iPTF15fjg has no spectra to collect
 From statement 1: iPTF15fje has no spectra to collect
+From statement 4: iPTF15fiv has no spectra to collect
 From statement 1: iPTF15fhl has no spectra to collect
 From statement 1: iPTF15fdv has no spectra to collect
 17 objects returned for iPTF15f
@@ -4611,6 +5159,16 @@ From statement 1: iPTF15dtq has no spectra to collect
 From statement 1: iPTF15dtg has no spectra to collect
 From statement 1: iPTF15dsr has no spectra to collect
 From statement 1: iPTF15dqu has no spectra to collect
+From statement 1: iPTF15dqm has no spectra to collect
+From statement 1: iPTF15dqi has no spectra to collect
+From statement 1: iPTF15dqg has no spectra to collect
+From statement 1: iPTF15dqb has no spectra to collect
+From statement 1: iPTF15dpa has no spectra to collect
+From statement 1: iPTF15doz has no spectra to collect
+From statement 1: iPTF15dou has no spectra to collect
+From statement 1: iPTF15dof has no spectra to collect
+2 objects returned for iPTF15do
+From statement 1: iPTF15dni has no spectra to collect
 3 objects returned for PTF12as
 2 objects returned for PTF11lm
 2 objects returned for PTF11gl
@@ -4628,16 +5186,7 @@ From statement 1: iPTF15dqu has no spectra to collect
 2 objects returned for PTF09f
 13 objects returned for PTF09d
 2 objects returned for PTF09c
-From statement 1: iPTF15dqm has no spectra to collect
-From statement 1: iPTF15dqi has no spectra to collect
-From statement 1: iPTF15dqg has no spectra to collect
-From statement 1: iPTF15dqb has no spectra to collect
-From statement 1: iPTF15dpa has no spectra to collect
-From statement 1: iPTF15doz has no spectra to collect
-From statement 1: iPTF15dou has no spectra to collect
-From statement 1: iPTF15dof has no spectra to collect
 2 objects returned for iPTF15do
-From statement 1: iPTF15dni has no spectra to collect
 From statement 1: iPTF15dlk has no spectra to collect
 From statement 1: iPTF15dlj has no spectra to collect
 From statement 1: iPTF15dld has no spectra to collect
@@ -4779,15 +5328,39 @@ From statement 1: iPTF14gik has no spectra to collect
 From statement 1: iPTF14ghs has no spectra to collect
 From statement 1: iPTF14gas has no spectra to collect
 From statement 1: iPTF14gaq has no spectra to collect
+From statement 4: iPTF14gao has no spectra to collect
 From statement 1: iPTF14fyt has no spectra to collect
 From statement 1: iPTF14fuz has no spectra to collect
 From statement 1: iPTF14fuu has no spectra to collect
+From statement 4: iPTF14fpg has no spectra to collect
 From statement 1: iPTF14fo has no spectra to collect
 From statement 1: iPTF14flu has no spectra to collect
 From statement 1: iPTF14fe has no spectra to collect
 From statement 1: iPTF14evw has no spectra to collect
 From statement 1: iPTF14emu has no spectra to collect
 From statement 1: iPTF14efw has no spectra to collect
+Presumably no other duplicate files found for SN2016cyi
+3 objects returned for PTF12as
+2 objects returned for PTF11lm
+2 objects returned for PTF11gl
+2 objects returned for PTF11bu
+2 objects returned for PTF11ap
+2 objects returned for PTF10xy
+10 objects returned for PTF10w
+2 objects returned for PTF10vi
+2 objects returned for PTF10pv
+3 objects returned for PTF10nc
+2 objects returned for PTF10iu
+4 objects returned for PTF10fe
+2 objects returned for PTF09u
+6 objects returned for PTF09g
+2 objects returned for PTF09f
+13 objects returned for PTF09d
+2 objects returned for PTF09c
+2 objects returned for iPTF15do
+3 objects returned for iPTF15dh
+4 objects returned for iPTF14ig
+10 objects returned for iPTF14i
 From statement 1: iPTF14dpk has no spectra to collect
 From statement 1: iPTF14djt has no spectra to collect
 From statement 1: iPTF14dgx has no spectra to collect
@@ -4892,6 +5465,7 @@ From statement 1: iPTF13z has no spectra to collect
 From statement 1: iPTF13yi has no spectra to collect
 From statement 1: iPTF13ut has no spectra to collect
 From statement 1: iPTF13um has no spectra to collect
+From statement 4: iPTF13ua has no spectra to collect
 From statement 1: iPTF13tx has no spectra to collect
 From statement 1: iPTF13tw has no spectra to collect
 From statement 1: iPTF13tv has no spectra to collect
@@ -4931,6 +5505,7 @@ From statement 1: iPTF13jx has no spectra to collect
 From statement 1: iPTF13jw has no spectra to collect
 From statement 1: iPTF13jv has no spectra to collect
 From statement 1: iPTF13jt has no spectra to collect
+From statement 4: iPTF13h has no spectra to collect
 From statement 1: iPTF13ft has no spectra to collect
 From statement 1: iPTF13fs has no spectra to collect
 From statement 1: iPTF13fr has no spectra to collect
@@ -4969,11 +5544,23 @@ From statement 1: iPTF13duv has no spectra to collect
 From statement 1: iPTF13duj has no spectra to collect
 From statement 1: iPTF13dug has no spectra to collect
 From statement 1: iPTF13dsw has no spectra to collect
+From statement 4: iPTF13dqy has no spectra to collect
 From statement 1: iPTF13dqx has no spectra to collect
+From statement 4: iPTF13dqj has no spectra to collect
 From statement 1: iPTF13dqh has no spectra to collect
+From statement 4: iPTF13dqc has no spectra to collect
+From statement 4: iPTF13dqa has no spectra to collect
+From statement 4: iPTF13dpz has no spectra to collect
+From statement 4: iPTF13don has no spectra to collect
 From statement 1: iPTF13dol has no spectra to collect
+From statement 4: iPTF13dok has no spectra to collect
+From statement 4: iPTF13dnw has no spectra to collect
 From statement 1: iPTF13dnt has no spectra to collect
+From statement 4: iPTF13dnr has no spectra to collect
 From statement 1: iPTF13dnn has no spectra to collect
+From statement 4: iPTF13dnj has no spectra to collect
+From statement 4: iPTF13dni has no spectra to collect
+From statement 4: iPTF13dnh has no spectra to collect
 From statement 1: iPTF13dmv has no spectra to collect
 From statement 1: iPTF13dla has no spectra to collect
 From statement 1: iPTF13djf has no spectra to collect
@@ -5003,26 +5590,36 @@ From statement 1: iPTF13cor has no spectra to collect
 From statement 1: iPTF13cnk has no spectra to collect
 From statement 1: iPTF13cly has no spectra to collect
 From statement 1: iPTF13clj has no spectra to collect
+From statement 4: iPTF13ckk has no spectra to collect
 From statement 1: iPTF13cjz has no spectra to collect
 From statement 1: iPTF13cjq has no spectra to collect
+From statement 4: iPTF13cjh has no spectra to collect
 From statement 1: iPTF13cg has no spectra to collect
 From statement 1: iPTF13ceq has no spectra to collect
 From statement 1: iPTF13cei has no spectra to collect
 From statement 1: iPTF13ceg has no spectra to collect
 From statement 1: iPTF13cd has no spectra to collect
 From statement 1: iPTF13ccu has no spectra to collect
+From statement 4: iPTF13ccq has no spectra to collect
 From statement 1: iPTF13cco has no spectra to collect
 From statement 1: iPTF13ccn has no spectra to collect
+From statement 4: iPTF13ccm has no spectra to collect
 From statement 1: iPTF13ccl has no spectra to collect
 From statement 1: iPTF13ccj has no spectra to collect
+From statement 4: iPTF13ccc has no spectra to collect
 From statement 1: iPTF13cca has no spectra to collect
 From statement 1: iPTF13cbq has no spectra to collect
 From statement 1: iPTF13cbo has no spectra to collect
 From statement 1: iPTF13cbj has no spectra to collect
 From statement 1: iPTF13cbh has no spectra to collect
+From statement 4: iPTF13caz has no spectra to collect
+From statement 4: iPTF13cay has no spectra to collect
+From statement 4: iPTF13cat has no spectra to collect
 From statement 1: iPTF13cap has no spectra to collect
 From statement 1: iPTF13cal has no spectra to collect
+From statement 4: iPTF13cad has no spectra to collect
 20 objects returned for iPTF13c
+From statement 4: iPTF13byn has no spectra to collect
 From statement 1: iPTF13bye has no spectra to collect
 From statement 1: iPTF13bxy has no spectra to collect
 From statement 1: iPTF13bxw has no spectra to collect
@@ -5074,6 +5671,7 @@ From statement 1: iPTF13bdb has no spectra to collect
 From statement 1: iPTF13bbw has no spectra to collect
 From statement 1: iPTF13bao has no spectra to collect
 7 objects returned for iPTF13b
+Not collecting spectra of iPTF13b at this time
 From statement 1: iPTF13azx has no spectra to collect
 From statement 1: iPTF13azs has no spectra to collect
 From statement 1: iPTF13ax has no spectra to collect
@@ -5136,8 +5734,9 @@ From statement 1: GRB130427A has no spectra to collect
 From statement 1: Gerald (ROTSE3 J125708.9-172527) has no spectra to collect
 Removing duplicate spectrum for Gaia16aec -- tGaia_16aec_20160224_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for Gaia16aec -- tGaia_16aec_20160225_Gr13_Free_slit1.0_1_f.asci
-Presumably no other duplicate files found for Gaia16aec
-Removing duplicate spectrum for Gaia15agm -- Gaia15agm_20150701_wifes_B.dat
+Not collecting spectra of Gaia16aec at this time
+Removing duplicate spectrum for Gaia15agm -- Gaia15agm_20150701_wifes_R.dat
+Not collecting spectra of Dougie at this time
 From statement 1: DES15S2nr has no spectra to collect
 Presumably no other duplicate files found for DES14X3taz
 From statement 3: DES12S2a has no spectra to collect
@@ -5147,7 +5746,7 @@ From statement 4: DES12S1a has no spectra to collect
 From statement 1: DavidLevitan has no spectra to collect
 Removing duplicate spectrum for CSS141028-081814+044553 -- tCSS141028-081814+044553_20141101_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for CSS141028-081814+044553 -- tCSS141028-081814+044553_20141101_Gr13_Free_slit1.0_2_f.asci
-Presumably no other duplicate files found for CSS141028-081814+044553
+Not collecting spectra of CSS141028-081814+044553 at this time
 From statement 1: CSS140925-002812+070944 has no spectra to collect
 Removing duplicate spectrum for CSS140501-170414+174839 -- tCSS140501-170414+174839_20140504_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for CSS140501-170414+174839
@@ -5222,7 +5821,7 @@ From statement 4: CSS121113-091919+171410 has no spectra to collect
 From statement 3: CSS121009-025917-141610 has no spectra to collect
 From statement 4: CSS121009-025917-141610 has no spectra to collect
 Removing duplicate spectrum for CSS121008-014245+213928 -- tCSS121008014245213928_20121009_Gr13_Free_slit1.5_1_f.asci
-Removing duplicate spectrum for CSS121008-014245+213928 -- CSS121008-014245+213_20121104_Gr13_Free_slit1.0_56456_1.ascii
+Removing duplicate spectrum for CSS121008-014245+213928 -- CSS121008-014245+213_20121104_Gr13_Free_slit1.0_56456_2.ascii
 Removing duplicate spectrum for CSS121006-015926+014412 -- tCSS121006015926014412_20121008_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for CSS121006-015926+014412
 Removing duplicate spectrum for CSS121005-212556+122328 -- tCSS121005212556122328_20121008_Gr13_Free_slit1.0_1_f.asci
@@ -5255,6 +5854,9 @@ From statement 3: CSS080701-234413+075224 has no spectra to collect
 From statement 4: CSS080701-234413+075224 has no spectra to collect
 Removing duplicate spectrum for chase_ESO-9015 -- tchase_ESO-9015_20121107_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for chase_ESO-9015
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for AT2016enp -- tAT2016enp_20160806_Gr11_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for AT2016enp -- tAT2016enp_20160806_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of AT2016enp at this time
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: AT2016aqs has no spectra to collect
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: ASASSN-16at has no spectra to collect
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 1: ASASSN-15rp has no spectra to collect
@@ -5263,70 +5865,46 @@ From statement 1: ASASSN-15pz has no spectra to collect
 From statement 1: ASASSN-15oz has no spectra to collect
 From statement 1: ASASSN-15og has no spectra to collect
 From statement 1: ASASSN-15nr has no spectra to collect
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for ASASSN-15lv -- ASASSN-15lv_20150701_wifes_B.dat
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for ASASSN-15lv -- ASASSN-15lv_20150701_wifes_R.dat
 Presumably no other duplicate files found for ASASSN-15lh
-Removing duplicate spectrum for ASASSN-15ic -- ASASSN-15ic_20150429_wifes_B.dat
-Removing duplicate spectrum for ASASSN-15hz -- ASASSN-15hz_20150429_wifes_B.dat
+Removing duplicate spectrum for ASASSN-15ic -- ASASSN-15ic_20150429_wifes_R.dat
+Removing duplicate spectrum for ASASSN-15hz -- ASASSN-15hz_20150429_wifes_R.dat
 Removing duplicate spectrum for ASASSN-15hx -- tASASSN-15hx_20150426_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for ASASSN-15hs -- ASASSN-15hs_20150429_wifes_B.dat
+Removing duplicate spectrum for ASASSN-15hs -- ASASSN-15hs_20150429_wifes_R.dat
 Removing duplicate spectrum for ASASSN-15go -- ASASSN-15go_20150411_wifes_B.dat
 From statement 1: ASASSN-15ga has no spectra to collect
 From statement 1: ASASSN-15fz has no spectra to collect
 From statement 1: ASASSN-15fi has no spectra to collect
 Presumably no other duplicate files found for ASASSN-15ed
-Removing duplicate spectrum for ASASSN-15eb -- ASASSN-15eb_20150305_wifes_B.dat
-Removing duplicate spectrum for ASASSN-15dz -- ASASSN-15dz_20150305_wifes_R.dat
+Removing duplicate spectrum for ASASSN-15eb -- ASASSN-15eb_20150305_wifes_R.dat
+Removing duplicate spectrum for ASASSN-15dz -- ASASSN-15dz_20150305_wifes_B.dat
 From statement 1: ASASSN-15be has no spectra to collect
 From statement 1: ASASSN-15bd has no spectra to collect
 From statement 1: ASASSN-15ba has no spectra to collect
 Removing duplicate spectrum for ASASSN-15az -- tASASSN-15az_20150114_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for ASASSN-15az -- ASASSN-15az_20150116_wifes_R.dat
 Removing duplicate spectrum for ASASSN-15as -- tASASSN-15as_20150114_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for ASASSN-15as -- ASASSN-15as_20150116_wifes_R.dat
+Removing duplicate spectrum for ASASSN-15as -- ASASSN-15as_20150116_wifes_B.dat
 Removing duplicate spectrum for ASASSN-15al -- tASASSN-15al_20150112_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for ASASSN-15al -- ASASSN-15al_20150115_wifes_R.dat
+Removing duplicate spectrum for ASASSN-15al -- ASASSN-15al_20150115_wifes_B.dat
 Removing duplicate spectrum for ASASSN-15aj -- tASASSN-15aj_20150112_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for ASASSN-14lt -- ASASSN-14lt_20141216_wifes_B.dat
+Removing duplicate spectrum for ASASSN-14lt -- ASASSN-14lt_20141216_wifes_R.dat
 Removing duplicate spectrum for ASASSN-14kq -- tASASSN-14kq_20141128_Gr13_Free_slit1.0_1_f.asci
-Removing duplicate spectrum for ASASSN-14kq -- ASASSN-14kq_20141126_wifes_R.dat
-Removing duplicate spectrum for ASASSN-14kp -- ASASSN-14kp_20141126_wifes_B.dat
-3 objects returned for PTF12as
-2 objects returned for PTF11lm
-2 objects returned for PTF11gl
-2 objects returned for PTF11bu
-2 objects returned for PTF11ap
-2 objects returned for PTF10xy
-10 objects returned for PTF10w
-2 objects returned for PTF10vi
-2 objects returned for PTF10pv
-3 objects returned for PTF10nc
-2 objects returned for PTF10iu
-4 objects returned for PTF10fe
-2 objects returned for PTF09u
-6 objects returned for PTF09g
-2 objects returned for PTF09f
-13 objects returned for PTF09d
-2 objects returned for PTF09c
-2 objects returned for iPTF15do
-3 objects returned for iPTF15dh
-4 objects returned for iPTF14ig
-10 objects returned for iPTF14i
-2 objects returned for iPTF13dh
-3 objects returned for iPTF13al
-3 objects returned for iPTF13ae
+Removing duplicate spectrum for ASASSN-14kq -- ASASSN-14kq_20141126_wifes_B.dat
+Removing duplicate spectrum for ASASSN-14kp -- ASASSN-14kp_20141126_wifes_R.dat
 Removing duplicate spectrum for ASASSN-14jz -- tASASSN-14jz_20141124_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for ASASSN-14jz -- tASASSN-14jz_20141124_Gr13_Free_slit1.0_2_f.asci
-Presumably no other duplicate files found for ASASSN-14jz
+Not collecting spectra of ASASSN-14jz at this time
 Removing duplicate spectrum for ASASSN-14jg -- ASASSN-14jg_20141106_wifes_B.dat
 Removing duplicate spectrum for ASASSN-14jc -- tASASSN-14jc_20141023_Gr13_Free_slit1.0_1_f.asci
 From statement 1: ASASSN-14jb has no spectra to collect
 Removing duplicate spectrum for ASASSN-14ii -- ASASSN-14ii_20141003_wifes_R.dat
-Removing duplicate spectrum for ASASSN-14ih -- ASASSN-14ih_20141003_wifes_R.dat
-Removing duplicate spectrum for ASASSN-14ig -- ASASSN-14ig_20141003_wifes_R.dat
-Removing duplicate spectrum for ASASSN-14hr -- ASASSN-14hr_20141003_wifes_R.dat
+Removing duplicate spectrum for ASASSN-14ih -- ASASSN-14ih_20141003_wifes_B.dat
+Removing duplicate spectrum for ASASSN-14ig -- ASASSN-14ig_20141003_wifes_B.dat
+Removing duplicate spectrum for ASASSN-14hr -- ASASSN-14hr_20141003_wifes_B.dat
 Removing duplicate spectrum for ASASSN-14gm -- tASASSN-14gm_20140902_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for ASASSN-14gm -- tASASSN-14gm_20140902_Gr13_Free_slit1.0_2_f.asci
-Presumably no other duplicate files found for ASASSN-14gm
+Not collecting spectra of ASASSN-14gm at this time
 Removing duplicate spectrum for ASASSN-14fw -- tASASSN-14fw_20140824_Gr13_Free_slit1.5_1_f.asci
 Removing duplicate spectrum for ASASSN-14fw -- ASASSN-14fw_20140910_wifes_B.dat
 Removing duplicate spectrum for ASASSN-14fo -- tASASSN-14fo_20140816_Gr13_Free_slit1.0_1_f.asci
@@ -5334,7 +5912,7 @@ Removing duplicate spectrum for ASASSN-14fo -- ASASSN-14fo_20140910_wifes_R.dat
 Removing duplicate spectrum for ASASSN-14ew -- ASASSN-14ew_20140910_wifes_B.dat
 From statement 1: ASASSN-14eu has no spectra to collect
 From statement 1: ASASSN-14dp has no spectra to collect
-Removing duplicate spectrum for ASASSN-13co -- ASASSN-13co_20130919_wifes_B.dat
+Removing duplicate spectrum for ASASSN-13co -- ASASSN-13co_20130919_wifes_R.dat
 Removing duplicate spectrum for ASASSN-13ch -- tASASSN-ch_20130829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for ASASSN-13ch
-Runtime: 4.733684853712718 minutes
+Runtime: 65.57642883459727 minutes

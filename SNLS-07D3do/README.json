@@ -1,5 +1,5 @@
 {
-    "07D3do_sn_recal_atmos.dat": {
+    "07D3do_recal_atm.dat": {
         "Type": "SN Ia",
         "Redshift": "1.02",
         "Obs. Date": "2007-04-10",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2013-05-01",
         "Modified By": "ofer-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

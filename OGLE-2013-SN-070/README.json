@@ -1,5 +1,5 @@
 {
-    "OGLE-2013-SN-070_20131008_wifes_B.dat": {
+    "OGLE-2013-SN-070_20131008_wifes_R.dat": {
         "Type": "SN Ia",
         "Redshift": "0.043",
         "Obs. Date": "2013-10-08",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

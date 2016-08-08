@@ -1,5 +1,5 @@
 {
-    "SMT1031-3658_20150411_wifes_R.dat": {
+    "SMT1031-3658_20150411_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.035",
         "Obs. Date": "2015-04-11",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

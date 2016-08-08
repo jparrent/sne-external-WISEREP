@@ -1,5 +1,5 @@
 {
-    "LSQ12eve_20120906_wifes_B.dat": {
+    "LSQ12eve_20120906_wifes_R.dat": {
         "Type": "SN Ia",
         "Redshift": "0.098",
         "Obs. Date": "2012-09-06",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

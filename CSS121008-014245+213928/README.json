@@ -27,7 +27,7 @@
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     },
-    "CSS121008-014245+213_20121104_Gr13_Free_slit1.0_56456_2.ascii": {
+    "CSS121008-014245+213_20121104_Gr13_Free_slit1.0_56456_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.05",
         "Obs. Date": "2012-11-05",
@@ -40,6 +40,5 @@
         "Reduction Status": "final",
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
-    },
-    "Private Spectra": "3"
+    }
 }
