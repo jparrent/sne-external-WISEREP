@@ -14,7 +14,6 @@ SN2006kg is a AGN
 SN2004cy is a Other
 SN1999fs is a Other
 SN1999fg is a Other
-SN1960N is a Other
 SMTJ13455799-3532544 is a Other
 SKY_J5271481-4716073 is a Galaxy
 Q1434.7+5444 is a AGN
@@ -28,12 +27,15 @@ PTF10fqs is a ILRT
 PTF09ge is a TDE
 PTF09djl is a TDE
 PTF09axc is a TDE
+PSNJ2316 is a LBV
+PSNJ1944 is a Nova
 PSNJ15213475-0722183 is a LBV
 PSNJ12393328+1525520 is a Other
 PSNJ09132750+7627410 is a SN impostor
 PSNJ07475117-1844586 is a LBV
 PSNJ06120295-2149353 is a Other
 PSNJ01184597+1459402 is a Other
+PSNJ00150879-3912504 is a LBV
 PS16uk is a CV
 PS15dqx is a Other
 PS15ddr is a Other
@@ -218,6 +220,7 @@ HD184738 is a WR-WC
 HD177656 is a WR-WC
 HD168206 is a WR-WC
 HD165763 is a WR-WC
+Gaia16axp is a CV
 Gaia16afr is a Varstar
 Gaia16acw is a Varstar
 G191B2B is a Std-spec
@@ -243,6 +246,15 @@ BD+332642 is a Std-spec
 BD+28d4211 is a Std-spec
 BD+262606 is a Std-spec
 BD+174708 is a Std-spec
+AT2016euf is a Other
+AT2016esi is a CV
+AT2016eqh is a Other
+AT2016eqg is a CV
+AT2016epb is a Varstar
+AT2016enm is a CV
+AT2016enl is a Other
+AT2016ele is a CV
+AT2016ejq is a CV
 AT2016ehr is a Galaxy
 ASASSN-15oi is a Other
 ASASSN-15ek is a CV
@@ -253,6 +265,3 @@ ASASSN-14fr is a Varstar
 ASASSN-14fi is a Varstar
 ASASSN-14fh is a CV
 ASASSN-14ae is a TDE
-PSNJ2316 is a LBV
-PSNJ1944 is a Nova
-PSNJ00150879-3912504 is a LBV

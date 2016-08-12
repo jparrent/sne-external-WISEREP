@@ -1,5 +1,5 @@
 {
-    "SNhunt261_20141027_wifes_R.dat": {
+    "SNhunt261_20141027_wifes_B.dat": {
         "Type": "SN Ia-91bg-like",
         "Redshift": "0.02907",
         "Obs. Date": "2014-10-27",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

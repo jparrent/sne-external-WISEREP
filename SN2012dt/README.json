@@ -1,5 +1,5 @@
 {
-    "SN2012dt_20120922_wifes_B.dat": {
+    "SN2012dt_20120922_wifes_R.dat": {
         "Type": "SN IIP",
         "Redshift": "0.0189",
         "Obs. Date": "2012-09-22",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "sn15136-1022.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.14869",
         "Obs. Date": "2006-10-15",
         "Program": "NTT-NOT",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2012-03-22",
         "Modified By": "admin-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

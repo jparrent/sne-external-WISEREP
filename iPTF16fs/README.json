@@ -1,5 +1,5 @@
 {
-    "16fs_20160227_P200_v1.ascii": {
+    "16fs_20160227_P200_v2.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.117",
         "Obs. Date": "2016-02-27",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2016-03-09",
         "Modified By": "ilanm"
-    },
-    "Private Spectra": "0"
+    }
 }

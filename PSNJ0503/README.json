@@ -1,5 +1,5 @@
 {
-    "PSNJ0503_20141106_wifes_B.dat": {
+    "PSNJ0503_20141106_wifes_R.dat": {
         "Type": "SN Ib",
         "Redshift": "0.01444",
         "Obs. Date": "2014-11-06",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

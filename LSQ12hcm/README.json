@@ -13,7 +13,7 @@
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     },
-    "LSQ12hcm_20121212_Gr11_Free_slit1.0_56448_1.ascii": {
+    "LSQ12hcm_20121212_Gr16_OG530_slit1.0_56457_1.ascii": {
         "Type": "SN I",
         "Redshift": "0.025",
         "Obs. Date": "2012-12-13",
@@ -26,6 +26,5 @@
         "Reduction Status": "final",
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
-    },
-    "Private Spectra": "2"
+    }
 }

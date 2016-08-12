@@ -1,17 +1,16 @@
 {
-    "tns_2016aak_2016-02-06_03-34-06_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
+    "tPS16adq_20160205_Gr11_Free_slit1.0_1_f.asci": {
         "Type": "SN Ia",
         "Redshift": "0.028",
         "Obs. Date": "2016-02-06",
-        "Program": "",
+        "Program": "PESSTO",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Elias-Rosa, Terreran, Cikota",
+        "Observer": "Elias-Rosa,Terreran,Cikota",
         "Reducer": "Cappellaro",
-        "Reduction Status": "final",
+        "Reduction Status": "rapid",
         "Last Modified": "2016-02-06",
-        "Modified By": "upload-TNS"
-    },
-    "Private Spectra": "0"
+        "Modified By": "ilanm-UploadSet"
+    }
 }

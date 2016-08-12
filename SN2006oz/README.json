@@ -1,6 +1,6 @@
 {
     "spec_sn2006oz.dat": {
-        "Type": "",
+        "Type": "SN Ib",
         "Redshift": "0.376",
         "Obs. Date": "2006-11-22",
         "Program": "",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2014-06-19",
         "Modified By": "ofer"
-    },
-    "Private Spectra": "0"
+    }
 }

@@ -1,0 +1,16 @@
+{
+    "tAT2016els_20160802_Gr13_Free_slit1.0_2_f.asci": {
+        "Type": "SLSN-I",
+        "Redshift": "0.217",
+        "Obs. Date": "2016-08-03",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Fraser,Reynolds",
+        "Reducer": "Mattila",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-08-03",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

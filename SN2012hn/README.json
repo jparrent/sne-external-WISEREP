@@ -13,7 +13,7 @@
         "Last Modified": "2014-07-30",
         "Modified By": "ofer-UploadSet"
     },
-    "SN2012hn_20120420_Gr16_OG530_slit1.0_56457_1.ascii": {
+    "SN2012hn_20120420_Gr11_Free_slit1.0_56449_1.ascii": {
         "Type": "SN I-faint",
         "Redshift": "0.0076",
         "Obs. Date": "2012-04-21",
@@ -124,6 +124,5 @@
         "Reduction Status": "final",
         "Last Modified": "2013-01-12",
         "Modified By": "ofer-UploadSet"
-    },
-    "Private Spectra": "9"
+    }
 }
