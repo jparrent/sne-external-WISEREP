@@ -220,6 +220,7 @@ HD184738 is a WR-WC
 HD177656 is a WR-WC
 HD168206 is a WR-WC
 HD165763 is a WR-WC
+Gaia16axp is a CV
 Gaia16afr is a Varstar
 Gaia16acw is a Varstar
 G191B2B is a Std-spec
@@ -245,7 +246,13 @@ BD+332642 is a Std-spec
 BD+28d4211 is a Std-spec
 BD+262606 is a Std-spec
 BD+174708 is a Std-spec
+AT2016euf is a Other
+AT2016esi is a CV
+AT2016eqh is a Other
+AT2016eqg is a CV
 AT2016epb is a Varstar
+AT2016enm is a CV
+AT2016enl is a Other
 AT2016ele is a CV
 AT2016ejq is a CV
 AT2016ehr is a Galaxy

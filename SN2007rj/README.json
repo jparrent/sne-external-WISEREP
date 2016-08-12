@@ -1,6 +1,6 @@
 {
     "sn20718-2577.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.0888",
         "Obs. Date": "2007-11-14",
         "Program": "NTT-NOT",
@@ -14,7 +14,7 @@
         "Modified By": "admin-UploadSet"
     },
     "sn20718-2593.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.0888",
         "Obs. Date": "2007-11-15",
         "Program": "NTT-NOT",
