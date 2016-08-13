@@ -2322,3 +2322,7 @@ ASASSN-14il has 9 private spectra
 ASASSN-14hu has 9 private spectra
 ASASSN-14ha has 29 private spectra
 ASASSN-14gm has 6 private spectra
+SN2016eiy has 4 private spectra
+SN2016egz has 3 private spectra
+SN2016eiy has 4 private spectra
+SN2016egz has 3 private spectra

@@ -5337,4 +5337,56 @@ From statement 1: ASASSN-14dp has no spectra to collect
 Removing duplicate spectrum for ASASSN-13co -- ASASSN-13co_20130919_wifes_B.dat
 Removing duplicate spectrum for ASASSN-13ch -- tASASSN-ch_20130829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for ASASSN-13ch
-Runtime: 4.733684853712718 minutes
+Runtime: 4.733684853712718 minutesRemoving duplicate spectrum for SN2016ekt -- tASASSN-16hw_20160730_Gr13_Free_slit5.0_1_f.asci
+Presumably no other duplicate files found for SN2016ekt
+Removing duplicate spectrum for SN2016eia -- tGaia16avl_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eia
+Removing duplicate spectrum for SN2016eiy -- tAT2016eiy_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eiy
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016ege -- tAT2016ege_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016ege
+Removing duplicate spectrum for SN2016eho -- tGaia16avy_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eho
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016ehv -- tGaia16avq_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ehv
+Removing duplicate spectrum for SN2016eic -- tGaia16avh_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eic
+Removing duplicate spectrum for SN2016eig -- tAT2016eig_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eig
+Removing duplicate spectrum for SN2016eif -- tAT2016eif_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eif
+Removing duplicate spectrum for SN2016egz -- tAT2016egz_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016egz
+Removing duplicate spectrum for SN2016dln -- tAT2016dln_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dln
+Removing duplicate spectrum for SN2016dkf -- tAT2016dkf_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dkf
+Removing duplicate spectrum for SN2016dgj -- tAT2016dgj_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dgj
+Runtime: 1.4075928449630737 minutesRemoving duplicate spectrum for SN2016ekt -- tASASSN-16hw_20160730_Gr13_Free_slit5.0_1_f.asci
+Presumably no other duplicate files found for SN2016ekt
+Removing duplicate spectrum for SN2016eia -- tGaia16avl_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eia
+Removing duplicate spectrum for SN2016eiy -- tAT2016eiy_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eiy
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016ege -- tAT2016ege_20160726_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016ege
+Removing duplicate spectrum for SN2016eho -- tGaia16avy_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eho
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016ehv -- tGaia16avq_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ehv
+Removing duplicate spectrum for SN2016eic -- tGaia16avh_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eic
+Removing duplicate spectrum for SN2016eig -- tAT2016eig_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eig
+Removing duplicate spectrum for SN2016eif -- tAT2016eif_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016eif
+Removing duplicate spectrum for SN2016egz -- tAT2016egz_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016egz
+Removing duplicate spectrum for SN2016dln -- tAT2016dln_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dln
+Removing duplicate spectrum for SN2016dkf -- tAT2016dkf_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dkf
+Removing duplicate spectrum for SN2016dgj -- tAT2016dgj_20160725_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016dgj
+Runtime: 1.2772823174794514 minutes

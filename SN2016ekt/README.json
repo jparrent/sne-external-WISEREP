@@ -1,17 +1,16 @@
 {
-    "tASASSN-16hw_20160730_Gr13_Free_slit5.0_1_f.asci": {
+    "tns_2016ekt_2016-07-31_06-45-43_ESO-NTT_EFOSC2-NTT.asci": {
         "Type": "SN Ia",
         "Redshift": "0.017",
         "Obs. Date": "2016-07-31",
-        "Program": "PESSTO",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Fraser,Reynolds",
         "Reducer": "Mattila",
-        "Reduction Status": "rapid",
+        "Reduction Status": "final",
         "Last Modified": "2016-07-31",
-        "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+        "Modified By": "upload-TNS"
+    }
 }
