@@ -13,7 +13,7 @@
         "Last Modified": "2016-03-31",
         "Modified By": "ofer-UploadSet"
     },
-    "SN2013bz_20130526_wifes_R.dat": {
+    "SN2013bz_20130526_wifes_B.dat": {
         "Type": "SN Ia-pec",
         "Redshift": "0.015",
         "Obs. Date": "2013-05-26",
@@ -26,6 +26,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

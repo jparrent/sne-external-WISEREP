@@ -97,7 +97,7 @@
         "Last Modified": "2013-08-08",
         "Modified By": "stefana-UploadSet"
     },
-    "2006jc_20061018_ISIS_short_cal.ascii": {
+    "2006jc_20061018_ISIS_cal.ascii": {
         "Type": "SN Ibn",
         "Redshift": "0.005574",
         "Obs. Date": "2006-10-18",
@@ -530,6 +530,5 @@
         "Reduction Status": "final",
         "Last Modified": "2014-06-23",
         "Modified By": "ilanm"
-    },
-    "Private Spectra": "0"
+    }
 }

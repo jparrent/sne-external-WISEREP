@@ -1,5 +1,5 @@
 {
-    "SN2014co_20140708_wifes_B.dat": {
+    "SN2014co_20140708_wifes_R.dat": {
         "Type": "SN II",
         "Redshift": "0.016",
         "Obs. Date": "2014-07-08",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

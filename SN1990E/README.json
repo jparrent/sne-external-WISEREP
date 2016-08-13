@@ -1,7 +1,7 @@
 {
     "sn1990E-19900319-mmt.flm": {
-        "Type": "",
-        "Redshift": "",
+        "Type": "SN IIP",
+        "Redshift": "0.00414",
         "Obs. Date": "1990-03-19",
         "Program": "",
         "Contributor": "Schmidt et al. 1993",
@@ -14,8 +14,8 @@
         "Modified By": "ilanm-UploadSet"
     },
     "sn1990E-19901112-mmt.flm": {
-        "Type": "",
-        "Redshift": "",
+        "Type": "SN IIP",
+        "Redshift": "0.00414",
         "Obs. Date": "1990-11-12",
         "Program": "",
         "Contributor": "Schmidt et al. 1993",
@@ -26,6 +26,5 @@
         "Reduction Status": "final",
         "Last Modified": "2014-12-04",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

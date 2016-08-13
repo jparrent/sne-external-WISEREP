@@ -1,0 +1,30 @@
+{
+    "tns_2016cyi_2016-08-02.70_BAO-2.16m_Phot-spec_PTSS.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.043",
+        "Obs. Date": "2016-08-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Liming Rui and Han LIn",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-06",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2016cyi_2016-08-02.70_BAO-2.16m_Phot-spec_PTSS_0.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.043",
+        "Obs. Date": "2016-08-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Liming Rui and Han Lin",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-07",
+        "Modified By": "upload-TNS"
+    }
+}

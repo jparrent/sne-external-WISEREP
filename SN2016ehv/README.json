@@ -1,16 +1,16 @@
 {
-    "tns_2016ehv_2016-07-26_02-30-18_ESO-NTT_EFOSC2-NTT.asci": {
+    "tGaia16avq_20160725_Gr13_Free_slit1.5_1_f.asci": {
         "Type": "SN Ia",
         "Redshift": "0.07",
         "Obs. Date": "2016-07-26",
-        "Program": "",
+        "Program": "PESSTO",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Fraser/Reynolds",
         "Reducer": "Inserra",
-        "Reduction Status": "final",
+        "Reduction Status": "rapid",
         "Last Modified": "2016-07-26",
-        "Modified By": "upload-TNS"
+        "Modified By": "ilanm-UploadSet"
     }
 }

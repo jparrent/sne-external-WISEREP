@@ -1,5 +1,5 @@
 {
-    "SN2003gd_15Jun2003_MWNa.txt": {
+    "SN2003gd_15Jun2003_ObjNa.txt": {
         "Type": "SN II",
         "Redshift": "0.002192",
         "Obs. Date": "2003-06-15",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2011-08-12",
         "Modified By": "assaf"
-    },
-    "Private Spectra": "0"
+    }
 }

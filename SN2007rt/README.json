@@ -27,7 +27,7 @@
         "Last Modified": "2013-07-22",
         "Modified By": "pinhasa-UploadSet"
     },
-    "2007rt_WHT_ISIS_R1200R_20080204.ascii": {
+    "2007rt_WHT_ISIS_H2400B_20080204.ascii": {
         "Type": "SN IIn",
         "Redshift": "0.02",
         "Obs. Date": "2008-02-04",
@@ -110,6 +110,5 @@
         "Reduction Status": "final",
         "Last Modified": "2013-07-22",
         "Modified By": "pinhasa-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

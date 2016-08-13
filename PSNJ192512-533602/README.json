@@ -1,5 +1,5 @@
 {
-    "PSNJ192512-533602_20150817_wifes_R.dat": {
+    "PSNJ192512-533602_20150817_wifes_B.dat": {
         "Type": "SN Ia",
         "Redshift": "0.054",
         "Obs. Date": "2015-08-17",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2015-09-24",
         "Modified By": "ilanm-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

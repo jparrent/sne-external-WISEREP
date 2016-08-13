@@ -1,6 +1,6 @@
 {
     "sn20474-2563.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.2713",
         "Obs. Date": "2007-11-15",
         "Program": "NTT-NOT",
@@ -14,7 +14,7 @@
         "Modified By": "admin-UploadSet"
     },
     "sn20474-2714.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.2713",
         "Obs. Date": "2007-12-07",
         "Program": "NTT-NOT",
@@ -28,7 +28,7 @@
         "Modified By": "admin-UploadSet"
     },
     "sn20474-3003.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.2713",
         "Obs. Date": "2007-12-09",
         "Program": "NTT-NOT",
@@ -40,6 +40,5 @@
         "Reduction Status": "final",
         "Last Modified": "2012-03-22",
         "Modified By": "admin-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

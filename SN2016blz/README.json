@@ -1,17 +1,16 @@
 {
-    "tns_2016blz_2016-04-11_07-48-03_ESO-NTT_EFOSC2-NTT_PESSTO.asci": {
+    "tAT2016blz_20160410_Gr13_Free_slit1.0_1_f.asci": {
         "Type": "SN II",
         "Redshift": "0.011",
         "Obs. Date": "2016-04-11",
-        "Program": "",
+        "Program": "PESSTO",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Johansson, Magee, Bar",
-        "Reducer": "Johansson, Magee, Bar",
-        "Reduction Status": "final",
+        "Observer": "Johansson/Magee/Bar",
+        "Reducer": "Johansson/Magee/Bar",
+        "Reduction Status": "rapid",
         "Last Modified": "2016-04-11",
-        "Modified By": "upload-TNS"
-    },
-    "Private Spectra": "4"
+        "Modified By": "ofer-UploadSet"
+    }
 }

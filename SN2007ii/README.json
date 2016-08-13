@@ -1,6 +1,6 @@
 {
     "sn17254-1813.ascii": {
-        "Type": "",
+        "Type": "SN Ia",
         "Redshift": "0.2691",
         "Obs. Date": "2007-09-19",
         "Program": "NTT-NOT",
@@ -12,6 +12,5 @@
         "Reduction Status": "final",
         "Last Modified": "2012-03-22",
         "Modified By": "admin-UploadSet"
-    },
-    "Private Spectra": "0"
+    }
 }

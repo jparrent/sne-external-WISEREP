@@ -27,6 +27,20 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
+    "sn2013fc_JD2456533.9": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-08-29",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Kangas, Kankare",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
     "SN2013fc_20130829_Gr11_Free_slit1.0_56999_1.dat": {
         "Type": "SN IIn-pec",
         "Redshift": "0.018",
@@ -54,6 +68,20 @@
         "Reduction Status": "final",
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
+    },
+    "sn2013fc_JD2456539.5": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-04",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "SALT - RSS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
     },
     "SN2013fc_20130907_Gr11_Free_slit1.0_56999_1.dat": {
         "Type": "SN IIn-pec",
@@ -111,6 +139,76 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
+    "sn2013fc_JD2456543.7": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-08",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Kangas, Kankare",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456545.2": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-09",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456549.1": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-13",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456555.1": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-19",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456558.4": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-09-22",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "SALT - RSS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
     "SN2013fc_20131002_Gr11_Free_slit1.0_57001_1.dat": {
         "Type": "SN IIn-pec",
         "Redshift": "0.018",
@@ -167,6 +265,34 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
+    "sn2013fc_JD2456568.6": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-10-03",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Inserra, Chen",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456574.2": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-10-08",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
     "SN2013fc_20131014_GB_merge_57001_1_f.dat": {
         "Type": "SN IIn-pec",
         "Redshift": "0.018",
@@ -222,6 +348,20 @@
         "Reduction Status": "final",
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
+    },
+    "sn2013fc_JD2456590.0": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-10-24",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
     },
     "SN2013fc_20131102_GB_merge_57002_1_f.dat": {
         "Type": "SN IIn-pec",
@@ -307,6 +447,48 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
+    "sn2013fc_JD2456599.7": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-11-04",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Turatto, Spiro",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456607.5": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-11-11",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "SALT - RSS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
+    "sn2013fc_JD2456611.1": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-11-14",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ANU 2,3m - WiFeS",
+        "Observer": "Unknown",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    },
     "SN2013fc_20131201_Gr11_Free_slit1.5_57002_1.dat": {
         "Type": "SN IIn-pec",
         "Redshift": "0.018",
@@ -320,6 +502,20 @@
         "Reduction Status": "final",
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
+    },
+    "sn2013fc_JD2456628.7": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2013-12-02",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Dennefeld, Lyman, Bersier",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
     },
     "SN2013fc_20140103_Gr13_Free_slit1.0_57003_1.dat": {
         "Type": "SN IIn-pec",
@@ -363,5 +559,18 @@
         "Last Modified": "2015-10-27",
         "Modified By": "ofer-UploadSet"
     },
-    "Private Spectra": "38"
+    "sn2013fc_JD2456661.6": {
+        "Type": "SN IIn-pec",
+        "Redshift": "0.018",
+        "Obs. Date": "2014-01-04",
+        "Program": "PESSTO",
+        "Contributor": "Kangas et al. 2016",
+        "Bibcode": "2016MNRAS.456..323K",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Le Guillou, Fleury, Leget",
+        "Reducer": "Kangas",
+        "Reduction Status": "final",
+        "Last Modified": "2015-12-29",
+        "Modified By": "ilanm"
+    }
 }
