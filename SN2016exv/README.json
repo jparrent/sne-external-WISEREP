@@ -1,0 +1,16 @@
+{
+    "tns_2016exv_2016-08-12_09-12-16_P60_SED-Machine.txt": {
+        "Type": "SN IIb",
+        "Redshift": "0.021218",
+        "Obs. Date": "2016-08-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM",
+        "Reducer": "Alison Dugas",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-12",
+        "Modified By": "upload-TNS"
+    }
+}

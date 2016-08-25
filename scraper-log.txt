@@ -5943,4 +5943,9 @@ From statement 1: ASASSN-14dp has no spectra to collect
 Removing duplicate spectrum for ASASSN-13co -- ASASSN-13co_20130919_wifes_B.dat
 Removing duplicate spectrum for ASASSN-13ch -- tASASSN-ch_20130829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for ASASSN-13ch
-Runtime: 10.822530833880107 minutes
+Runtime: 10.822530833880107 minutesPresumably no other duplicate files found for SN2014G
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016enp -- tAT2016enp_20160806_Gr11_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for SN2016enp -- tAT2016enp_20160806_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of SN2016enp at this time
+Runtime: 1.9294214884440104 minutesPresumably no other duplicate files found for SN2014G
+Runtime: 1.4181376735369364 minutesRuntime: 0.3557926654815674 minutesRuntime: 0.4614298105239868 minutesRuntime: 0.3880970279375712 minutesRuntime: 0.39145395358403523 minutesRuntime: 0.37695421775182086 minutesRuntime: 0.5054256041844686 minutes
