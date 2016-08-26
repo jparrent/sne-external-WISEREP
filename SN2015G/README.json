@@ -1,0 +1,58 @@
+{
+    "trim_ntt2015G_ftn_20150410_red_1.6_57123_1_e.ascii": {
+        "Type": "SN Ibn",
+        "Redshift": "0.005",
+        "Obs. Date": "2015-04-10",
+        "Program": "",
+        "Contributor": "Hosseinzadeh et al. 2016",
+        "Bibcode": "2016arXiv160801998H",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-24",
+        "Modified By": "ilanm"
+    },
+    "trim_ntt2015G_ftn_20150412_red_1.6_57125_1_e.ascii": {
+        "Type": "SN Ibn",
+        "Redshift": "0.005",
+        "Obs. Date": "2015-04-12",
+        "Program": "",
+        "Contributor": "Hosseinzadeh et al. 2016",
+        "Bibcode": "2016arXiv160801998H",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-24",
+        "Modified By": "ilanm"
+    },
+    "trim_nttSN2015G_ftn_20150419_red_1.6_57131_1_e.ascii": {
+        "Type": "SN Ibn",
+        "Redshift": "0.005",
+        "Obs. Date": "2015-04-19",
+        "Program": "",
+        "Contributor": "Hosseinzadeh et al. 2016",
+        "Bibcode": "2016arXiv160801998H",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-24",
+        "Modified By": "ilanm"
+    },
+    "trim_nttSN2015G_ftn_20150502_red_1.6_57144_1_e.ascii": {
+        "Type": "SN Ibn",
+        "Redshift": "0.005",
+        "Obs. Date": "2015-05-02",
+        "Program": "",
+        "Contributor": "Hosseinzadeh et al. 2016",
+        "Bibcode": "2016arXiv160801998H",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-24",
+        "Modified By": "ilanm"
+    }
+}

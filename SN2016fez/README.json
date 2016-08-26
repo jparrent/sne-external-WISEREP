@@ -1,0 +1,16 @@
+{
+    "tns_2016fez_2016-08-22.95_Ekar_AFOSC_Padova-Asiago.asc": {
+        "Type": "SN Ia",
+        "Redshift": "0.037",
+        "Obs. Date": "2016-08-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella/Benetti",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-23",
+        "Modified By": "upload-TNS"
+    }
+}
