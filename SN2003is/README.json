@@ -1,0 +1,30 @@
+{
+    "SN2003is_2003-10-16_other_1.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.018",
+        "Obs. Date": "2003-10-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003is_2003-10-21_other_2.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.018",
+        "Obs. Date": "2003-10-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

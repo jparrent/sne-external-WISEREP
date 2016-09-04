@@ -1,0 +1,44 @@
+{
+    "SN2006lu_2006-11-03_em_ntt_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.0481889",
+        "Obs. Date": "2006-11-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EMMI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006lu_2006-11-09_other_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.0481889",
+        "Obs. Date": "2006-11-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006lu_2006-11-16_wf_dup_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.0481889",
+        "Obs. Date": "2006-11-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

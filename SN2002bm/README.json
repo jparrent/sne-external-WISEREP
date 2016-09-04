@@ -1,0 +1,30 @@
+{
+    "SN2002bm_2002-03-09_other_1.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.018",
+        "Obs. Date": "2002-03-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002bm_2002-03-16_other_2.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.018",
+        "Obs. Date": "2002-03-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

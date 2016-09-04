@@ -1,0 +1,44 @@
+{
+    "SN2000dc_2000-08-26_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.010397",
+        "Obs. Date": "2000-08-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Douglas Leonard, Weidong Li",
+        "Reducer": "Douglas Leonard",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dc_2000-10-06_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.010397",
+        "Obs. Date": "2000-10-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dc_2000-10-24_kast_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.010397",
+        "Obs. Date": "2000-10-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

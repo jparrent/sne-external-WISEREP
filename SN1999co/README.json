@@ -1,0 +1,16 @@
+{
+    "SN1999co_1999-07-09_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.031",
+        "Obs. Date": "1999-07-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

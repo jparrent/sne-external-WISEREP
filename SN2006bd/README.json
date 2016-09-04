@@ -1,0 +1,16 @@
+{
+    "SN2006bd_2006-03-30_wf_dup_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.02572",
+        "Obs. Date": "2006-03-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "SN1999bg_1999-04-24_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.004253",
+        "Obs. Date": "1999-04-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Weidong Li, Maryam Modjaz",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

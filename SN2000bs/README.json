@@ -1,0 +1,30 @@
+{
+    "SN2000bs_2000-04-27_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.027976",
+        "Obs. Date": "2000-04-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Douglas Leonard",
+        "Reducer": "Douglas Leonard",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000bs_2000-06-27_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.027976",
+        "Obs. Date": "2000-06-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Alison Coil",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

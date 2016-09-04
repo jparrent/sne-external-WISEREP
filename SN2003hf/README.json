@@ -1,0 +1,44 @@
+{
+    "SN2003hf_2003-08-28_kast_1.ascii": {
+        "Type": "SN IIL",
+        "Redshift": "0.031",
+        "Obs. Date": "2003-08-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Filippenko/Foley/Serduke",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hf_2003-09-03_kast_2.ascii": {
+        "Type": "SN IIL",
+        "Redshift": "0.031",
+        "Obs. Date": "2003-09-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alison Coil, Alex Filippenko, Frank Serduke",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hf_2003-09-28_lris_3.ascii": {
+        "Type": "SN IIL",
+        "Redshift": "0.031",
+        "Obs. Date": "2003-09-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Filippenko, Chornock",
+        "Reducer": "Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

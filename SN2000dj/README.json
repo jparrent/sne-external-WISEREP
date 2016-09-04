@@ -1,0 +1,72 @@
+{
+    "SN2000dj_2000-09-26_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.015441",
+        "Obs. Date": "2000-09-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dj_2000-10-06_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.015441",
+        "Obs. Date": "2000-10-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dj_2000-10-24_kast_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.015441",
+        "Obs. Date": "2000-10-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dj_2000-11-01_kast_4.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.015441",
+        "Obs. Date": "2000-11-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Weidong Li",
+        "Reducer": "Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2000dj_2000-12-21_kast_5.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.015441",
+        "Obs. Date": "2000-12-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Chornock, Maryam Modjaz",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

@@ -266,3 +266,4 @@ ASASSN-14fi is a Varstar
 ASASSN-14fh is a CV
 ASASSN-14ae is a TDE
 V838-Mon is a ILRT
+SN2015bh is a SN impostor

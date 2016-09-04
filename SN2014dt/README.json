@@ -1,0 +1,16 @@
+{
+    "SN2014dt_2014-11-18_kast_1.ascii": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.0052",
+        "Obs. Date": "2014-11-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Mauerhan",
+        "Reducer": "Kelsey",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SN2007J_2007-01-21_kast_1.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.017",
+        "Obs. Date": "2007-01-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Ganesh, Steele",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007J_2007-01-21_lris_2.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.017",
+        "Obs. Date": "2007-01-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Filippenko, Foley, Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007J_2007-02-14_lris_3.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.017",
+        "Obs. Date": "2007-02-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Filippenko, Foley, Silverman, Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007J_2007-03-18_lris_4.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.017",
+        "Obs. Date": "2007-03-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Silverman, Chornock",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

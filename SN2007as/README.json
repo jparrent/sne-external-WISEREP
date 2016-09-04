@@ -1,0 +1,58 @@
+{
+    "SN2007as_2007-03-19_bc_dup_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.017896",
+        "Obs. Date": "2007-03-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - B&C-duPont",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007as_2007-03-26_bc_dup_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.017896",
+        "Obs. Date": "2007-03-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - B&C-duPont",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007as_2007-04-18_wf_dup_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.017896",
+        "Obs. Date": "2007-04-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007as_2007-04-30_bc_dup_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.017896",
+        "Obs. Date": "2007-04-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - B&C-duPont",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}

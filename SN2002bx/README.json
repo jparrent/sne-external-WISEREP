@@ -1,0 +1,58 @@
+{
+    "SN2002bx_2002-04-08_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0075",
+        "Obs. Date": "2002-04-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Weidong Li, Ryan Chornock",
+        "Reducer": "Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002bx_2002-04-20_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0075",
+        "Obs. Date": "2002-04-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Weidong Li, Ryan Chornock",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002bx_2002-05-07_kast_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0075",
+        "Obs. Date": "2002-05-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Weidong Li, Ryan Chornock",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002bx_2002-05-19_kast_4.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0075",
+        "Obs. Date": "2002-05-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Weidong Li, Ryan Chornock",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "admin-UploadSet"
+    }
+}
