@@ -10,10 +10,10 @@
         "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2002-11-06_esi_2.ascii": {
+    "SN2002hh_2002-11-06_esi_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2002-11-06",
@@ -24,10 +24,10 @@
         "Observer": "Filippenko, Chornock, Jha",
         "Reducer": "Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2002-11-08_lris_3.ascii": {
+    "SN2002hh_2002-11-08_lris_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2002-11-08",
@@ -38,10 +38,10 @@
         "Observer": "Filippenko, Chornock, Jha, Barris",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2002-11-09_esi_4.ascii": {
+    "SN2002hh_2002-11-09_esi_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2002-11-09",
@@ -52,10 +52,10 @@
         "Observer": "Filippenko, Chornock, Jha, Barris",
         "Reducer": "Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2002-11-11_lris_5.ascii": {
+    "SN2002hh_2002-11-11_lris_9.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2002-11-11",
@@ -66,10 +66,10 @@
         "Observer": "Filippenko, Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2002-12-12_kast_6.ascii": {
+    "SN2002hh_2002-12-12_kast_11.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2002-12-12",
@@ -80,10 +80,10 @@
         "Observer": "Ryan Foley, Marina Papenkova",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2003-04-08_kast_7.ascii": {
+    "SN2002hh_2003-04-08_kast_13.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2003-04-08",
@@ -94,10 +94,10 @@
         "Observer": "Ryan Foley, Marina Papenkova, Dan Weisz",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2003-10-02_kast_8.ascii": {
+    "SN2002hh_2003-10-02_kast_15.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2003-10-02",
@@ -108,10 +108,10 @@
         "Observer": "Filippenko, Foley",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2003-11-29_lris_9.ascii": {
+    "SN2002hh_2003-11-29_lris_17.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2003-11-29",
@@ -122,10 +122,10 @@
         "Observer": "Foley, Filippenko, Chornock",
         "Reducer": "Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002hh_2012-07-17_kast_10.ascii": {
+    "SN2002hh_2012-07-17_kast_19.ascii": {
         "Type": "SN II",
         "Redshift": "0.00015",
         "Obs. Date": "2012-07-17",
@@ -136,7 +136,7 @@
         "Observer": "Silverman, Cohen, Kelly",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

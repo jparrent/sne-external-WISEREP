@@ -1,5 +1,5 @@
 {
-    "SN2007ai_2007-03-10_im_baa_1.ascii": {
+    "SN2007ai_2007-03-10_imacs_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031987",
         "Obs. Date": "2007-03-10",
@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007ai_2007-03-12_im_baa_2.ascii": {
+    "SN2007ai_2007-03-12_imacs_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031987",
         "Obs. Date": "2007-03-12",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007ai_2007-03-14_bc_dup_3.ascii": {
+    "SN2007ai_2007-03-14_b_c-dupont_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031987",
         "Obs. Date": "2007-03-14",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007ai_2007-03-19_bc_dup_4.ascii": {
+    "SN2007ai_2007-03-19_b_c-dupont_7.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031987",
         "Obs. Date": "2007-03-19",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007ai_2007-03-26_bc_dup_5.ascii": {
+    "SN2007ai_2007-03-26_b_c-dupont_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031987",
         "Obs. Date": "2007-03-26",
@@ -66,7 +66,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

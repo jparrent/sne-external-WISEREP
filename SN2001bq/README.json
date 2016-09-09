@@ -10,10 +10,10 @@
         "Observer": "Douglas Leonard, Ryan Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001bq_2001-06-29_kast_2.ascii": {
+    "SN2001bq_2001-06-29_kast_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.008748",
         "Obs. Date": "2001-06-29",
@@ -24,10 +24,10 @@
         "Observer": "Ryan Chornock, Maryam Modjaz, Brandon Swift",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001bq_2001-07-16_kast_3.ascii": {
+    "SN2001bq_2001-07-16_kast_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.008748",
         "Obs. Date": "2001-07-16",
@@ -38,7 +38,7 @@
         "Observer": "Ryan Chornock, Maryam Modjaz",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

@@ -10,10 +10,10 @@
         "Observer": "Alex Filippenko, Alison Coil",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-06-27_kast_2.ascii": {
+    "SN2000cb_2000-06-27_kast_3.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-06-27",
@@ -24,10 +24,10 @@
         "Observer": "Alex Filippenko, Alison Coil",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-07-06_kast_3.ascii": {
+    "SN2000cb_2000-07-06_kast_5.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-07-06",
@@ -38,10 +38,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Maryam Modjaz",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-07-28_kast_4.ascii": {
+    "SN2000cb_2000-07-28_kast_7.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-07-28",
@@ -52,10 +52,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-08-26_kast_5.ascii": {
+    "SN2000cb_2000-08-26_kast_9.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-08-26",
@@ -66,10 +66,10 @@
         "Observer": "Douglas Leonard, Weidong Li",
         "Reducer": "Douglas Leonard",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-09-06_kast_6.ascii": {
+    "SN2000cb_2000-09-06_kast_11.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-09-06",
@@ -80,10 +80,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cb_2000-09-26_kast_7.ascii": {
+    "SN2000cb_2000-09-26_kast_13.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.0068",
         "Obs. Date": "2000-09-26",
@@ -94,7 +94,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

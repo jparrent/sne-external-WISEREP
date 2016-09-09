@@ -10,10 +10,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000dj_2000-10-06_kast_2.ascii": {
+    "SN2000dj_2000-10-06_kast_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.015441",
         "Obs. Date": "2000-10-06",
@@ -24,10 +24,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000dj_2000-10-24_kast_3.ascii": {
+    "SN2000dj_2000-10-24_kast_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.015441",
         "Obs. Date": "2000-10-24",
@@ -38,10 +38,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000dj_2000-11-01_kast_4.ascii": {
+    "SN2000dj_2000-11-01_kast_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.015441",
         "Obs. Date": "2000-11-01",
@@ -52,10 +52,10 @@
         "Observer": "Alex Filippenko, Weidong Li",
         "Reducer": "Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000dj_2000-12-21_kast_5.ascii": {
+    "SN2000dj_2000-12-21_kast_9.ascii": {
         "Type": "SN II",
         "Redshift": "0.015441",
         "Obs. Date": "2000-12-21",
@@ -66,7 +66,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Maryam Modjaz",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

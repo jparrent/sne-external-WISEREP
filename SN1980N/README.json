@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1980-12-13_other_2.ascii": {
+    "SN1980N_1980-12-13_other_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1980-12-13",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1980-12-16_other_3.ascii": {
+    "SN1980N_1980-12-16_other_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1980-12-16",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1980-12-17_other_4.ascii": {
+    "SN1980N_1980-12-17_other_7.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1980-12-17",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1980-12-23_other_5.ascii": {
+    "SN1980N_1980-12-23_other_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1980-12-23",
@@ -66,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1980-12-24_other_6.ascii": {
+    "SN1980N_1980-12-24_other_11.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1980-12-24",
@@ -80,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1980N_1981-01-16_other_7.ascii": {
+    "SN1980N_1981-01-16_other_13.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.005871",
         "Obs. Date": "1981-01-16",
@@ -94,7 +94,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

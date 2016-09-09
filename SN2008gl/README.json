@@ -1,5 +1,5 @@
 {
-    "SN2008gl_2008-10-27_wf_dup_1.ascii": {
+    "SN2008gl_2008-10-27_wfccd_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.034017",
         "Obs. Date": "2008-10-27",
@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008gl_2008-11-02_im_baa_2.ascii": {
+    "SN2008gl_2008-11-02_imacs_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.034017",
         "Obs. Date": "2008-11-02",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008gl_2008-11-25_wf_dup_4.ascii": {
+    "SN2008gl_2008-11-25_wfccd_6.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.034017",
         "Obs. Date": "2008-11-25",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008gl_2008-12-18_other_5.ascii": {
+    "SN2008gl_2008-12-18_other_8.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.034017",
         "Obs. Date": "2008-12-18",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008gl_2008-12-24_wf_dup_6.ascii": {
+    "SN2008gl_2008-12-24_wfccd_10.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.034017",
         "Obs. Date": "2008-12-24",
@@ -66,7 +66,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

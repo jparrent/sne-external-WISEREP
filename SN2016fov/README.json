@@ -1,0 +1,16 @@
+{
+    "tns_2016fov_2016-09-03_05-06-03_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia-pec",
+        "Redshift": "0.036",
+        "Obs. Date": "2016-09-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-05",
+        "Modified By": "upload-TNS"
+    }
+}

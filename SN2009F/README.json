@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-01-09_ef_ntt_2.ascii": {
+    "SN2009F_2009-01-09_efosc2-ntt_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-01-09",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-01-10_gm_gem_3.ascii": {
+    "SN2009F_2009-01-10_gmos_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-01-10",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-01-12_gm_gem_4.ascii": {
+    "SN2009F_2009-01-12_gmos_7.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-01-12",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-02-09_ef_ntt_5.ascii": {
+    "SN2009F_2009-02-09_efosc2-ntt_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-02-09",
@@ -66,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-02-14_im_baa_7.ascii": {
+    "SN2009F_2009-02-14_imacs_11.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-02-14",
@@ -80,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009F_2009-02-25_wf_dup_8.ascii": {
+    "SN2009F_2009-02-25_wfccd_14.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.012909",
         "Obs. Date": "2009-02-25",
@@ -94,7 +94,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

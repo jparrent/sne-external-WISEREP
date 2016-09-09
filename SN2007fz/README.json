@@ -10,10 +10,10 @@
         "Observer": "Serduke, Xiaofeng, Filippenko",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007fz_2007-08-07_kast_2.ascii": {
+    "SN2007fz_2007-08-07_kast_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.014",
         "Obs. Date": "2007-08-07",
@@ -24,10 +24,10 @@
         "Observer": "Silverman, Xiaofeng",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007fz_2007-08-14_kast_3.ascii": {
+    "SN2007fz_2007-08-14_kast_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.014",
         "Obs. Date": "2007-08-14",
@@ -38,10 +38,10 @@
         "Observer": "Ganesh, Serduke",
         "Reducer": "Thea Steele",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2007fz_2007-08-21_kast_4.ascii": {
+    "SN2007fz_2007-08-21_kast_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.014",
         "Obs. Date": "2007-08-21",
@@ -52,7 +52,7 @@
         "Observer": "Xiaofeng, Serduke",
         "Reducer": "Thea Steele",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

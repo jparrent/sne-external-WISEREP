@@ -10,10 +10,10 @@
         "Observer": "Ryan Chornock",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001hg_2002-01-14_kast_2.ascii": {
+    "SN2001hg_2002-01-14_kast_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.0086",
         "Obs. Date": "2002-01-14",
@@ -24,10 +24,10 @@
         "Observer": "Li, Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001hg_2002-02-11_kast_3.ascii": {
+    "SN2001hg_2002-02-11_kast_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.0086",
         "Obs. Date": "2002-02-11",
@@ -38,10 +38,10 @@
         "Observer": "Alex Filippenko, Ryan Chornock",
         "Reducer": "Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001hg_2002-02-21_kast_4.ascii": {
+    "SN2001hg_2002-02-21_kast_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.0086",
         "Obs. Date": "2002-02-21",
@@ -52,7 +52,7 @@
         "Observer": "Weidong Li, Ryan Chornock",
         "Reducer": "Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

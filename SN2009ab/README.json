@@ -1,5 +1,5 @@
 {
-    "SN2009ab_2009-02-11_im_baa_1.ascii": {
+    "SN2009ab_2009-02-11_imacs_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.01087",
         "Obs. Date": "2009-02-11",
@@ -10,24 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009ab_2009-02-11_im_baa_2.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.01087",
-        "Obs. Date": "2009-02-11",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Magellan-Baade - IMACS",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2009ab_2009-02-14_im_baa_3.ascii": {
+    "SN2009ab_2009-02-14_imacs_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.01087",
         "Obs. Date": "2009-02-14",
@@ -38,24 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009ab_2009-02-14_im_baa_4.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.01087",
-        "Obs. Date": "2009-02-14",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Magellan-Baade - IMACS",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2009ab_2009-02-15_im_baa_5.ascii": {
+    "SN2009ab_2009-02-15_imacs_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.01087",
         "Obs. Date": "2009-02-15",
@@ -66,24 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009ab_2009-02-15_im_baa_6.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.01087",
-        "Obs. Date": "2009-02-15",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Magellan-Baade - IMACS",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2009ab_2009-02-24_wf_dup_7.ascii": {
+    "SN2009ab_2009-02-24_wfccd_13.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.01087",
         "Obs. Date": "2009-02-24",
@@ -94,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2009ab_2009-02-26_wf_dup_8.ascii": {
+    "SN2009ab_2009-02-26_wfccd_15.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.01087",
         "Obs. Date": "2009-02-26",
@@ -108,7 +66,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

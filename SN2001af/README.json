@@ -10,49 +10,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2001af_2001-03-23_other_2.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.029",
-        "Obs. Date": "2001-03-23",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2001af_2001-03-25_other_3.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.029",
-        "Obs. Date": "2001-03-25",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2001af_2001-03-25_other_4.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.029",
-        "Obs. Date": "2001-03-25",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
     "SN2001af_2001-03-25_other_5.ascii": {
@@ -66,38 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2001af_2001-03-25_other_6.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.029",
-        "Obs. Date": "2001-03-25",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2001af_2001-03-25_other_7.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.029",
-        "Obs. Date": "2001-03-25",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2001af_2001-03-26_other_8.ascii": {
+    "SN2001af_2001-03-26_other_15.ascii": {
         "Type": "SN II",
         "Redshift": "0.029",
         "Obs. Date": "2001-03-26",
@@ -108,7 +38,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

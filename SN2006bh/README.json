@@ -1,5 +1,5 @@
 {
-    "SN2006bh_2006-04-16_im_baa_1.ascii": {
+    "SN2006bh_2006-04-16_imacs_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.010493",
         "Obs. Date": "2006-04-16",
@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006bh_2006-04-24_wf_dup_2.ascii": {
+    "SN2006bh_2006-04-24_wfccd_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.010493",
         "Obs. Date": "2006-04-24",
@@ -24,7 +24,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

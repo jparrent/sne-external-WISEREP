@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000cr_2000-07-02_other_2.ascii": {
+    "SN2000cr_2000-07-02_other_3.ascii": {
         "Type": "SN Ic",
         "Redshift": "0.012",
         "Obs. Date": "2000-07-02",
@@ -24,7 +24,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

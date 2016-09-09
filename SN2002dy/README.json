@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002dy_2002-07-12_other_2.ascii": {
+    "SN2002dy_2002-07-12_other_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.033",
         "Obs. Date": "2002-07-12",
@@ -24,7 +24,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

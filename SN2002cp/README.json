@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002cp_2002-05-04_other_2.ascii": {
+    "SN2002cp_2002-05-04_other_3.ascii": {
         "Type": "SN Ib/c",
         "Redshift": "0.017",
         "Obs. Date": "2002-05-04",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002cp_2002-05-06_other_3.ascii": {
+    "SN2002cp_2002-05-06_other_5.ascii": {
         "Type": "SN Ib/c",
         "Redshift": "0.017",
         "Obs. Date": "2002-05-06",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002cp_2002-05-12_other_4.ascii": {
+    "SN2002cp_2002-05-12_other_7.ascii": {
         "Type": "SN Ib/c",
         "Redshift": "0.017",
         "Obs. Date": "2002-05-12",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002cp_2002-05-14_other_5.ascii": {
+    "SN2002cp_2002-05-14_other_9.ascii": {
         "Type": "SN Ib/c",
         "Redshift": "0.017",
         "Obs. Date": "2002-05-14",
@@ -66,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2002cp_2002-05-18_other_6.ascii": {
+    "SN2002cp_2002-05-18_other_11.ascii": {
         "Type": "SN Ib/c",
         "Redshift": "0.017",
         "Obs. Date": "2002-05-18",
@@ -80,7 +80,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

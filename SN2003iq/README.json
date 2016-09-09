@@ -10,10 +10,10 @@
         "Observer": "Filippenko, Jha, Chornock",
         "Reducer": "Thea Steele",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2003iq_2003-10-28_kast_2.ascii": {
+    "SN2003iq_2003-10-28_kast_3.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.00734",
         "Obs. Date": "2003-10-28",
@@ -24,10 +24,10 @@
         "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2003iq_2003-11-23_kast_3.ascii": {
+    "SN2003iq_2003-11-23_kast_5.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.00734",
         "Obs. Date": "2003-11-23",
@@ -38,10 +38,10 @@
         "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2003iq_2004-01-17_kast_4.ascii": {
+    "SN2003iq_2004-01-17_kast_7.ascii": {
         "Type": "SN IIP",
         "Redshift": "0.00734",
         "Obs. Date": "2004-01-17",
@@ -52,7 +52,7 @@
         "Observer": "Ryan Foley, Frank Serduke",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

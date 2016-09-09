@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1995ab_1995-10-28_other_2.ascii": {
+    "SN1995ab_1995-10-28_other_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.019",
         "Obs. Date": "1995-10-28",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1995ab_1995-11-18_other_3.ascii": {
+    "SN1995ab_1995-11-18_other_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.019",
         "Obs. Date": "1995-11-18",
@@ -38,7 +38,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

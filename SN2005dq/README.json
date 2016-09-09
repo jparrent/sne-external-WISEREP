@@ -10,21 +10,7 @@
         "Observer": "Moore,Serduke",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2005dq_2005-09-11_kast_2.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.022",
-        "Obs. Date": "2005-09-11",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Lick 3m - KAST",
-        "Observer": "Serduke, Wong, Shimasaki",
-        "Reducer": "Jeffrey Silverman",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
     "SN2005dq_2005-09-11_kast_3.ascii": {
@@ -38,10 +24,10 @@
         "Observer": "Serduke, Wong, Shimasaki",
         "Reducer": "Jeffrey Silverman",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005dq_2005-11-08_deimos_4.ascii": {
+    "SN2005dq_2005-11-08_deimos_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.022",
         "Obs. Date": "2005-11-08",
@@ -52,21 +38,7 @@
         "Observer": "Foley, Filippenko",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2005dq_2005-11-08_deimos_5.ascii": {
-        "Type": "SN II",
-        "Redshift": "0.022",
-        "Obs. Date": "2005-11-08",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Keck2 - DEIMOS",
-        "Observer": "Foley, Filippenko",
-        "Reducer": "Ryan Foley",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

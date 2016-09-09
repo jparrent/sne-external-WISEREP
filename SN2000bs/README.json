@@ -10,10 +10,10 @@
         "Observer": "Alex Filippenko, Douglas Leonard",
         "Reducer": "Douglas Leonard",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2000bs_2000-06-27_kast_2.ascii": {
+    "SN2000bs_2000-06-27_kast_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.027976",
         "Obs. Date": "2000-06-27",
@@ -24,7 +24,7 @@
         "Observer": "Alex Filippenko, Alison Coil",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

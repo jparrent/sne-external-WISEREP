@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-14_other_2.ascii": {
+    "SN1992A_1992-01-14_other_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-14",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-16_other_3.ascii": {
+    "SN1992A_1992-01-16_other_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-16",
@@ -38,24 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-16_other_4.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.00421",
-        "Obs. Date": "1992-01-16",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN1992A_1992-01-19_other_5.ascii": {
+    "SN1992A_1992-01-19_other_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-19",
@@ -66,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-20_other_6.ascii": {
+    "SN1992A_1992-01-20_other_11.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-20",
@@ -80,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-21_other_7.ascii": {
+    "SN1992A_1992-01-21_other_13.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-21",
@@ -94,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-22_other_8.ascii": {
+    "SN1992A_1992-01-22_other_15.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-22",
@@ -108,10 +94,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-23_other_9.ascii": {
+    "SN1992A_1992-01-23_other_17.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-23",
@@ -122,10 +108,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-24_other_10.ascii": {
+    "SN1992A_1992-01-24_other_19.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-24",
@@ -136,24 +122,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-24_other_11.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.00421",
-        "Obs. Date": "1992-01-24",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN1992A_1992-01-26_other_12.ascii": {
+    "SN1992A_1992-01-26_other_23.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-26",
@@ -164,10 +136,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-27_other_13.ascii": {
+    "SN1992A_1992-01-27_other_25.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-27",
@@ -178,10 +150,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-28_other_14.ascii": {
+    "SN1992A_1992-01-28_other_27.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-28",
@@ -192,10 +164,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-01-30_other_15.ascii": {
+    "SN1992A_1992-01-30_other_29.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-01-30",
@@ -206,10 +178,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-02_other_16.ascii": {
+    "SN1992A_1992-02-02_other_31.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-02",
@@ -220,10 +192,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-03_other_17.ascii": {
+    "SN1992A_1992-02-03_other_33.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-03",
@@ -234,10 +206,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-04_other_18.ascii": {
+    "SN1992A_1992-02-04_other_35.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-04",
@@ -248,10 +220,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-10_other_19.ascii": {
+    "SN1992A_1992-02-10_other_37.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-10",
@@ -262,24 +234,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-10_other_20.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.00421",
-        "Obs. Date": "1992-02-10",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "Other - Other",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN1992A_1992-02-14_other_21.ascii": {
+    "SN1992A_1992-02-14_other_41.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-14",
@@ -290,10 +248,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-02-23_other_22.ascii": {
+    "SN1992A_1992-02-23_other_43.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-02-23",
@@ -304,10 +262,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-03-03_other_23.ascii": {
+    "SN1992A_1992-03-03_other_45.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-03-03",
@@ -318,10 +276,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-03-04_other_24.ascii": {
+    "SN1992A_1992-03-04_other_47.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-03-04",
@@ -332,10 +290,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-04-02_other_25.ascii": {
+    "SN1992A_1992-04-02_other_49.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-04-02",
@@ -346,10 +304,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1992A_1992-11-05_other_26.ascii": {
+    "SN1992A_1992-11-05_other_51.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.00421",
         "Obs. Date": "1992-11-05",
@@ -360,7 +318,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

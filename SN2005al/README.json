@@ -1,5 +1,5 @@
 {
-    "SN2005al_2005-03-15_wf_dup_1.ascii": {
+    "SN2005al_2005-03-15_wfccd_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-03-15",
@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-03-19_wf_dup_2.ascii": {
+    "SN2005al_2005-03-19_wfccd_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-03-19",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-03-24_ms_dup_3.ascii": {
+    "SN2005al_2005-03-24_mod-spec_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-03-24",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-04-07_wf_dup_4.ascii": {
+    "SN2005al_2005-04-07_wfccd_7.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-04-07",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-04-12_wf_dup_5.ascii": {
+    "SN2005al_2005-04-12_wfccd_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-04-12",
@@ -66,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-04-15_wf_dup_6.ascii": {
+    "SN2005al_2005-04-15_wfccd_11.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-04-15",
@@ -80,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2005al_2005-04-19_wf_dup_7.ascii": {
+    "SN2005al_2005-04-19_wfccd_13.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.0124",
         "Obs. Date": "2005-04-19",
@@ -94,7 +94,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

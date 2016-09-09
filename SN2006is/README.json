@@ -1,5 +1,5 @@
 {
-    "SN2006is_2006-10-01_im_baa_1.ascii": {
+    "SN2006is_2006-10-01_imacs_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-01",
@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-05_em_ntt_2.ascii": {
+    "SN2006is_2006-10-05_emmi_3.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-05",
@@ -24,38 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-05_em_ntt_3.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.031421",
-        "Obs. Date": "2006-10-05",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2006is_2006-10-05_em_ntt_4.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.031421",
-        "Obs. Date": "2006-10-05",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2006is_2006-10-09_other_5.ascii": {
+    "SN2006is_2006-10-09_other_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-09",
@@ -66,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-10_wf_dup_6.ascii": {
+    "SN2006is_2006-10-10_wfccd_11.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-10",
@@ -80,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-11_wf_dup_7.ascii": {
+    "SN2006is_2006-10-11_wfccd_13.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-11",
@@ -94,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-13_wf_dup_8.ascii": {
+    "SN2006is_2006-10-13_wfccd_15.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-13",
@@ -108,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-17_other_9.ascii": {
+    "SN2006is_2006-10-17_other_17.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-17",
@@ -122,10 +94,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-19_other_10.ascii": {
+    "SN2006is_2006-10-19_other_19.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-19",
@@ -136,10 +108,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-10-22_other_11.ascii": {
+    "SN2006is_2006-10-22_other_21.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-10-22",
@@ -150,10 +122,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-03_em_ntt_12.ascii": {
+    "SN2006is_2006-11-03_emmi_23.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-03",
@@ -164,38 +136,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-03_em_ntt_13.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.031421",
-        "Obs. Date": "2006-11-03",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2006is_2006-11-03_em_ntt_14.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.031421",
-        "Obs. Date": "2006-11-03",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2006is_2006-11-04_other_15.ascii": {
+    "SN2006is_2006-11-04_other_29.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-04",
@@ -206,10 +150,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-05_other_16.ascii": {
+    "SN2006is_2006-11-05_other_31.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-05",
@@ -220,10 +164,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-07_other_17.ascii": {
+    "SN2006is_2006-11-07_other_33.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-07",
@@ -234,10 +178,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-09_other_18.ascii": {
+    "SN2006is_2006-11-09_other_35.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-09",
@@ -248,10 +192,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2006is_2006-11-16_wf_dup_19.ascii": {
+    "SN2006is_2006-11-16_wfccd_37.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.031421",
         "Obs. Date": "2006-11-16",
@@ -262,7 +206,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

@@ -10,7 +10,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
     "sn1983N_Ib-norm_4_V_z.dat": {
@@ -27,7 +27,7 @@
         "Last Modified": "2016-08-30",
         "Modified By": "ilanm-UploadSet"
     },
-    "SN1983N_1983-07-25_other_2.ascii": {
+    "SN1983N_1983-07-25_other_4.ascii": {
         "Type": "SN Ib",
         "Redshift": "0.00171",
         "Obs. Date": "1983-07-25",
@@ -38,7 +38,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
     "sn1983N_Ib-norm_12_V_z.dat": {

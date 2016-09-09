@@ -10,7 +10,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
     "SN2004C_2004-01-18_other_3.ascii": {
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2004C_2004-01-19_other_4.ascii": {
+    "SN2004C_2004-01-19_other_6.ascii": {
         "Type": "SN Ic",
         "Redshift": "0.0057",
         "Obs. Date": "2004-01-19",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2004C_2004-03-17_other_5.ascii": {
+    "SN2004C_2004-03-17_other_8.ascii": {
         "Type": "SN Ic",
         "Redshift": "0.0057",
         "Obs. Date": "2004-03-17",
@@ -52,7 +52,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

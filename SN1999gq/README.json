@@ -10,10 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-01-04_other_2.ascii": {
+    "SN1999gq_2000-01-04_other_3.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-01-04",
@@ -24,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-01-07_other_3.ascii": {
+    "SN1999gq_2000-01-07_other_5.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-01-07",
@@ -38,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-01-11_other_4.ascii": {
+    "SN1999gq_2000-01-11_other_7.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-01-11",
@@ -52,10 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-01-13_other_5.ascii": {
+    "SN1999gq_2000-01-13_other_9.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-01-13",
@@ -66,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-02-26_other_6.ascii": {
+    "SN1999gq_2000-02-26_other_11.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-02-26",
@@ -80,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-03-04_other_7.ascii": {
+    "SN1999gq_2000-03-04_other_13.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-03-04",
@@ -94,10 +94,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN1999gq_2000-05-26_other_8.ascii": {
+    "SN1999gq_2000-05-26_other_15.ascii": {
         "Type": "SN II",
         "Redshift": "0.00085",
         "Obs. Date": "2000-05-26",
@@ -108,7 +108,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "SN2008bc_2008-03-14_ef_3p6_1.ascii": {
+    "SN2008bc_2008-03-14_efosc2-3.6_1.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-03-14",
@@ -10,24 +10,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-03-14_ef_3p6_2.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.015707",
-        "Obs. Date": "2008-03-14",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-3.6m - EFOSC2-3.6",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2008bc_2008-03-19_other_3.ascii": {
+    "SN2008bc_2008-03-19_other_5.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-03-19",
@@ -38,10 +24,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-03-20_other_4.ascii": {
+    "SN2008bc_2008-03-20_other_7.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-03-20",
@@ -52,10 +38,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-03-28_em_ntt_5.ascii": {
+    "SN2008bc_2008-03-28_emmi_9.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-03-28",
@@ -66,38 +52,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-03-28_em_ntt_6.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.015707",
-        "Obs. Date": "2008-03-28",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2008bc_2008-03-28_em_ntt_7.ascii": {
-        "Type": "SN Ia",
-        "Redshift": "0.015707",
-        "Obs. Date": "2008-03-28",
-        "Program": "",
-        "Contributor": "",
-        "Bibcode": "",
-        "Instrument": "ESO-NTT - EMMI",
-        "Observer": "Unknown",
-        "Reducer": "Unknown",
-        "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
-        "Modified By": "admin-UploadSet"
-    },
-    "SN2008bc_2008-03-31_wf_dup_8.ascii": {
+    "SN2008bc_2008-03-31_wfccd_15.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-03-31",
@@ -108,10 +66,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-04-07_wf_dup_9.ascii": {
+    "SN2008bc_2008-04-07_wfccd_17.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-04-07",
@@ -122,10 +80,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-04-12_wf_dup_10.ascii": {
+    "SN2008bc_2008-04-12_wfccd_19.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-04-12",
@@ -136,10 +94,10 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     },
-    "SN2008bc_2008-04-29_wf_dup_11.ascii": {
+    "SN2008bc_2008-04-29_wfccd_21.ascii": {
         "Type": "SN Ia",
         "Redshift": "0.015707",
         "Obs. Date": "2008-04-29",
@@ -150,7 +108,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-08-31",
+        "Last Modified": "2016-09-05",
         "Modified By": "admin-UploadSet"
     }
 }
