@@ -10,7 +10,7 @@
         "Observer": "Alex Filippenko, Adam Riess, Douglas Leonard",
         "Reducer": "Alison Coil",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN1999D_1999-01-18_other_2.ascii": {
@@ -24,7 +24,7 @@
         "Observer": "Unknown",
         "Reducer": "Unknown",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN1999D_1999-02-12_kast_5.ascii": {
@@ -38,7 +38,7 @@
         "Observer": "Alex Filippenko, Weidong Li, Douglas Leonard",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN1999D_1999-02-23_kast_7.ascii": {
@@ -52,7 +52,7 @@
         "Observer": "Alex Filippenko, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN1999D_1999-03-12_kast_9.ascii": {
@@ -66,7 +66,7 @@
         "Observer": "Alex Filippenko, Weidong Li, Thomas Matheson",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     }
 }

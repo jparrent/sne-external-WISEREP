@@ -268,3 +268,5 @@ ASASSN-14ae is a TDE
 V838-Mon is a ILRT
 SN2015bh is a SN impostor
 CSS160904-224104+050529 is a CV
+OGLE16cza is a Varstar
+ASASSN-16kd is a Nova

@@ -10,7 +10,7 @@
         "Observer": "Filippenko, Jha, Chornock",
         "Reducer": "Thea Steele",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2003iq_2003-10-28_kast_3.ascii": {
@@ -24,7 +24,7 @@
         "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2003iq_2003-11-23_kast_5.ascii": {
@@ -38,7 +38,7 @@
         "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2003iq_2004-01-17_kast_7.ascii": {
@@ -52,7 +52,7 @@
         "Observer": "Ryan Foley, Frank Serduke",
         "Reducer": "Ryan Foley",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     }
 }

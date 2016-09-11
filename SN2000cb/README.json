@@ -10,7 +10,7 @@
         "Observer": "Alex Filippenko, Alison Coil",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-06-27_kast_3.ascii": {
@@ -24,7 +24,7 @@
         "Observer": "Alex Filippenko, Alison Coil",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-07-06_kast_5.ascii": {
@@ -38,7 +38,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Maryam Modjaz",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-07-28_kast_7.ascii": {
@@ -52,7 +52,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-08-26_kast_9.ascii": {
@@ -66,7 +66,7 @@
         "Observer": "Douglas Leonard, Weidong Li",
         "Reducer": "Douglas Leonard",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-09-06_kast_11.ascii": {
@@ -80,7 +80,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     },
     "SN2000cb_2000-09-26_kast_13.ascii": {
@@ -94,7 +94,7 @@
         "Observer": "Alex Filippenko, Ryan Chornock, Weidong Li",
         "Reducer": "Ryan Chornock",
         "Reduction Status": "final",
-        "Last Modified": "2016-09-05",
+        "Last Modified": "2016-09-08",
         "Modified By": "admin-UploadSet"
     }
 }
