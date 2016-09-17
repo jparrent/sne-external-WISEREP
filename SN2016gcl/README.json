@@ -1,0 +1,30 @@
+{
+    "tns_2016gcl_2016-09-08.852_Ekar_AFOSC_Padova-Asiago.ascii": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.028",
+        "Obs. Date": "2016-09-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Benetti",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-09",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2016gcl_2016-09-09_01-10-33_LT_SPRAT_ASAS-SN.dat": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.028",
+        "Obs. Date": "2016-09-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "Bersier",
+        "Reducer": "Bersier",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-09",
+        "Modified By": "upload-TNS"
+    }
+}
