@@ -1,0 +1,44 @@
+{
+    "SN2003kb_2003-11-20_other_1.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.017",
+        "Obs. Date": "2003-11-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003kb_2003-11-21_other_3.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.017",
+        "Obs. Date": "2003-11-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003kb_2003-11-22_other_5.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.017",
+        "Obs. Date": "2003-11-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

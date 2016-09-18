@@ -1,0 +1,58 @@
+{
+    "SN2007fz_2007-07-20_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2007-07-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Serduke, Xiaofeng, Filippenko",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007fz_2007-08-07_kast_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2007-08-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Silverman, Xiaofeng",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007fz_2007-08-14_kast_5.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2007-08-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Ganesh, Serduke",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007fz_2007-08-21_kast_7.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2007-08-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Xiaofeng, Serduke",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

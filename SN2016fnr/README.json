@@ -1,0 +1,16 @@
+{
+    "tns_2016fnr_2016-08-30.51_BAO-2.16m_Phot-spec.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.014367",
+        "Obs. Date": "2016-08-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Jia Junjun",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2016-08-31",
+        "Modified By": "upload-TNS"
+    }
+}

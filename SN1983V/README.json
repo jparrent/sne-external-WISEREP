@@ -1,0 +1,58 @@
+{
+    "SN1983V_1983-11-15_other_1.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.0055",
+        "Obs. Date": "1983-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN1983V_1983-12-06_other_3.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.0055",
+        "Obs. Date": "1983-12-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN1983V_1983-12-12_other_5.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.0055",
+        "Obs. Date": "1983-12-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN1983V_1984-01-01_other_7.ascii": {
+        "Type": "SN Ic",
+        "Redshift": "0.0055",
+        "Obs. Date": "1984-01-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

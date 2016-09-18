@@ -1,0 +1,30 @@
+{
+    "SN2005gk_2005-10-10_other_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "",
+        "Obs. Date": "2005-10-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2005gk_2005-10-11_other_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "",
+        "Obs. Date": "2005-10-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

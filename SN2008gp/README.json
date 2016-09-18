@@ -1,0 +1,44 @@
+{
+    "SN2008gp_2008-11-02_imacs_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.032824",
+        "Obs. Date": "2008-11-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gp_2008-11-24_wfccd_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.032824",
+        "Obs. Date": "2008-11-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gp_2008-12-22_wfccd_6.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.032824",
+        "Obs. Date": "2008-12-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

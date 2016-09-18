@@ -1,0 +1,44 @@
+{
+    "SN2005ku_2005-11-22_other_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.045248",
+        "Obs. Date": "2005-11-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2005ku_2005-11-25_mod-spec_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.045248",
+        "Obs. Date": "2005-11-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - Mod-spec",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2005ku_2005-12-24_wfccd_5.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.045248",
+        "Obs. Date": "2005-12-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

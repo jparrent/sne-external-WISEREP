@@ -1,0 +1,30 @@
+{
+    "SN2006bh_2006-04-16_imacs_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.010493",
+        "Obs. Date": "2006-04-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006bh_2006-04-24_wfccd_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.010493",
+        "Obs. Date": "2006-04-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

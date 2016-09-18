@@ -1,0 +1,72 @@
+{
+    "SN2003hl_2003-08-28_kast_1.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.00734",
+        "Obs. Date": "2003-08-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Filippenko/Foley/Serduke",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hl_2003-10-23_kast_3.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.00734",
+        "Obs. Date": "2003-10-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Filippenko, Jha, Chornock",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hl_2003-10-28_kast_5.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.00734",
+        "Obs. Date": "2003-10-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hl_2003-11-23_kast_7.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.00734",
+        "Obs. Date": "2003-11-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Ryan Foley, Brandon Swift",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2003hl_2004-01-17_kast_9.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.00734",
+        "Obs. Date": "2004-01-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Ryan Foley, Frank Serduke",
+        "Reducer": "Ryan Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}

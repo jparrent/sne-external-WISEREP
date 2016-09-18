@@ -1,0 +1,72 @@
+{
+    "SN2008gl_2008-10-27_wfccd_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.034017",
+        "Obs. Date": "2008-10-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gl_2008-11-02_imacs_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.034017",
+        "Obs. Date": "2008-11-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gl_2008-11-25_wfccd_6.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.034017",
+        "Obs. Date": "2008-11-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gl_2008-12-18_other_8.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.034017",
+        "Obs. Date": "2008-12-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2008gl_2008-12-24_wfccd_10.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.034017",
+        "Obs. Date": "2008-12-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    }
+}
